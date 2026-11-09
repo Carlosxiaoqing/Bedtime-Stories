@@ -1,0 +1,118 @@
+{
+  "schema_version": 1,
+  "updated_on": "2026-11-09",
+  "timezone": "Asia/Shanghai",
+  "status": "production_defaults_first_visual_sample_not_reviewed",
+  "applies_to": "new_episodes_and_explicit_revisions",
+  "implementation_status": "declarative_style_only_renderer_not_imported",
+  "canvas": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 25
+  },
+  "cover": {
+    "template": "bedtime-cover-v1",
+    "editable_template": "docs/production/templates/cover-template.svg",
+    "count": 1,
+    "included_in_story_shot_count": false,
+    "format": "PNG",
+    "color_space": "sRGB",
+    "title_hanzi_preferred": [
+      4,
+      6
+    ],
+    "title_hanzi_allowed": [
+      2,
+      8
+    ],
+    "max_lines": 2,
+    "max_hanzi_per_line": 4,
+    "font": "Noto Sans CJK SC",
+    "weight": "Bold",
+    "size_px": 112,
+    "line_height_px": 132,
+    "text_color": "#182232",
+    "card": {
+      "x": 108,
+      "y": 1140,
+      "width": 864,
+      "height": 440,
+      "radius": 48,
+      "fill": "#FFF4DC",
+      "opacity": 0.94
+    },
+    "title_center_x": 540,
+    "title_top_y_single": 1320,
+    "title_top_y_two": [
+      1260,
+      1392
+    ],
+    "series_name": "晚安绘本馆",
+    "series_name_top_y": 1180,
+    "series_name_size_px": 36
+  },
+  "subtitles": {
+    "template": "bedtime-ruby-v1",
+    "burn_into_release_video": true,
+    "retain_clean_master": true,
+    "hanzi_font": "Noto Sans CJK SC",
+    "hanzi_weight": "Medium",
+    "hanzi_size_px": 64,
+    "pinyin_font": "Noto Sans",
+    "pinyin_weight": "Medium",
+    "pinyin_size_px": 30,
+    "text_color": "#FFF4DC",
+    "outline_color": "#182232",
+    "hanzi_outline_px": 2,
+    "pinyin_outline_px": 1,
+    "minimum_cell_width_px": 88,
+    "cell_padding_px": 16,
+    "max_content_width_px": 840,
+    "preferred_hanzi_per_cue": [
+      6,
+      9
+    ],
+    "max_groups": 2,
+    "group_height_px": 112,
+    "pinyin_line_box_height_px": 36,
+    "gap_px": 8,
+    "hanzi_line_box_height_px": 68,
+    "single_group_tops_y": [
+      1510,
+      1554
+    ],
+    "double_group_tops_y": [
+      [
+        1398,
+        1442
+      ],
+      [
+        1510,
+        1554
+      ]
+    ],
+    "plate": {
+      "x": 96,
+      "width": 888,
+      "single_y": 1490,
+      "single_height": 152,
+      "double_y": 1378,
+      "double_height": 264,
+      "radius": 24,
+      "fill": "#182232",
+      "opacity": 0.72
+    },
+    "tone_style": "unicode_diacritics_NFC",
+    "neutral_tone": "unmarked",
+    "sandhi": "yi_bu_spoken_tone_third_tone_dictionary_form",
+    "punctuation_pinyin": "",
+    "erhua": "previous_syllable_r_and_er_token_r_with_link",
+    "manual_pronunciation_review_required": true,
+    "deliverables": [
+      "episode.ass",
+      "episode.srt",
+      "subtitles.ruby.json"
+    ],
+    "spec": "docs/production/SUBTITLE_SPEC.md"
+  }
+}
