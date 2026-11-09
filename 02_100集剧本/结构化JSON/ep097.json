@@ -1,0 +1,191 @@
+{
+  "schema_version": 2,
+  "id": "ep097",
+  "episode": 97,
+  "title": "小屋里的轻声晚安",
+  "theme": "用温柔仪式结束一天",
+  "setting": "小木屋卧室",
+  "guest": "无",
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "约90–120秒；以实际配音为准",
+  "cn_characters": 238,
+  "initial_duration_budget_s": 97.6,
+  "shots": [
+    {
+      "id": 1,
+      "title": "床边皮皮与熟悉小物",
+      "narration_lines": [
+        "皮皮坐在床边，想给今天陪过自己的小东西，轻轻说几声，温柔的晚安。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "中景建立环境，主体位置清楚",
+      "image": "images/shot_01.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：床边皮皮与熟悉小物。镜位：中景建立环境，主体位置清楚。",
+      "initial_budget_s": 10.7,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "月光安停在木窗框",
+      "narration_lines": [
+        "他望望窗户，说，晚安，小月亮。",
+        "月光停在窗框上，没有急着，走进来。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "主体或物件近景，保留地点线索",
+      "image": "images/shot_02.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：月光安停在木窗框。镜位：主体或物件近景，保留地点线索。",
+      "initial_budget_s": 9.48,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "笔架上歇着的小画笔",
+      "narration_lines": [
+        "看看收好的画笔，说，晚安，小画家。",
+        "画笔躺在架上，笔尖，软软地歇着。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "中近景呈现动作后的稳定姿态",
+      "image": "images/shot_03.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：笔架上歇着的小画笔。镜位：中近景呈现动作后的稳定姿态。",
+      "initial_budget_s": 9.79,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "床下整齐拖鞋与被角",
+      "narration_lines": [
+        "两只拖鞋，也整齐坐在床下。",
+        "皮皮把脚收进被窝，让它们，安心留在原处。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "细节特写，避免裁掉必要的爪子或道具",
+      "image": "images/shot_04.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：床下整齐拖鞋与被角。镜位：细节特写，避免裁掉必要的爪子或道具。",
+      "initial_budget_s": 10.42,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "脸颊轻靠柔软枕面",
+      "narration_lines": [
+        "他摸摸小枕头，轻轻靠下去。",
+        "枕头没有回答，却已经，稳稳接住了脸颊。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "中景呈现情境变化，留低细节空间",
+      "image": "images/shot_05.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：脸颊轻靠柔软枕面。镜位：中景呈现情境变化，留低细节空间。",
+      "initial_budget_s": 10.11,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "臂弯玩偶盖住小毯角",
+      "narration_lines": [
+        "最后，胡萝卜玩偶，回到自己的小臂弯。",
+        "皮皮替它，盖住一小截，暖黄毛毯。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "主体近景，暖光方向延续",
+      "image": "images/shot_06.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：臂弯玩偶盖住小毯角。镜位：主体近景，暖光方向延续。",
+      "initial_budget_s": 10.42,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "整洁熟悉的安静房间",
+      "narration_lines": [
+        "小屋里的东西，都安顿好了。",
+        "不用再说很多话，也有，满满的陪伴。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "安顿动作中景或安静环境近景",
+      "image": "images/shot_07.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：整洁熟悉的安静房间。镜位：安顿动作中景或安静环境近景。",
+      "initial_budget_s": 9.48,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "皮皮满足闭眼近景",
+      "narration_lines": [
+        "皮皮闭上眼睛，把最后一句晚安，轻轻留给，也忙了一天的自己。"
+      ],
+      "pause_after_s": [
+        1.1
+      ],
+      "camera": "放松姿态近景，光线略柔暗",
+      "image": "images/shot_08.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：皮皮满足闭眼近景。镜位：放松姿态近景，光线略柔暗。",
+      "initial_budget_s": 8.91,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "月窗小灯与安睡远景",
+      "narration_lines": [
+        "小朋友，也给自己一句，温柔的晚安吧。",
+        "你的小床，已经等好了。",
+        "晚安。"
+      ],
+      "pause_after_s": [
+        1.1,
+        1.1,
+        8.0
+      ],
+      "camera": "木屋卧室或可见卧室的中远景收束，主体安睡",
+      "image": "images/shot_09.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：月窗小灯与安睡远景。镜位：木屋卧室或可见卧室的中远景收束，主体安睡。",
+      "initial_budget_s": 18.32,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "需按本集提示词生成图片并合成配音；不含尚未制作的图片或音频",
+  "shared_config": "03_素材与参数/共用画风与提示词.json",
+  "character_names": [
+    "皮皮"
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "schema_version": 2,
+  "id": "ep087",
+  "episode": 87,
+  "title": "小梦邮局的最后一封信",
+  "theme": "结束付出后也给自己一句晚安",
+  "setting": "小木屋画桌与卧室",
+  "guest": "无",
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "约90–120秒；以实际配音为准",
+  "cn_characters": 248,
+  "initial_duration_budget_s": 98.6,
+  "shots": [
+    {
+      "id": 1,
+      "title": "纸上圆窗邮局与蓝信箱",
+      "narration_lines": [
+        "皮皮画了一间小梦邮局，小窗户圆圆的，门前有一只，浅蓝色的小信箱。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "中景建立环境，主体位置清楚",
+      "image": "images/shot_01.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：纸上圆窗邮局与蓝信箱。镜位：中景建立环境，主体位置清楚。",
+      "initial_budget_s": 10.7,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "三张物件图案小纸片",
+      "narration_lines": [
+        "他给小熊画一片云，给团团画一枚松果，再给栗栗，画一块软软的小坐垫。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "主体或物件近景，保留地点线索",
+      "image": "images/shot_02.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：三张物件图案小纸片。镜位：主体或物件近景，保留地点线索。",
+      "initial_budget_s": 10.01,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "小纸片放入木盒",
+      "narration_lines": [
+        "这些都是，想送给朋友的好梦。",
+        "皮皮把小纸片，轻轻放进，画纸旁的木盒。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "中近景呈现动作后的稳定姿态",
+      "image": "images/shot_03.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：小纸片放入木盒。镜位：中近景呈现动作后的稳定姿态。",
+      "initial_budget_s": 10.42,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "桌角一张空白纸片",
+      "narration_lines": [
+        "正要收笔时，他发现，还有一张，空着的小纸片，安安静静，躺在桌角。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "细节特写，避免裁掉必要的爪子或道具",
+      "image": "images/shot_04.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：桌角一张空白纸片。镜位：细节特写，避免裁掉必要的爪子或道具。",
+      "initial_budget_s": 9.07,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "纸片上小床与黄毯",
+      "narration_lines": [
+        "皮皮在上面，画一只小床，再画一条暖黄毛毯。",
+        "这最后一封信，是留给自己的。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "中景呈现情境变化，留低细节空间",
+      "image": "images/shot_05.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：纸片上小床与黄毯。镜位：中景呈现情境变化，留低细节空间。",
+      "initial_budget_s": 11.04,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "木盒合上与放好画笔",
+      "narration_lines": [
+        "小梦邮局关门啦。",
+        "皮皮合上木盒，明天还可以，继续送出温柔。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "主体近景，暖光方向延续",
+      "image": "images/shot_06.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：木盒合上与放好画笔。镜位：主体近景，暖光方向延续。",
+      "initial_budget_s": 9.17,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "真实小床与怀中玩偶",
+      "narration_lines": [
+        "他钻进真正的小被窝，把玩偶抱近，像已经收到，自己写来的，轻轻的晚安。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "安顿动作中景或安静环境近景",
+      "image": "images/shot_07.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：真实小床与怀中玩偶。镜位：安顿动作中景或安静环境近景。",
+      "initial_budget_s": 10.01,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "闭眼皮皮与纸上信箱",
+      "narration_lines": [
+        "眼睛慢慢闭好，纸上的小信箱，也在柔柔的灯光里，安静地歇着。"
+      ],
+      "pause_after_s": [
+        1.1
+      ],
+      "camera": "放松姿态近景，光线略柔暗",
+      "image": "images/shot_08.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：闭眼皮皮与纸上信箱。镜位：放松姿态近景，光线略柔暗。",
+      "initial_budget_s": 8.91,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "木盒画纸与睡眠远景",
+      "narration_lines": [
+        "小朋友，也给自己一份，好好休息的温柔吧。",
+        "今晚，愿你做个舒服的梦。",
+        "晚安。"
+      ],
+      "pause_after_s": [
+        1.1,
+        1.1,
+        8.0
+      ],
+      "camera": "木屋卧室或可见卧室的中远景收束，主体安睡",
+      "image": "images/shot_09.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：木盒画纸与睡眠远景。镜位：木屋卧室或可见卧室的中远景收束，主体安睡。",
+      "initial_budget_s": 19.26,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "需按本集提示词生成图片并合成配音；不含尚未制作的图片或音频",
+  "shared_config": "03_素材与参数/共用画风与提示词.json",
+  "character_names": [
+    "皮皮"
+  ]
+}

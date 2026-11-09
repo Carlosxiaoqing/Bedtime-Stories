@@ -1,0 +1,74 @@
+{
+  "provider": "Microsoft Edge online speech via edge-tts",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-25%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "sample_rate": 48000,
+  "channels": 1,
+  "filter": "highpass=f=65,equalizer=f=3200:t=q:w=0.8:g=-2",
+  "intro_s": 1.0,
+  "normal_pause_s": 0.72,
+  "scene_pause_s": 0.95,
+  "ending_pause_s": 1.1,
+  "tail_s": 8.0,
+  "approved_by_user": true,
+  "approved_on": "2026-11-09",
+  "approved_voice_reference": "04_生产工程/第一期/第二版试听/ep01_纯中文_柔和试听.wav",
+  "approved_full_voice": "04_生产工程/第一期/第二版/导出/ep01_v2_纯中文_配音.wav",
+  "full_mix": "04_生产工程/第一期/第二版/导出/ep01_v2_纯中文.wav",
+  "cache_fields": [
+    "text",
+    "voice",
+    "rate",
+    "pitch"
+  ],
+  "trim": {
+    "threshold": "max(0.0025, source_peak * 0.008)",
+    "lead_keep_s": 0.11,
+    "tail_keep_s": 0.16
+  },
+  "normalization": {
+    "active_threshold": "source_peak * 0.03",
+    "active_rms_target": 0.105,
+    "peak_bound": 0.72
+  },
+  "music": {
+    "source": "04_生产工程/第一期/音频/音乐/music.wav",
+    "procedural": true,
+    "source_rms": 0.0045,
+    "fade_in_s": 2,
+    "fade_out_s": 5
+  },
+  "ambience": {
+    "source": "04_生产工程/第一期/音频/环境声/room_night.wav",
+    "procedural": true,
+    "source_rms": 0.00065
+  },
+  "output": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 25,
+    "video": "libx264",
+    "crf": 20,
+    "preset": "veryfast",
+    "pixel_format": "yuv420p",
+    "audio": "aac",
+    "audio_bitrate": "128k",
+    "sample_rate": 48000,
+    "faststart": true
+  },
+  "transitions": {
+    "duration_s": 0.96,
+    "half_s": 0.48,
+    "frames": 24,
+    "half_frames": 12,
+    "end_fade_s": 4,
+    "end_color": "0x182232"
+  },
+  "notes": [
+    "WAV reference is a listening target, not a voice cloning model.",
+    "New narration uses the same TTS voice; current first episode can be replayed offline.",
+    "No API keys or login cookies are included."
+  ]
+}

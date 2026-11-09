@@ -1,0 +1,183 @@
+{
+  "schema_version": 2,
+  "id": "ep052",
+  "episode": 52,
+  "title": "第一片小叶子",
+  "theme": "留意细小而真实的变化",
+  "setting": "窗台幼苗与卧室",
+  "guest": "无",
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "约90–120秒；以实际配音为准",
+  "cn_characters": 238,
+  "initial_duration_budget_s": 94.8,
+  "shots": [
+    {
+      "id": 1,
+      "title": "花盆里初生小叶",
+      "narration_lines": [
+        "过了些日子，皮皮的花盆里，探出了一片很小的叶子，边缘还微微合着。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "中景建立环境，主体位置清楚",
+      "image": "images/shot_01.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：花盆里初生小叶。镜位：中景建立环境，主体位置清楚。",
+      "initial_budget_s": 10.7,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "皮皮退开给幼苗留空",
+      "narration_lines": [
+        "他把脸凑近一点，又轻轻退开，给这片小叶子，留出舒展的地方。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "主体或物件近景，保留地点线索",
+      "image": "images/shot_02.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：皮皮退开给幼苗留空。镜位：主体或物件近景，保留地点线索。",
+      "initial_budget_s": 8.76,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "木片轻拨小土块",
+      "narration_lines": [
+        "叶子旁边，有一粒干干的小土块。",
+        "皮皮用小木片，把它慢慢拨松。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "中近景呈现动作后的稳定姿态",
+      "image": "images/shot_03.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：木片轻拨小土块。镜位：中近景呈现动作后的稳定姿态。",
+      "initial_budget_s": 9.48,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "木片归位与安静幼苗",
+      "narration_lines": [
+        "做好以后，他把木片放回篮子，没有再碰叶尖，只安静地看了一会儿。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "细节特写，避免裁掉必要的爪子或道具",
+      "image": "images/shot_04.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：木片归位与安静幼苗。镜位：细节特写，避免裁掉必要的爪子或道具。",
+      "initial_budget_s": 9.39,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "窗台一小点新绿",
+      "narration_lines": [
+        "小叶子没有一下长得很高，不过那一点新绿，已经让窗台不太一样了。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "中景呈现情境变化，留低细节空间",
+      "image": "images/shot_05.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：窗台一小点新绿。镜位：中景呈现情境变化，留低细节空间。",
+      "initial_budget_s": 9.7,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "小画册新增一片叶子",
+      "narration_lines": [
+        "皮皮把今天的小画，画得比昨天多一片叶子，画好就轻轻合上本子。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "主体近景，暖光方向延续",
+      "image": "images/shot_06.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：小画册新增一片叶子。镜位：主体近景，暖光方向延续。",
+      "initial_budget_s": 9.39,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "皮皮离开窗台回小床",
+      "narration_lines": [
+        "到了晚上，他走回小床。",
+        "明天再看也来得及，小叶子不会需要他一直盯着。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "安顿动作中景或安静环境近景",
+      "image": "images/shot_07.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：皮皮离开窗台回小床。镜位：安顿动作中景或安静环境近景。",
+      "initial_budget_s": 10.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "怀抱玩偶闭眼浅笑",
+      "narration_lines": [
+        "他抱好玩偶，慢慢闭眼。",
+        "今天看见的小变化，已经轻轻留在心里。"
+      ],
+      "pause_after_s": [
+        1.1,
+        1.1
+      ],
+      "camera": "放松姿态近景，光线略柔暗",
+      "image": "images/shot_08.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：怀抱玩偶闭眼浅笑。镜位：放松姿态近景，光线略柔暗。",
+      "initial_budget_s": 10.01,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "幼苗剪影与温暖卧室",
+      "narration_lines": [
+        "小朋友，一点点长大，也值得温柔地记住。",
+        "现在，好好休息，晚安。"
+      ],
+      "pause_after_s": [
+        1.1,
+        8.0
+      ],
+      "camera": "木屋卧室或可见卧室的中远景收束，主体安睡",
+      "image": "images/shot_09.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：幼苗剪影与温暖卧室。镜位：木屋卧室或可见卧室的中远景收束，主体安睡。",
+      "initial_budget_s": 16.6,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "需按本集提示词生成图片并合成配音；不含尚未制作的图片或音频",
+  "shared_config": "03_素材与参数/共用画风与提示词.json",
+  "character_names": [
+    "皮皮"
+  ]
+}

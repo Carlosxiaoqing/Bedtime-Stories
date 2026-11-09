@@ -1,0 +1,188 @@
+{
+  "schema_version": 2,
+  "id": "ep055",
+  "episode": 55,
+  "title": "蝴蝶停在叶背",
+  "theme": "从飞舞到停歇",
+  "setting": "窗外花叶与卧室",
+  "guest": "一只小蝴蝶",
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "约90–120秒；以实际配音为准",
+  "cn_characters": 234,
+  "initial_duration_budget_s": 95.3,
+  "shots": [
+    {
+      "id": 1,
+      "title": "叶上合翅小蝴蝶",
+      "narration_lines": [
+        "傍晚，一只小蝴蝶，停在皮皮窗外的叶子上，翅膀慢慢，合到了一起。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "中景建立环境，主体位置清楚",
+      "image": "images/shot_01.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：叶上合翅小蝴蝶。镜位：中景建立环境，主体位置清楚。",
+      "initial_budget_s": 10.07,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "蝴蝶小脚与细叶脉",
+      "narration_lines": [
+        "白天，它在花边飞了很久。",
+        "现在，细细的叶脉，刚好托住它的小脚。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "主体或物件近景，保留地点线索",
+      "image": "images/shot_02.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：蝴蝶小脚与细叶脉。镜位：主体或物件近景，保留地点线索。",
+      "initial_budget_s": 9.48,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "窗内皮皮停下开窗爪子",
+      "narration_lines": [
+        "皮皮看得入神，想打开窗子，又轻轻停住，没有让风吹到它的身边。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "中近景呈现动作后的稳定姿态",
+      "image": "images/shot_03.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：窗内皮皮停下开窗爪子。镜位：中近景呈现动作后的稳定姿态。",
+      "initial_budget_s": 9.07,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "移开椅子留出窗边",
+      "narration_lines": [
+        "他把窗边的小椅子，挪开一点。",
+        "隔着玻璃，也能安安静静，看见这份停留。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "细节特写，避免裁掉必要的爪子或道具",
+      "image": "images/shot_04.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：移开椅子留出窗边。镜位：细节特写，避免裁掉必要的爪子或道具。",
+      "initial_budget_s": 10.42,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "轻晃叶片与合翅蝴蝶",
+      "narration_lines": [
+        "叶子随晚风轻轻晃着，小蝴蝶没有再起飞，只把翅膀，收得稳稳的。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "中景呈现情境变化，留低细节空间",
+      "image": "images/shot_05.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：轻晃叶片与合翅蝴蝶。镜位：中景呈现情境变化，留低细节空间。",
+      "initial_budget_s": 9.07,
+      "motion_hint": "m02",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "皮皮收起桌边画纸",
+      "narration_lines": [
+        "皮皮也收好自己的小画纸。",
+        "今天的飞舞和忙碌，都可以，慢慢停下来了。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "主体近景，暖光方向延续",
+      "image": "images/shot_06.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：皮皮收起桌边画纸。镜位：主体近景，暖光方向延续。",
+      "initial_budget_s": 10.42,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "毛毯里耳朵爪子放松",
+      "narration_lines": [
+        "他钻进毛毯，把长耳朵放好，胡萝卜玩偶，贴着暖暖的爪心。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "安顿动作中景或安静环境近景",
+      "image": "images/shot_07.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：毛毯里耳朵爪子放松。镜位：安顿动作中景或安静环境近景。",
+      "initial_budget_s": 8.14,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "窗外蝴蝶与屋内睡姿",
+      "narration_lines": [
+        "窗外歇着一双小翅膀，屋里歇着一只小兔子。",
+        "皮皮慢慢闭上眼睛。"
+      ],
+      "pause_after_s": [
+        1.1,
+        1.1
+      ],
+      "camera": "放松姿态近景，光线略柔暗",
+      "image": "images/shot_08.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：窗外蝴蝶与屋内睡姿。镜位：放松姿态近景，光线略柔暗。",
+      "initial_budget_s": 10.32,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "花叶窗户与暖屋远景",
+      "narration_lines": [
+        "小朋友，今天不用再飞得很远啦。",
+        "把身体安顿好，舒服地休息。",
+        "晚安。"
+      ],
+      "pause_after_s": [
+        1.1,
+        1.1,
+        8.0
+      ],
+      "camera": "木屋卧室或可见卧室的中远景收束，主体安睡",
+      "image": "images/shot_09.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：花叶窗户与暖屋远景。镜位：木屋卧室或可见卧室的中远景收束，主体安睡。",
+      "initial_budget_s": 18.32,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "需按本集提示词生成图片并合成配音；不含尚未制作的图片或音频",
+  "shared_config": "03_素材与参数/共用画风与提示词.json",
+  "character_names": [
+    "皮皮",
+    "小蝴蝶"
+  ]
+}

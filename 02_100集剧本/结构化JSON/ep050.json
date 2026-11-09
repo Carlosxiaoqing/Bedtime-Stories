@@ -1,0 +1,183 @@
+{
+  "schema_version": 2,
+  "id": "ep050",
+  "episode": 50,
+  "title": "小雪人的晚安帽",
+  "theme": "关心不等于把一切带回身边",
+  "setting": "门前小雪人与卧室",
+  "guest": "无",
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "约90–120秒；以实际配音为准",
+  "cn_characters": 236,
+  "initial_duration_budget_s": 94.1,
+  "shots": [
+    {
+      "id": 1,
+      "title": "小雪人与歪歪布帽",
+      "narration_lines": [
+        "门前的小雪人，戴着一顶旧布帽。",
+        "皮皮准备回屋时，看见帽边歪了一点。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "中景建立环境，主体位置清楚",
+      "image": "images/shot_01.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：小雪人与歪歪布帽。镜位：中景建立环境，主体位置清楚。",
+      "initial_budget_s": 11.42,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "皮皮整理雪人帽边",
+      "narration_lines": [
+        "他走近一步，把帽边理平，让那枚圆圆的布纽扣，朝着暖暖的窗户。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "主体或物件近景，保留地点线索",
+      "image": "images/shot_02.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：皮皮整理雪人帽边。镜位：主体或物件近景，保留地点线索。",
+      "initial_budget_s": 9.07,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "树枝手臂与安静雪地",
+      "narration_lines": [
+        "雪人的小树枝手臂，还是向两边伸着，像在安安静静，抱着一片雪地。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "中近景呈现动作后的稳定姿态",
+      "image": "images/shot_03.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：树枝手臂与安静雪地。镜位：中近景呈现动作后的稳定姿态。",
+      "initial_budget_s": 9.39,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "雪人脚边摆好的松果",
+      "narration_lines": [
+        "皮皮给它摆好旁边的小松果，没有再找毛毯，把整个雪人包起来。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "细节特写，避免裁掉必要的爪子或道具",
+      "image": "images/shot_04.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：雪人脚边摆好的松果。镜位：细节特写，避免裁掉必要的爪子或道具。",
+      "initial_budget_s": 9.07,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "雪人院子与温暖小屋",
+      "narration_lines": [
+        "雪人在适合它的院子里，皮皮在适合自己的小屋里，都有安稳的地方。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "中景呈现情境变化，留低细节空间",
+      "image": "images/shot_05.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：雪人院子与温暖小屋。镜位：中景呈现情境变化，留低细节空间。",
+      "initial_budget_s": 9.7,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "门廊皮皮向雪人道别",
+      "narration_lines": [
+        "他退回门廊，轻轻说晚安。",
+        "旧布帽稳稳的，没有再被风翻起一角。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "主体近景，暖光方向延续",
+      "image": "images/shot_06.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：门廊皮皮向雪人道别。镜位：主体近景，暖光方向延续。",
+      "initial_budget_s": 9.48,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "睡帽尖与枕边耳朵",
+      "narration_lines": [
+        "皮皮钻进被窝，也把自己的帽尖，轻轻摆到枕边，耳朵放松下来。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "安顿动作中景或安静环境近景",
+      "image": "images/shot_07.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：睡帽尖与枕边耳朵。镜位：安顿动作中景或安静环境近景。",
+      "initial_budget_s": 8.76,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "屋内睡姿与窗外雪人",
+      "narration_lines": [
+        "窗外的小雪人没再忙，屋里的小兔子，也慢慢闭上了眼睛。"
+      ],
+      "pause_after_s": [
+        1.1
+      ],
+      "camera": "放松姿态近景，光线略柔暗",
+      "image": "images/shot_08.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：屋内睡姿与窗外雪人。镜位：放松姿态近景，光线略柔暗。",
+      "initial_budget_s": 8.29,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "雪人守在窗外的夜景",
+      "narration_lines": [
+        "小朋友，把关心轻轻送到，就可以休息了。",
+        "让小被子暖暖地陪着你。",
+        "晚安。"
+      ],
+      "pause_after_s": [
+        1.1,
+        1.1,
+        8.0
+      ],
+      "camera": "木屋卧室或可见卧室的中远景收束，主体安睡",
+      "image": "images/shot_09.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：雪人守在窗外的夜景。镜位：木屋卧室或可见卧室的中远景收束，主体安睡。",
+      "initial_budget_s": 18.95,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "需按本集提示词生成图片并合成配音；不含尚未制作的图片或音频",
+  "shared_config": "03_素材与参数/共用画风与提示词.json",
+  "character_names": [
+    "皮皮"
+  ]
+}

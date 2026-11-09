@@ -1,0 +1,185 @@
+{
+  "schema_version": 2,
+  "id": "ep065",
+  "episode": 65,
+  "title": "小鼓也要休息",
+  "theme": "把热闹温柔地收住",
+  "setting": "小木屋游戏角与卧室",
+  "guest": "无",
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "约90–120秒；以实际配音为准",
+  "cn_characters": 234,
+  "initial_duration_budget_s": 94.6,
+  "shots": [
+    {
+      "id": 1,
+      "title": "地垫上的安静小鼓",
+      "narration_lines": [
+        "白天陪皮皮玩过的小鼓，还放在地垫上。",
+        "到了晚上，鼓面安安静静的。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "中景建立环境，主体位置清楚",
+      "image": "images/shot_01.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：地垫上的安静小鼓。镜位：中景建立环境，主体位置清楚。",
+      "initial_budget_s": 11.11,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "鼓槌放入软布袋",
+      "narration_lines": [
+        "皮皮把两根小鼓槌拿起来，没有再敲，只让它们，平平躺进软布袋。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "主体或物件近景，保留地点线索",
+      "image": "images/shot_02.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：鼓槌放入软布袋。镜位：主体或物件近景，保留地点线索。",
+      "initial_budget_s": 9.07,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "擦净鼓边放回木架",
+      "narration_lines": [
+        "他用干布巾，轻轻擦过鼓边，再把小鼓，稳稳放回低低的木架上。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "中近景呈现动作后的稳定姿态",
+      "image": "images/shot_03.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：擦净鼓边放回木架。镜位：中近景呈现动作后的稳定姿态。",
+      "initial_budget_s": 8.76,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "棉布轻盖小鼓",
+      "narration_lines": [
+        "一小块棉布盖上去，像替小鼓，拉好了一条，轻轻的小被子。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "细节特写，避免裁掉必要的爪子或道具",
+      "image": "images/shot_04.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：棉布轻盖小鼓。镜位：细节特写，避免裁掉必要的爪子或道具。",
+      "initial_budget_s": 8.14,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "整理好的安静游戏角",
+      "narration_lines": [
+        "游戏角不再忙碌。",
+        "今天热闹过的地方，也有了自己，安静的一小块夜色。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "中景呈现情境变化，留低细节空间",
+      "image": "images/shot_05.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：整理好的安静游戏角。镜位：中景呈现情境变化，留低细节空间。",
+      "initial_budget_s": 10.42,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "皮皮轻步走向床边",
+      "narration_lines": [
+        "皮皮把地垫边角铺好，慢慢走向小床，脚步声，比刚才还要轻一点。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "主体近景，暖光方向延续",
+      "image": "images/shot_06.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：皮皮轻步走向床边。镜位：主体近景，暖光方向延续。",
+      "initial_budget_s": 9.07,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "毛毯上静止的爪子",
+      "narration_lines": [
+        "他抱好胡萝卜玩偶，把爪子放到毛毯上，不再跟着白天的节奏，轻轻拍。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "安顿动作中景或安静环境近景",
+      "image": "images/shot_07.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：毛毯上静止的爪子。镜位：安顿动作中景或安静环境近景。",
+      "initial_budget_s": 9.7,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "放松耳朵闭眼睡姿",
+      "narration_lines": [
+        "眼睛闭上了，耳朵放松了。",
+        "喜欢热闹的小兔子，也喜欢，舒服的安静。"
+      ],
+      "pause_after_s": [
+        1.1,
+        1.1
+      ],
+      "camera": "放松姿态近景，光线略柔暗",
+      "image": "images/shot_08.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：放松耳朵闭眼睡姿。镜位：放松姿态近景，光线略柔暗。",
+      "initial_budget_s": 10.32,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "游戏架与安睡小床",
+      "narration_lines": [
+        "小朋友，今天的游戏，可以先歇一会儿。",
+        "让安静陪你，慢慢睡。",
+        "晚安。"
+      ],
+      "pause_after_s": [
+        1.1,
+        1.1,
+        8.0
+      ],
+      "camera": "木屋卧室或可见卧室的中远景收束，主体安睡",
+      "image": "images/shot_09.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：游戏架与安睡小床。镜位：木屋卧室或可见卧室的中远景收束，主体安睡。",
+      "initial_budget_s": 18.01,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "需按本集提示词生成图片并合成配音；不含尚未制作的图片或音频",
+  "shared_config": "03_素材与参数/共用画风与提示词.json",
+  "character_names": [
+    "皮皮"
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "schema_version": 2,
+  "id": "ep070",
+  "episode": 70,
+  "title": "小布包的夜晚",
+  "theme": "放下已经背过的东西",
+  "setting": "小木屋门口与卧室",
+  "guest": "无",
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "约90–120秒；以实际配音为准",
+  "cn_characters": 237,
+  "initial_duration_budget_s": 96.3,
+  "shots": [
+    {
+      "id": 1,
+      "title": "小布包里的书与画",
+      "narration_lines": [
+        "皮皮的小布包，陪他去了图书角。",
+        "回到家时，包里有一本书，还有一张小画。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "中景建立环境，主体位置清楚",
+      "image": "images/shot_01.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：小布包里的书与画。镜位：中景建立环境，主体位置清楚。",
+      "initial_budget_s": 11.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "书与小画分别归位",
+      "narration_lines": [
+        "他把书放回床头，把小画放上桌子，一样一样，找到熟悉的位置。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "主体或物件近景，保留地点线索",
+      "image": "images/shot_02.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：书与小画分别归位。镜位：主体或物件近景，保留地点线索。",
+      "initial_budget_s": 8.76,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "空布包与绕起肩带",
+      "narration_lines": [
+        "布包里空下来，长长的肩带，却还绕在一起，像两条，没有歇好的小路。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "中近景呈现动作后的稳定姿态",
+      "image": "images/shot_03.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：空布包与绕起肩带。镜位：中近景呈现动作后的稳定姿态。",
+      "initial_budget_s": 9.39,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "理顺肩带挂好小布包",
+      "narration_lines": [
+        "皮皮把肩带轻轻理顺，让小布包，平平靠在门边的，矮木架上。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "细节特写，避免裁掉必要的爪子或道具",
+      "image": "images/shot_04.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：理顺肩带挂好小布包。镜位：细节特写，避免裁掉必要的爪子或道具。",
+      "initial_budget_s": 8.45,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "架上安静空布包",
+      "narration_lines": [
+        "空着的布包，也完成了今天的事情，不必再装些什么，才算有用。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "中景呈现情境变化，留低细节空间",
+      "image": "images/shot_05.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：架上安静空布包。镜位：中景呈现情境变化，留低细节空间。",
+      "initial_budget_s": 8.76,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "走向床边放松肩膀",
+      "narration_lines": [
+        "皮皮松松肩膀，慢慢走到小床。",
+        "今天背过的东西，都已经，好好放下了。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "主体近景，暖光方向延续",
+      "image": "images/shot_06.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：走向床边放松肩膀。镜位：主体近景，暖光方向延续。",
+      "initial_budget_s": 10.11,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "枕头托头与怀中玩偶",
+      "narration_lines": [
+        "毛毯盖住身体，胡萝卜玩偶，靠着小爪子。",
+        "枕头替他，接住一点重量。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "安顿动作中景或安静环境近景",
+      "image": "images/shot_07.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：枕头托头与怀中玩偶。镜位：安顿动作中景或安静环境近景。",
+      "initial_budget_s": 9.79,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "睡帽尖垂下的睡姿",
+      "narration_lines": [
+        "他闭上眼睛，帽尖自然垂下来。",
+        "门边的小布包，也静静地，靠着木架。"
+      ],
+      "pause_after_s": [
+        1.1,
+        1.1
+      ],
+      "camera": "放松姿态近景，光线略柔暗",
+      "image": "images/shot_08.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：睡帽尖垂下的睡姿。镜位：放松姿态近景，光线略柔暗。",
+      "initial_budget_s": 10.32,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "门边布包与安睡远景",
+      "narration_lines": [
+        "小朋友，今天已经背了很多小事情。",
+        "现在，可以放下来，舒服地休息。",
+        "晚安。"
+      ],
+      "pause_after_s": [
+        1.1,
+        1.1,
+        8.0
+      ],
+      "camera": "木屋卧室或可见卧室的中远景收束，主体安睡",
+      "image": "images/shot_09.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：门边布包与安睡远景。镜位：木屋卧室或可见卧室的中远景收束，主体安睡。",
+      "initial_budget_s": 18.95,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "需按本集提示词生成图片并合成配音；不含尚未制作的图片或音频",
+  "shared_config": "03_素材与参数/共用画风与提示词.json",
+  "character_names": [
+    "皮皮"
+  ]
+}

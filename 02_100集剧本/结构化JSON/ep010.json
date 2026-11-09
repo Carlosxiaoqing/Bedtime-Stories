@@ -1,0 +1,189 @@
+{
+  "schema_version": 2,
+  "id": "ep010",
+  "episode": 10,
+  "title": "晚安小书签",
+  "theme": "故事可以安心留待明天",
+  "setting": "小木屋阅读角与床边",
+  "guest": "无",
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "约90–120秒；以实际配音为准",
+  "cn_characters": 241,
+  "initial_duration_budget_s": 97.9,
+  "shots": [
+    {
+      "id": 1,
+      "title": "膝上绘本与窗月",
+      "narration_lines": [
+        "皮皮翻到绘本的一半，窗外已经升起月亮，书里还有一座没去过的小花园。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "中景建立环境，主体位置清楚",
+      "image": "images/shot_01.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：膝上绘本与窗月。镜位：中景建立环境，主体位置清楚。",
+      "initial_budget_s": 11.32,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "布书签放在页边",
+      "narration_lines": [
+        "他摸摸那页纸，舍不得马上合上，便找来一条柔软的布书签。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "主体或物件近景，保留地点线索",
+      "image": "images/shot_02.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：布书签放在页边。镜位：主体或物件近景，保留地点线索。",
+      "initial_budget_s": 8.45,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "叶纹书签夹住书页",
+      "narration_lines": [
+        "书签的一端，绣着小小的叶子。",
+        "皮皮把它放好，让叶子停在花园门口。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "中近景呈现动作后的稳定姿态",
+      "image": "images/shot_03.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：叶纹书签夹住书页。镜位：中近景呈现动作后的稳定姿态。",
+      "initial_budget_s": 10.11,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "书中花园门的插画",
+      "narration_lines": [
+        "这样，明天就能找到这里了。",
+        "花园不用今晚逛完，小路也不会走丢。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "细节特写，避免裁掉必要的爪子或道具",
+      "image": "images/shot_04.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：书中花园门的插画。镜位：细节特写，避免裁掉必要的爪子或道具。",
+      "initial_budget_s": 9.79,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "合上的书与露出书签",
+      "narration_lines": [
+        "皮皮合上绘本，轻轻放到床头。",
+        "布书签露出一点，像在安静地招手。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "中景呈现情境变化，留低细节空间",
+      "image": "images/shot_05.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：合上的书与露出书签。镜位：中景呈现情境变化，留低细节空间。",
+      "initial_budget_s": 9.79,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "收好书后盖毛毯",
+      "narration_lines": [
+        "他把灯调暗，盖好毛毯。",
+        "书里的花园留在书里，自己的小床就在身边。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "主体近景，暖光方向延续",
+      "image": "images/shot_06.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：收好书后盖毛毯。镜位：主体近景，暖光方向延续。",
+      "initial_budget_s": 10.11,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "月光落在绘本封面",
+      "narration_lines": [
+        "月光碰了碰封面，没有再翻开下一页。",
+        "胡萝卜玩偶也靠住了小枕头。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "安顿动作中景或安静环境近景",
+      "image": "images/shot_07.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：月光落在绘本封面。镜位：安顿动作中景或安静环境近景。",
+      "initial_budget_s": 10.11,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "枕边闭眼的皮皮",
+      "narration_lines": [
+        "皮皮闭上眼睛，心里还留着一条小路，不过它已经不着急往前走了。"
+      ],
+      "pause_after_s": [
+        1.1
+      ],
+      "camera": "放松姿态近景，光线略柔暗",
+      "image": "images/shot_08.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：枕边闭眼的皮皮。镜位：放松姿态近景，光线略柔暗。",
+      "initial_budget_s": 9.54,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "床头绘本与睡眠远景",
+      "narration_lines": [
+        "小朋友，喜欢的故事可以明天继续。",
+        "现在，先把自己轻轻安顿好。",
+        "晚安。"
+      ],
+      "pause_after_s": [
+        1.1,
+        1.1,
+        8.0
+      ],
+      "camera": "木屋卧室或可见卧室的中远景收束，主体安睡",
+      "image": "images/shot_09.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：床头绘本与睡眠远景。镜位：木屋卧室或可见卧室的中远景收束，主体安睡。",
+      "initial_budget_s": 18.64,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "需按本集提示词生成图片并合成配音；不含尚未制作的图片或音频",
+  "shared_config": "03_素材与参数/共用画风与提示词.json",
+  "character_names": [
+    "皮皮"
+  ]
+}

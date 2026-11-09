@@ -1,0 +1,189 @@
+{
+  "schema_version": 2,
+  "id": "ep020",
+  "episode": 20,
+  "title": "朋友们的晚安地图",
+  "theme": "连接仍在而无需继续忙碌",
+  "setting": "小木屋桌边与卧室",
+  "guest": "朋友仅以小屋图画出现",
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "约90–120秒；以实际配音为准",
+  "cn_characters": 242,
+  "initial_duration_budget_s": 98.6,
+  "shots": [
+    {
+      "id": 1,
+      "title": "纸上几间森林小屋",
+      "narration_lines": [
+        "皮皮在小画纸上，画了几间熟悉的小屋。",
+        "有小熊的，有小鹿的，还有自己的。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "中景建立环境，主体位置清楚",
+      "image": "images/shot_01.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：纸上几间森林小屋。镜位：中景建立环境，主体位置清楚。",
+      "initial_budget_s": 11.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "画中弯线连接小屋",
+      "narration_lines": [
+        "他用一条弯弯的线，把小屋连起来，线经过草地，也经过门前的小桥。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "主体或物件近景，保留地点线索",
+      "image": "images/shot_02.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：画中弯线连接小屋。镜位：主体或物件近景，保留地点线索。",
+      "initial_budget_s": 9.39,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "画纸旁柔软灯光",
+      "narration_lines": [
+        "画到最后，皮皮想再添一些树，可手边的小灯，已经照出了软软的夜色。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "中近景呈现动作后的稳定姿态",
+      "image": "images/shot_03.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：画纸旁柔软灯光。镜位：中近景呈现动作后的稳定姿态。",
+      "initial_budget_s": 9.7,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "画笔放下保留空白",
+      "narration_lines": [
+        "他放下画笔，把没画完的地方留白。",
+        "朋友的家，已经都好好坐在纸上了。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "细节特写，避免裁掉必要的爪子或道具",
+      "image": "images/shot_04.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：画笔放下保留空白。镜位：细节特写，避免裁掉必要的爪子或道具。",
+      "initial_budget_s": 10.42,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "森林几处温暖窗灯",
+      "narration_lines": [
+        "窗外，近处的小屋亮着暖灯。",
+        "每位朋友，都在慢慢安排自己的夜晚。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "中景呈现情境变化，留低细节空间",
+      "image": "images/shot_05.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：森林几处温暖窗灯。镜位：中景呈现情境变化，留低细节空间。",
+      "initial_budget_s": 9.79,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "床头摊开的简笔地图",
+      "narration_lines": [
+        "皮皮把地图放到床头，明天想见面时，再沿着小路，慢慢走过去。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "主体近景，暖光方向延续",
+      "image": "images/shot_06.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：床头摊开的简笔地图。镜位：主体近景，暖光方向延续。",
+      "initial_budget_s": 8.76,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "纸上连线静物近景",
+      "narration_lines": [
+        "现在，不用再往外走了。",
+        "纸上的弯线，安静地连着一间又一间小屋。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "安顿动作中景或安静环境近景",
+      "image": "images/shot_07.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：纸上连线静物近景。镜位：安顿动作中景或安静环境近景。",
+      "initial_budget_s": 9.79,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "皮皮在被窝安顿",
+      "narration_lines": [
+        "他抱好胡萝卜玩偶，缩进毛毯。",
+        "朋友们在各自家里，也一样离他很近。"
+      ],
+      "pause_after_s": [
+        1.1,
+        1.1
+      ],
+      "camera": "放松姿态近景，光线略柔暗",
+      "image": "images/shot_08.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：皮皮在被窝安顿。镜位：放松姿态近景，光线略柔暗。",
+      "initial_budget_s": 10.64,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "床头地图与睡眠远景",
+      "narration_lines": [
+        "小朋友，把喜欢的人放在心里吧。",
+        "今晚，先照顾好自己的休息。",
+        "晚安。"
+      ],
+      "pause_after_s": [
+        1.1,
+        1.1,
+        8.0
+      ],
+      "camera": "木屋卧室或可见卧室的中远景收束，主体安睡",
+      "image": "images/shot_09.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：床头地图与睡眠远景。镜位：木屋卧室或可见卧室的中远景收束，主体安睡。",
+      "initial_budget_s": 18.32,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "需按本集提示词生成图片并合成配音；不含尚未制作的图片或音频",
+  "shared_config": "03_素材与参数/共用画风与提示词.json",
+  "character_names": [
+    "皮皮"
+  ]
+}

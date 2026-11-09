@@ -1,0 +1,187 @@
+{
+  "schema_version": 2,
+  "id": "ep034",
+  "episode": 34,
+  "title": "南瓜小灯的窗户",
+  "theme": "一点暖光已经足够",
+  "setting": "门廊与卧室",
+  "guest": "无",
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "约90–120秒；以实际配音为准",
+  "cn_characters": 229,
+  "initial_duration_budget_s": 93.8,
+  "shots": [
+    {
+      "id": 1,
+      "title": "南瓜形灯罩亮起",
+      "narration_lines": [
+        "门廊上，南瓜形的小灯亮了。",
+        "圆圆的灯罩，有两扇小小的叶子窗。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "中景建立环境，主体位置清楚",
+      "image": "images/shot_01.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：南瓜形灯罩亮起。镜位：中景建立环境，主体位置清楚。",
+      "initial_budget_s": 10.48,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "皮皮转动柔光灯罩",
+      "narration_lines": [
+        "皮皮把它转了一点，让暖光照在门槛上，没有直直照着自己的眼睛。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "主体或物件近景，保留地点线索",
+      "image": "images/shot_02.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：皮皮转动柔光灯罩。镜位：主体或物件近景，保留地点线索。",
+      "initial_budget_s": 9.39,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "灯旁落叶细叶脉",
+      "narration_lines": [
+        "一片落叶停在灯旁，叶脉变得清清楚楚，好像也借到了一小块阳光。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "中近景呈现动作后的稳定姿态",
+      "image": "images/shot_03.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：灯旁落叶细叶脉。镜位：中近景呈现动作后的稳定姿态。",
+      "initial_budget_s": 9.39,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "一盏灯照亮近处门槛",
+      "narration_lines": [
+        "皮皮没有再点亮别的灯。",
+        "门槛看得见，小路的近处，也已经亮得刚好。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "细节特写，避免裁掉必要的爪子或道具",
+      "image": "images/shot_04.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：一盏灯照亮近处门槛。镜位：细节特写，避免裁掉必要的爪子或道具。",
+      "initial_budget_s": 10.11,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "摆好的门廊小凳",
+      "narration_lines": [
+        "他把门廊的小凳子摆稳，让回家的脚步，可以慢慢停下来。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "中景呈现情境变化，留低细节空间",
+      "image": "images/shot_05.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：摆好的门廊小凳。镜位：中景呈现情境变化，留低细节空间。",
+      "initial_budget_s": 8.14,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "窗外安静南瓜小灯",
+      "narration_lines": [
+        "进屋后，皮皮回头看了一眼。",
+        "南瓜小灯安静地亮着，没有催谁来做客。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "主体近景，暖光方向延续",
+      "image": "images/shot_06.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：窗外安静南瓜小灯。镜位：主体近景，暖光方向延续。",
+      "initial_budget_s": 10.11,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "床头柔光落在毛毯",
+      "narration_lines": [
+        "床头的灯也调暗一点，暖色留在毛毯上，房间慢慢变得柔和。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "安顿动作中景或安静环境近景",
+      "image": "images/shot_07.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：床头柔光落在毛毯。镜位：安顿动作中景或安静环境近景。",
+      "initial_budget_s": 8.45,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "皮皮闭眼与柔暗灯光",
+      "narration_lines": [
+        "皮皮放松长耳朵，闭上眼睛。",
+        "一点点舒服的亮，就够陪着今晚了。"
+      ],
+      "pause_after_s": [
+        1.1,
+        1.1
+      ],
+      "camera": "放松姿态近景，光线略柔暗",
+      "image": "images/shot_08.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：皮皮闭眼与柔暗灯光。镜位：放松姿态近景，光线略柔暗。",
+      "initial_budget_s": 10.01,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "小屋内外两处淡暖光",
+      "narration_lines": [
+        "小朋友，把舒服留在身边吧。",
+        "不用让每个角落都忙起来。",
+        "晚安。"
+      ],
+      "pause_after_s": [
+        1.1,
+        1.1,
+        8.0
+      ],
+      "camera": "木屋卧室或可见卧室的中远景收束，主体安睡",
+      "image": "images/shot_09.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：小屋内外两处淡暖光。镜位：木屋卧室或可见卧室的中远景收束，主体安睡。",
+      "initial_budget_s": 17.7,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "需按本集提示词生成图片并合成配音；不含尚未制作的图片或音频",
+  "shared_config": "03_素材与参数/共用画风与提示词.json",
+  "character_names": [
+    "皮皮"
+  ]
+}

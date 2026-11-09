@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-09",
+  "edition": 2,
+  "user_approved": true,
+  "duration_s": 90.2,
+  "size": [
+    1080,
+    1920
+  ],
+  "fps": 25,
+  "language": "zh-CN",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-25%",
+  "pitch": "-2Hz",
+  "postprocess": "highpass=f=65,equalizer=f=3200:t=q:w=0.8:g=-2",
+  "approved_video_relative": "04_生产工程/第一期/第二版/导出/ep01_v2_纯中文.mp4",
+  "video_sha256": "869425146dc115c91418ffe5ca86479bd2b31c014b2e0b19ce7f6f24464763e1",
+  "episode_count": 100,
+  "episode_001_included": true,
+  "paid_video_services": false
+}

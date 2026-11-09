@@ -1,0 +1,183 @@
+{
+  "schema_version": 2,
+  "id": "ep038",
+  "episode": 38,
+  "title": "树枝给围巾让个座",
+  "theme": "把喜欢的东西安稳收回",
+  "setting": "门廊树枝与卧室",
+  "guest": "无",
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "约90–120秒；以实际配音为准",
+  "cn_characters": 238,
+  "initial_duration_budget_s": 94.8,
+  "shots": [
+    {
+      "id": 1,
+      "title": "矮树枝上搭着围巾",
+      "narration_lines": [
+        "傍晚，皮皮的小围巾搭在门廊旁的矮树枝上，布角跟着晚风，轻轻晃。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "中景建立环境，主体位置清楚",
+      "image": "images/shot_01.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：矮树枝上搭着围巾。镜位：中景建立环境，主体位置清楚。",
+      "initial_budget_s": 10.39,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "线圈轻挂细枝尖",
+      "narration_lines": [
+        "他伸爪去收时，一小段线圈，挂在了细枝的尖尖上，没有马上松开。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "主体或物件近景，保留地点线索",
+      "image": "images/shot_02.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：线圈轻挂细枝尖。镜位：主体或物件近景，保留地点线索。",
+      "initial_budget_s": 9.07,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "爪子托松围巾线圈",
+      "narration_lines": [
+        "皮皮停住手，把围巾往回送一点，让紧紧的线圈，先变得松松的。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "中近景呈现动作后的稳定姿态",
+      "image": "images/shot_03.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：爪子托松围巾线圈。镜位：中近景呈现动作后的稳定姿态。",
+      "initial_budget_s": 8.76,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "围巾离枝小芽完整",
+      "narration_lines": [
+        "再慢慢挪过细枝，围巾就回到了怀里。",
+        "树枝还好好留着自己的小芽。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "细节特写，避免裁掉必要的爪子或道具",
+      "image": "images/shot_04.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：围巾离枝小芽完整。镜位：细节特写，避免裁掉必要的爪子或道具。",
+      "initial_budget_s": 10.11,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "架上叠好的柔软围巾",
+      "narration_lines": [
+        "皮皮把围巾叠好，放到门内的小架子上，不用让它，在夜风里一直晃。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "中景呈现情境变化，留低细节空间",
+      "image": "images/shot_05.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：架上叠好的柔软围巾。镜位：中景呈现情境变化，留低细节空间。",
+      "initial_budget_s": 9.39,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "空出的安静矮枝",
+      "narration_lines": [
+        "门廊空出来一点，矮枝也安静了。",
+        "今天借过的地方，已经轻轻还好了。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "主体近景，暖光方向延续",
+      "image": "images/shot_06.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：空出的安静矮枝。镜位：主体近景，暖光方向延续。",
+      "initial_budget_s": 10.11,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "理松毛毯边角",
+      "narration_lines": [
+        "皮皮钻进被窝，把毛毯的边角也理松，没有哪一小块，需要拉得紧紧的。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "安顿动作中景或安静环境近景",
+      "image": "images/shot_07.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：理松毛毯边角。镜位：安顿动作中景或安静环境近景。",
+      "initial_budget_s": 9.7,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "臂弯玩偶与闭眼",
+      "narration_lines": [
+        "他把玩偶抱在臂弯，慢慢闭眼。",
+        "软软的东西，都找到了舒服的归处。"
+      ],
+      "pause_after_s": [
+        1.1,
+        1.1
+      ],
+      "camera": "放松姿态近景，光线略柔暗",
+      "image": "images/shot_08.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：臂弯玩偶与闭眼。镜位：放松姿态近景，光线略柔暗。",
+      "initial_budget_s": 10.32,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "衣架围巾与安睡小床",
+      "narration_lines": [
+        "小朋友，今天拉紧的小心情，也可以慢慢放松。",
+        "暖暖地躺好，晚安。"
+      ],
+      "pause_after_s": [
+        1.1,
+        8.0
+      ],
+      "camera": "木屋卧室或可见卧室的中远景收束，主体安睡",
+      "image": "images/shot_09.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：衣架围巾与安睡小床。镜位：木屋卧室或可见卧室的中远景收束，主体安睡。",
+      "initial_budget_s": 16.91,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "需按本集提示词生成图片并合成配音；不含尚未制作的图片或音频",
+  "shared_config": "03_素材与参数/共用画风与提示词.json",
+  "character_names": [
+    "皮皮"
+  ]
+}

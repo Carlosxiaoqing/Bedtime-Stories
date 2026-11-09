@@ -1,0 +1,185 @@
+{
+  "schema_version": 2,
+  "id": "ep041",
+  "episode": 41,
+  "title": "雪花落在窗边",
+  "theme": "有些美好只需安静看一会儿",
+  "setting": "小木屋雪夜窗边",
+  "guest": "无",
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "约90–120秒；以实际配音为准",
+  "cn_characters": 227,
+  "initial_duration_budget_s": 92.4,
+  "shots": [
+    {
+      "id": 1,
+      "title": "雪花落在木窗台",
+      "narration_lines": [
+        "窗外飘起细细的雪，皮皮坐在暖灯旁，看一片雪花，落到窗台的木边。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "中景建立环境，主体位置清楚",
+      "image": "images/shot_01.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：雪花落在木窗台。镜位：中景建立环境，主体位置清楚。",
+      "initial_budget_s": 10.39,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "木边雪花轮廓近景",
+      "narration_lines": [
+        "那片雪花小小的，有几道细细的边，像一朵没有声音的白花。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "主体或物件近景，保留地点线索",
+      "image": "images/shot_02.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：木边雪花轮廓近景。镜位：主体或物件近景，保留地点线索。",
+      "initial_budget_s": 8.45,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "玻璃内侧安静的皮皮",
+      "narration_lines": [
+        "皮皮没有把窗打开，只隔着干净的玻璃，轻轻看了一会儿。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "中近景呈现动作后的稳定姿态",
+      "image": "images/shot_03.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：玻璃内侧安静的皮皮。镜位：中近景呈现动作后的稳定姿态。",
+      "initial_budget_s": 8.14,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "两片相邻的细雪花",
+      "narration_lines": [
+        "又一片雪花落下来，靠在旁边。",
+        "两朵小白花，就一起安静地待着。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "细节特写，避免裁掉必要的爪子或道具",
+      "image": "images/shot_04.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：两片相邻的细雪花。镜位：细节特写，避免裁掉必要的爪子或道具。",
+      "initial_budget_s": 9.48,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "窗雪与屋内暖毯同框",
+      "narration_lines": [
+        "屋里的毛毯暖暖的，窗外的雪花轻轻的，都在自己合适的地方。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "中景呈现情境变化，留低细节空间",
+      "image": "images/shot_05.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：窗雪与屋内暖毯同框。镜位：中景呈现情境变化，留低细节空间。",
+      "initial_budget_s": 8.76,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "推好椅子走回小床",
+      "narration_lines": [
+        "皮皮把小椅子推好，回到床沿，不再等着看，下一片雪会落在哪里。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "主体近景，暖光方向延续",
+      "image": "images/shot_06.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：推好椅子走回小床。镜位：主体近景，暖光方向延续。",
+      "initial_budget_s": 9.07,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "帽尖与枕边玩偶",
+      "narration_lines": [
+        "他抱起玩偶，把帽尖摆到枕边。",
+        "喜欢的白花，已经轻轻留在心里。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "安顿动作中景或安静环境近景",
+      "image": "images/shot_07.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：帽尖与枕边玩偶。镜位：安顿动作中景或安静环境近景。",
+      "initial_budget_s": 9.48,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "闭眼睡姿与柔雪窗",
+      "narration_lines": [
+        "眼睛慢慢闭上，窗外还在下雪。",
+        "房间安静得，像盖了一层软软的云。"
+      ],
+      "pause_after_s": [
+        1.1,
+        1.1
+      ],
+      "camera": "放松姿态近景，光线略柔暗",
+      "image": "images/shot_08.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：闭眼睡姿与柔雪窗。镜位：放松姿态近景，光线略柔暗。",
+      "initial_budget_s": 10.32,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "雪中木屋温暖远景",
+      "narration_lines": [
+        "小朋友，今晚不用留住每一片雪。",
+        "让舒服留在身边，慢慢休息。",
+        "晚安。"
+      ],
+      "pause_after_s": [
+        1.1,
+        1.1,
+        8.0
+      ],
+      "camera": "木屋卧室或可见卧室的中远景收束，主体安睡",
+      "image": "images/shot_09.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：雪中木屋温暖远景。镜位：木屋卧室或可见卧室的中远景收束，主体安睡。",
+      "initial_budget_s": 18.32,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "需按本集提示词生成图片并合成配音；不含尚未制作的图片或音频",
+  "shared_config": "03_素材与参数/共用画风与提示词.json",
+  "character_names": [
+    "皮皮"
+  ]
+}

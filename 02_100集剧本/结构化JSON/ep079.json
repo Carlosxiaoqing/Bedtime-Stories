@@ -1,0 +1,186 @@
+{
+  "schema_version": 2,
+  "id": "ep079",
+  "episode": 79,
+  "title": "安静也能一起玩",
+  "theme": "陪伴可以不填满声音",
+  "setting": "小木屋窗边与卧室",
+  "guest": "小鼹鼠点点",
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "约90–120秒；以实际配音为准",
+  "cn_characters": 246,
+  "initial_duration_budget_s": 98.0,
+  "shots": [
+    {
+      "id": 1,
+      "title": "窗边并坐共看画册",
+      "narration_lines": [
+        "皮皮和点点，并排坐在窗边。",
+        "一本小画册，平平摊在他们中间，谁也没有急着讲。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "中景建立环境，主体位置清楚",
+      "image": "images/shot_01.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：窗边并坐共看画册。镜位：中景建立环境，主体位置清楚。",
+      "initial_budget_s": 12.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "爪子轻指画中叶子",
+      "narration_lines": [
+        "画里有一座小桥，桥下有一片叶子。",
+        "点点指了指，皮皮便轻轻，点了一下头。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "主体或物件近景，保留地点线索",
+      "image": "images/shot_02.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：爪子轻指画中叶子。镜位：主体或物件近景，保留地点线索。",
+      "initial_budget_s": 10.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "翻开的画册与窗外叶影",
+      "narration_lines": [
+        "他们一起翻到下一页，又停了一会儿，听窗外的叶子，慢慢挨着叶子。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "中近景呈现动作后的稳定姿态",
+      "image": "images/shot_03.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：翻开的画册与窗外叶影。镜位：中近景呈现动作后的稳定姿态。",
+      "initial_budget_s": 9.39,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "桌边两双放松爪子",
+      "narration_lines": [
+        "小木屋没有变得热闹，却有两双小爪子，安安静静，靠在同一张桌边。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "细节特写，避免裁掉必要的爪子或道具",
+      "image": "images/shot_04.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：桌边两双放松爪子。镜位：细节特写，避免裁掉必要的爪子或道具。",
+      "initial_budget_s": 9.39,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "书签放好合上画册",
+      "narration_lines": [
+        "看到最后，点点把书签放好。",
+        "皮皮合上画册，轻轻送朋友，走到门口。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "中景呈现情境变化，留低细节空间",
+      "image": "images/shot_05.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：书签放好合上画册。镜位：中景呈现情境变化，留低细节空间。",
+      "initial_budget_s": 9.79,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "空下来的窗边双椅",
+      "narration_lines": [
+        "那段没有说很多话的时光，留在了窗边，也留在皮皮，暖暖的心里。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "主体近景，暖光方向延续",
+      "image": "images/shot_06.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：空下来的窗边双椅。镜位：主体近景，暖光方向延续。",
+      "initial_budget_s": 9.07,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "被窝里安稳抱着玩偶",
+      "narration_lines": [
+        "他钻进毛毯，把胡萝卜玩偶，抱在身边，像给安静，也留了一个座位。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "安顿动作中景或安静环境近景",
+      "image": "images/shot_07.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：被窝里安稳抱着玩偶。镜位：安顿动作中景或安静环境近景。",
+      "initial_budget_s": 9.07,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "皮皮闭眼柔和近景",
+      "narration_lines": [
+        "眼睛慢慢闭合，房间里的声音很少，陪伴的感觉，却一点也不少。"
+      ],
+      "pause_after_s": [
+        1.1
+      ],
+      "camera": "放松姿态近景，光线略柔暗",
+      "image": "images/shot_08.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：皮皮闭眼柔和近景。镜位：放松姿态近景，光线略柔暗。",
+      "initial_budget_s": 8.91,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "窗边画册与睡眠远景",
+      "narration_lines": [
+        "小朋友，今晚也可以安安静静地待着。",
+        "让喜欢的小伙伴，轻轻陪着你。",
+        "晚安。"
+      ],
+      "pause_after_s": [
+        1.1,
+        1.1,
+        8.0
+      ],
+      "camera": "木屋卧室或可见卧室的中远景收束，主体安睡",
+      "image": "images/shot_09.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：窗边画册与睡眠远景。镜位：木屋卧室或可见卧室的中远景收束，主体安睡。",
+      "initial_budget_s": 19.26,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "需按本集提示词生成图片并合成配音；不含尚未制作的图片或音频",
+  "shared_config": "03_素材与参数/共用画风与提示词.json",
+  "character_names": [
+    "皮皮",
+    "小鼹鼠点点"
+  ]
+}

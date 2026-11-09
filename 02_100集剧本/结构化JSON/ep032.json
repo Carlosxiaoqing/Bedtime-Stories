@@ -1,0 +1,185 @@
+{
+  "schema_version": 2,
+  "id": "ep032",
+  "episode": 32,
+  "title": "松果转身坐好了",
+  "theme": "找到合适的支撑",
+  "setting": "小木屋窗台与卧室",
+  "guest": "无",
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "约90–120秒；以实际配音为准",
+  "cn_characters": 237,
+  "initial_duration_budget_s": 95.6,
+  "shots": [
+    {
+      "id": 1,
+      "title": "窗台轻晃的松果",
+      "narration_lines": [
+        "皮皮把一枚松果，放在窗台上。",
+        "它轻轻晃了两下，又慢慢躺到了旁边。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "中景建立环境，主体位置清楚",
+      "image": "images/shot_01.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：窗台轻晃的松果。镜位：中景建立环境，主体位置清楚。",
+      "initial_budget_s": 11.11,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "爪子轻扶松果",
+      "narration_lines": [
+        "他试着扶一扶，松果还是没有坐稳，好像只喜欢，靠着自己的侧面。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "主体或物件近景，保留地点线索",
+      "image": "images/shot_02.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：爪子轻扶松果。镜位：主体或物件近景，保留地点线索。",
+      "initial_budget_s": 9.07,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "软布托盘接住松果",
+      "narration_lines": [
+        "皮皮便把小木托盘拿来，铺上一小片软布，让松果顺着原来的样子躺好。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "中近景呈现动作后的稳定姿态",
+      "image": "images/shot_03.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：软布托盘接住松果。镜位：中近景呈现动作后的稳定姿态。",
+      "initial_budget_s": 10.01,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "安稳松果鳞片特写",
+      "narration_lines": [
+        "这回，它不再晃了。",
+        "层层叠叠的小鳞片，安安静静，挨在一起。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "细节特写，避免裁掉必要的爪子或道具",
+      "image": "images/shot_04.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：安稳松果鳞片特写。镜位：细节特写，避免裁掉必要的爪子或道具。",
+      "initial_budget_s": 8.86,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "窗外松枝与不同松果",
+      "narration_lines": [
+        "窗外有一棵松树，枝头也挂着几枚松果，每一枚，都有自己的方向。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "中景呈现情境变化，留低细节空间",
+      "image": "images/shot_05.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：窗外松枝与不同松果。镜位：中景呈现情境变化，留低细节空间。",
+      "initial_budget_s": 9.07,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "托盘与窗帘保持间隙",
+      "narration_lines": [
+        "皮皮把托盘放稳，给窗帘留出位置，没有再让松果，一定坐得直直的。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "主体近景，暖光方向延续",
+      "image": "images/shot_06.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：托盘与窗帘保持间隙。镜位：主体近景，暖光方向延续。",
+      "initial_budget_s": 9.39,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "侧卧抱玩偶的皮皮",
+      "narration_lines": [
+        "他靠回枕头，也找了一个侧着身子，抱住玩偶的舒服姿势。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "安顿动作中景或安静环境近景",
+      "image": "images/shot_07.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：侧卧抱玩偶的皮皮。镜位：安顿动作中景或安静环境近景。",
+      "initial_budget_s": 8.14,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "垂下帽尖与放松耳朵",
+      "narration_lines": [
+        "帽尖轻轻垂下，耳朵自然放松。",
+        "小床稳稳托着他，不用再扶住什么。"
+      ],
+      "pause_after_s": [
+        1.1,
+        1.1
+      ],
+      "camera": "放松姿态近景，光线略柔暗",
+      "image": "images/shot_08.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：垂下帽尖与放松耳朵。镜位：放松姿态近景，光线略柔暗。",
+      "initial_budget_s": 10.32,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "窗台松果与安睡小床",
+      "narration_lines": [
+        "小朋友，舒服可以有不一样的样子。",
+        "让身体找到自己的位置，慢慢休息。",
+        "晚安。"
+      ],
+      "pause_after_s": [
+        1.1,
+        1.1,
+        8.0
+      ],
+      "camera": "木屋卧室或可见卧室的中远景收束，主体安睡",
+      "image": "images/shot_09.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：窗台松果与安睡小床。镜位：木屋卧室或可见卧室的中远景收束，主体安睡。",
+      "initial_budget_s": 19.57,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "需按本集提示词生成图片并合成配音；不含尚未制作的图片或音频",
+  "shared_config": "03_素材与参数/共用画风与提示词.json",
+  "character_names": [
+    "皮皮"
+  ]
+}

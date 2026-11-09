@@ -1,0 +1,181 @@
+{
+  "schema_version": 2,
+  "id": "ep031",
+  "episode": 31,
+  "title": "秋叶的软枕头",
+  "theme": "落下也能找到安稳的地方",
+  "setting": "门前草地与卧室",
+  "guest": "无",
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "约90–120秒；以实际配音为准",
+  "cn_characters": 221,
+  "initial_duration_budget_s": 88.7,
+  "shots": [
+    {
+      "id": 1,
+      "title": "细草上落下黄叶",
+      "narration_lines": [
+        "傍晚，一片浅黄的叶子，落到皮皮门前，轻轻靠在一丛细草上。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "中景建立环境，主体位置清楚",
+      "image": "images/shot_01.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：细草上落下黄叶。镜位：中景建立环境，主体位置清楚。",
+      "initial_budget_s": 9.45,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "黄叶卷曲边缘近景",
+      "narration_lines": [
+        "叶子没有平平躺好，边缘有一点卷，像还想再找个舒服的姿势。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "主体或物件近景，保留地点线索",
+      "image": "images/shot_02.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：黄叶卷曲边缘近景。镜位：主体或物件近景，保留地点线索。",
+      "initial_budget_s": 8.76,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "皮皮移开叶下枯枝",
+      "narration_lines": [
+        "皮皮蹲在旁边，把压在下面的一小段枯枝，轻轻挪开了。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "中近景呈现动作后的稳定姿态",
+      "image": "images/shot_03.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：皮皮移开叶下枯枝。镜位：中近景呈现动作后的稳定姿态。",
+      "initial_budget_s": 7.83,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "细草托住叶子背面",
+      "narration_lines": [
+        "细草慢慢弹起来，托住了叶子的背面，像给它铺好一只小枕头。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "细节特写，避免裁掉必要的爪子或道具",
+      "image": "images/shot_04.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：细草托住叶子背面。镜位：细节特写，避免裁掉必要的爪子或道具。",
+      "initial_budget_s": 8.76,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "风中安稳的草上黄叶",
+      "narration_lines": [
+        "风经过时，叶子只动了动边角，没有再翻过来，追着小路跑。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "中景呈现情境变化，留低细节空间",
+      "image": "images/shot_05.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：风中安稳的草上黄叶。镜位：中景呈现情境变化，留低细节空间。",
+      "initial_budget_s": 8.14,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "皮皮在门边回望黄叶",
+      "narration_lines": [
+        "皮皮没有把它带进屋。",
+        "他让这片秋叶，留在自己选好的地方。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "主体近景，暖光方向延续",
+      "image": "images/shot_06.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：皮皮在门边回望黄叶。镜位：主体近景，暖光方向延续。",
+      "initial_budget_s": 9.17,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "拨松枕头安放耳朵",
+      "narration_lines": [
+        "回到床边，皮皮也把枕头拨松一点，让长耳朵不必折着。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "安顿动作中景或安静环境近景",
+      "image": "images/shot_07.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：拨松枕头安放耳朵。镜位：安顿动作中景或安静环境近景。",
+      "initial_budget_s": 7.83,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "毛毯下的安睡皮皮",
+      "narration_lines": [
+        "毛毯盖住身体，他闭上眼睛。",
+        "门外有草叶的枕头，屋里有自己的枕头。"
+      ],
+      "pause_after_s": [
+        1.1,
+        1.1
+      ],
+      "camera": "放松姿态近景，光线略柔暗",
+      "image": "images/shot_08.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：毛毯下的安睡皮皮。镜位：放松姿态近景，光线略柔暗。",
+      "initial_budget_s": 10.64,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "门前草地与暖屋远景",
+      "narration_lines": [
+        "小朋友，今天落到心里的小事情，也可以慢慢放好。",
+        "找个舒服的位置，晚安。"
+      ],
+      "pause_after_s": [
+        1.1,
+        8.0
+      ],
+      "camera": "木屋卧室或可见卧室的中远景收束，主体安睡",
+      "image": "images/shot_09.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：门前草地与暖屋远景。镜位：木屋卧室或可见卧室的中远景收束，主体安睡。",
+      "initial_budget_s": 18.16,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "需按本集提示词生成图片并合成配音；不含尚未制作的图片或音频",
+  "shared_config": "03_素材与参数/共用画风与提示词.json",
+  "character_names": [
+    "皮皮"
+  ]
+}

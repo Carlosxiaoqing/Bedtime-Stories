@@ -1,0 +1,187 @@
+{
+  "schema_version": 2,
+  "id": "ep053",
+  "episode": 53,
+  "title": "花苞不着急",
+  "theme": "尊重自己的节奏",
+  "setting": "窗边花盆与卧室",
+  "guest": "无",
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "约90–120秒；以实际配音为准",
+  "cn_characters": 231,
+  "initial_duration_budget_s": 94.4,
+  "shots": [
+    {
+      "id": 1,
+      "title": "窗边闭合的小花苞",
+      "narration_lines": [
+        "窗边的小花苞，圆圆地合着。",
+        "皮皮看过好几回，它还是，安静的小小一团。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "中景建立环境，主体位置清楚",
+      "image": "images/shot_01.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：窗边闭合的小花苞。镜位：中景建立环境，主体位置清楚。",
+      "initial_budget_s": 11.42,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "画纸旁停住的画笔",
+      "narration_lines": [
+        "他拿来画纸，想画一朵大花，又看看花苞，慢慢把笔停了下来。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "主体或物件近景，保留地点线索",
+      "image": "images/shot_02.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：画纸旁停住的画笔。镜位：主体或物件近景，保留地点线索。",
+      "initial_budget_s": 8.45,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "纸上细茎与圆花苞",
+      "narration_lines": [
+        "皮皮在纸上，画下眼前的样子。",
+        "一根细茎，一个圆苞，已经是一幅小画。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "中近景呈现动作后的稳定姿态",
+      "image": "images/shot_03.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：纸上细茎与圆花苞。镜位：中近景呈现动作后的稳定姿态。",
+      "initial_budget_s": 10.11,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "收好帘角避开花茎",
+      "narration_lines": [
+        "风吹到窗边时，他把窗帘收好一点，没有让帘角，碰着细细的花茎。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "细节特写，避免裁掉必要的爪子或道具",
+      "image": "images/shot_04.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：收好帘角避开花茎。镜位：细节特写，避免裁掉必要的爪子或道具。",
+      "initial_budget_s": 9.07,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "稳稳闭合的柔嫩花苞",
+      "narration_lines": [
+        "花苞稳稳站着，不用为了画纸上的大花，赶快把自己，全部打开。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "中景呈现情境变化，留低细节空间",
+      "image": "images/shot_05.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：稳稳闭合的柔嫩花苞。镜位：中景呈现情境变化，留低细节空间。",
+      "initial_budget_s": 8.76,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "床头摆好的花苞小画",
+      "narration_lines": [
+        "皮皮把小画放到床头。",
+        "花开的那一天，还可以，再画一幅新的。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "主体近景，暖光方向延续",
+      "image": "images/shot_06.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：床头摆好的花苞小画。镜位：主体近景，暖光方向延续。",
+      "initial_budget_s": 9.17,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "毛毯与放松的肩膀",
+      "narration_lines": [
+        "现在，他先盖好毛毯，把玩偶放到臂弯里，肩膀也慢慢放松。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "安顿动作中景或安静环境近景",
+      "image": "images/shot_07.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：毛毯与放松的肩膀。镜位：安顿动作中景或安静环境近景。",
+      "initial_budget_s": 8.14,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "闭眼皮皮与花苞剪影",
+      "narration_lines": [
+        "皮皮闭上眼睛。",
+        "窗边的花苞歇着，他也不需要，今晚就做完所有事情。"
+      ],
+      "pause_after_s": [
+        1.1,
+        1.1
+      ],
+      "camera": "放松姿态近景，光线略柔暗",
+      "image": "images/shot_08.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：闭眼皮皮与花苞剪影。镜位：放松姿态近景，光线略柔暗。",
+      "initial_budget_s": 10.64,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "柔和花影与卧室远景",
+      "narration_lines": [
+        "小朋友，按照自己的速度来吧。",
+        "今天这样，也已经很好。",
+        "暖暖地睡，晚安。"
+      ],
+      "pause_after_s": [
+        1.1,
+        1.1,
+        8.0
+      ],
+      "camera": "木屋卧室或可见卧室的中远景收束，主体安睡",
+      "image": "images/shot_09.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：柔和花影与卧室远景。镜位：木屋卧室或可见卧室的中远景收束，主体安睡。",
+      "initial_budget_s": 18.64,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "需按本集提示词生成图片并合成配音；不含尚未制作的图片或音频",
+  "shared_config": "03_素材与参数/共用画风与提示词.json",
+  "character_names": [
+    "皮皮"
+  ]
+}
