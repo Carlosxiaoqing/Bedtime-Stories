@@ -1,0 +1,17 @@
+{
+  "text": "他把长耳朵轻轻放好，小爪子也放松了。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "edge_tts": "7.3.1",
+  "fingerprint": "6f8bd3360af6f6045b189d2b00a6c2b7fbc62cdf36d39c2315e57fa4e3fd2599",
+  "boundaries": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 1000000,
+      "duration": 58346150,
+      "text": "他把长耳朵轻轻放好，小爪子也放松了。"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "text": "窗外，月亮弯弯的，树叶轻轻摇。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "edge_tts": "7.3.1",
+  "fingerprint": "2fbd67961aeded4253df87a4c44bc4963c820c1d462c38e27fb7f5f1636e9f06",
+  "boundaries": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 1000000,
+      "duration": 54307689,
+      "text": "窗外，月亮弯弯的，树叶轻轻摇。"
+    }
+  ]
+}

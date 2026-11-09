@@ -1,0 +1,17 @@
+{
+  "text": "夜深了，森林里的小屋，亮着一盏暖暖的小灯。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "edge_tts": "7.3.1",
+  "fingerprint": "2ab9856b8253d6b10dff806e1d27a88c2e1ce68bc173b752aef6d8c37bcddba3",
+  "boundaries": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 1000000,
+      "duration": 69884611,
+      "text": "夜深了，森林里的小屋，亮着一盏暖暖的小灯。"
+    }
+  ]
+}

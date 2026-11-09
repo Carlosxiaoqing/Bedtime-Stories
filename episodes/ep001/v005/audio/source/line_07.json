@@ -1,0 +1,17 @@
+{
+  "text": "窗边的一颗小星星，慢慢亮了起来。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "edge_tts": "7.3.1",
+  "fingerprint": "2daf40155397508f95d18fde02617189c2be907f1893e0adc0601e8e63baa976",
+  "boundaries": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 1000000,
+      "duration": 53346150,
+      "text": "窗边的一颗小星星，慢慢亮了起来。"
+    }
+  ]
+}

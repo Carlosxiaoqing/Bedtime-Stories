@@ -1,0 +1,101 @@
+[
+  {
+    "file": "images/shot_01.png",
+    "size": [
+      941,
+      1672
+    ],
+    "sha256": "247807173f26c264c4603011316802679b6ed207b9c08ed807e4ba6fa7980c5c",
+    "source": "OpenAI image_gen, generated for this episode",
+    "reference": "shot_01.png for identity/style; shot_01 generated without an external reference",
+    "status": "original_independent_scene"
+  },
+  {
+    "file": "images/shot_02.png",
+    "size": [
+      941,
+      1672
+    ],
+    "sha256": "eaaeb590b732b069ebf20cf7f1e3512c59d404571965aae95d33d2c8e9116d1f",
+    "source": "OpenAI image_gen, generated for this episode",
+    "reference": "shot_01.png for identity/style; shot_01 generated without an external reference",
+    "status": "original_independent_scene"
+  },
+  {
+    "file": "images/shot_03.png",
+    "size": [
+      941,
+      1672
+    ],
+    "sha256": "d063178631a37db7416242b03e4b6c5ec01b8236f5c4fe7a2d233869e44f4dbf",
+    "source": "OpenAI image_gen, generated for this episode",
+    "reference": "shot_01.png for identity/style; shot_01 generated without an external reference",
+    "status": "original_independent_scene"
+  },
+  {
+    "file": "images/shot_04.png",
+    "size": [
+      941,
+      1672
+    ],
+    "sha256": "304a0dcfee52e78df1e0ab1eccdfcfae1852240746af46cf58df225831abf01f",
+    "source": "OpenAI image_gen, generated for this episode",
+    "reference": "shot_01.png for identity/style; shot_01 generated without an external reference",
+    "status": "original_independent_scene"
+  },
+  {
+    "file": "images/shot_05.png",
+    "size": [
+      941,
+      1672
+    ],
+    "sha256": "09bf197ebe3ee0287e0cfd95d3bae6e89f34c6134412b8c63e612897f7151130",
+    "source": "OpenAI image_gen, generated for this episode",
+    "reference": "shot_01.png for identity/style; shot_01 generated without an external reference",
+    "status": "original_independent_scene"
+  },
+  {
+    "file": "images/shot_06.png",
+    "size": [
+      941,
+      1672
+    ],
+    "sha256": "f5d6b11d5ed7f3a3efc04717828392c95e1d575e70b6be4e1e10786c4198ed06",
+    "source": "OpenAI image_gen, generated for this episode",
+    "reference": "shot_01.png for identity/style; shot_01 generated without an external reference",
+    "status": "original_independent_scene"
+  },
+  {
+    "file": "images/shot_07.png",
+    "size": [
+      941,
+      1672
+    ],
+    "sha256": "11e2f455e550408c24cd84dca5e9b6c81818e04940fb1fa5ecc5352d9bd00ac5",
+    "source": "OpenAI image_gen, generated for this episode",
+    "reference": "shot_01.png for identity/style; shot_01 generated without an external reference",
+    "status": "original_independent_scene"
+  },
+  {
+    "file": "images/shot_08.png",
+    "size": [
+      941,
+      1672
+    ],
+    "sha256": "f260e539c7f2fe4cd8655a8d9262148ecbe93b5479522bb27505b4b43976fe83",
+    "source": "OpenAI image_gen, generated for this episode",
+    "reference": "shot_01.png for identity/style; shot_01 generated without an external reference",
+    "status": "original_independent_scene"
+  },
+  {
+    "file": "images/shot_09.png",
+    "size": [
+      941,
+      1672
+    ],
+    "sha256": "a7e6dbb89309198cfd5a4fd38186d236adfea43e7ec8dbb571c44229752a9720",
+    "source": "OpenAI image_gen, generated for this episode",
+    "reference": "shot_01.png for identity/style; shot_01 generated without an external reference",
+    "status": "original_independent_scene"
+  }
+]

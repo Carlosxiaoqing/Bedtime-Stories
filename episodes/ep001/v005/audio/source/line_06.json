@@ -1,0 +1,17 @@
+{
+  "text": "小毛毯软软的，一直盖到下巴。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "edge_tts": "7.3.1",
+  "fingerprint": "a283c57710b5f8bad90fd65934b6bfe888b36451480f1ea0faeec27a9495db01",
+  "boundaries": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 1000000,
+      "duration": 50076920,
+      "text": "小毛毯软软的，一直盖到下巴。"
+    }
+  ]
+}

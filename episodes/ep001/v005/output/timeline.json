@@ -1,0 +1,260 @@
+{
+  "duration_s": 99.88,
+  "fps": 25,
+  "crossfade_s": 0.96,
+  "shots": [
+    {
+      "shot": 1,
+      "start_s": 0.0,
+      "end_s": 13.84,
+      "duration_s": 13.84,
+      "source_duration_s": 14.32,
+      "image": "images/shot_01.png",
+      "motion": "fixed"
+    },
+    {
+      "shot": 2,
+      "start_s": 13.84,
+      "end_s": 19.36,
+      "duration_s": 5.52,
+      "source_duration_s": 6.4799999999999995,
+      "image": "images/shot_02.png",
+      "motion": "fixed"
+    },
+    {
+      "shot": 3,
+      "start_s": 19.36,
+      "end_s": 30.56,
+      "duration_s": 11.2,
+      "source_duration_s": 12.16,
+      "image": "images/shot_03.png",
+      "motion": "fixed"
+    },
+    {
+      "shot": 4,
+      "start_s": 30.56,
+      "end_s": 35.68,
+      "duration_s": 5.120000000000001,
+      "source_duration_s": 6.080000000000001,
+      "image": "images/shot_04.png",
+      "motion": "fixed"
+    },
+    {
+      "shot": 5,
+      "start_s": 35.68,
+      "end_s": 53.12,
+      "duration_s": 17.439999999999998,
+      "source_duration_s": 18.4,
+      "image": "images/shot_05.png",
+      "motion": "fixed"
+    },
+    {
+      "shot": 6,
+      "start_s": 53.12,
+      "end_s": 65.08,
+      "duration_s": 11.96,
+      "source_duration_s": 12.920000000000002,
+      "image": "images/shot_06.png",
+      "motion": "fixed"
+    },
+    {
+      "shot": 7,
+      "start_s": 65.08,
+      "end_s": 70.32,
+      "duration_s": 5.239999999999995,
+      "source_duration_s": 6.199999999999995,
+      "image": "images/shot_07.png",
+      "motion": "fixed"
+    },
+    {
+      "shot": 8,
+      "start_s": 70.32,
+      "end_s": 81.72,
+      "duration_s": 11.400000000000006,
+      "source_duration_s": 12.360000000000007,
+      "image": "images/shot_08.png",
+      "motion": "fixed"
+    },
+    {
+      "shot": 9,
+      "start_s": 81.72,
+      "end_s": 99.88,
+      "duration_s": 18.159999999999997,
+      "source_duration_s": 18.639999999999997,
+      "image": "images/shot_09.png",
+      "motion": "fixed"
+    }
+  ],
+  "narration": [
+    {
+      "line": 1,
+      "shot": 1,
+      "text": "夜深了，森林里的小屋，亮着一盏暖暖的小灯。",
+      "start_s": 1.0,
+      "end_s": 7.287916666666667,
+      "pause_after_s": 0.72,
+      "source": "audio/source/line_01.mp3",
+      "source_trim_start_s": 0.13820833333333332
+    },
+    {
+      "line": 2,
+      "shot": 1,
+      "text": "小兔子皮皮靠在枕头上，盖着他的小毛毯。",
+      "start_s": 8.007916666666667,
+      "end_s": 13.466166666666666,
+      "pause_after_s": 0.72,
+      "source": "audio/source/line_02.mp3",
+      "source_trim_start_s": 0.14272916666666666
+    },
+    {
+      "line": 3,
+      "shot": 2,
+      "text": "窗外，月亮弯弯的，树叶轻轻摇。",
+      "start_s": 14.186166666666665,
+      "end_s": 18.886374999999997,
+      "pause_after_s": 0.95,
+      "source": "audio/source/line_03.mp3",
+      "source_trim_start_s": 0.150875
+    },
+    {
+      "line": 4,
+      "shot": 3,
+      "text": "皮皮揉揉眼睛，打了个小小的哈欠。",
+      "start_s": 19.836374999999997,
+      "end_s": 24.370229166666665,
+      "pause_after_s": 0.72,
+      "source": "audio/source/line_04.mp3",
+      "source_trim_start_s": 0.15097916666666666
+    },
+    {
+      "line": 5,
+      "shot": 3,
+      "text": "他把长耳朵轻轻放好，小爪子也放松了。",
+      "start_s": 25.090229166666663,
+      "end_s": 30.18489583333333,
+      "pause_after_s": 0.72,
+      "source": "audio/source/line_05.mp3",
+      "source_trim_start_s": 0.15285416666666668
+    },
+    {
+      "line": 6,
+      "shot": 4,
+      "text": "小毛毯软软的，一直盖到下巴。",
+      "start_s": 30.90489583333333,
+      "end_s": 35.19945833333333,
+      "pause_after_s": 0.95,
+      "source": "audio/source/line_06.mp3",
+      "source_trim_start_s": 0.13641666666666666
+    },
+    {
+      "line": 7,
+      "shot": 5,
+      "text": "窗边的一颗小星星，慢慢亮了起来。",
+      "start_s": 36.14945833333333,
+      "end_s": 40.75716666666666,
+      "pause_after_s": 0.72,
+      "source": "audio/source/line_07.mp3",
+      "source_trim_start_s": 0.15110416666666668
+    },
+    {
+      "line": 8,
+      "shot": 5,
+      "text": "皮皮望着它，在心里轻轻说：小星星，晚安。",
+      "start_s": 41.47716666666666,
+      "end_s": 47.9099375,
+      "pause_after_s": 0.72,
+      "source": "audio/source/line_08.mp3",
+      "source_trim_start_s": 0.14858333333333335
+    },
+    {
+      "line": 9,
+      "shot": 5,
+      "text": "小星星安安静静地，陪着他。",
+      "start_s": 48.6299375,
+      "end_s": 52.65479166666666,
+      "pause_after_s": 0.95,
+      "source": "audio/source/line_09.mp3",
+      "source_trim_start_s": 0.13991666666666666
+    },
+    {
+      "line": 10,
+      "shot": 6,
+      "text": "皮皮抱好胡萝卜玩偶，往被窝里缩了缩。",
+      "start_s": 53.604791666666664,
+      "end_s": 58.7749375,
+      "pause_after_s": 0.72,
+      "source": "audio/source/line_10.mp3",
+      "source_trim_start_s": 0.1525625
+    },
+    {
+      "line": 11,
+      "shot": 6,
+      "text": "小脚丫暖暖的，小肚子一起，一伏。",
+      "start_s": 59.4949375,
+      "end_s": 64.73508333333334,
+      "pause_after_s": 0.72,
+      "source": "audio/source/line_11.mp3",
+      "source_trim_start_s": 0.14529166666666668
+    },
+    {
+      "line": 12,
+      "shot": 7,
+      "text": "风轻了，树叶也慢慢安静下来。",
+      "start_s": 65.45508333333333,
+      "end_s": 69.84691666666667,
+      "pause_after_s": 0.95,
+      "source": "audio/source/line_12.mp3",
+      "source_trim_start_s": 0.13258333333333333
+    },
+    {
+      "line": 13,
+      "shot": 8,
+      "text": "小兔子闭上眼睛，安心地睡着了。",
+      "start_s": 70.79691666666668,
+      "end_s": 75.28375000000001,
+      "pause_after_s": 1.1,
+      "source": "audio/source/line_13.mp3",
+      "source_trim_start_s": 0.1396875
+    },
+    {
+      "line": 14,
+      "shot": 8,
+      "text": "小朋友，你也可以找个舒服的姿势。",
+      "start_s": 76.38375,
+      "end_s": 81.15768750000001,
+      "pause_after_s": 1.1,
+      "source": "audio/source/line_14.mp3",
+      "source_trim_start_s": 0.14402083333333332
+    },
+    {
+      "line": 15,
+      "shot": 9,
+      "text": "轻轻闭上眼睛。",
+      "start_s": 82.2576875,
+      "end_s": 84.568,
+      "pause_after_s": 1.1,
+      "source": "audio/source/line_15.mp3",
+      "source_trim_start_s": 0.13227083333333334
+    },
+    {
+      "line": 16,
+      "shot": 9,
+      "text": "小被子陪着你。",
+      "start_s": 85.668,
+      "end_s": 87.7786875,
+      "pause_after_s": 1.1,
+      "source": "audio/source/line_16.mp3",
+      "source_trim_start_s": 0.14439583333333333
+    },
+    {
+      "line": 17,
+      "shot": 9,
+      "text": "晚安，做个甜甜的梦。",
+      "start_s": 88.87868750000001,
+      "end_s": 91.85287500000001,
+      "pause_after_s": 8.0,
+      "source": "audio/source/line_17.mp3",
+      "source_trim_start_s": 0.15379166666666666
+    }
+  ]
+}

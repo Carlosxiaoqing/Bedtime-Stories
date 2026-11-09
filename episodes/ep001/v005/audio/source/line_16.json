@@ -1,0 +1,17 @@
+{
+  "text": "小被子陪着你。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "edge_tts": "7.3.1",
+  "fingerprint": "f27fd3ad2608f239189a56bbda4c85298f6b8b238886bfc28c7a84cfd2831bd3",
+  "boundaries": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 1000000,
+      "duration": 28730767,
+      "text": "小被子陪着你。"
+    }
+  ]
+}

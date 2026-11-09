@@ -1,0 +1,17 @@
+{
+  "text": "皮皮望着它，在心里轻轻说：小星星，晚安。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "edge_tts": "7.3.1",
+  "fingerprint": "52ad39cee010ee5854eb55f4b8b288d115b512302933ec67d7d9436ca0834e5c",
+  "boundaries": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 1000000,
+      "duration": 71615380,
+      "text": "皮皮望着它，在心里轻轻说：小星星，晚安。"
+    }
+  ]
+}

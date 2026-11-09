@@ -1,7 +1,7 @@
 {
   "provider": "Microsoft Edge online speech via edge-tts",
   "voice": "zh-CN-XiaoxiaoNeural",
-  "rate": "-25%",
+  "rate": "-35%",
   "pitch": "-2Hz",
   "volume": "+0%",
   "sample_rate": 48000,
@@ -69,6 +69,16 @@
   "notes": [
     "WAV reference is a listening target, not a voice cloning model.",
     "New narration uses the same TTS voice; current first episode can be replayed offline.",
-    "No API keys or login cookies are included."
-  ]
+    "No API keys or login cookies are included.",
+    "Current rate is -35% by user decision on 2026-11-10. Historical approved reference paths use the former -25% rate and only document prior voice identity/baseline. Re-synthesize and remeasure timings; do not time-stretch old narration."
+  ],
+  "rate_approval": {
+    "date": "2026-11-10",
+    "timezone": "Asia/Shanghai",
+    "previous_rate": "-25%",
+    "rate": "-35%",
+    "confirmation": "可以，就按照当前的你说的这个建议再调到负百分之三十五吧。"
+  },
+  "current_voice_sample": "episodes/ep001/v005/audio/voice.wav",
+  "current_voice_sample_review": "pending"
 }

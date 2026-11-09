@@ -1,0 +1,13 @@
+{
+  "date": "2026-11-10",
+  "timezone": "Asia/Shanghai",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "scope": "user_confirmed_rate_parameter",
+  "user_confirmation": "可以，就按照当前的你说的这个建议再调到负百分之三十五吧。",
+  "audio_sample_review": "pending",
+  "generated_voice_sha256": "ac97932aff2100fd41871b80cb4facb09140801a9e399ea6c0518f4762499e2c",
+  "actual_total_duration_s": 99.88
+}
