@@ -25,7 +25,7 @@
 
 ## 当前001重制运行入口
 
-001 v003已从现有剧本重新制作，不依赖原04/05包。交付见[output](episodes/ep001/v003/output/README.md)，脚本见[tools](episodes/ep001/v003/tools/)。
+001 v004已从现有剧本重新制作，不依赖原04/05包。交付见[output](episodes/ep001/v004/output/README.md)，脚本见[tools](episodes/ep001/v004/tools/)。
 
 在仓库根目录，使用Python 3.12环境安装该目录requirements.txt；`synthesize.py`生成逐句音频与真实时间线，`render.py`使用现有九张原图生成音床、逐字拼音字幕、封面和视频。已批准配音应复用，不随意重新合成。Edge TTS须使用7.3.1、显式继承HTTPS代理并将平台CA加载到TLS上下文，保持验证开启。
 

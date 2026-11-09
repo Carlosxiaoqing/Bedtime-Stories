@@ -2,16 +2,16 @@
   "schema_version": 1,
   "updated_on": "2026-11-09",
   "timezone": "Asia/Shanghai",
-  "status": "production_defaults_first_visual_sample_not_reviewed",
+  "status": "updated_from_user_feedback_v004",
   "applies_to": "new_episodes_and_explicit_revisions",
-  "implementation_status": "declarative_style_only_renderer_not_imported",
+  "implementation_status": "episode_001_renderer_available",
   "canvas": {
     "width": 1080,
     "height": 1920,
     "fps": 25
   },
   "cover": {
-    "template": "bedtime-cover-v1",
+    "template": "bedtime-cover-v2",
     "editable_template": "docs/production/templates/cover-template.svg",
     "count": 1,
     "included_in_story_shot_count": false,
@@ -42,62 +42,62 @@
       "opacity": 0.94
     },
     "title_center_x": 540,
-    "title_top_y_single": 1320,
     "title_top_y_two": [
       1260,
       1392
     ],
-    "series_name": "晚安绘本馆",
-    "series_name_top_y": 1180,
-    "series_name_size_px": 36
+    "show_series_name": false,
+    "show_account_name": false,
+    "text_content": "episode_topic_only",
+    "title_center_y_single": 1360
   },
   "subtitles": {
-    "template": "bedtime-ruby-v1",
+    "template": "bedtime-ruby-v2",
     "burn_into_release_video": true,
     "retain_clean_master": true,
     "hanzi_font": "Noto Sans CJK SC",
     "hanzi_weight": "Medium",
-    "hanzi_size_px": 64,
+    "hanzi_size_px": 76,
     "pinyin_font": "Noto Sans",
     "pinyin_weight": "Medium",
-    "pinyin_size_px": 30,
+    "pinyin_size_px": 48,
     "text_color": "#FFF4DC",
     "outline_color": "#182232",
     "hanzi_outline_px": 2,
     "pinyin_outline_px": 1,
-    "minimum_cell_width_px": 88,
+    "minimum_cell_width_px": 96,
     "cell_padding_px": 16,
-    "max_content_width_px": 840,
+    "max_content_width_px": 900,
     "preferred_hanzi_per_cue": [
-      6,
-      9
+      4,
+      7
     ],
     "max_groups": 2,
-    "group_height_px": 112,
-    "pinyin_line_box_height_px": 36,
+    "group_height_px": 168,
+    "pinyin_line_box_height_px": 58,
     "gap_px": 8,
-    "hanzi_line_box_height_px": 68,
+    "hanzi_line_box_height_px": 86,
     "single_group_tops_y": [
-      1510,
-      1554
+      1500,
+      1566
     ],
     "double_group_tops_y": [
       [
-        1398,
-        1442
+        1332,
+        1398
       ],
       [
-        1510,
-        1554
+        1500,
+        1566
       ]
     ],
     "plate": {
-      "x": 96,
-      "width": 888,
-      "single_y": 1490,
-      "single_height": 152,
-      "double_y": 1378,
-      "double_height": 264,
+      "x": 72,
+      "width": 936,
+      "single_y": 1480,
+      "single_height": 188,
+      "double_y": 1312,
+      "double_height": 356,
       "radius": 24,
       "fill": "#182232",
       "opacity": 0.72
@@ -114,5 +114,12 @@
       "subtitles.ruby.json"
     ],
     "spec": "docs/production/SUBTITLE_SPEC.md"
+  },
+  "motion": {
+    "mode": "fixed",
+    "zoom": false,
+    "pan": false,
+    "local_motion": false,
+    "crossfade_s": 0.96
   }
 }

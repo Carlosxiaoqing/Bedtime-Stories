@@ -1,0 +1,17 @@
+{
+  "text": "小星星安安静静地，陪着他。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-25%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "edge_tts": "7.3.1",
+  "fingerprint": "00684a2d22972ec377398e717e8582baa0e0117a77573a4a5f1105ca312cf77c",
+  "boundaries": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 1000000,
+      "duration": 41000000,
+      "text": "小星星安安静静地，陪着他。"
+    }
+  ]
+}

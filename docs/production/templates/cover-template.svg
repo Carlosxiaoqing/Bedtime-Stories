@@ -1,14 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920" role="img" aria-labelledby="title description">
-  <title id="title">晚安绘本馆统一封面版式</title>
+  <title id="title">统一主题封面版式</title>
   <desc id="description">可编辑布局示意，尚未放入本集插画。替换episode-art图层，编辑标题，隐藏guides图层再导出。</desc>
   <defs><linearGradient id="night" x2="0" y2="1"><stop stop-color="#46566A"/><stop offset="1" stop-color="#182232"/></linearGradient></defs>
   <!-- Replace this layout background with the episode's full-bleed, text-free watercolor illustration. -->
   <g id="episode-art"><rect width="1080" height="1920" fill="url(#night)"/></g>
   <g id="title-card">
     <rect x="108" y="1140" width="864" height="440" rx="48" fill="#FFF4DC" fill-opacity="0.94"/>
-    <text x="540" y="1180" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Noto Sans CJK SC, sans-serif" font-weight="500" font-size="36" fill="#182232">晚安绘本馆</text>
     <!-- Single-line title. For two lines use y=1260 and 1392, at most four Hanzi per line. -->
-    <text id="episode-title" x="540" y="1320" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Noto Sans CJK SC, sans-serif" font-weight="700" font-size="112" fill="#182232">月光口袋</text>
+    <text id="episode-title" x="540" y="1360" dominant-baseline="central" text-anchor="middle" font-family="Noto Sans CJK SC, sans-serif" font-weight="700" font-size="112" fill="#182232">月光口袋</text>
   </g>
   <g id="guides" font-family="Noto Sans CJK SC, sans-serif" font-size="28" fill="#FFF4DC" text-anchor="middle">
     <rect x="108" y="180" width="864" height="1420" rx="16" fill="none" stroke="#D9B77B" stroke-dasharray="12 12"/>

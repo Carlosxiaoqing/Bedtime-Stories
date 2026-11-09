@@ -1,0 +1,16 @@
+{
+  "episode": "ep001",
+  "version": "v003",
+  "approved_on": "2026-11-09",
+  "timezone": "Asia/Shanghai",
+  "scope": "narration_voice_and_pacing",
+  "confirmation": "没问题。然后的话就这个配音就是按照这个配音。",
+  "voice_file": "voice.wav",
+  "sha256": "ad8e90a5d5df326083e6d10ea8bda08923c9da0a9f64f19a2a1a48744acf3ead",
+  "duration_s": 90.2,
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-25%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "video_approval": "pending"
+}

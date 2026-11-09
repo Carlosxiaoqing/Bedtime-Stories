@@ -1,0 +1,1730 @@
+[
+  {
+    "line": 1,
+    "shot": 1,
+    "text": "夜深了，",
+    "start_s": 1.0,
+    "end_s": 2.205,
+    "pause_after_s": 0.72,
+    "source": "audio/source/line_01.mp3",
+    "source_trim_start_s": 0.112125,
+    "alignment": "original_audio_silence_at_spoken_punctuation",
+    "cue_id": 1,
+    "subtitle_start_s": 1.04,
+    "subtitle_end_s": 2.16,
+    "tokens": [
+      {
+        "hanzi": "夜",
+        "pinyin": "yè"
+      },
+      {
+        "hanzi": "深",
+        "pinyin": "shēn"
+      },
+      {
+        "hanzi": "了",
+        "pinyin": "le"
+      },
+      {
+        "hanzi": "，",
+        "pinyin": ""
+      }
+    ],
+    "rows": [
+      "夜深了，"
+    ]
+  },
+  {
+    "line": 1,
+    "shot": 1,
+    "text": "森林里的小屋，",
+    "start_s": 2.205,
+    "end_s": 4.08,
+    "pause_after_s": 0.72,
+    "source": "audio/source/line_01.mp3",
+    "source_trim_start_s": 0.112125,
+    "alignment": "original_audio_silence_at_spoken_punctuation",
+    "cue_id": 2,
+    "subtitle_start_s": 2.24,
+    "subtitle_end_s": 4.04,
+    "tokens": [
+      {
+        "hanzi": "森",
+        "pinyin": "sēn"
+      },
+      {
+        "hanzi": "林",
+        "pinyin": "lín"
+      },
+      {
+        "hanzi": "里",
+        "pinyin": "lǐ"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      },
+      {
+        "hanzi": "小",
+        "pinyin": "xiǎo"
+      },
+      {
+        "hanzi": "屋",
+        "pinyin": "wū"
+      },
+      {
+        "hanzi": "，",
+        "pinyin": ""
+      }
+    ],
+    "rows": [
+      "森林里的小屋，"
+    ]
+  },
+  {
+    "line": 1,
+    "shot": 1,
+    "text": "亮着一盏暖暖的小灯。",
+    "start_s": 4.08,
+    "end_s": 6.483104166666666,
+    "pause_after_s": 0.72,
+    "source": "audio/source/line_01.mp3",
+    "source_trim_start_s": 0.112125,
+    "alignment": "original_audio_silence_at_spoken_punctuation",
+    "cue_id": 3,
+    "subtitle_start_s": 4.12,
+    "subtitle_end_s": 6.44,
+    "tokens": [
+      {
+        "hanzi": "亮",
+        "pinyin": "liàng"
+      },
+      {
+        "hanzi": "着",
+        "pinyin": "zhe"
+      },
+      {
+        "hanzi": "一",
+        "pinyin": "yì"
+      },
+      {
+        "hanzi": "盏",
+        "pinyin": "zhǎn"
+      },
+      {
+        "hanzi": "暖",
+        "pinyin": "nuǎn"
+      },
+      {
+        "hanzi": "暖",
+        "pinyin": "nuǎn"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      },
+      {
+        "hanzi": "小",
+        "pinyin": "xiǎo"
+      },
+      {
+        "hanzi": "灯",
+        "pinyin": "dēng"
+      },
+      {
+        "hanzi": "。",
+        "pinyin": ""
+      }
+    ],
+    "rows": [
+      "亮着一盏暖",
+      "暖的小灯。"
+    ]
+  },
+  {
+    "line": 2,
+    "shot": 1,
+    "text": "小兔子皮皮靠在枕头上，",
+    "start_s": 7.203104166666666,
+    "end_s": 10.033104166666666,
+    "pause_after_s": 0.72,
+    "source": "audio/source/line_02.mp3",
+    "source_trim_start_s": 0.1175,
+    "alignment": "original_audio_silence_at_spoken_punctuation",
+    "cue_id": 4,
+    "subtitle_start_s": 7.24,
+    "subtitle_end_s": 10.0,
+    "tokens": [
+      {
+        "hanzi": "小",
+        "pinyin": "xiǎo"
+      },
+      {
+        "hanzi": "兔",
+        "pinyin": "tù"
+      },
+      {
+        "hanzi": "子",
+        "pinyin": "zi"
+      },
+      {
+        "hanzi": "皮",
+        "pinyin": "pí"
+      },
+      {
+        "hanzi": "皮",
+        "pinyin": "pí"
+      },
+      {
+        "hanzi": "靠",
+        "pinyin": "kào"
+      },
+      {
+        "hanzi": "在",
+        "pinyin": "zài"
+      },
+      {
+        "hanzi": "枕",
+        "pinyin": "zhěn"
+      },
+      {
+        "hanzi": "头",
+        "pinyin": "tou"
+      },
+      {
+        "hanzi": "上",
+        "pinyin": "shàng"
+      },
+      {
+        "hanzi": "，",
+        "pinyin": ""
+      }
+    ],
+    "rows": [
+      "小兔子皮皮靠",
+      "在枕头上，"
+    ]
+  },
+  {
+    "line": 2,
+    "shot": 1,
+    "text": "盖着他的小毛毯。",
+    "start_s": 10.033104166666666,
+    "end_s": 11.959624999999999,
+    "pause_after_s": 0.72,
+    "source": "audio/source/line_02.mp3",
+    "source_trim_start_s": 0.1175,
+    "alignment": "original_audio_silence_at_spoken_punctuation",
+    "cue_id": 5,
+    "subtitle_start_s": 10.08,
+    "subtitle_end_s": 11.92,
+    "tokens": [
+      {
+        "hanzi": "盖",
+        "pinyin": "gài"
+      },
+      {
+        "hanzi": "着",
+        "pinyin": "zhe"
+      },
+      {
+        "hanzi": "他",
+        "pinyin": "tā"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      },
+      {
+        "hanzi": "小",
+        "pinyin": "xiǎo"
+      },
+      {
+        "hanzi": "毛",
+        "pinyin": "máo"
+      },
+      {
+        "hanzi": "毯",
+        "pinyin": "tǎn"
+      },
+      {
+        "hanzi": "。",
+        "pinyin": ""
+      }
+    ],
+    "rows": [
+      "盖着他的小毛毯。"
+    ]
+  },
+  {
+    "line": 3,
+    "shot": 2,
+    "text": "窗外，",
+    "start_s": 12.679624999999998,
+    "end_s": 13.579624999999998,
+    "pause_after_s": 0.95,
+    "source": "audio/source/line_03.mp3",
+    "source_trim_start_s": 0.12222916666666667,
+    "alignment": "original_audio_silence_at_spoken_punctuation",
+    "cue_id": 6,
+    "subtitle_start_s": 12.72,
+    "subtitle_end_s": 13.52,
+    "tokens": [
+      {
+        "hanzi": "窗",
+        "pinyin": "chuāng"
+      },
+      {
+        "hanzi": "外",
+        "pinyin": "wài"
+      },
+      {
+        "hanzi": "，",
+        "pinyin": ""
+      }
+    ],
+    "rows": [
+      "窗外，"
+    ]
+  },
+  {
+    "line": 3,
+    "shot": 2,
+    "text": "月亮弯弯的，",
+    "start_s": 13.579624999999998,
+    "end_s": 15.074624999999997,
+    "pause_after_s": 0.95,
+    "source": "audio/source/line_03.mp3",
+    "source_trim_start_s": 0.12222916666666667,
+    "alignment": "original_audio_silence_at_spoken_punctuation",
+    "cue_id": 7,
+    "subtitle_start_s": 13.6,
+    "subtitle_end_s": 15.04,
+    "tokens": [
+      {
+        "hanzi": "月",
+        "pinyin": "yuè"
+      },
+      {
+        "hanzi": "亮",
+        "pinyin": "liàng"
+      },
+      {
+        "hanzi": "弯",
+        "pinyin": "wān"
+      },
+      {
+        "hanzi": "弯",
+        "pinyin": "wān"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      },
+      {
+        "hanzi": "，",
+        "pinyin": ""
+      }
+    ],
+    "rows": [
+      "月亮弯弯的，"
+    ]
+  },
+  {
+    "line": 3,
+    "shot": 2,
+    "text": "树叶轻轻摇。",
+    "start_s": 15.074624999999997,
+    "end_s": 16.781916666666664,
+    "pause_after_s": 0.95,
+    "source": "audio/source/line_03.mp3",
+    "source_trim_start_s": 0.12222916666666667,
+    "alignment": "original_audio_silence_at_spoken_punctuation",
+    "cue_id": 8,
+    "subtitle_start_s": 15.12,
+    "subtitle_end_s": 16.76,
+    "tokens": [
+      {
+        "hanzi": "树",
+        "pinyin": "shù"
+      },
+      {
+        "hanzi": "叶",
+        "pinyin": "yè"
+      },
+      {
+        "hanzi": "轻",
+        "pinyin": "qīng"
+      },
+      {
+        "hanzi": "轻",
+        "pinyin": "qīng"
+      },
+      {
+        "hanzi": "摇",
+        "pinyin": "yáo"
+      },
+      {
+        "hanzi": "。",
+        "pinyin": ""
+      }
+    ],
+    "rows": [
+      "树叶轻轻摇。"
+    ]
+  },
+  {
+    "line": 4,
+    "shot": 3,
+    "text": "皮皮揉揉眼睛，",
+    "start_s": 17.731916666666663,
+    "end_s": 19.631916666666662,
+    "pause_after_s": 0.72,
+    "source": "audio/source/line_04.mp3",
+    "source_trim_start_s": 0.12397916666666667,
+    "alignment": "original_audio_silence_at_spoken_punctuation",
+    "cue_id": 9,
+    "subtitle_start_s": 17.76,
+    "subtitle_end_s": 19.6,
+    "tokens": [
+      {
+        "hanzi": "皮",
+        "pinyin": "pí"
+      },
+      {
+        "hanzi": "皮",
+        "pinyin": "pí"
+      },
+      {
+        "hanzi": "揉",
+        "pinyin": "róu"
+      },
+      {
+        "hanzi": "揉",
+        "pinyin": "róu"
+      },
+      {
+        "hanzi": "眼",
+        "pinyin": "yǎn"
+      },
+      {
+        "hanzi": "睛",
+        "pinyin": "jing"
+      },
+      {
+        "hanzi": "，",
+        "pinyin": ""
+      }
+    ],
+    "rows": [
+      "皮皮揉揉眼睛，"
+    ]
+  },
+  {
+    "line": 4,
+    "shot": 3,
+    "text": "打了个小小的哈欠。",
+    "start_s": 19.631916666666662,
+    "end_s": 21.69727083333333,
+    "pause_after_s": 0.72,
+    "source": "audio/source/line_04.mp3",
+    "source_trim_start_s": 0.12397916666666667,
+    "alignment": "original_audio_silence_at_spoken_punctuation",
+    "cue_id": 10,
+    "subtitle_start_s": 19.68,
+    "subtitle_end_s": 21.64,
+    "tokens": [
+      {
+        "hanzi": "打",
+        "pinyin": "dǎ"
+      },
+      {
+        "hanzi": "了",
+        "pinyin": "le"
+      },
+      {
+        "hanzi": "个",
+        "pinyin": "ge"
+      },
+      {
+        "hanzi": "小",
+        "pinyin": "xiǎo"
+      },
+      {
+        "hanzi": "小",
+        "pinyin": "xiǎo"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      },
+      {
+        "hanzi": "哈",
+        "pinyin": "hā"
+      },
+      {
+        "hanzi": "欠",
+        "pinyin": "qian"
+      },
+      {
+        "hanzi": "。",
+        "pinyin": ""
+      }
+    ],
+    "rows": [
+      "打了个小小的哈欠。"
+    ]
+  },
+  {
+    "line": 5,
+    "shot": 3,
+    "text": "他把长耳朵轻轻放好，",
+    "start_s": 22.41727083333333,
+    "end_s": 24.82227083333333,
+    "pause_after_s": 0.72,
+    "source": "audio/source/line_05.mp3",
+    "source_trim_start_s": 0.12364583333333333,
+    "alignment": "original_audio_silence_at_spoken_punctuation",
+    "cue_id": 11,
+    "subtitle_start_s": 22.44,
+    "subtitle_end_s": 24.8,
+    "tokens": [
+      {
+        "hanzi": "他",
+        "pinyin": "tā"
+      },
+      {
+        "hanzi": "把",
+        "pinyin": "bǎ"
+      },
+      {
+        "hanzi": "长",
+        "pinyin": "cháng"
+      },
+      {
+        "hanzi": "耳",
+        "pinyin": "ěr"
+      },
+      {
+        "hanzi": "朵",
+        "pinyin": "duo"
+      },
+      {
+        "hanzi": "轻",
+        "pinyin": "qīng"
+      },
+      {
+        "hanzi": "轻",
+        "pinyin": "qīng"
+      },
+      {
+        "hanzi": "放",
+        "pinyin": "fàng"
+      },
+      {
+        "hanzi": "好",
+        "pinyin": "hǎo"
+      },
+      {
+        "hanzi": "，",
+        "pinyin": ""
+      }
+    ],
+    "rows": [
+      "他把长耳朵",
+      "轻轻放好，"
+    ]
+  },
+  {
+    "line": 5,
+    "shot": 3,
+    "text": "小爪子也放松了。",
+    "start_s": 24.82227083333333,
+    "end_s": 26.87172916666666,
+    "pause_after_s": 0.72,
+    "source": "audio/source/line_05.mp3",
+    "source_trim_start_s": 0.12364583333333333,
+    "alignment": "original_audio_silence_at_spoken_punctuation",
+    "cue_id": 12,
+    "subtitle_start_s": 24.88,
+    "subtitle_end_s": 26.84,
+    "tokens": [
+      {
+        "hanzi": "小",
+        "pinyin": "xiǎo"
+      },
+      {
+        "hanzi": "爪",
+        "pinyin": "zhuǎ"
+      },
+      {
+        "hanzi": "子",
+        "pinyin": "zi"
+      },
+      {
+        "hanzi": "也",
+        "pinyin": "yě"
+      },
+      {
+        "hanzi": "放",
+        "pinyin": "fàng"
+      },
+      {
+        "hanzi": "松",
+        "pinyin": "sōng"
+      },
+      {
+        "hanzi": "了",
+        "pinyin": "le"
+      },
+      {
+        "hanzi": "。",
+        "pinyin": ""
+      }
+    ],
+    "rows": [
+      "小爪子也放松了。"
+    ]
+  },
+  {
+    "line": 6,
+    "shot": 4,
+    "text": "小毛毯软软的，",
+    "start_s": 27.591729166666664,
+    "end_s": 29.551729166666664,
+    "pause_after_s": 0.95,
+    "source": "audio/source/line_06.mp3",
+    "source_trim_start_s": 0.11235416666666667,
+    "alignment": "original_audio_silence_at_spoken_punctuation",
+    "cue_id": 13,
+    "subtitle_start_s": 27.64,
+    "subtitle_end_s": 29.52,
+    "tokens": [
+      {
+        "hanzi": "小",
+        "pinyin": "xiǎo"
+      },
+      {
+        "hanzi": "毛",
+        "pinyin": "máo"
+      },
+      {
+        "hanzi": "毯",
+        "pinyin": "tǎn"
+      },
+      {
+        "hanzi": "软",
+        "pinyin": "ruǎn"
+      },
+      {
+        "hanzi": "软",
+        "pinyin": "ruǎn"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      },
+      {
+        "hanzi": "，",
+        "pinyin": ""
+      }
+    ],
+    "rows": [
+      "小毛毯软软的，"
+    ]
+  },
+  {
+    "line": 6,
+    "shot": 4,
+    "text": "一直盖到下巴。",
+    "start_s": 29.551729166666664,
+    "end_s": 31.353562499999995,
+    "pause_after_s": 0.95,
+    "source": "audio/source/line_06.mp3",
+    "source_trim_start_s": 0.11235416666666667,
+    "alignment": "original_audio_silence_at_spoken_punctuation",
+    "cue_id": 14,
+    "subtitle_start_s": 29.6,
+    "subtitle_end_s": 31.32,
+    "tokens": [
+      {
+        "hanzi": "一",
+        "pinyin": "yì"
+      },
+      {
+        "hanzi": "直",
+        "pinyin": "zhí"
+      },
+      {
+        "hanzi": "盖",
+        "pinyin": "gài"
+      },
+      {
+        "hanzi": "到",
+        "pinyin": "dào"
+      },
+      {
+        "hanzi": "下",
+        "pinyin": "xià"
+      },
+      {
+        "hanzi": "巴",
+        "pinyin": "ba"
+      },
+      {
+        "hanzi": "。",
+        "pinyin": ""
+      }
+    ],
+    "rows": [
+      "一直盖到下巴。"
+    ]
+  },
+  {
+    "line": 7,
+    "shot": 5,
+    "text": "窗边的一颗小星星，",
+    "start_s": 32.3035625,
+    "end_s": 34.6085625,
+    "pause_after_s": 0.72,
+    "source": "audio/source/line_07.mp3",
+    "source_trim_start_s": 0.1240625,
+    "alignment": "original_audio_silence_at_spoken_punctuation",
+    "cue_id": 15,
+    "subtitle_start_s": 32.36,
+    "subtitle_end_s": 34.56,
+    "tokens": [
+      {
+        "hanzi": "窗",
+        "pinyin": "chuāng"
+      },
+      {
+        "hanzi": "边",
+        "pinyin": "biān"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      },
+      {
+        "hanzi": "一",
+        "pinyin": "yì"
+      },
+      {
+        "hanzi": "颗",
+        "pinyin": "kē"
+      },
+      {
+        "hanzi": "小",
+        "pinyin": "xiǎo"
+      },
+      {
+        "hanzi": "星",
+        "pinyin": "xīng"
+      },
+      {
+        "hanzi": "星",
+        "pinyin": "xing"
+      },
+      {
+        "hanzi": "，",
+        "pinyin": ""
+      }
+    ],
+    "rows": [
+      "窗边的一",
+      "颗小星星，"
+    ]
+  },
+  {
+    "line": 7,
+    "shot": 5,
+    "text": "慢慢亮了起来。",
+    "start_s": 34.6085625,
+    "end_s": 36.33564583333333,
+    "pause_after_s": 0.72,
+    "source": "audio/source/line_07.mp3",
+    "source_trim_start_s": 0.1240625,
+    "alignment": "original_audio_silence_at_spoken_punctuation",
+    "cue_id": 16,
+    "subtitle_start_s": 34.64,
+    "subtitle_end_s": 36.28,
+    "tokens": [
+      {
+        "hanzi": "慢",
+        "pinyin": "màn"
+      },
+      {
+        "hanzi": "慢",
+        "pinyin": "màn"
+      },
+      {
+        "hanzi": "亮",
+        "pinyin": "liàng"
+      },
+      {
+        "hanzi": "了",
+        "pinyin": "le"
+      },
+      {
+        "hanzi": "起",
+        "pinyin": "qǐ"
+      },
+      {
+        "hanzi": "来",
+        "pinyin": "lái"
+      },
+      {
+        "hanzi": "。",
+        "pinyin": ""
+      }
+    ],
+    "rows": [
+      "慢慢亮了起来。"
+    ]
+  },
+  {
+    "line": 8,
+    "shot": 5,
+    "text": "皮皮望着它，",
+    "start_s": 37.05564583333333,
+    "end_s": 38.70064583333333,
+    "pause_after_s": 0.72,
+    "source": "audio/source/line_08.mp3",
+    "source_trim_start_s": 0.12139583333333333,
+    "alignment": "original_audio_silence_at_spoken_punctuation",
+    "cue_id": 17,
+    "subtitle_start_s": 37.08,
+    "subtitle_end_s": 38.68,
+    "tokens": [
+      {
+        "hanzi": "皮",
+        "pinyin": "pí"
+      },
+      {
+        "hanzi": "皮",
+        "pinyin": "pí"
+      },
+      {
+        "hanzi": "望",
+        "pinyin": "wàng"
+      },
+      {
+        "hanzi": "着",
+        "pinyin": "zhe"
+      },
+      {
+        "hanzi": "它",
+        "pinyin": "tā"
+      },
+      {
+        "hanzi": "，",
+        "pinyin": ""
+      }
+    ],
+    "rows": [
+      "皮皮望着它，"
+    ]
+  },
+  {
+    "line": 8,
+    "shot": 5,
+    "text": "在心里轻轻说：",
+    "start_s": 38.70064583333333,
+    "end_s": 40.48564583333333,
+    "pause_after_s": 0.72,
+    "source": "audio/source/line_08.mp3",
+    "source_trim_start_s": 0.12139583333333333,
+    "alignment": "original_audio_silence_at_spoken_punctuation",
+    "cue_id": 18,
+    "subtitle_start_s": 38.76,
+    "subtitle_end_s": 40.44,
+    "tokens": [
+      {
+        "hanzi": "在",
+        "pinyin": "zài"
+      },
+      {
+        "hanzi": "心",
+        "pinyin": "xīn"
+      },
+      {
+        "hanzi": "里",
+        "pinyin": "lǐ"
+      },
+      {
+        "hanzi": "轻",
+        "pinyin": "qīng"
+      },
+      {
+        "hanzi": "轻",
+        "pinyin": "qīng"
+      },
+      {
+        "hanzi": "说",
+        "pinyin": "shuō"
+      },
+      {
+        "hanzi": "：",
+        "pinyin": ""
+      }
+    ],
+    "rows": [
+      "在心里轻轻说："
+    ]
+  },
+  {
+    "line": 8,
+    "shot": 5,
+    "text": "小星星，",
+    "start_s": 40.48564583333333,
+    "end_s": 41.80064583333333,
+    "pause_after_s": 0.72,
+    "source": "audio/source/line_08.mp3",
+    "source_trim_start_s": 0.12139583333333333,
+    "alignment": "original_audio_silence_at_spoken_punctuation",
+    "cue_id": 19,
+    "subtitle_start_s": 40.52,
+    "subtitle_end_s": 41.76,
+    "tokens": [
+      {
+        "hanzi": "小",
+        "pinyin": "xiǎo"
+      },
+      {
+        "hanzi": "星",
+        "pinyin": "xīng"
+      },
+      {
+        "hanzi": "星",
+        "pinyin": "xing"
+      },
+      {
+        "hanzi": "，",
+        "pinyin": ""
+      }
+    ],
+    "rows": [
+      "小星星，"
+    ]
+  },
+  {
+    "line": 8,
+    "shot": 5,
+    "text": "晚安。",
+    "start_s": 41.80064583333333,
+    "end_s": 42.663999999999994,
+    "pause_after_s": 0.72,
+    "source": "audio/source/line_08.mp3",
+    "source_trim_start_s": 0.12139583333333333,
+    "alignment": "original_audio_silence_at_spoken_punctuation",
+    "cue_id": 20,
+    "subtitle_start_s": 41.84,
+    "subtitle_end_s": 42.64,
+    "tokens": [
+      {
+        "hanzi": "晚",
+        "pinyin": "wǎn"
+      },
+      {
+        "hanzi": "安",
+        "pinyin": "ān"
+      },
+      {
+        "hanzi": "。",
+        "pinyin": ""
+      }
+    ],
+    "rows": [
+      "晚安。"
+    ]
+  },
+  {
+    "line": 9,
+    "shot": 5,
+    "text": "小星星安安静静地，",
+    "start_s": 43.38399999999999,
+    "end_s": 45.73899999999999,
+    "pause_after_s": 0.95,
+    "source": "audio/source/line_09.mp3",
+    "source_trim_start_s": 0.12079166666666667,
+    "alignment": "original_audio_silence_at_spoken_punctuation",
+    "cue_id": 21,
+    "subtitle_start_s": 43.44,
+    "subtitle_end_s": 45.68,
+    "tokens": [
+      {
+        "hanzi": "小",
+        "pinyin": "xiǎo"
+      },
+      {
+        "hanzi": "星",
+        "pinyin": "xīng"
+      },
+      {
+        "hanzi": "星",
+        "pinyin": "xing"
+      },
+      {
+        "hanzi": "安",
+        "pinyin": "ān"
+      },
+      {
+        "hanzi": "安",
+        "pinyin": "ān"
+      },
+      {
+        "hanzi": "静",
+        "pinyin": "jìng"
+      },
+      {
+        "hanzi": "静",
+        "pinyin": "jìng"
+      },
+      {
+        "hanzi": "地",
+        "pinyin": "de"
+      },
+      {
+        "hanzi": "，",
+        "pinyin": ""
+      }
+    ],
+    "rows": [
+      "小星星安安静静地，"
+    ]
+  },
+  {
+    "line": 9,
+    "shot": 5,
+    "text": "陪着他。",
+    "start_s": 45.73899999999999,
+    "end_s": 46.892645833333326,
+    "pause_after_s": 0.95,
+    "source": "audio/source/line_09.mp3",
+    "source_trim_start_s": 0.12079166666666667,
+    "alignment": "original_audio_silence_at_spoken_punctuation",
+    "cue_id": 22,
+    "subtitle_start_s": 45.76,
+    "subtitle_end_s": 46.84,
+    "tokens": [
+      {
+        "hanzi": "陪",
+        "pinyin": "péi"
+      },
+      {
+        "hanzi": "着",
+        "pinyin": "zhe"
+      },
+      {
+        "hanzi": "他",
+        "pinyin": "tā"
+      },
+      {
+        "hanzi": "。",
+        "pinyin": ""
+      }
+    ],
+    "rows": [
+      "陪着他。"
+    ]
+  },
+  {
+    "line": 10,
+    "shot": 6,
+    "text": "皮皮抱好胡萝卜玩偶，",
+    "start_s": 47.84264583333333,
+    "end_s": 50.23764583333333,
+    "pause_after_s": 0.72,
+    "source": "audio/source/line_10.mp3",
+    "source_trim_start_s": 0.1271875,
+    "alignment": "original_audio_silence_at_spoken_punctuation",
+    "cue_id": 23,
+    "subtitle_start_s": 47.88,
+    "subtitle_end_s": 50.2,
+    "tokens": [
+      {
+        "hanzi": "皮",
+        "pinyin": "pí"
+      },
+      {
+        "hanzi": "皮",
+        "pinyin": "pí"
+      },
+      {
+        "hanzi": "抱",
+        "pinyin": "bào"
+      },
+      {
+        "hanzi": "好",
+        "pinyin": "hǎo"
+      },
+      {
+        "hanzi": "胡",
+        "pinyin": "hú"
+      },
+      {
+        "hanzi": "萝",
+        "pinyin": "luó"
+      },
+      {
+        "hanzi": "卜",
+        "pinyin": "bo"
+      },
+      {
+        "hanzi": "玩",
+        "pinyin": "wán"
+      },
+      {
+        "hanzi": "偶",
+        "pinyin": "ǒu"
+      },
+      {
+        "hanzi": "，",
+        "pinyin": ""
+      }
+    ],
+    "rows": [
+      "皮皮抱好胡",
+      "萝卜玩偶，"
+    ]
+  },
+  {
+    "line": 10,
+    "shot": 6,
+    "text": "往被窝里缩了缩。",
+    "start_s": 50.23764583333333,
+    "end_s": 52.35574999999999,
+    "pause_after_s": 0.72,
+    "source": "audio/source/line_10.mp3",
+    "source_trim_start_s": 0.1271875,
+    "alignment": "original_audio_silence_at_spoken_punctuation",
+    "cue_id": 24,
+    "subtitle_start_s": 50.28,
+    "subtitle_end_s": 52.32,
+    "tokens": [
+      {
+        "hanzi": "往",
+        "pinyin": "wǎng"
+      },
+      {
+        "hanzi": "被",
+        "pinyin": "bèi"
+      },
+      {
+        "hanzi": "窝",
+        "pinyin": "wō"
+      },
+      {
+        "hanzi": "里",
+        "pinyin": "lǐ"
+      },
+      {
+        "hanzi": "缩",
+        "pinyin": "suō"
+      },
+      {
+        "hanzi": "了",
+        "pinyin": "le"
+      },
+      {
+        "hanzi": "缩",
+        "pinyin": "suō"
+      },
+      {
+        "hanzi": "。",
+        "pinyin": ""
+      }
+    ],
+    "rows": [
+      "往被窝里缩了缩。"
+    ]
+  },
+  {
+    "line": 11,
+    "shot": 6,
+    "text": "小脚丫暖暖的，",
+    "start_s": 53.07574999999999,
+    "end_s": 55.00074999999999,
+    "pause_after_s": 0.72,
+    "source": "audio/source/line_11.mp3",
+    "source_trim_start_s": 0.115875,
+    "alignment": "original_audio_silence_at_spoken_punctuation",
+    "cue_id": 25,
+    "subtitle_start_s": 53.12,
+    "subtitle_end_s": 54.96,
+    "tokens": [
+      {
+        "hanzi": "小",
+        "pinyin": "xiǎo"
+      },
+      {
+        "hanzi": "脚",
+        "pinyin": "jiǎo"
+      },
+      {
+        "hanzi": "丫",
+        "pinyin": "yā"
+      },
+      {
+        "hanzi": "暖",
+        "pinyin": "nuǎn"
+      },
+      {
+        "hanzi": "暖",
+        "pinyin": "nuǎn"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      },
+      {
+        "hanzi": "，",
+        "pinyin": ""
+      }
+    ],
+    "rows": [
+      "小脚丫暖暖的，"
+    ]
+  },
+  {
+    "line": 11,
+    "shot": 6,
+    "text": "小肚子一起，",
+    "start_s": 55.00074999999999,
+    "end_s": 56.67074999999999,
+    "pause_after_s": 0.72,
+    "source": "audio/source/line_11.mp3",
+    "source_trim_start_s": 0.115875,
+    "alignment": "original_audio_silence_at_spoken_punctuation",
+    "cue_id": 26,
+    "subtitle_start_s": 55.04,
+    "subtitle_end_s": 56.64,
+    "tokens": [
+      {
+        "hanzi": "小",
+        "pinyin": "xiǎo"
+      },
+      {
+        "hanzi": "肚",
+        "pinyin": "dù"
+      },
+      {
+        "hanzi": "子",
+        "pinyin": "zi"
+      },
+      {
+        "hanzi": "一",
+        "pinyin": "yì"
+      },
+      {
+        "hanzi": "起",
+        "pinyin": "qǐ"
+      },
+      {
+        "hanzi": "，",
+        "pinyin": ""
+      }
+    ],
+    "rows": [
+      "小肚子一起，"
+    ]
+  },
+  {
+    "line": 11,
+    "shot": 6,
+    "text": "一伏。",
+    "start_s": 56.67074999999999,
+    "end_s": 57.65479166666666,
+    "pause_after_s": 0.72,
+    "source": "audio/source/line_11.mp3",
+    "source_trim_start_s": 0.115875,
+    "alignment": "original_audio_silence_at_spoken_punctuation",
+    "cue_id": 27,
+    "subtitle_start_s": 56.72,
+    "subtitle_end_s": 57.6,
+    "tokens": [
+      {
+        "hanzi": "一",
+        "pinyin": "yì"
+      },
+      {
+        "hanzi": "伏",
+        "pinyin": "fú"
+      },
+      {
+        "hanzi": "。",
+        "pinyin": ""
+      }
+    ],
+    "rows": [
+      "一伏。"
+    ]
+  },
+  {
+    "line": 12,
+    "shot": 7,
+    "text": "风轻了，",
+    "start_s": 58.37479166666666,
+    "end_s": 59.52979166666666,
+    "pause_after_s": 0.95,
+    "source": "audio/source/line_12.mp3",
+    "source_trim_start_s": 0.107375,
+    "alignment": "original_audio_silence_at_spoken_punctuation",
+    "cue_id": 28,
+    "subtitle_start_s": 58.4,
+    "subtitle_end_s": 59.48,
+    "tokens": [
+      {
+        "hanzi": "风",
+        "pinyin": "fēng"
+      },
+      {
+        "hanzi": "轻",
+        "pinyin": "qīng"
+      },
+      {
+        "hanzi": "了",
+        "pinyin": "le"
+      },
+      {
+        "hanzi": "，",
+        "pinyin": ""
+      }
+    ],
+    "rows": [
+      "风轻了，"
+    ]
+  },
+  {
+    "line": 12,
+    "shot": 7,
+    "text": "树叶也慢慢安静下来。",
+    "start_s": 59.52979166666666,
+    "end_s": 62.22133333333333,
+    "pause_after_s": 0.95,
+    "source": "audio/source/line_12.mp3",
+    "source_trim_start_s": 0.107375,
+    "alignment": "original_audio_silence_at_spoken_punctuation",
+    "cue_id": 29,
+    "subtitle_start_s": 59.56,
+    "subtitle_end_s": 62.2,
+    "tokens": [
+      {
+        "hanzi": "树",
+        "pinyin": "shù"
+      },
+      {
+        "hanzi": "叶",
+        "pinyin": "yè"
+      },
+      {
+        "hanzi": "也",
+        "pinyin": "yě"
+      },
+      {
+        "hanzi": "慢",
+        "pinyin": "màn"
+      },
+      {
+        "hanzi": "慢",
+        "pinyin": "màn"
+      },
+      {
+        "hanzi": "安",
+        "pinyin": "ān"
+      },
+      {
+        "hanzi": "静",
+        "pinyin": "jìng"
+      },
+      {
+        "hanzi": "下",
+        "pinyin": "xià"
+      },
+      {
+        "hanzi": "来",
+        "pinyin": "lái"
+      },
+      {
+        "hanzi": "。",
+        "pinyin": ""
+      }
+    ],
+    "rows": [
+      "树叶也慢慢",
+      "安静下来。"
+    ]
+  },
+  {
+    "line": 13,
+    "shot": 8,
+    "text": "小兔子闭上眼睛，",
+    "start_s": 63.17133333333332,
+    "end_s": 65.34133333333332,
+    "pause_after_s": 1.1,
+    "source": "audio/source/line_13.mp3",
+    "source_trim_start_s": 0.11589583333333334,
+    "alignment": "original_audio_silence_at_spoken_punctuation",
+    "cue_id": 30,
+    "subtitle_start_s": 63.2,
+    "subtitle_end_s": 65.32,
+    "tokens": [
+      {
+        "hanzi": "小",
+        "pinyin": "xiǎo"
+      },
+      {
+        "hanzi": "兔",
+        "pinyin": "tù"
+      },
+      {
+        "hanzi": "子",
+        "pinyin": "zi"
+      },
+      {
+        "hanzi": "闭",
+        "pinyin": "bì"
+      },
+      {
+        "hanzi": "上",
+        "pinyin": "shàng"
+      },
+      {
+        "hanzi": "眼",
+        "pinyin": "yǎn"
+      },
+      {
+        "hanzi": "睛",
+        "pinyin": "jing"
+      },
+      {
+        "hanzi": "，",
+        "pinyin": ""
+      }
+    ],
+    "rows": [
+      "小兔子闭上眼睛，"
+    ]
+  },
+  {
+    "line": 13,
+    "shot": 8,
+    "text": "安心地睡着了。",
+    "start_s": 65.34133333333332,
+    "end_s": 67.0994375,
+    "pause_after_s": 1.1,
+    "source": "audio/source/line_13.mp3",
+    "source_trim_start_s": 0.11589583333333334,
+    "alignment": "original_audio_silence_at_spoken_punctuation",
+    "cue_id": 31,
+    "subtitle_start_s": 65.4,
+    "subtitle_end_s": 67.04,
+    "tokens": [
+      {
+        "hanzi": "安",
+        "pinyin": "ān"
+      },
+      {
+        "hanzi": "心",
+        "pinyin": "xīn"
+      },
+      {
+        "hanzi": "地",
+        "pinyin": "de"
+      },
+      {
+        "hanzi": "睡",
+        "pinyin": "shuì"
+      },
+      {
+        "hanzi": "着",
+        "pinyin": "zháo"
+      },
+      {
+        "hanzi": "了",
+        "pinyin": "le"
+      },
+      {
+        "hanzi": "。",
+        "pinyin": ""
+      }
+    ],
+    "rows": [
+      "安心地睡着了。"
+    ]
+  },
+  {
+    "line": 14,
+    "shot": 8,
+    "text": "小朋友，",
+    "start_s": 68.19943749999999,
+    "end_s": 69.38943749999999,
+    "pause_after_s": 1.1,
+    "source": "audio/source/line_14.mp3",
+    "source_trim_start_s": 0.11654166666666667,
+    "alignment": "original_audio_silence_at_spoken_punctuation",
+    "cue_id": 32,
+    "subtitle_start_s": 68.24,
+    "subtitle_end_s": 69.36,
+    "tokens": [
+      {
+        "hanzi": "小",
+        "pinyin": "xiǎo"
+      },
+      {
+        "hanzi": "朋",
+        "pinyin": "péng"
+      },
+      {
+        "hanzi": "友",
+        "pinyin": "you"
+      },
+      {
+        "hanzi": "，",
+        "pinyin": ""
+      }
+    ],
+    "rows": [
+      "小朋友，"
+    ]
+  },
+  {
+    "line": 14,
+    "shot": 8,
+    "text": "你也可以找个舒服的姿势。",
+    "start_s": 69.38943749999999,
+    "end_s": 72.37110416666665,
+    "pause_after_s": 1.1,
+    "source": "audio/source/line_14.mp3",
+    "source_trim_start_s": 0.11654166666666667,
+    "alignment": "original_audio_silence_at_spoken_punctuation",
+    "cue_id": 33,
+    "subtitle_start_s": 69.44,
+    "subtitle_end_s": 72.32,
+    "tokens": [
+      {
+        "hanzi": "你",
+        "pinyin": "nǐ"
+      },
+      {
+        "hanzi": "也",
+        "pinyin": "yě"
+      },
+      {
+        "hanzi": "可",
+        "pinyin": "kě"
+      },
+      {
+        "hanzi": "以",
+        "pinyin": "yǐ"
+      },
+      {
+        "hanzi": "找",
+        "pinyin": "zhǎo"
+      },
+      {
+        "hanzi": "个",
+        "pinyin": "ge"
+      },
+      {
+        "hanzi": "舒",
+        "pinyin": "shū"
+      },
+      {
+        "hanzi": "服",
+        "pinyin": "fu"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      },
+      {
+        "hanzi": "姿",
+        "pinyin": "zī"
+      },
+      {
+        "hanzi": "势",
+        "pinyin": "shi"
+      },
+      {
+        "hanzi": "。",
+        "pinyin": ""
+      }
+    ],
+    "rows": [
+      "你也可以找",
+      "个舒服的姿势。"
+    ]
+  },
+  {
+    "line": 15,
+    "shot": 9,
+    "text": "轻轻闭上眼睛。",
+    "start_s": 73.47110416666665,
+    "end_s": 75.50462499999998,
+    "pause_after_s": 1.1,
+    "source": "audio/source/line_15.mp3",
+    "source_trim_start_s": 0.10204166666666667,
+    "cue_id": 34,
+    "subtitle_start_s": 73.52,
+    "subtitle_end_s": 75.48,
+    "tokens": [
+      {
+        "hanzi": "轻",
+        "pinyin": "qīng"
+      },
+      {
+        "hanzi": "轻",
+        "pinyin": "qīng"
+      },
+      {
+        "hanzi": "闭",
+        "pinyin": "bì"
+      },
+      {
+        "hanzi": "上",
+        "pinyin": "shàng"
+      },
+      {
+        "hanzi": "眼",
+        "pinyin": "yǎn"
+      },
+      {
+        "hanzi": "睛",
+        "pinyin": "jing"
+      },
+      {
+        "hanzi": "。",
+        "pinyin": ""
+      }
+    ],
+    "rows": [
+      "轻轻闭上眼睛。"
+    ]
+  },
+  {
+    "line": 16,
+    "shot": 9,
+    "text": "小被子陪着你。",
+    "start_s": 76.60462499999998,
+    "end_s": 78.47383333333332,
+    "pause_after_s": 1.1,
+    "source": "audio/source/line_16.mp3",
+    "source_trim_start_s": 0.1160625,
+    "cue_id": 35,
+    "subtitle_start_s": 76.64,
+    "subtitle_end_s": 78.44,
+    "tokens": [
+      {
+        "hanzi": "小",
+        "pinyin": "xiǎo"
+      },
+      {
+        "hanzi": "被",
+        "pinyin": "bèi"
+      },
+      {
+        "hanzi": "子",
+        "pinyin": "zi"
+      },
+      {
+        "hanzi": "陪",
+        "pinyin": "péi"
+      },
+      {
+        "hanzi": "着",
+        "pinyin": "zhe"
+      },
+      {
+        "hanzi": "你",
+        "pinyin": "nǐ"
+      },
+      {
+        "hanzi": "。",
+        "pinyin": ""
+      }
+    ],
+    "rows": [
+      "小被子陪着你。"
+    ]
+  },
+  {
+    "line": 17,
+    "shot": 9,
+    "text": "晚安，",
+    "start_s": 79.57383333333331,
+    "end_s": 80.47383333333332,
+    "pause_after_s": 8.0,
+    "source": "audio/source/line_17.mp3",
+    "source_trim_start_s": 0.12458333333333334,
+    "alignment": "original_audio_silence_at_spoken_punctuation",
+    "cue_id": 36,
+    "subtitle_start_s": 79.6,
+    "subtitle_end_s": 80.44,
+    "tokens": [
+      {
+        "hanzi": "晚",
+        "pinyin": "wǎn"
+      },
+      {
+        "hanzi": "安",
+        "pinyin": "ān"
+      },
+      {
+        "hanzi": "，",
+        "pinyin": ""
+      }
+    ],
+    "rows": [
+      "晚安，"
+    ]
+  },
+  {
+    "line": 17,
+    "shot": 9,
+    "text": "做个甜甜的梦。",
+    "start_s": 80.47383333333332,
+    "end_s": 82.18127083333331,
+    "pause_after_s": 8.0,
+    "source": "audio/source/line_17.mp3",
+    "source_trim_start_s": 0.12458333333333334,
+    "alignment": "original_audio_silence_at_spoken_punctuation",
+    "cue_id": 37,
+    "subtitle_start_s": 80.52,
+    "subtitle_end_s": 82.16,
+    "tokens": [
+      {
+        "hanzi": "做",
+        "pinyin": "zuò"
+      },
+      {
+        "hanzi": "个",
+        "pinyin": "ge"
+      },
+      {
+        "hanzi": "甜",
+        "pinyin": "tián"
+      },
+      {
+        "hanzi": "甜",
+        "pinyin": "tián"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      },
+      {
+        "hanzi": "梦",
+        "pinyin": "mèng"
+      },
+      {
+        "hanzi": "。",
+        "pinyin": ""
+      }
+    ],
+    "rows": [
+      "做个甜甜的梦。"
+    ]
+  }
+]

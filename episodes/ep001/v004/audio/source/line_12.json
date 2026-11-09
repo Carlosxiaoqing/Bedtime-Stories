@@ -1,0 +1,17 @@
+{
+  "text": "风轻了，树叶也慢慢安静下来。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-25%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "edge_tts": "7.3.1",
+  "fingerprint": "5a158fa842d957c9c9cf9722c6a9d932fe60fde6395f712c15255e8ddbd4173b",
+  "boundaries": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 1000000,
+      "duration": 44166666,
+      "text": "风轻了，树叶也慢慢安静下来。"
+    }
+  ]
+}

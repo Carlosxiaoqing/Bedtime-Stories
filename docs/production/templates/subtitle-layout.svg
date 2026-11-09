@@ -1,29 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920" role="img" aria-labelledby="title description">
-<title id="title">儿童逐字拼音字幕版式</title><desc id="description">两组字幕布局示意，拼音与每个汉字居中对齐，不含实际音频或时间轴。</desc>
-<rect width="1080" height="1920" fill="#46566A"/>
-<g id="guides" font-family="Noto Sans CJK SC, sans-serif" font-size="28" fill="#FFF4DC" text-anchor="middle">
-<text x="540" y="650">逐字拼音字幕 · 两组排版示意</text><text x="540" y="710">实片优先仅显示一组短语</text>
-<rect x="120" y="1378" width="840" height="264" fill="none" stroke="#D9B77B" stroke-dasharray="12 12"/>
-</g>
-<rect x="96" y="1378" width="888" height="264" rx="24" fill="#182232" fill-opacity="0.72"/>
-
-<text x="240.0" y="1398" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Noto Sans, sans-serif" font-weight="500" font-size="30" fill="#FFF4DC" stroke="#182232" stroke-width="1" paint-order="stroke">yuè</text>
-<text x="240.0" y="1442" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Noto Sans CJK SC, sans-serif" font-weight="500" font-size="64" fill="#FFF4DC" stroke="#182232" stroke-width="2" paint-order="stroke">月</text>
-<text x="340.0" y="1398" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Noto Sans, sans-serif" font-weight="500" font-size="30" fill="#FFF4DC" stroke="#182232" stroke-width="1" paint-order="stroke">guāng</text>
-<text x="340.0" y="1442" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Noto Sans CJK SC, sans-serif" font-weight="500" font-size="64" fill="#FFF4DC" stroke="#182232" stroke-width="2" paint-order="stroke">光</text>
-<text x="440.0" y="1398" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Noto Sans, sans-serif" font-weight="500" font-size="30" fill="#FFF4DC" stroke="#182232" stroke-width="1" paint-order="stroke">qīng</text>
-<text x="440.0" y="1442" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Noto Sans CJK SC, sans-serif" font-weight="500" font-size="64" fill="#FFF4DC" stroke="#182232" stroke-width="2" paint-order="stroke">轻</text>
-<text x="540.0" y="1398" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Noto Sans, sans-serif" font-weight="500" font-size="30" fill="#FFF4DC" stroke="#182232" stroke-width="1" paint-order="stroke">qīng</text>
-<text x="540.0" y="1442" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Noto Sans CJK SC, sans-serif" font-weight="500" font-size="64" fill="#FFF4DC" stroke="#182232" stroke-width="2" paint-order="stroke">轻</text>
-<text x="640.0" y="1398" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Noto Sans, sans-serif" font-weight="500" font-size="30" fill="#FFF4DC" stroke="#182232" stroke-width="1" paint-order="stroke">luò</text>
-<text x="640.0" y="1442" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Noto Sans CJK SC, sans-serif" font-weight="500" font-size="64" fill="#FFF4DC" stroke="#182232" stroke-width="2" paint-order="stroke">落</text>
-<text x="740.0" y="1398" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Noto Sans, sans-serif" font-weight="500" font-size="30" fill="#FFF4DC" stroke="#182232" stroke-width="1" paint-order="stroke">xià</text>
-<text x="740.0" y="1442" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Noto Sans CJK SC, sans-serif" font-weight="500" font-size="64" fill="#FFF4DC" stroke="#182232" stroke-width="2" paint-order="stroke">下</text>
-<text x="840.0" y="1398" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Noto Sans, sans-serif" font-weight="500" font-size="30" fill="#FFF4DC" stroke="#182232" stroke-width="1" paint-order="stroke">lái</text>
-<text x="840.0" y="1442" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Noto Sans CJK SC, sans-serif" font-weight="500" font-size="64" fill="#FFF4DC" stroke="#182232" stroke-width="2" paint-order="stroke">来</text>
-<text x="440.0" y="1510" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Noto Sans, sans-serif" font-weight="500" font-size="30" fill="#FFF4DC" stroke="#182232" stroke-width="1" paint-order="stroke">wǎn</text>
-<text x="440.0" y="1554" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Noto Sans CJK SC, sans-serif" font-weight="500" font-size="64" fill="#FFF4DC" stroke="#182232" stroke-width="2" paint-order="stroke">晚</text>
-<text x="540.0" y="1510" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Noto Sans, sans-serif" font-weight="500" font-size="30" fill="#FFF4DC" stroke="#182232" stroke-width="1" paint-order="stroke">ān</text>
-<text x="540.0" y="1554" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Noto Sans CJK SC, sans-serif" font-weight="500" font-size="64" fill="#FFF4DC" stroke="#182232" stroke-width="2" paint-order="stroke">安</text>
-<text x="640.0" y="1554" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Noto Sans CJK SC, sans-serif" font-weight="500" font-size="64" fill="#FFF4DC" stroke="#182232" stroke-width="2" paint-order="stroke">。</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920"><title>大字逐字拼音字幕版式</title><rect width="1080" height="1920" fill="#46566A"/><rect x="72" y="1312" width="936" height="356" rx="24" fill="#182232" fill-opacity="0.72"/>
+<text x="198.2578125" y="1332" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Noto Sans" font-size="48" fill="#FFF4DC">yuè</text>
+<text x="198.2578125" y="1398" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Noto Sans CJK SC" font-size="76" fill="#FFF4DC">月</text>
+<text x="327.5234375" y="1332" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Noto Sans" font-size="48" fill="#FFF4DC">guāng</text>
+<text x="327.5234375" y="1398" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Noto Sans CJK SC" font-size="76" fill="#FFF4DC">光</text>
+<text x="466.71875" y="1332" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Noto Sans" font-size="48" fill="#FFF4DC">qīng</text>
+<text x="466.71875" y="1398" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Noto Sans CJK SC" font-size="76" fill="#FFF4DC">轻</text>
+<text x="583.8125" y="1332" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Noto Sans" font-size="48" fill="#FFF4DC">qīng</text>
+<text x="583.8125" y="1398" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Noto Sans CJK SC" font-size="76" fill="#FFF4DC">轻</text>
+<text x="690.359375" y="1332" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Noto Sans" font-size="48" fill="#FFF4DC">luò</text>
+<text x="690.359375" y="1398" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Noto Sans CJK SC" font-size="76" fill="#FFF4DC">落</text>
+<text x="786.359375" y="1332" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Noto Sans" font-size="48" fill="#FFF4DC">xià</text>
+<text x="786.359375" y="1398" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Noto Sans CJK SC" font-size="76" fill="#FFF4DC">下</text>
+<text x="882.359375" y="1332" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Noto Sans" font-size="48" fill="#FFF4DC">lái</text>
+<text x="882.359375" y="1398" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Noto Sans CJK SC" font-size="76" fill="#FFF4DC">来</text>
+<text x="480.0" y="1500" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Noto Sans" font-size="48" fill="#FFF4DC">wǎn</text>
+<text x="480.0" y="1566" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Noto Sans CJK SC" font-size="76" fill="#FFF4DC">晚</text>
+<text x="583.1640625" y="1500" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Noto Sans" font-size="48" fill="#FFF4DC">ān</text>
+<text x="583.1640625" y="1566" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Noto Sans CJK SC" font-size="76" fill="#FFF4DC">安</text>
+<text x="643.1640625" y="1566" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Noto Sans CJK SC" font-size="76" fill="#FFF4DC">。</text>
 </svg>

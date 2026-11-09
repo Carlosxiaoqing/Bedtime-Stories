@@ -1,0 +1,222 @@
+{
+  "status": "technical_checks_passed",
+  "duration_s": 90.2,
+  "frames": 2255,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 25,
+  "full_decode": "passed",
+  "approved_voice_unchanged": true,
+  "mix_unchanged": true,
+  "hanzi_px": 76,
+  "pinyin_px": 48,
+  "pinyin_coverage": 1.0,
+  "subtitle_cues": 37,
+  "subtitle_alignment": "original_recording_silences_at_punctuation",
+  "motion_checks": [
+    {
+      "shot": 1,
+      "four_image_regions_phase_shifts": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "mode": "fixed"
+    },
+    {
+      "shot": 2,
+      "four_image_regions_phase_shifts": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "mode": "fixed"
+    },
+    {
+      "shot": 3,
+      "four_image_regions_phase_shifts": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "mode": "fixed"
+    },
+    {
+      "shot": 4,
+      "four_image_regions_phase_shifts": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "mode": "fixed"
+    },
+    {
+      "shot": 5,
+      "four_image_regions_phase_shifts": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "mode": "fixed"
+    },
+    {
+      "shot": 6,
+      "four_image_regions_phase_shifts": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "mode": "fixed"
+    },
+    {
+      "shot": 7,
+      "four_image_regions_phase_shifts": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "mode": "fixed"
+    },
+    {
+      "shot": 8,
+      "four_image_regions_phase_shifts": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "mode": "fixed"
+    },
+    {
+      "shot": 9,
+      "four_image_regions_phase_shifts": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "mode": "fixed"
+    }
+  ],
+  "cover_text": [
+    "晚安星光"
+  ],
+  "human_full_video_review": "pending_user_review"
+}

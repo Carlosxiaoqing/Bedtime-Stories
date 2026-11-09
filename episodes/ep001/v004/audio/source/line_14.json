@@ -1,0 +1,17 @@
+{
+  "text": "小朋友，你也可以找个舒服的姿势。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-25%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "edge_tts": "7.3.1",
+  "fingerprint": "ab58ffa1b22b0877dcce8ddc3a1ee31f7d05e0a498a418f3d86a5e740fa8013e",
+  "boundaries": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 1000000,
+      "duration": 47833333,
+      "text": "小朋友，你也可以找个舒服的姿势。"
+    }
+  ]
+}

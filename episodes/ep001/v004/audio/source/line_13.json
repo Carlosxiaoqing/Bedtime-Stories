@@ -1,0 +1,17 @@
+{
+  "text": "小兔子闭上眼睛，安心地睡着了。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-25%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "edge_tts": "7.3.1",
+  "fingerprint": "eefc6cafae79bce68fc60add8a43e1ed9a9f522dc8565347e4512efb4797e235",
+  "boundaries": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 1000000,
+      "duration": 45166666,
+      "text": "小兔子闭上眼睛，安心地睡着了。"
+    }
+  ]
+}

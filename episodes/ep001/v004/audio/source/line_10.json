@@ -1,0 +1,17 @@
+{
+  "text": "皮皮抱好胡萝卜玩偶，往被窝里缩了缩。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-25%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "edge_tts": "7.3.1",
+  "fingerprint": "7e0186e0ee71cb534d0e2f885dcbb30003875afe5ffb72dbf8bf152f2c3d9dde",
+  "boundaries": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 1000000,
+      "duration": 51333333,
+      "text": "皮皮抱好胡萝卜玩偶，往被窝里缩了缩。"
+    }
+  ]
+}
