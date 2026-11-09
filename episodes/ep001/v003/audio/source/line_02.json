@@ -1,0 +1,17 @@
+{
+  "text": "小兔子皮皮靠在枕头上，盖着他的小毛毯。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-25%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "edge_tts": "7.3.1",
+  "fingerprint": "6284688ee9fc7632ce696d984adfe904c893756f27f166c82e289e7494864d7f",
+  "boundaries": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 1000000,
+      "duration": 53833333,
+      "text": "小兔子皮皮靠在枕头上，盖着他的小毛毯。"
+    }
+  ]
+}

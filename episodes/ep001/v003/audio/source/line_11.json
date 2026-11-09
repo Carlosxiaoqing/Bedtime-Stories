@@ -1,0 +1,17 @@
+{
+  "text": "小脚丫暖暖的，小肚子一起，一伏。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-25%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "edge_tts": "7.3.1",
+  "fingerprint": "6a9158ed6ece18b51959a33847acf723bb44c927e7954b147c17f6e60627470b",
+  "boundaries": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 1000000,
+      "duration": 51666666,
+      "text": "小脚丫暖暖的，小肚子一起，一伏。"
+    }
+  ]
+}

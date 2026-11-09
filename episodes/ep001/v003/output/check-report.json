@@ -1,0 +1,23 @@
+{
+  "status": "technical_checks_passed",
+  "duration_s": 90.2,
+  "video_frames": 2255,
+  "size": [
+    1080,
+    1920
+  ],
+  "fps": 25,
+  "narration_unchanged_and_user_approved": true,
+  "full_video_decode": "passed",
+  "audio_peak_dbfs": -3.55,
+  "hanzi_count": 218,
+  "pinyin_coverage": 1.0,
+  "cue_count": 17,
+  "independent_images": 9,
+  "cover_size": [
+    1080,
+    1920
+  ],
+  "whole_video_human_review": "pending_user_review",
+  "social_publishing": "not_performed"
+}

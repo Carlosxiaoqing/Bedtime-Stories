@@ -1,0 +1,17 @@
+{
+  "text": "晚安，做个甜甜的梦。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-25%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "edge_tts": "7.3.1",
+  "fingerprint": "255bad710d254c5a869a1d658c025aaa509b3c19887023f43ca646b43ac3d4ca",
+  "boundaries": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 1000000,
+      "duration": 32000000,
+      "text": "晚安，做个甜甜的梦。"
+    }
+  ]
+}
