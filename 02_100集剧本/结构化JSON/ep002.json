@@ -6,7 +6,7 @@
   "theme": "陪伴不必握在手里",
   "setting": "小木屋卧室",
   "guest": "无",
-  "status": "script_complete_media_not_generated",
+  "status": "first_cut_delivered_pending_review",
   "language": "zh-CN",
   "target_duration": "约90–120秒；以实际配音为准",
   "cn_characters": 222,
@@ -25,11 +25,14 @@
       ],
       "camera": "中景建立环境，主体位置清楚",
       "image": "images/shot_01.png",
-      "motion": "camera",
+      "motion": "fixed",
       "image_prompt": "本镜画面：毛毯上的圆形月光。镜位：中景建立环境，主体位置清楚。",
       "initial_budget_s": 12.04,
       "motion_hint": "m01",
-      "append_common_prompt_rules": true
+      "append_common_prompt_rules": true,
+      "actual_start_s": 0.0,
+      "actual_end_s": 12.28,
+      "actual_duration_s": 12.28
     },
     {
       "id": 2,
@@ -42,11 +45,14 @@
       ],
       "camera": "主体或物件近景，保留地点线索",
       "image": "images/shot_02.png",
-      "motion": "camera",
+      "motion": "fixed",
       "image_prompt": "本镜画面：双爪轻合望向月光。镜位：主体或物件近景，保留地点线索。",
       "initial_budget_s": 8.14,
       "motion_hint": "m01",
-      "append_common_prompt_rules": true
+      "append_common_prompt_rules": true,
+      "actual_start_s": 12.28,
+      "actual_end_s": 20.96,
+      "actual_duration_s": 8.680000000000001
     },
     {
       "id": 3,
@@ -59,11 +65,14 @@
       ],
       "camera": "中近景呈现动作后的稳定姿态",
       "image": "images/shot_03.png",
-      "motion": "camera",
+      "motion": "fixed",
       "image_prompt": "本镜画面：光斑回到黄色被面。镜位：中近景呈现动作后的稳定姿态。",
       "initial_budget_s": 8.76,
       "motion_hint": "m01",
-      "append_common_prompt_rules": true
+      "append_common_prompt_rules": true,
+      "actual_start_s": 20.96,
+      "actual_end_s": 30.0,
+      "actual_duration_s": 9.04
     },
     {
       "id": 4,
@@ -76,11 +85,14 @@
       ],
       "camera": "细节特写，避免裁掉必要的爪子或道具",
       "image": "images/shot_04.png",
-      "motion": "camera",
+      "motion": "fixed",
       "image_prompt": "本镜画面：双爪抚平毛毯。镜位：细节特写，避免裁掉必要的爪子或道具。",
       "initial_budget_s": 7.83,
       "motion_hint": "m01",
-      "append_common_prompt_rules": true
+      "append_common_prompt_rules": true,
+      "actual_start_s": 30.0,
+      "actual_end_s": 38.4,
+      "actual_duration_s": 8.399999999999999
     },
     {
       "id": 5,
@@ -93,11 +105,14 @@
       ],
       "camera": "中景呈现情境变化，留低细节空间",
       "image": "images/shot_05.png",
-      "motion": "camera",
+      "motion": "fixed",
       "image_prompt": "本镜画面：光斑靠近枕边玩偶。镜位：中景呈现情境变化，留低细节空间。",
       "initial_budget_s": 8.45,
       "motion_hint": "m02",
-      "append_common_prompt_rules": true
+      "append_common_prompt_rules": true,
+      "actual_start_s": 38.4,
+      "actual_end_s": 47.32,
+      "actual_duration_s": 8.920000000000002
     },
     {
       "id": 6,
@@ -110,11 +125,14 @@
       ],
       "camera": "主体近景，暖光方向延续",
       "image": "images/shot_06.png",
-      "motion": "camera",
+      "motion": "fixed",
       "image_prompt": "本镜画面：皮皮与玩偶共望窗。镜位：主体近景，暖光方向延续。",
       "initial_budget_s": 8.14,
       "motion_hint": "m01",
-      "append_common_prompt_rules": true
+      "append_common_prompt_rules": true,
+      "actual_start_s": 47.32,
+      "actual_end_s": 56.0,
+      "actual_duration_s": 8.68
     },
     {
       "id": 7,
@@ -129,11 +147,14 @@
       ],
       "camera": "安顿动作中景或安静环境近景",
       "image": "images/shot_07.png",
-      "motion": "camera",
+      "motion": "fixed",
       "image_prompt": "本镜画面：放松爪子缩回被窝。镜位：安顿动作中景或安静环境近景。",
       "initial_budget_s": 9.48,
       "motion_hint": "m01",
-      "append_common_prompt_rules": true
+      "append_common_prompt_rules": true,
+      "actual_start_s": 56.0,
+      "actual_end_s": 65.88,
+      "actual_duration_s": 9.879999999999995
     },
     {
       "id": 8,
@@ -148,11 +169,14 @@
       ],
       "camera": "放松姿态近景，光线略柔暗",
       "image": "images/shot_08.png",
-      "motion": "camera",
+      "motion": "fixed",
       "image_prompt": "本镜画面：闭眼与被角月光。镜位：放松姿态近景，光线略柔暗。",
       "initial_budget_s": 9.39,
       "motion_hint": "m01",
-      "append_common_prompt_rules": true
+      "append_common_prompt_rules": true,
+      "actual_start_s": 65.88,
+      "actual_end_s": 76.24,
+      "actual_duration_s": 10.36
     },
     {
       "id": 9,
@@ -169,17 +193,22 @@
       ],
       "camera": "木屋卧室或可见卧室的中远景收束，主体安睡",
       "image": "images/shot_09.png",
-      "motion": "camera",
+      "motion": "fixed",
       "image_prompt": "本镜画面：卧室远景光斑静止。镜位：木屋卧室或可见卧室的中远景收束，主体安睡。",
       "initial_budget_s": 18.64,
       "motion_hint": "m04",
-      "append_common_prompt_rules": true
+      "append_common_prompt_rules": true,
+      "actual_start_s": 76.24,
+      "actual_end_s": 96.72,
+      "actual_duration_s": 20.480000000000004
     }
   ],
-  "actual_duration_s": null,
-  "material_state": "需按本集提示词生成图片并合成配音；不含尚未制作的图片或音频",
+  "actual_duration_s": 96.72,
+  "material_state": "本集专属配音、九张插画、固定画面拼音视频、纯主题封面及三平台文案已生成；技术通过，完整用户审看待反馈",
   "shared_config": "03_素材与参数/共用画风与提示词.json",
   "character_names": [
     "皮皮"
-  ]
+  ],
+  "latest_delivery": "Outputs/2026-11-10/ep002-v001/output",
+  "production_record": "Outputs/2026-11-10/ep002-v001/RECORD.md"
 }

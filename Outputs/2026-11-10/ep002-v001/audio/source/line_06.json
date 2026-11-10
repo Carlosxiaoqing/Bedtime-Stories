@@ -1,0 +1,17 @@
+{
+  "text": "窗外的树叶动了动，光斑也挪了一点，慢慢靠近胡萝卜玩偶。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "edge_tts": "7.3.1",
+  "fingerprint": "444ccd5610da9ad0081b0cf0e3affaccd0bdf27176e9c28b96e8e38785433fc3",
+  "boundaries": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 1000000,
+      "duration": 87384610,
+      "text": "窗外的树叶动了动，光斑也挪了一点，慢慢靠近胡萝卜玩偶。"
+    }
+  ]
+}

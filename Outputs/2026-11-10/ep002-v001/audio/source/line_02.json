@@ -1,0 +1,17 @@
+{
+  "text": "它正好落在他的膝头。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "edge_tts": "7.3.1",
+  "fingerprint": "d4a263962a8d1dfbc8656a330aa7422f207df3cfbe49a00a3379a9de5270e53b",
+  "boundaries": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 1000000,
+      "duration": 35269228,
+      "text": "它正好落在他的膝头。"
+    }
+  ]
+}

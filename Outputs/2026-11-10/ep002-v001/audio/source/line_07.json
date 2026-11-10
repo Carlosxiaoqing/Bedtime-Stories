@@ -1,0 +1,17 @@
+{
+  "text": "原来，月光不需要装进口袋，也愿意留下来，陪他一小会儿。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "edge_tts": "7.3.1",
+  "fingerprint": "8c93c80081254a70328789427e2169c5a59467c8d86272ef63348cc90a24917a",
+  "boundaries": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 1000000,
+      "duration": 84884610,
+      "text": "原来，月光不需要装进口袋，也愿意留下来，陪他一小会儿。"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-10",
+  "tool": "OpenAI image_gen",
+  "first_scene_prompt": "Create ONE NEW standalone full-bleed portrait 9:16 watercolor illustration for episode 2 of a children's bedtime story. Attached episode-1 image is ONLY a reference for the same gray rabbit Pipi, his navy star nightcap with yellow pompom, yellow blanket, orange carrot plush, cottage furniture layout and watercolor palette. Do not simply reproduce the reference scene. NEW STORY SCENE: Pipi sits relaxed in bed, a small round patch of pale silvery moonlight lies clearly on the yellow blanket across his knees. He notices it with quiet curiosity, eyes gently open and gaze down at the round light. The moonlight patch is a natural softly edged circle on fabric, not a floating orb or object. Give the navy nightcap a tiny empty fabric pocket, subtle and consistent with the existing design. Bed on left, wooden crossbar window on upper right with crescent moon, sage leaf-pattern curtains, warm lamp lower left. Carrot plush at pillow. Fine hand-painted watercolor, subtle paper grain, round simple shapes, muted sage/cream/dusty blue, gentle amber light. Keep rabbit face and important actions above bottom 30%, calm low-detail blanket foreground for later subtitles. No prominent golden star anywhere, no floating bubbles, no magic sparkles. Absolutely no text, letters, watermark, panels, borders, 3D, neon or photorealism.",
+  "first_scene_reference": "episodes/ep001/v005/images/shot_01.png (identity and style only)",
+  "following_scene_reference": "images/shot_01.png",
+  "following_scene_descriptions": [
+    [
+      2,
+      "Closer view of the SAME Pipi gently cupping his two front paws above the moonlit blanket, looking thoughtfully at the pale light between them, as if trying to save the moonlight in the tiny empty navy nightcap pocket. Preserve empty pocket, yellow blanket and bedroom. NO physical ball, jar or magical object; moonlight is illumination only."
+    ],
+    [
+      3,
+      "Medium close view of the SAME Pipi after opening his front paws again, hands separated and relaxed. The round silvery moonlight patch clearly rests back on the yellow blanket over his knees, like a quiet round button of light. Bunny looks down softly. Keep it flat natural illumination on fabric, not a real button or orb."
+    ],
+    [
+      4,
+      "Detail close-up of the SAME bunny's two front paws gently smoothing the yellow blanket flat around a round patch of moonlight. Show paws and fabric clearly, no extra limbs; some of his gray face and navy nightcap with small empty pocket at upper left. The action has settled into a stable gentle pose."
+    ],
+    [
+      5,
+      "New medium view focused on the yellow blanket near the cream pillow and orange carrot plush. The soft round moonlight patch now sits beside and touches the carrot plush, rather than the bunny's knees. A few leaves outside the right-hand window, crescent moon. Pipi visible upper left watching it quietly. This illustrates the patch shifting nearer the toy; no animated streaks or motion lines."
+    ],
+    [
+      6,
+      "Tender close view of the SAME Pipi holding his carrot plush calmly, both looking toward the right-hand moonlit window. He understands moonlight can stay without being caught. His front paws loosely embrace the carrot, no grasping gesture. The empty tiny nightcap pocket is still visible, moonlight softly touches the blanket."
+    ],
+    [
+      7,
+      "New settled medium view of the SAME Pipi drawing his relaxed paws back under the yellow blanket, with only a little paw or none visible. Tiny fabric pocket on navy nightcap clearly empty. Warm content expression. Carrot plush beside pillow, round moonlight patch quietly on lower blanket, no glowing pocket."
+    ],
+    [
+      8,
+      "Sleeping close view of the SAME Pipi now resting properly on the cream pillow, eyes peacefully closed. Navy star nightcap with tiny EMPTY fabric pocket and yellow pompom. Round moonlight patch at the CORNER of the yellow blanket away from his face. Carrot plush by his cheek, dim warm light. Keep face above bottom 30%."
+    ],
+    [
+      9,
+      "Wide final view of the SAME wooden bedroom, bed on left, wooden crossbar window on upper right, crescent moon and leafy forest, no prominent golden star. Pipi sleeping under yellow blanket, navy star nightcap tiny empty pocket and yellow pompom, carrot plush by pillow. A small round moonlight patch rests motionless on the blanket corner. Subdued amber lamp, peaceful spacious closure, calm low-detail lower 30%."
+    ]
+  ]
+}

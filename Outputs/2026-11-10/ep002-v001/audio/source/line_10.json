@@ -1,0 +1,17 @@
+{
+  "text": "他靠好枕头，闭上眼睛。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "edge_tts": "7.3.1",
+  "fingerprint": "d7f8346b836665f30d5b0364397c427ce4257b87d1c2b3728f2476908efce897",
+  "boundaries": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 1000000,
+      "duration": 41999997,
+      "text": "他靠好枕头，闭上眼睛。"
+    }
+  ]
+}

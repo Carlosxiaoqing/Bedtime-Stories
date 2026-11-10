@@ -1,0 +1,230 @@
+{
+  "duration_s": 96.72,
+  "fps": 25,
+  "crossfade_s": 0.96,
+  "shots": [
+    {
+      "shot": 1,
+      "start_s": 0.0,
+      "end_s": 12.28,
+      "duration_s": 12.28,
+      "source_duration_s": 12.76,
+      "image": "images/shot_01.png",
+      "motion": "fixed"
+    },
+    {
+      "shot": 2,
+      "start_s": 12.28,
+      "end_s": 20.96,
+      "duration_s": 8.680000000000001,
+      "source_duration_s": 9.64,
+      "image": "images/shot_02.png",
+      "motion": "fixed"
+    },
+    {
+      "shot": 3,
+      "start_s": 20.96,
+      "end_s": 30.0,
+      "duration_s": 9.04,
+      "source_duration_s": 10.0,
+      "image": "images/shot_03.png",
+      "motion": "fixed"
+    },
+    {
+      "shot": 4,
+      "start_s": 30.0,
+      "end_s": 38.4,
+      "duration_s": 8.399999999999999,
+      "source_duration_s": 9.36,
+      "image": "images/shot_04.png",
+      "motion": "fixed"
+    },
+    {
+      "shot": 5,
+      "start_s": 38.4,
+      "end_s": 47.32,
+      "duration_s": 8.920000000000002,
+      "source_duration_s": 9.880000000000003,
+      "image": "images/shot_05.png",
+      "motion": "fixed"
+    },
+    {
+      "shot": 6,
+      "start_s": 47.32,
+      "end_s": 56.0,
+      "duration_s": 8.68,
+      "source_duration_s": 9.64,
+      "image": "images/shot_06.png",
+      "motion": "fixed"
+    },
+    {
+      "shot": 7,
+      "start_s": 56.0,
+      "end_s": 65.88,
+      "duration_s": 9.879999999999995,
+      "source_duration_s": 10.839999999999996,
+      "image": "images/shot_07.png",
+      "motion": "fixed"
+    },
+    {
+      "shot": 8,
+      "start_s": 65.88,
+      "end_s": 76.24,
+      "duration_s": 10.36,
+      "source_duration_s": 11.32,
+      "image": "images/shot_08.png",
+      "motion": "fixed"
+    },
+    {
+      "shot": 9,
+      "start_s": 76.24,
+      "end_s": 96.72,
+      "duration_s": 20.480000000000004,
+      "source_duration_s": 20.960000000000004,
+      "image": "images/shot_09.png",
+      "motion": "fixed"
+    }
+  ],
+  "narration": [
+    {
+      "line": 1,
+      "shot": 1,
+      "text": "暖灯下，皮皮在小毛毯上，发现了一小块圆圆的月光。",
+      "start_s": 1.0,
+      "end_s": 8.268041666666667,
+      "pause_after_s": 0.72,
+      "source": "audio/source/line_01.mp3",
+      "source_trim_start_s": 0.1351875
+    },
+    {
+      "line": 2,
+      "shot": 1,
+      "text": "它正好落在他的膝头。",
+      "start_s": 8.988041666666668,
+      "end_s": 11.786000000000001,
+      "pause_after_s": 0.95,
+      "source": "audio/source/line_02.mp3",
+      "source_trim_start_s": 0.15041666666666667
+    },
+    {
+      "line": 3,
+      "shot": 2,
+      "text": "皮皮把小爪子合起来，想把这份亮光，放进睡帽的小口袋。",
+      "start_s": 12.736,
+      "end_s": 20.472333333333335,
+      "pause_after_s": 0.95,
+      "source": "audio/source/line_03.mp3",
+      "source_trim_start_s": 0.15089583333333334
+    },
+    {
+      "line": 4,
+      "shot": 3,
+      "text": "可是爪子一松开，月光又回到了被子上，像一枚安静的小纽扣。",
+      "start_s": 21.422333333333334,
+      "end_s": 29.532979166666667,
+      "pause_after_s": 0.95,
+      "source": "audio/source/line_04.mp3",
+      "source_trim_start_s": 0.17133333333333334
+    },
+    {
+      "line": 5,
+      "shot": 4,
+      "text": "他没有再去捉，只把毛毯铺平，让月光舒舒服服地坐着。",
+      "start_s": 30.482979166666667,
+      "end_s": 37.928416666666664,
+      "pause_after_s": 0.95,
+      "source": "audio/source/line_05.mp3",
+      "source_trim_start_s": 0.1529375
+    },
+    {
+      "line": 6,
+      "shot": 5,
+      "text": "窗外的树叶动了动，光斑也挪了一点，慢慢靠近胡萝卜玩偶。",
+      "start_s": 38.878416666666666,
+      "end_s": 46.84175,
+      "pause_after_s": 0.95,
+      "source": "audio/source/line_06.mp3",
+      "source_trim_start_s": 0.15845833333333334
+    },
+    {
+      "line": 7,
+      "shot": 6,
+      "text": "原来，月光不需要装进口袋，也愿意留下来，陪他一小会儿。",
+      "start_s": 47.79175,
+      "end_s": 55.52885416666667,
+      "pause_after_s": 0.95,
+      "source": "audio/source/line_07.mp3",
+      "source_trim_start_s": 0.15264583333333334
+    },
+    {
+      "line": 8,
+      "shot": 7,
+      "text": "皮皮把爪子放回被窝。",
+      "start_s": 56.478854166666665,
+      "end_s": 59.424479166666664,
+      "pause_after_s": 0.72,
+      "source": "audio/source/line_08.mp3",
+      "source_trim_start_s": 0.15454166666666666
+    },
+    {
+      "line": 9,
+      "shot": 7,
+      "text": "那只小口袋空空的，他的心里却暖暖的。",
+      "start_s": 60.14447916666666,
+      "end_s": 65.38616666666667,
+      "pause_after_s": 0.95,
+      "source": "audio/source/line_09.mp3",
+      "source_trim_start_s": 0.14729166666666665
+    },
+    {
+      "line": 10,
+      "shot": 8,
+      "text": "他靠好枕头，闭上眼睛。",
+      "start_s": 66.33616666666666,
+      "end_s": 69.81160416666665,
+      "pause_after_s": 1.1,
+      "source": "audio/source/line_10.mp3",
+      "source_trim_start_s": 0.15470833333333334
+    },
+    {
+      "line": 11,
+      "shot": 8,
+      "text": "月光停在被角，没有催他做任何事。",
+      "start_s": 70.91160416666665,
+      "end_s": 75.70985416666664,
+      "pause_after_s": 1.1,
+      "source": "audio/source/line_11.mp3",
+      "source_trim_start_s": 0.13516666666666666
+    },
+    {
+      "line": 12,
+      "shot": 9,
+      "text": "小朋友，找个舒服的位置吧。",
+      "start_s": 76.80985416666665,
+      "end_s": 80.42208333333332,
+      "pause_after_s": 1.1,
+      "source": "audio/source/line_12.mp3",
+      "source_trim_start_s": 0.1388125
+    },
+    {
+      "line": 13,
+      "shot": 9,
+      "text": "今晚的温柔，不用抓紧，也会陪着你。",
+      "start_s": 81.52208333333331,
+      "end_s": 86.65812499999998,
+      "pause_after_s": 1.1,
+      "source": "audio/source/line_13.mp3",
+      "source_trim_start_s": 0.13345833333333335
+    },
+    {
+      "line": 14,
+      "shot": 9,
+      "text": "晚安。",
+      "start_s": 87.75812499999998,
+      "end_s": 88.69372916666664,
+      "pause_after_s": 8.0,
+      "source": "audio/source/line_14.mp3",
+      "source_trim_start_s": 0.14908333333333335
+    }
+  ]
+}

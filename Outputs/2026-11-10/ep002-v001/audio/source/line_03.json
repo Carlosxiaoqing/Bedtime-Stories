@@ -1,0 +1,17 @@
+{
+  "text": "皮皮把小爪子合起来，想把这份亮光，放进睡帽的小口袋。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "edge_tts": "7.3.1",
+  "fingerprint": "298fc0229d8eaec31a4c620119302a4ead3eaa2ba15a6d38f649c441eaad1724",
+  "boundaries": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 1000000,
+      "duration": 84884610,
+      "text": "皮皮把小爪子合起来，想把这份亮光，放进睡帽的小口袋。"
+    }
+  ]
+}

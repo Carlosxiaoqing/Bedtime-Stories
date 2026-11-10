@@ -1,0 +1,17 @@
+{
+  "text": "可是爪子一松开，月光又回到了被子上，像一枚安静的小纽扣。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "edge_tts": "7.3.1",
+  "fingerprint": "3ffab3995f66c13d8b56f8b4da5098ded172f2a7358233f6a17fac4f90e2d55b",
+  "boundaries": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 1000000,
+      "duration": 89307687,
+      "text": "可是爪子一松开，月光又回到了被子上，像一枚安静的小纽扣。"
+    }
+  ]
+}
