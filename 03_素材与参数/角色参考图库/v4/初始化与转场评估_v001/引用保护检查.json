@@ -1,0 +1,20 @@
+{
+  "checks": [
+    {
+      "check": "unknown_id",
+      "result": "correctly_rejected"
+    },
+    {
+      "check": "unprepared_supporting_role",
+      "result": "correctly_rejected"
+    },
+    {
+      "check": "tool_limit_no_silent_drop",
+      "result": "correctly_rejected"
+    },
+    {
+      "check": "changed_image_bytes",
+      "result": "correctly_rejected"
+    }
+  ]
+}

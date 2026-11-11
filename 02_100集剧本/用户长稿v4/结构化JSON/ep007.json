@@ -1,0 +1,103 @@
+{
+  "schema_version": 3,
+  "script_version": "v4",
+  "id": "ep007",
+  "episode": 7,
+  "title": "窗帘的小摇篮",
+  "theme": "看见重复而安静的节奏",
+  "language": "zh-CN",
+  "production_scope": "adopted_user_long_script",
+  "status": "copyedited_media_not_started",
+  "narration_paragraphs": [
+    {
+      "id": "p001",
+      "text": "今天皮皮在森林学堂的院子里发现了一个新奇的好地方。\n那是山羊老师在两棵白桦树之间，用宽宽的棉布挂起来的几张小吊床，专门给小朋友们在户外听风休息用的。"
+    },
+    {
+      "id": "p002",
+      "text": "上午做完体操后，皮皮、小刺猬栗栗，还有小熊绒绒，一人爬上了一张小吊床。\n小熊绒绒力气大，刚躺上去的时候，用脚使劲一蹬，吊床晃得高高的。可晃了几下，绒绒就觉得有点头晕，不知道怎么让自己安静下来。"
+    },
+    {
+      "id": "p003",
+      "text": "皮皮躺在旁边的吊床上，他没有使劲蹬腿，而是把小爪子放在肚皮上，等着森林里的微风吹过来。\n一阵很小的风经过白桦树叶，吹了吹皮皮的吊床。吊床轻轻往左晃了一点，又慢慢往右落了回来。"
+    },
+    {
+      "id": "p004",
+      "text": "皮皮轻声对小熊说：“绒绒，你把脚丫收进来，交给风来推，就会很舒服啦。”\n小熊绒绒照着皮皮的话，把大大的脚掌放进吊床里。果然，微风再来的时候，三张小吊床就像三片大叶子一样，按照同一种慢吞吞的节奏，一左，一右，轻轻摇晃。"
+    },
+    {
+      "id": "p005",
+      "text": "没有谁在比赛谁晃得高，也没有谁在数数，大家听着头顶树叶“沙沙”的响声，舒服得直打哈欠。"
+    },
+    {
+      "id": "p006",
+      "text": "傍晚回到家，皮皮喝了一碗热乎乎的南瓜汤，洗漱干净，早早地躺进了自己的小木床里。\n他侧过头，看见窗边的叶子花窗帘，正被外面的夜风吹得鼓起一点，又轻轻地落下来。"
+    },
+    {
+      "id": "p007",
+      "text": "那道弯弯的窗帘布纹，多像白天在白桦树下坐过的小吊床呀。\n一阵很小的夜风从窗缝经过，帘角没有跑远，只在原地慢慢地晃。皮皮看着它，还想起白天草叶托着小露珠轻轻摇晃的样子。"
+    },
+    {
+      "id": "p008",
+      "text": "皮皮把自己的暖黄色毛毯拉好。窗帘照看着窗边，毛毯照看着他暖暖的小脚丫。\n风停了一小会儿，窗帘便乖乖地靠住窗框，像坐回了熟悉的椅子；风又轻轻来过，帘角就缓缓抬起，像一只温柔的小摇篮。"
+    },
+    {
+      "id": "p009",
+      "text": "没有声音催它快一点，屋里安静极了。\n皮皮的眼皮越来越沉，呼吸也跟着窗帘摇晃的节奏，变得悠长而平稳。"
+    },
+    {
+      "id": "p010",
+      "text": "他闭上眼睛，只留下长耳朵，听一听屋里安静的风声。\n小朋友，也让你的身体像躺在小摇篮里一样，舒服地歇着吧。轻轻的，慢慢的，今晚不用赶路，晚安。"
+    }
+  ],
+  "cn_characters": 684,
+  "narration_sha256": "a34d10c086c3784737b37458cc53bf908852e66abe6ff69a87ae19a4bdc24c46",
+  "source": {
+    "path": "/Users/ww/Downloads/100集睡前故事合集.md",
+    "sha256": "3feafa137e94824baccf8b6e3f3f24bac3e97714b2e201fcc48d461d8969c302",
+    "original_narration_sha256": "a34d10c086c3784737b37458cc53bf908852e66abe6ff69a87ae19a4bdc24c46",
+    "original_paragraph_count": 10
+  },
+  "revision_record": [],
+  "duration_policy": {
+    "basis": "complete_narration_at_current_voice_settings",
+    "limit_s": null,
+    "delete_for_duration": false,
+    "time_stretch": false
+  },
+  "voice": {
+    "config": "03_素材与参数/配音与声音参数.json",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000
+  },
+  "actual_duration_s": null,
+  "character_registry": "03_素材与参数/用户长稿v4角色图库.json",
+  "storyboard": {
+    "status": "not_started",
+    "shots": [],
+    "timing_basis": "actual_audio",
+    "preferred_hold_s": [
+      8,
+      10
+    ],
+    "review_above_s": 15,
+    "short_action_hold_s": [
+      3,
+      5
+    ]
+  },
+  "material_state": {
+    "voice": "not_started",
+    "character_references": "not_generated",
+    "illustrations": "not_started",
+    "cover": "not_started",
+    "pinyin_review": "not_started",
+    "render": "not_started",
+    "technical_check": "not_started",
+    "human_watch": "not_started",
+    "user_acceptance": "not_recorded"
+  }
+}

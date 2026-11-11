@@ -1,0 +1,2083 @@
+{
+  "target_s": 120,
+  "planning_range_s": [
+    115,
+    125
+  ],
+  "voice_parameters": {
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%"
+  },
+  "measured_historical_references": [
+    {
+      "timeline": "episodes/ep001/v005/narration-timeline.json",
+      "hanzi": 218,
+      "narration_segments_s": 76.89287500000002,
+      "actual_total_s": 99.88
+    },
+    {
+      "timeline": "episodes/ep002/v001/narration-timeline.json",
+      "hanzi": 222,
+      "narration_segments_s": 75.20372916666668,
+      "actual_total_s": 96.72
+    },
+    {
+      "timeline": "episodes/ep003/v001/narration-timeline.json",
+      "hanzi": 230,
+      "narration_segments_s": 78.9691875,
+      "actual_total_s": 101.2
+    }
+  ],
+  "narration_reference_hanzi_per_second": 2.8996070563596694,
+  "estimated_median_s": 120.345,
+  "episodes": [
+    {
+      "episode": 1,
+      "title": "榆树学校的新同桌",
+      "hanzi": 284,
+      "estimated_v2_s": 100.59,
+      "estimated_v3_s": 121.74,
+      "estimated_shots_s": [
+        11.64,
+        13.08,
+        9.57,
+        14.43,
+        16.15,
+        10.29,
+        16.15,
+        13.05,
+        17.37
+      ],
+      "edited_shots": [
+        2,
+        4,
+        5,
+        8
+      ]
+    },
+    {
+      "episode": 2,
+      "title": "桃桃的条纹去哪儿了",
+      "hanzi": 274,
+      "estimated_v2_s": 101.02,
+      "estimated_v3_s": 121.18,
+      "estimated_shots_s": [
+        15.12,
+        14.12,
+        13.08,
+        12.71,
+        9.95,
+        13.77,
+        13.77,
+        10.26,
+        18.41
+      ],
+      "edited_shots": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        7
+      ]
+    },
+    {
+      "episode": 3,
+      "title": "小象的两条浇水路",
+      "hanzi": 282,
+      "estimated_v2_s": 102.37,
+      "estimated_v3_s": 122.49,
+      "estimated_shots_s": [
+        12.67,
+        16.53,
+        9.6,
+        12.02,
+        16.53,
+        10.98,
+        15.84,
+        10.64,
+        17.69
+      ],
+      "edited_shots": [
+        2,
+        4,
+        5,
+        7
+      ]
+    },
+    {
+      "episode": 4,
+      "title": "慢慢带来的近路",
+      "hanzi": 283,
+      "estimated_v2_s": 104.82,
+      "estimated_v3_s": 122.12,
+      "estimated_shots_s": [
+        12.33,
+        18.6,
+        10.98,
+        8.91,
+        10.29,
+        17.22,
+        11.33,
+        10.64,
+        21.83
+      ],
+      "edited_shots": [
+        2,
+        6
+      ]
+    },
+    {
+      "episode": 5,
+      "title": "车窗两边的风景",
+      "hanzi": 281,
+      "estimated_v2_s": 110.99,
+      "estimated_v3_s": 119.99,
+      "estimated_shots_s": [
+        11.64,
+        10.98,
+        18.91,
+        10.29,
+        10.29,
+        11.33,
+        10.98,
+        13.4,
+        22.17
+      ],
+      "edited_shots": [
+        3
+      ]
+    },
+    {
+      "episode": 6,
+      "title": "晚饭桌上的空碗",
+      "hanzi": 284,
+      "estimated_v2_s": 99.21,
+      "estimated_v3_s": 121.02,
+      "estimated_shots_s": [
+        13.02,
+        15.46,
+        9.23,
+        9.26,
+        16.53,
+        18.57,
+        10.64,
+        9.95,
+        18.38
+      ],
+      "edited_shots": [
+        2,
+        5,
+        6
+      ]
+    },
+    {
+      "episode": 7,
+      "title": "朵朵听见了小雨",
+      "hanzi": 284,
+      "estimated_v2_s": 103.75,
+      "estimated_v3_s": 121.74,
+      "estimated_shots_s": [
+        11.64,
+        18.6,
+        10.64,
+        11.67,
+        18.22,
+        10.98,
+        10.98,
+        10.98,
+        18.03
+      ],
+      "edited_shots": [
+        2,
+        5
+      ]
+    },
+    {
+      "episode": 8,
+      "title": "点点的第二条书架路",
+      "hanzi": 291,
+      "estimated_v2_s": 110.33,
+      "estimated_v3_s": 124.88,
+      "estimated_shots_s": [
+        12.33,
+        11.33,
+        10.98,
+        11.67,
+        17.56,
+        17.91,
+        10.64,
+        10.64,
+        21.83
+      ],
+      "edited_shots": [
+        5,
+        6
+      ]
+    },
+    {
+      "episode": 9,
+      "title": "影子车站的失物",
+      "hanzi": 290,
+      "estimated_v2_s": 106.88,
+      "estimated_v3_s": 124.53,
+      "estimated_shots_s": [
+        12.33,
+        10.64,
+        11.33,
+        10.64,
+        19.98,
+        10.29,
+        19.98,
+        10.98,
+        18.38
+      ],
+      "edited_shots": [
+        5,
+        7
+      ]
+    },
+    {
+      "episode": 10,
+      "title": "青石港的高脚筐",
+      "hanzi": 285,
+      "estimated_v2_s": 106.88,
+      "estimated_v3_s": 122.81,
+      "estimated_shots_s": [
+        12.67,
+        18.63,
+        10.64,
+        18.57,
+        10.64,
+        10.98,
+        12.02,
+        10.64,
+        18.03
+      ],
+      "edited_shots": [
+        2,
+        4
+      ]
+    },
+    {
+      "episode": 11,
+      "title": "绒绒等在第三把椅子",
+      "hanzi": 277,
+      "estimated_v2_s": 104.1,
+      "estimated_v3_s": 119.33,
+      "estimated_shots_s": [
+        13.02,
+        15.12,
+        17.56,
+        10.26,
+        12.02,
+        11.33,
+        11.36,
+        10.98,
+        17.69
+      ],
+      "edited_shots": [
+        2,
+        3
+      ]
+    },
+    {
+      "episode": 12,
+      "title": "豆豆的荷叶邀请",
+      "hanzi": 291,
+      "estimated_v2_s": 107.2,
+      "estimated_v3_s": 124.16,
+      "estimated_shots_s": [
+        12.67,
+        10.98,
+        12.36,
+        9.23,
+        20.32,
+        11.67,
+        18.6,
+        9.26,
+        19.07
+      ],
+      "edited_shots": [
+        5,
+        7
+      ]
+    },
+    {
+      "episode": 13,
+      "title": "梨梨不一样大的梨",
+      "hanzi": 268,
+      "estimated_v2_s": 115.51,
+      "estimated_v3_s": 115.51,
+      "estimated_shots_s": [
+        13.02,
+        10.64,
+        11.67,
+        10.98,
+        12.36,
+        12.74,
+        12.02,
+        9.57,
+        22.51
+      ],
+      "edited_shots": []
+    },
+    {
+      "episode": 14,
+      "title": "一张纸上的两条河",
+      "hanzi": 293,
+      "estimated_v2_s": 107.89,
+      "estimated_v3_s": 124.85,
+      "estimated_shots_s": [
+        13.36,
+        18.94,
+        9.6,
+        19.29,
+        9.92,
+        11.67,
+        11.33,
+        10.98,
+        19.76
+      ],
+      "edited_shots": [
+        2,
+        4
+      ]
+    },
+    {
+      "episode": 15,
+      "title": "雪团寄来的暖地方",
+      "hanzi": 282,
+      "estimated_v2_s": 112.03,
+      "estimated_v3_s": 120.33,
+      "estimated_shots_s": [
+        13.36,
+        12.36,
+        11.33,
+        10.29,
+        10.61,
+        20.67,
+        11.67,
+        12.02,
+        18.03
+      ],
+      "edited_shots": [
+        6
+      ]
+    },
+    {
+      "episode": 16,
+      "title": "木偶戏的两位船长",
+      "hanzi": 289,
+      "estimated_v2_s": 106.88,
+      "estimated_v3_s": 124.19,
+      "estimated_shots_s": [
+        13.36,
+        18.6,
+        11.33,
+        20.32,
+        11.33,
+        10.64,
+        10.98,
+        10.98,
+        16.65
+      ],
+      "edited_shots": [
+        2,
+        4
+      ]
+    },
+    {
+      "episode": 17,
+      "title": "树洞外的等候线",
+      "hanzi": 282,
+      "estimated_v2_s": 103.03,
+      "estimated_v3_s": 120.33,
+      "estimated_shots_s": [
+        13.02,
+        7.85,
+        17.19,
+        19.29,
+        10.64,
+        10.98,
+        10.64,
+        12.02,
+        18.72
+      ],
+      "edited_shots": [
+        3,
+        4
+      ]
+    },
+    {
+      "episode": 18,
+      "title": "斑斑烤出的弯面包",
+      "hanzi": 284,
+      "estimated_v2_s": 108.61,
+      "estimated_v3_s": 122.46,
+      "estimated_shots_s": [
+        12.67,
+        17.22,
+        12.02,
+        18.6,
+        10.98,
+        9.26,
+        11.33,
+        10.98,
+        19.41
+      ],
+      "edited_shots": [
+        2,
+        4
+      ]
+    },
+    {
+      "episode": 19,
+      "title": "山坡上两种脚步",
+      "hanzi": 288,
+      "estimated_v2_s": 113.41,
+      "estimated_v3_s": 122.4,
+      "estimated_shots_s": [
+        13.02,
+        12.02,
+        20.67,
+        10.98,
+        12.71,
+        12.36,
+        10.98,
+        10.61,
+        19.07
+      ],
+      "edited_shots": [
+        3
+      ]
+    },
+    {
+      "episode": 20,
+      "title": "颜色博物馆少了一点绿",
+      "hanzi": 281,
+      "estimated_v2_s": 125.85,
+      "estimated_v3_s": 118.55,
+      "estimated_shots_s": [
+        10.92,
+        12.36,
+        12.02,
+        12.36,
+        13.74,
+        12.36,
+        14.09,
+        9.57,
+        21.14
+      ],
+      "edited_shots": [
+        1,
+        8
+      ]
+    },
+    {
+      "episode": 21,
+      "title": "谁来够高高的纸鸟",
+      "hanzi": 277,
+      "estimated_v2_s": 109.99,
+      "estimated_v3_s": 119.33,
+      "estimated_shots_s": [
+        13.36,
+        10.98,
+        11.67,
+        11.67,
+        9.95,
+        19.98,
+        11.67,
+        12.02,
+        18.03
+      ],
+      "edited_shots": [
+        6
+      ]
+    },
+    {
+      "episode": 22,
+      "title": "林间邮筒里的回声",
+      "hanzi": 288,
+      "estimated_v2_s": 107.2,
+      "estimated_v3_s": 123.12,
+      "estimated_shots_s": [
+        13.02,
+        17.56,
+        11.33,
+        10.98,
+        11.33,
+        19.29,
+        11.67,
+        8.54,
+        19.41
+      ],
+      "edited_shots": [
+        2,
+        6
+      ]
+    },
+    {
+      "episode": 23,
+      "title": "海岸上第二座沙城",
+      "hanzi": 287,
+      "estimated_v2_s": 107.23,
+      "estimated_v3_s": 123.5,
+      "estimated_shots_s": [
+        12.67,
+        11.33,
+        19.63,
+        11.33,
+        18.25,
+        10.29,
+        10.64,
+        11.33,
+        18.03
+      ],
+      "edited_shots": [
+        3,
+        5
+      ]
+    },
+    {
+      "episode": 24,
+      "title": "谁把菜叶翻了面",
+      "hanzi": 277,
+      "estimated_v2_s": 108.92,
+      "estimated_v3_s": 118.61,
+      "estimated_shots_s": [
+        13.02,
+        11.33,
+        9.23,
+        10.64,
+        21.01,
+        11.67,
+        11.67,
+        10.64,
+        19.41
+      ],
+      "edited_shots": [
+        5
+      ]
+    },
+    {
+      "episode": 25,
+      "title": "灰灰送到坡那边的信",
+      "hanzi": 280,
+      "estimated_v2_s": 111.71,
+      "estimated_v3_s": 120.36,
+      "estimated_shots_s": [
+        14.05,
+        11.67,
+        11.33,
+        10.64,
+        11.33,
+        11.33,
+        19.29,
+        12.02,
+        18.72
+      ],
+      "edited_shots": [
+        7
+      ]
+    },
+    {
+      "episode": 26,
+      "title": "晚开的纸花",
+      "hanzi": 283,
+      "estimated_v2_s": 107.54,
+      "estimated_v3_s": 121.4,
+      "estimated_shots_s": [
+        12.33,
+        10.98,
+        18.25,
+        12.02,
+        10.98,
+        9.6,
+        17.53,
+        11.67,
+        18.03
+      ],
+      "edited_shots": [
+        3,
+        7
+      ]
+    },
+    {
+      "episode": 27,
+      "title": "被弄皱的借书票",
+      "hanzi": 277,
+      "estimated_v2_s": 112.06,
+      "estimated_v3_s": 119.33,
+      "estimated_shots_s": [
+        12.33,
+        18.25,
+        12.02,
+        11.67,
+        12.71,
+        11.33,
+        10.98,
+        11.33,
+        18.72
+      ],
+      "edited_shots": [
+        2
+      ]
+    },
+    {
+      "episode": 28,
+      "title": "花市的一捧三种香",
+      "hanzi": 274,
+      "estimated_v2_s": 108.58,
+      "estimated_v3_s": 117.58,
+      "estimated_shots_s": [
+        13.36,
+        9.95,
+        10.64,
+        9.92,
+        11.33,
+        21.01,
+        10.98,
+        10.98,
+        19.41
+      ],
+      "edited_shots": [
+        6
+      ]
+    },
+    {
+      "episode": 29,
+      "title": "谁吹动了山顶的旗子",
+      "hanzi": 286,
+      "estimated_v2_s": 112.75,
+      "estimated_v3_s": 122.43,
+      "estimated_shots_s": [
+        11.98,
+        9.6,
+        11.67,
+        18.94,
+        10.64,
+        13.74,
+        12.36,
+        15.12,
+        18.38
+      ],
+      "edited_shots": [
+        4
+      ]
+    },
+    {
+      "episode": 30,
+      "title": "萤火虫喜欢哪一边",
+      "hanzi": 276,
+      "estimated_v2_s": 109.99,
+      "estimated_v3_s": 118.99,
+      "estimated_shots_s": [
+        12.33,
+        10.64,
+        11.67,
+        10.98,
+        20.32,
+        12.02,
+        10.98,
+        11.33,
+        18.72
+      ],
+      "edited_shots": [
+        5
+      ]
+    },
+    {
+      "episode": 31,
+      "title": "陶盘上的雨点",
+      "hanzi": 272,
+      "estimated_v2_s": 109.99,
+      "estimated_v3_s": 117.61,
+      "estimated_shots_s": [
+        12.67,
+        11.67,
+        11.33,
+        12.36,
+        11.33,
+        19.63,
+        8.22,
+        12.36,
+        18.03
+      ],
+      "edited_shots": [
+        6
+      ]
+    },
+    {
+      "episode": 32,
+      "title": "渡船最宽的那扇门",
+      "hanzi": 289,
+      "estimated_v2_s": 114.13,
+      "estimated_v3_s": 123.47,
+      "estimated_shots_s": [
+        11.98,
+        10.98,
+        11.33,
+        21.7,
+        12.02,
+        12.02,
+        13.05,
+        12.36,
+        18.03
+      ],
+      "edited_shots": [
+        4
+      ]
+    },
+    {
+      "episode": 33,
+      "title": "桃桃不爱看的那一页",
+      "hanzi": 287,
+      "estimated_v2_s": 114.82,
+      "estimated_v3_s": 122.78,
+      "estimated_shots_s": [
+        13.71,
+        12.02,
+        12.71,
+        17.91,
+        12.02,
+        12.71,
+        11.67,
+        10.98,
+        19.07
+      ],
+      "edited_shots": [
+        4
+      ]
+    },
+    {
+      "episode": 34,
+      "title": "雪里的三角路牌",
+      "hanzi": 291,
+      "estimated_v2_s": 114.82,
+      "estimated_v3_s": 124.16,
+      "estimated_shots_s": [
+        12.33,
+        12.02,
+        21.01,
+        12.71,
+        12.71,
+        12.02,
+        10.98,
+        12.36,
+        18.03
+      ],
+      "edited_shots": [
+        3
+      ]
+    },
+    {
+      "episode": 35,
+      "title": "灰灰坐进了学生桌",
+      "hanzi": 273,
+      "estimated_v2_s": 117.23,
+      "estimated_v3_s": 117.23,
+      "estimated_shots_s": [
+        13.36,
+        10.64,
+        11.3,
+        11.33,
+        12.36,
+        11.67,
+        12.74,
+        12.02,
+        21.83
+      ],
+      "edited_shots": []
+    },
+    {
+      "episode": 36,
+      "title": "泥地上的小手掌",
+      "hanzi": 291,
+      "estimated_v2_s": 114.13,
+      "estimated_v3_s": 124.16,
+      "estimated_shots_s": [
+        14.05,
+        13.05,
+        12.02,
+        12.36,
+        12.36,
+        20.67,
+        9.95,
+        11.67,
+        18.03
+      ],
+      "edited_shots": [
+        6
+      ]
+    },
+    {
+      "episode": 37,
+      "title": "修伞铺的转角补丁",
+      "hanzi": 268,
+      "estimated_v2_s": 108.95,
+      "estimated_v3_s": 116.23,
+      "estimated_shots_s": [
+        12.33,
+        17.91,
+        11.33,
+        12.36,
+        11.33,
+        11.33,
+        11.33,
+        10.29,
+        18.03
+      ],
+      "edited_shots": [
+        2
+      ]
+    },
+    {
+      "episode": 38,
+      "title": "会漏雨的云伞",
+      "hanzi": 283,
+      "estimated_v2_s": 112.4,
+      "estimated_v3_s": 121.4,
+      "estimated_shots_s": [
+        12.67,
+        11.33,
+        12.36,
+        19.98,
+        11.33,
+        12.71,
+        12.36,
+        9.6,
+        19.07
+      ],
+      "edited_shots": [
+        4
+      ]
+    },
+    {
+      "episode": 39,
+      "title": "两种口味的早饭",
+      "hanzi": 285,
+      "estimated_v2_s": 114.13,
+      "estimated_v3_s": 122.09,
+      "estimated_shots_s": [
+        12.67,
+        10.64,
+        11.67,
+        18.6,
+        12.71,
+        13.4,
+        11.67,
+        11.67,
+        19.07
+      ],
+      "edited_shots": [
+        4
+      ]
+    },
+    {
+      "episode": 40,
+      "title": "芦苇滩的小风车",
+      "hanzi": 286,
+      "estimated_v2_s": 113.78,
+      "estimated_v3_s": 122.43,
+      "estimated_shots_s": [
+        14.4,
+        10.98,
+        11.33,
+        20.32,
+        10.98,
+        12.36,
+        12.02,
+        12.02,
+        18.03
+      ],
+      "edited_shots": [
+        4
+      ]
+    },
+    {
+      "episode": 41,
+      "title": "斑斑想换一个游戏",
+      "hanzi": 287,
+      "estimated_v2_s": 112.72,
+      "estimated_v3_s": 122.06,
+      "estimated_shots_s": [
+        11.98,
+        12.36,
+        11.67,
+        11.33,
+        12.02,
+        21.01,
+        11.33,
+        11.67,
+        18.69
+      ],
+      "edited_shots": [
+        6
+      ]
+    },
+    {
+      "episode": 42,
+      "title": "看不见鲸尾的长椅",
+      "hanzi": 288,
+      "estimated_v2_s": 121.68,
+      "estimated_v3_s": 121.68,
+      "estimated_shots_s": [
+        14.4,
+        12.02,
+        11.67,
+        11.33,
+        12.36,
+        13.05,
+        13.02,
+        12.71,
+        21.14
+      ],
+      "edited_shots": []
+    },
+    {
+      "episode": 43,
+      "title": "把一小会儿还给云钟",
+      "hanzi": 280,
+      "estimated_v2_s": 111.37,
+      "estimated_v3_s": 120.36,
+      "estimated_shots_s": [
+        12.67,
+        11.67,
+        11.67,
+        12.02,
+        10.29,
+        12.02,
+        19.98,
+        11.67,
+        18.38
+      ],
+      "edited_shots": [
+        7
+      ]
+    },
+    {
+      "episode": 44,
+      "title": "清晨的两次招呼",
+      "hanzi": 288,
+      "estimated_v2_s": 114.47,
+      "estimated_v3_s": 123.12,
+      "estimated_shots_s": [
+        12.33,
+        12.71,
+        11.67,
+        12.36,
+        12.36,
+        19.63,
+        11.67,
+        10.98,
+        19.41
+      ],
+      "edited_shots": [
+        6
+      ]
+    },
+    {
+      "episode": 45,
+      "title": "梨梨留给自己的画框",
+      "hanzi": 285,
+      "estimated_v2_s": 112.34,
+      "estimated_v3_s": 120.65,
+      "estimated_shots_s": [
+        13.71,
+        12.36,
+        17.53,
+        12.36,
+        12.71,
+        11.67,
+        10.26,
+        10.64,
+        19.41
+      ],
+      "edited_shots": [
+        3
+      ]
+    },
+    {
+      "episode": 46,
+      "title": "水面上的一封请柬",
+      "hanzi": 269,
+      "estimated_v2_s": 115.85,
+      "estimated_v3_s": 115.85,
+      "estimated_shots_s": [
+        13.71,
+        12.02,
+        13.05,
+        12.36,
+        10.29,
+        12.02,
+        12.71,
+        10.98,
+        18.72
+      ],
+      "edited_shots": []
+    },
+    {
+      "episode": 47,
+      "title": "柜子里那只空抽屉",
+      "hanzi": 282,
+      "estimated_v2_s": 120.33,
+      "estimated_v3_s": 120.33,
+      "estimated_shots_s": [
+        14.05,
+        12.36,
+        11.33,
+        13.05,
+        13.74,
+        11.67,
+        12.02,
+        12.36,
+        19.76
+      ],
+      "edited_shots": []
+    },
+    {
+      "episode": 48,
+      "title": "山缆车上靠里的一排",
+      "hanzi": 289,
+      "estimated_v2_s": 114.1,
+      "estimated_v3_s": 122.75,
+      "estimated_shots_s": [
+        13.71,
+        9.6,
+        12.02,
+        13.74,
+        19.6,
+        13.05,
+        8.91,
+        12.02,
+        20.1
+      ],
+      "edited_shots": [
+        5
+      ]
+    },
+    {
+      "episode": 49,
+      "title": "请叫我朵朵",
+      "hanzi": 275,
+      "estimated_v2_s": 108.92,
+      "estimated_v3_s": 117.92,
+      "estimated_shots_s": [
+        11.29,
+        21.01,
+        9.23,
+        9.92,
+        12.39,
+        13.05,
+        10.64,
+        10.98,
+        19.41
+      ],
+      "edited_shots": [
+        2
+      ]
+    },
+    {
+      "episode": 50,
+      "title": "双河岛开张啦",
+      "hanzi": 274,
+      "estimated_v2_s": 117.58,
+      "estimated_v3_s": 117.58,
+      "estimated_shots_s": [
+        13.02,
+        12.36,
+        11.67,
+        11.67,
+        12.71,
+        13.05,
+        10.64,
+        12.36,
+        20.1
+      ],
+      "edited_shots": []
+    },
+    {
+      "episode": 51,
+      "title": "团团发明的拐弯棋",
+      "hanzi": 287,
+      "estimated_v2_s": 113.75,
+      "estimated_v3_s": 122.06,
+      "estimated_shots_s": [
+        12.67,
+        11.67,
+        18.22,
+        12.36,
+        13.74,
+        10.98,
+        12.02,
+        11.33,
+        19.07
+      ],
+      "edited_shots": [
+        3
+      ]
+    },
+    {
+      "episode": 52,
+      "title": "花圃门口的半朵花",
+      "hanzi": 279,
+      "estimated_v2_s": 127.92,
+      "estimated_v3_s": 117.86,
+      "estimated_shots_s": [
+        14.4,
+        12.71,
+        12.02,
+        12.02,
+        12.36,
+        11.3,
+        13.74,
+        6.81,
+        22.51
+      ],
+      "edited_shots": [
+        6,
+        8
+      ]
+    },
+    {
+      "episode": 53,
+      "title": "云鲸慢慢换班",
+      "hanzi": 282,
+      "estimated_v2_s": 120.33,
+      "estimated_v3_s": 120.33,
+      "estimated_shots_s": [
+        14.05,
+        12.02,
+        12.02,
+        12.02,
+        13.05,
+        13.05,
+        13.4,
+        11.67,
+        19.07
+      ],
+      "edited_shots": []
+    },
+    {
+      "episode": 54,
+      "title": "桃桃的画请先别擦",
+      "hanzi": 268,
+      "estimated_v2_s": 115.51,
+      "estimated_v3_s": 115.51,
+      "estimated_shots_s": [
+        12.67,
+        11.33,
+        12.36,
+        12.02,
+        10.64,
+        12.71,
+        13.05,
+        12.02,
+        18.72
+      ],
+      "edited_shots": []
+    },
+    {
+      "episode": 55,
+      "title": "开往海边的第一站",
+      "hanzi": 286,
+      "estimated_v2_s": 114.13,
+      "estimated_v3_s": 122.43,
+      "estimated_shots_s": [
+        13.71,
+        18.94,
+        13.4,
+        10.64,
+        9.95,
+        14.09,
+        11.67,
+        12.36,
+        17.69
+      ],
+      "edited_shots": [
+        2
+      ]
+    },
+    {
+      "episode": 56,
+      "title": "抽屉里的生日纸帽",
+      "hanzi": 288,
+      "estimated_v2_s": 114.1,
+      "estimated_v3_s": 122.4,
+      "estimated_shots_s": [
+        13.36,
+        10.26,
+        12.71,
+        19.29,
+        11.33,
+        10.98,
+        11.67,
+        12.71,
+        20.1
+      ],
+      "edited_shots": [
+        4
+      ]
+    },
+    {
+      "episode": 57,
+      "title": "花园里的一小块空地",
+      "hanzi": 285,
+      "estimated_v2_s": 112.03,
+      "estimated_v3_s": 121.37,
+      "estimated_shots_s": [
+        13.71,
+        11.33,
+        12.02,
+        21.01,
+        11.33,
+        10.64,
+        11.67,
+        10.26,
+        19.41
+      ],
+      "edited_shots": [
+        4
+      ]
+    },
+    {
+      "episode": 58,
+      "title": "舞步里的一个空拍",
+      "hanzi": 273,
+      "estimated_v2_s": 117.23,
+      "estimated_v3_s": 117.23,
+      "estimated_shots_s": [
+        11.64,
+        11.33,
+        11.33,
+        11.67,
+        11.67,
+        12.36,
+        11.67,
+        12.71,
+        22.86
+      ],
+      "edited_shots": []
+    },
+    {
+      "episode": 59,
+      "title": "倒着长的台阶",
+      "hanzi": 275,
+      "estimated_v2_s": 117.92,
+      "estimated_v3_s": 117.92,
+      "estimated_shots_s": [
+        12.67,
+        12.02,
+        12.02,
+        12.36,
+        12.36,
+        12.36,
+        12.36,
+        12.02,
+        19.76
+      ],
+      "edited_shots": []
+    },
+    {
+      "episode": 60,
+      "title": "稻田旁漏了一格的画",
+      "hanzi": 277,
+      "estimated_v2_s": 118.61,
+      "estimated_v3_s": 118.61,
+      "estimated_shots_s": [
+        12.33,
+        11.67,
+        11.67,
+        14.09,
+        12.36,
+        12.71,
+        13.08,
+        10.26,
+        20.45
+      ],
+      "edited_shots": []
+    },
+    {
+      "episode": 61,
+      "title": "小摊上那句没听清的话",
+      "hanzi": 283,
+      "estimated_v2_s": 121.4,
+      "estimated_v3_s": 121.4,
+      "estimated_shots_s": [
+        13.36,
+        13.4,
+        13.05,
+        13.43,
+        11.67,
+        12.36,
+        11.67,
+        10.29,
+        22.17
+      ],
+      "edited_shots": []
+    },
+    {
+      "episode": 62,
+      "title": "给学校留一张声音照片",
+      "hanzi": 284,
+      "estimated_v2_s": 112.72,
+      "estimated_v3_s": 121.02,
+      "estimated_shots_s": [
+        13.02,
+        11.67,
+        17.19,
+        10.26,
+        12.02,
+        13.08,
+        12.36,
+        12.36,
+        19.07
+      ],
+      "edited_shots": [
+        3
+      ]
+    },
+    {
+      "episode": 63,
+      "title": "盐田的一小格白",
+      "hanzi": 291,
+      "estimated_v2_s": 123.44,
+      "estimated_v3_s": 123.44,
+      "estimated_shots_s": [
+        13.36,
+        13.05,
+        12.71,
+        11.67,
+        13.05,
+        14.43,
+        13.74,
+        11.67,
+        19.76
+      ],
+      "edited_shots": []
+    },
+    {
+      "episode": 64,
+      "title": "会回信的山门",
+      "hanzi": 272,
+      "estimated_v2_s": 116.89,
+      "estimated_v3_s": 116.89,
+      "estimated_shots_s": [
+        14.05,
+        10.64,
+        12.71,
+        10.29,
+        12.36,
+        11.67,
+        12.71,
+        12.36,
+        20.1
+      ],
+      "edited_shots": []
+    },
+    {
+      "episode": 65,
+      "title": "门口那只没有名字的篮",
+      "hanzi": 272,
+      "estimated_v2_s": 116.89,
+      "estimated_v3_s": 116.89,
+      "estimated_shots_s": [
+        13.02,
+        12.02,
+        12.02,
+        12.02,
+        12.71,
+        11.67,
+        13.4,
+        11.67,
+        18.38
+      ],
+      "edited_shots": []
+    },
+    {
+      "episode": 66,
+      "title": "树荫下走到一半",
+      "hanzi": 286,
+      "estimated_v2_s": 114.1,
+      "estimated_v3_s": 121.71,
+      "estimated_shots_s": [
+        14.4,
+        17.22,
+        13.4,
+        12.71,
+        10.95,
+        12.71,
+        12.02,
+        11.33,
+        17.0
+      ],
+      "edited_shots": [
+        2
+      ]
+    },
+    {
+      "episode": 67,
+      "title": "绒绒把破瓦拼成海",
+      "hanzi": 280,
+      "estimated_v2_s": 119.64,
+      "estimated_v3_s": 119.64,
+      "estimated_shots_s": [
+        13.71,
+        12.71,
+        11.67,
+        12.02,
+        11.67,
+        13.05,
+        12.02,
+        12.36,
+        20.45
+      ],
+      "edited_shots": []
+    },
+    {
+      "episode": 68,
+      "title": "最后一圈的接力棒",
+      "hanzi": 283,
+      "estimated_v2_s": 112.03,
+      "estimated_v3_s": 120.68,
+      "estimated_shots_s": [
+        10.92,
+        11.67,
+        11.33,
+        18.94,
+        12.36,
+        11.33,
+        12.36,
+        10.98,
+        20.79
+      ],
+      "edited_shots": [
+        4
+      ]
+    },
+    {
+      "episode": 69,
+      "title": "给远船留一扇灯",
+      "hanzi": 268,
+      "estimated_v2_s": 115.51,
+      "estimated_v3_s": 115.51,
+      "estimated_shots_s": [
+        12.67,
+        11.33,
+        11.67,
+        11.67,
+        10.64,
+        12.36,
+        13.05,
+        12.02,
+        20.1
+      ],
+      "edited_shots": []
+    },
+    {
+      "episode": 70,
+      "title": "泡泡信跑得太快",
+      "hanzi": 268,
+      "estimated_v2_s": 115.51,
+      "estimated_v3_s": 115.51,
+      "estimated_shots_s": [
+        13.02,
+        12.71,
+        12.36,
+        11.67,
+        12.36,
+        10.64,
+        12.02,
+        11.67,
+        19.07
+      ],
+      "edited_shots": []
+    },
+    {
+      "episode": 71,
+      "title": "空枝上少画了一只鸟",
+      "hanzi": 274,
+      "estimated_v2_s": 116.86,
+      "estimated_v3_s": 116.86,
+      "estimated_shots_s": [
+        12.67,
+        11.67,
+        10.61,
+        12.36,
+        12.02,
+        13.74,
+        13.4,
+        12.36,
+        18.03
+      ],
+      "edited_shots": []
+    },
+    {
+      "episode": 72,
+      "title": "旧围巾要不要交换",
+      "hanzi": 271,
+      "estimated_v2_s": 116.54,
+      "estimated_v3_s": 116.54,
+      "estimated_shots_s": [
+        14.05,
+        9.26,
+        12.02,
+        13.74,
+        12.36,
+        12.02,
+        12.36,
+        10.64,
+        20.1
+      ],
+      "edited_shots": []
+    },
+    {
+      "episode": 73,
+      "title": "点点讲到一半停住了",
+      "hanzi": 278,
+      "estimated_v2_s": 118.96,
+      "estimated_v3_s": 118.96,
+      "estimated_shots_s": [
+        13.36,
+        14.09,
+        11.67,
+        12.36,
+        11.33,
+        11.33,
+        13.05,
+        12.02,
+        19.76
+      ],
+      "edited_shots": []
+    },
+    {
+      "episode": 74,
+      "title": "小小镇的大椅子",
+      "hanzi": 270,
+      "estimated_v2_s": 116.2,
+      "estimated_v3_s": 116.2,
+      "estimated_shots_s": [
+        13.02,
+        9.92,
+        12.71,
+        13.43,
+        12.71,
+        12.36,
+        11.67,
+        11.33,
+        19.07
+      ],
+      "edited_shots": []
+    },
+    {
+      "episode": 75,
+      "title": "站台上亮着半张凳",
+      "hanzi": 278,
+      "estimated_v2_s": 119.68,
+      "estimated_v3_s": 119.68,
+      "estimated_shots_s": [
+        12.33,
+        12.71,
+        12.36,
+        12.02,
+        14.12,
+        12.36,
+        11.33,
+        11.67,
+        20.79
+      ],
+      "edited_shots": []
+    },
+    {
+      "episode": 76,
+      "title": "风筝为什么总点头",
+      "hanzi": 285,
+      "estimated_v2_s": 112.4,
+      "estimated_v3_s": 122.09,
+      "estimated_shots_s": [
+        13.02,
+        11.33,
+        11.67,
+        19.63,
+        12.71,
+        11.67,
+        12.71,
+        13.05,
+        16.31
+      ],
+      "edited_shots": [
+        4
+      ]
+    },
+    {
+      "episode": 77,
+      "title": "搬家前的那棵柿子树",
+      "hanzi": 278,
+      "estimated_v2_s": 118.96,
+      "estimated_v3_s": 118.96,
+      "estimated_shots_s": [
+        12.67,
+        12.02,
+        12.71,
+        12.71,
+        12.36,
+        12.02,
+        13.05,
+        12.36,
+        19.07
+      ],
+      "edited_shots": []
+    },
+    {
+      "episode": 78,
+      "title": "墙画多了一扇门",
+      "hanzi": 277,
+      "estimated_v2_s": 118.61,
+      "estimated_v3_s": 118.61,
+      "estimated_shots_s": [
+        12.33,
+        11.33,
+        12.36,
+        11.33,
+        13.4,
+        13.05,
+        12.71,
+        12.71,
+        19.41
+      ],
+      "edited_shots": []
+    },
+    {
+      "episode": 79,
+      "title": "皮皮把第二件事放下",
+      "hanzi": 272,
+      "estimated_v2_s": 116.89,
+      "estimated_v3_s": 116.89,
+      "estimated_shots_s": [
+        13.02,
+        12.71,
+        11.33,
+        12.71,
+        11.33,
+        12.71,
+        10.64,
+        12.02,
+        20.45
+      ],
+      "edited_shots": []
+    },
+    {
+      "episode": 80,
+      "title": "雪团来树荫里做客",
+      "hanzi": 276,
+      "estimated_v2_s": 117.55,
+      "estimated_v3_s": 117.55,
+      "estimated_shots_s": [
+        13.36,
+        11.33,
+        11.99,
+        12.02,
+        11.67,
+        13.4,
+        13.05,
+        11.67,
+        19.07
+      ],
+      "edited_shots": []
+    },
+    {
+      "episode": 81,
+      "title": "风把帽子送回来了",
+      "hanzi": 287,
+      "estimated_v2_s": 122.06,
+      "estimated_v3_s": 122.06,
+      "estimated_shots_s": [
+        12.67,
+        13.05,
+        10.98,
+        13.4,
+        13.4,
+        12.71,
+        12.02,
+        12.71,
+        21.14
+      ],
+      "edited_shots": []
+    },
+    {
+      "episode": 82,
+      "title": "谁碰倒了那座纸山",
+      "hanzi": 285,
+      "estimated_v2_s": 114.13,
+      "estimated_v3_s": 122.09,
+      "estimated_shots_s": [
+        11.64,
+        13.05,
+        20.32,
+        10.29,
+        12.02,
+        12.02,
+        12.71,
+        11.67,
+        18.38
+      ],
+      "edited_shots": [
+        3
+      ]
+    },
+    {
+      "episode": 83,
+      "title": "雨棚里的一局棋",
+      "hanzi": 275,
+      "estimated_v2_s": 117.92,
+      "estimated_v3_s": 117.92,
+      "estimated_shots_s": [
+        14.4,
+        11.67,
+        13.05,
+        12.36,
+        12.71,
+        12.36,
+        11.67,
+        11.33,
+        18.38
+      ],
+      "edited_shots": []
+    },
+    {
+      "episode": 84,
+      "title": "冰面下的一串小泡",
+      "hanzi": 269,
+      "estimated_v2_s": 115.85,
+      "estimated_v3_s": 115.85,
+      "estimated_shots_s": [
+        13.02,
+        12.02,
+        10.64,
+        11.67,
+        12.02,
+        11.67,
+        12.71,
+        12.02,
+        20.1
+      ],
+      "edited_shots": []
+    },
+    {
+      "episode": 85,
+      "title": "三枚慢慢盖的旅行章",
+      "hanzi": 269,
+      "estimated_v2_s": 115.85,
+      "estimated_v3_s": 115.85,
+      "estimated_shots_s": [
+        11.98,
+        12.36,
+        12.36,
+        12.71,
+        11.67,
+        10.64,
+        12.71,
+        14.09,
+        17.34
+      ],
+      "edited_shots": []
+    },
+    {
+      "episode": 86,
+      "title": "会放大悄悄话的杯子",
+      "hanzi": 275,
+      "estimated_v2_s": 118.64,
+      "estimated_v3_s": 118.64,
+      "estimated_shots_s": [
+        14.4,
+        12.02,
+        11.67,
+        12.02,
+        14.43,
+        10.64,
+        12.36,
+        12.39,
+        18.72
+      ],
+      "edited_shots": []
+    },
+    {
+      "episode": 87,
+      "title": "一张桌上画到哪里",
+      "hanzi": 272,
+      "estimated_v2_s": 116.89,
+      "estimated_v3_s": 116.89,
+      "estimated_shots_s": [
+        15.78,
+        12.71,
+        10.29,
+        12.02,
+        11.33,
+        11.67,
+        12.36,
+        11.33,
+        19.41
+      ],
+      "edited_shots": []
+    },
+    {
+      "episode": 88,
+      "title": "树根下那颗滚走的栗子",
+      "hanzi": 277,
+      "estimated_v2_s": 117.89,
+      "estimated_v3_s": 117.89,
+      "estimated_shots_s": [
+        13.36,
+        12.36,
+        9.57,
+        11.33,
+        13.4,
+        13.4,
+        12.71,
+        12.02,
+        19.76
+      ],
+      "edited_shots": []
+    },
+    {
+      "episode": 89,
+      "title": "旧书摊换来一场旅行",
+      "hanzi": 284,
+      "estimated_v2_s": 121.02,
+      "estimated_v3_s": 121.02,
+      "estimated_shots_s": [
+        13.02,
+        12.71,
+        12.02,
+        12.71,
+        12.36,
+        13.05,
+        13.05,
+        13.74,
+        18.38
+      ],
+      "edited_shots": []
+    },
+    {
+      "episode": 90,
+      "title": "斑斑第一次带队",
+      "hanzi": 273,
+      "estimated_v2_s": 116.51,
+      "estimated_v3_s": 116.51,
+      "estimated_shots_s": [
+        14.4,
+        12.36,
+        12.02,
+        10.29,
+        13.05,
+        13.05,
+        9.57,
+        12.71,
+        19.07
+      ],
+      "edited_shots": []
+    },
+    {
+      "episode": 91,
+      "title": "旧隧道里的两扇亮窗",
+      "hanzi": 288,
+      "estimated_v2_s": 122.4,
+      "estimated_v3_s": 122.4,
+      "estimated_shots_s": [
+        13.71,
+        12.36,
+        12.36,
+        12.71,
+        12.36,
+        13.05,
+        14.78,
+        13.74,
+        17.34
+      ],
+      "edited_shots": []
+    },
+    {
+      "episode": 92,
+      "title": "草种铺借来的一阵风",
+      "hanzi": 281,
+      "estimated_v2_s": 119.99,
+      "estimated_v3_s": 119.99,
+      "estimated_shots_s": [
+        13.36,
+        12.71,
+        11.67,
+        11.67,
+        11.67,
+        13.4,
+        14.09,
+        11.67,
+        19.76
+      ],
+      "edited_shots": []
+    },
+    {
+      "episode": 93,
+      "title": "河湾里绕回来的叶子",
+      "hanzi": 295,
+      "estimated_v2_s": 124.82,
+      "estimated_v3_s": 124.82,
+      "estimated_shots_s": [
+        13.36,
+        11.67,
+        12.71,
+        9.95,
+        15.12,
+        11.67,
+        15.46,
+        14.43,
+        20.45
+      ],
+      "edited_shots": []
+    },
+    {
+      "episode": 94,
+      "title": "皮皮的书包借到明天",
+      "hanzi": 276,
+      "estimated_v2_s": 130.34,
+      "estimated_v3_s": 116.11,
+      "estimated_shots_s": [
+        15.43,
+        10.26,
+        12.71,
+        12.71,
+        13.05,
+        9.92,
+        11.67,
+        14.43,
+        15.93
+      ],
+      "edited_shots": [
+        2,
+        6,
+        9
+      ]
+    },
+    {
+      "episode": 95,
+      "title": "新家门前第一块树影",
+      "hanzi": 273,
+      "estimated_v2_s": 117.23,
+      "estimated_v3_s": 117.23,
+      "estimated_shots_s": [
+        15.09,
+        12.36,
+        13.05,
+        12.36,
+        10.64,
+        12.02,
+        11.33,
+        11.33,
+        19.07
+      ],
+      "edited_shots": []
+    },
+    {
+      "episode": 96,
+      "title": "合照里少了一位朋友",
+      "hanzi": 281,
+      "estimated_v2_s": 120.71,
+      "estimated_v3_s": 120.71,
+      "estimated_shots_s": [
+        17.18,
+        13.05,
+        11.33,
+        12.71,
+        12.71,
+        11.67,
+        11.33,
+        12.71,
+        18.03
+      ],
+      "edited_shots": []
+    },
+    {
+      "episode": 97,
+      "title": "班册上的空白一页",
+      "hanzi": 291,
+      "estimated_v2_s": 123.44,
+      "estimated_v3_s": 123.44,
+      "estimated_shots_s": [
+        13.71,
+        14.43,
+        13.74,
+        12.71,
+        12.71,
+        12.02,
+        13.05,
+        13.05,
+        18.03
+      ],
+      "edited_shots": []
+    },
+    {
+      "episode": 98,
+      "title": "倒木为什么留在原地",
+      "hanzi": 284,
+      "estimated_v2_s": 121.02,
+      "estimated_v3_s": 121.02,
+      "estimated_shots_s": [
+        14.4,
+        12.02,
+        11.33,
+        11.67,
+        12.71,
+        14.78,
+        12.36,
+        11.33,
+        20.45
+      ],
+      "edited_shots": []
+    },
+    {
+      "episode": 99,
+      "title": "七封不一样的请柬",
+      "hanzi": 282,
+      "estimated_v2_s": 120.33,
+      "estimated_v3_s": 120.33,
+      "estimated_shots_s": [
+        13.36,
+        12.36,
+        12.71,
+        12.02,
+        12.36,
+        12.71,
+        11.67,
+        13.4,
+        19.76
+      ],
+      "edited_shots": []
+    },
+    {
+      "episode": 100,
+      "title": "我们的路在这里碰面",
+      "hanzi": 273,
+      "estimated_v2_s": 130.37,
+      "estimated_v3_s": 115.07,
+      "estimated_shots_s": [
+        13.02,
+        11.67,
+        9.23,
+        13.05,
+        10.26,
+        12.68,
+        13.05,
+        9.92,
+        22.2
+      ],
+      "edited_shots": [
+        3,
+        5,
+        6,
+        8
+      ]
+    }
+  ]
+}

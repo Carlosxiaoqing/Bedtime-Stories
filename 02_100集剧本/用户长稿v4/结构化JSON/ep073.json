@@ -1,0 +1,95 @@
+{
+  "schema_version": 3,
+  "script_version": "v4",
+  "id": "ep073",
+  "episode": 73,
+  "title": "想念放在小枕头旁",
+  "theme": "让想念有一个温柔的落点",
+  "language": "zh-CN",
+  "production_scope": "adopted_user_long_script",
+  "status": "copyedited_media_not_started",
+  "narration_paragraphs": [
+    {
+      "id": "p001",
+      "text": "今天下午，小松鼠团团来皮皮家玩了一整个下午。\n他们没有玩激烈的追逐游戏，而是并排坐在门廊的木台阶上，一边分吃着香甜的烤红薯，一边仰着头，安安静静地看天上一朵走得特别慢的大白云，从屋顶的左边一直飘到屋顶的右边。"
+    },
+    {
+      "id": "p002",
+      "text": "后来，团团的妈妈来接他去外婆家住两天，这意味着明天和后天，他们在学堂里暂时见不到面了。\n团团临走前，从自己的小口袋里掏出了一枚他最喜欢的、圆滚滚的小油松果，塞进皮皮手里说：“皮皮，这枚松果替我陪着你，过两天我就回来啦！”"
+    },
+    {
+      "id": "p003",
+      "text": "到了晚上准备睡觉的时候，小木屋里静悄悄的。皮皮坐在床沿上，心里忽然涌起了一点点对好朋友团团的想念。\n他把团团留下的那枚小松果拿在手里，用指腹轻轻摸着上面层层叠叠、光滑的小鳞片，脑海里全是白天两人并肩看云的画面。"
+    },
+    {
+      "id": "p004",
+      "text": "皮皮有点坐不住了，他想穿鞋走到大门口，再去院门外望一望通往团团家的那条小路。\n可是他转头看了看卧室的窗户，窗外早就黑透了，银白色的月光安安静静地洒在树梢上，森林里没有一个人影。就算现在跑到门口去张望，也看不到已经去了外婆家的团团呀。"
+    },
+    {
+      "id": "p005",
+      "text": "皮皮摸了摸手里的小松果，心想：想念好朋友是一份很温暖的心情，可如果整晚都把松果紧紧攥在手心里、或者站在门口吹冷风，那我的手心和身体都会累坏的。\n于是，皮皮从书架上找来了一只浅浅的小木碟，铺上一层软布，把那枚小油松果端端正正地放在碟子里，再把木碟摆在了自己大枕头的正旁边。"
+    },
+    {
+      "id": "p006",
+      "text": "一放下来皮皮就发现：原来想念是不用一直死死捧在手心里的；把它轻轻放在枕头边，一侧头就能看见，它离自己的心也一样很近很近。\n皮皮对着枕边的小松果，用只有自己能听见的声音轻轻说了一句：“明天见，还有后天见，团团。”那句轻柔的话没有走出房间，却像一团小火苗，让皮皮的心窝一下子暖和了起来。"
+    },
+    {
+      "id": "p007",
+      "text": "暖黄色的毛毯拉好了，胡萝卜玩偶抱好了。白天和朋友一起坐过的那份安静与美好，也稳稳地回到了心里。\n皮皮没有再起身去门口张望。他知道，此时此刻，团团一定也在外婆家的软床上准备睡觉呢；朋友在远方好好休息，自己在这里也好好歇一歇，这就是最好的陪伴。"
+    },
+    {
+      "id": "p008",
+      "text": "皮皮的眼睛慢慢合上，枕边木碟里的小松果，像一枚温柔的小记号，静静地留在床头灯的暖光里。\n小朋友，如果你在睡前也有想念的人或小伙伴，把这份想念轻轻放在枕头边吧。把自己照顾好、睡个好觉，也是送给对方的一份温柔。晚安。"
+    }
+  ],
+  "cn_characters": 843,
+  "narration_sha256": "e12a11be11d7906a9a26c84ecc160f5c5425f17578ffe4281e0fb06df79670eb",
+  "source": {
+    "path": "/Users/ww/Downloads/100集睡前故事合集.md",
+    "sha256": "3feafa137e94824baccf8b6e3f3f24bac3e97714b2e201fcc48d461d8969c302",
+    "original_narration_sha256": "e12a11be11d7906a9a26c84ecc160f5c5425f17578ffe4281e0fb06df79670eb",
+    "original_paragraph_count": 8
+  },
+  "revision_record": [],
+  "duration_policy": {
+    "basis": "complete_narration_at_current_voice_settings",
+    "limit_s": null,
+    "delete_for_duration": false,
+    "time_stretch": false
+  },
+  "voice": {
+    "config": "03_素材与参数/配音与声音参数.json",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000
+  },
+  "actual_duration_s": null,
+  "character_registry": "03_素材与参数/用户长稿v4角色图库.json",
+  "storyboard": {
+    "status": "not_started",
+    "shots": [],
+    "timing_basis": "actual_audio",
+    "preferred_hold_s": [
+      8,
+      10
+    ],
+    "review_above_s": 15,
+    "short_action_hold_s": [
+      3,
+      5
+    ]
+  },
+  "material_state": {
+    "voice": "not_started",
+    "character_references": "not_generated",
+    "illustrations": "not_started",
+    "cover": "not_started",
+    "pinyin_review": "not_started",
+    "render": "not_started",
+    "technical_check": "not_started",
+    "human_watch": "not_started",
+    "user_acceptance": "not_recorded"
+  }
+}

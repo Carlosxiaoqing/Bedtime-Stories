@@ -1,0 +1,99 @@
+{
+  "schema_version": 3,
+  "script_version": "v4",
+  "id": "ep072",
+  "episode": 72,
+  "title": "不着急的小鞋带",
+  "theme": "停一下再做一个小调整",
+  "language": "zh-CN",
+  "production_scope": "adopted_user_long_script",
+  "status": "copyedited_media_not_started",
+  "narration_paragraphs": [
+    {
+      "id": "p001",
+      "text": "皮皮最近学会了穿系鞋带的帆布运动鞋。白天去森林学堂上体育课的时候，穿着系带鞋跑步又跟脚又神气。\n今天傍晚，皮皮和朋友们在操场上踢了半天小皮球，直到夕阳西下才满头大汗地跑回家。"
+    },
+    {
+      "id": "p002",
+      "text": "回到小木屋玄关，皮皮坐在门边换鞋的小木凳上，准备脱下运动鞋去洗热水澡。\n左脚的鞋带很顺利地一拉就解开了；可是轮到右脚的时候，大概是因为白天跑步时鞋带头甩来甩去，自己绕进去了，皮皮随手往外一拉——哎呀，鞋带没有解开，反而缩成了一个小小的疙瘩结！"
+    },
+    {
+      "id": "p003",
+      "text": "皮皮当时又累又想快点进屋，下意识地捏着鞋带头又使劲扯了一下。结果那个小疙瘩结纹丝不动，反而把鞋舌头勒得更紧了。\n皮皮感觉自己的呼吸有点变快了。他立刻想起了自己解天蓝色丝绸彩带时的经验：越着急用力，绳子就会越不听话。"
+    },
+    {
+      "id": "p004",
+      "text": "于是，皮皮果断地松开了紧捏着鞋带头的小爪子。他先把悬在半空的右脚稳稳地放回地板上，靠着小木凳深吸了一口气，让急躁的小爪子先在膝盖上安安静静地停了一会儿。\n等心情平静下来后，皮皮低下头，借着玄关温暖的灯光仔细看那个小结。"
+    },
+    {
+      "id": "p005",
+      "text": "他不再去拉两头的长线，而是伸出两根指甲修剪得干干净净的小手指，顺着中间绕成一圈的那根软棉线，轻轻地往反方向推开了一点点。\n就这么轻轻一推，原本缩成一团的小疙瘩结中间，立刻露出了一个很小很小的空隙！"
+    },
+    {
+      "id": "p006",
+      "text": "接着，皮皮捏住卡在里面的线头，顺着那个小空隙慢吞吞地往外一送——“啪”的一下，鞋带彻底松开了，一点儿力气也没费！\n皮皮开心地脱下鞋子，把两只运动鞋平平整整地摆到门边的鞋垫上，让鞋口敞开着透气。"
+    },
+    {
+      "id": "p007",
+      "text": "你看，刚才那个让人差点儿着急的小鞋带结，根本就不是今晚什么了不起的大难题。现在解开了，小脚丫就可以轻轻松松地穿上软绵绵的居家小袜子了。\n皮皮把换鞋的矮木凳收好，洗完澡，慢悠悠地走回卧室。白天走过的所有小路都已经结束了，今晚再也不需要去系一次鞋带了。"
+    },
+    {
+      "id": "p008",
+      "text": "他爬上床，把暖黄色的毛毯拉好，给自己的身体在被窝里也留了一个不紧绷、不赶时间的宽松位置。\n胡萝卜玩偶安顿好了，皮皮的眼睛慢慢闭上。屋里所有小小的绳子和线条，都安安静静地停在原处。"
+    },
+    {
+      "id": "p009",
+      "text": "小朋友，如果睡前遇到了一点点绕在一起的小麻烦、小别扭，先停一下，松开手，慢慢理就能解开。现在，让舒服和放松陪着你，晚安。"
+    }
+  ],
+  "cn_characters": 803,
+  "narration_sha256": "663ee3a6611cff739ee21b23ece0d03d5a11430793541e546073f404f9ad2d2f",
+  "source": {
+    "path": "/Users/ww/Downloads/100集睡前故事合集.md",
+    "sha256": "3feafa137e94824baccf8b6e3f3f24bac3e97714b2e201fcc48d461d8969c302",
+    "original_narration_sha256": "663ee3a6611cff739ee21b23ece0d03d5a11430793541e546073f404f9ad2d2f",
+    "original_paragraph_count": 9
+  },
+  "revision_record": [],
+  "duration_policy": {
+    "basis": "complete_narration_at_current_voice_settings",
+    "limit_s": null,
+    "delete_for_duration": false,
+    "time_stretch": false
+  },
+  "voice": {
+    "config": "03_素材与参数/配音与声音参数.json",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000
+  },
+  "actual_duration_s": null,
+  "character_registry": "03_素材与参数/用户长稿v4角色图库.json",
+  "storyboard": {
+    "status": "not_started",
+    "shots": [],
+    "timing_basis": "actual_audio",
+    "preferred_hold_s": [
+      8,
+      10
+    ],
+    "review_above_s": 15,
+    "short_action_hold_s": [
+      3,
+      5
+    ]
+  },
+  "material_state": {
+    "voice": "not_started",
+    "character_references": "not_generated",
+    "illustrations": "not_started",
+    "cover": "not_started",
+    "pinyin_review": "not_started",
+    "render": "not_started",
+    "technical_check": "not_started",
+    "human_watch": "not_started",
+    "user_acceptance": "not_recorded"
+  }
+}

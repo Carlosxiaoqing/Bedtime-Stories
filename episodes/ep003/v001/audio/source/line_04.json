@@ -1,0 +1,17 @@
+{
+  "text": "他把枕头转了半圈，慢慢拨松里面的棉絮。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "edge_tts": "7.3.1",
+  "fingerprint": "1bd5c823e3461a6fd25e4c8caca25daad71c8d703c05f3b61b40faf216f13631",
+  "boundaries": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 1000000,
+      "duration": 64115381,
+      "text": "他把枕头转了半圈，慢慢拨松里面的棉絮。"
+    }
+  ]
+}

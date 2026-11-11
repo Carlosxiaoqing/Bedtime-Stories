@@ -1,0 +1,95 @@
+{
+  "text": "微风吹过来，青草叶轻轻晃动，远处的小溪一闪一闪地发着光。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "ede260b75cdc6a3a04e29328f526bedf3dab7c8aacdac0f58e432d0fbaeaf0a8",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 6346250,
+      "text": "微风"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7807500,
+      "duration": 3269160,
+      "text": "吹"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11077080,
+      "duration": 6346250,
+      "text": "过来"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21846250,
+      "duration": 9615410,
+      "text": "青草叶"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31846250,
+      "duration": 5577080,
+      "text": "轻轻"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 37615410,
+      "duration": 7115410,
+      "text": "晃动"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 49346250,
+      "duration": 5576660,
+      "text": "远处"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 54922910,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 56461660,
+      "duration": 7884580,
+      "text": "小溪"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 64730830,
+      "duration": 11730830,
+      "text": "一闪一闪"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 76461660,
+      "duration": 1346250,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 78192500,
+      "duration": 2500000,
+      "text": "发"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 80692500,
+      "duration": 1922910,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 82615410,
+      "duration": 4422910,
+      "text": "光"
+    }
+  ]
+}

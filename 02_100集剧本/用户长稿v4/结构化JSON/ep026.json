@@ -1,0 +1,95 @@
+{
+  "schema_version": 3,
+  "script_version": "v4",
+  "id": "ep026",
+  "episode": 26,
+  "title": "水壶旁的小云",
+  "theme": "忙碌结束后慢慢安顿",
+  "language": "zh-CN",
+  "production_scope": "adopted_user_long_script",
+  "status": "copyedited_media_not_started",
+  "narration_paragraphs": [
+    {
+      "id": "p001",
+      "text": "皮皮现在越来越能干了。今天下午，小熊绒绒和小鹿芽芽来家里一起做手工，皮皮像个小主人一样，主动承担起了给大家准备热果茶的任务。"
+    },
+    {
+      "id": "p002",
+      "text": "在傍晚亮起暖灯的小木屋餐厅里，圆肚子的搪瓷小水壶坐在隔热垫上，壶嘴里正冒出一缕缕淡淡的、白色的水汽。\n皮皮端着小托盘，给芽芽倒了一杯甜甜的苹果茶，又给绒绒倒了一杯香香的蜂蜜水。三只彩色的小杯子在桌上排着队，大家一边喝茶，一边把做好的松果小人摆满桌面，屋子里充满了欢声笑语。"
+    },
+    {
+      "id": "p003",
+      "text": "等好朋友们心满意足地道别回家后，皮皮开始收拾小餐桌。\n他把喝空的小杯子一只只洗干净，放回木托盘里。就在他擦干手的时候，他看见桌上的搪瓷小水壶旁边，还飘着最后一缕淡淡的白色水汽。"
+    },
+    {
+      "id": "p004",
+      "text": "皮皮没有急着走开，而是隔着桌子，双手托着下巴，静静地看那缕水汽慢慢散开。\n那团白白的小水汽，刚从壶嘴飘出来的时候，弯弯的，像一片轻巧的羽毛叶子；往上升了一点后，被屋里的微风一吹，又拉得长长的，像一条细细的白色小围巾，完全没有固定的样子。"
+    },
+    {
+      "id": "p005",
+      "text": "皮皮没有伸出小爪子去抓它、扇它，只是把托盘往旁边挪了挪，给桌面腾出一片安静空旷的地方。\n水汽越升越高，越来越淡，最后无声无息地融进了餐厅暖黄色的灯光里，不见了。而那只忙碌了一下午的搪瓷小水壶，也渐渐凉了下来，安安稳稳地坐在厚厚的软木隔热垫上。"
+    },
+    {
+      "id": "p006",
+      "text": "今天的小杯子们不用再排队盛茶了。皮皮拿来干布巾，把桌角留下的一小圈浅浅的水印擦得干干净净，然后轻轻关好餐边柜的小木门，转身走回了自己的卧室。\n他心想：水壶旁的那朵小云，已经完成了今晚的旅行；而我这个小主人，也完成了今天的招待任务啦。"
+    },
+    {
+      "id": "p007",
+      "text": "卧室里，暖黄色的毛毯已经铺好了，小枕头也拍得软软的。皮皮把胡萝卜玩偶放近，慢悠悠地躺了下来。\n端过托盘的小爪子歇着，听了一下午笑声的长耳朵也歇着。屋里刚才忙活过的地方，全都留给了夜晚的安静。"
+    },
+    {
+      "id": "p008",
+      "text": "小朋友，今天一天的忙碌和热闹，也可以像那缕小水汽一样，轻轻散开啦。把身体放得软软的、舒服的，晚安，做个轻轻的梦。"
+    }
+  ],
+  "cn_characters": 712,
+  "narration_sha256": "95f82a31f28268d8fbf0d5f68d1a8b90712de379cf7dfa04c7bd2488cdc6fbf0",
+  "source": {
+    "path": "/Users/ww/Downloads/100集睡前故事合集.md",
+    "sha256": "3feafa137e94824baccf8b6e3f3f24bac3e97714b2e201fcc48d461d8969c302",
+    "original_narration_sha256": "95f82a31f28268d8fbf0d5f68d1a8b90712de379cf7dfa04c7bd2488cdc6fbf0",
+    "original_paragraph_count": 8
+  },
+  "revision_record": [],
+  "duration_policy": {
+    "basis": "complete_narration_at_current_voice_settings",
+    "limit_s": null,
+    "delete_for_duration": false,
+    "time_stretch": false
+  },
+  "voice": {
+    "config": "03_素材与参数/配音与声音参数.json",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000
+  },
+  "actual_duration_s": null,
+  "character_registry": "03_素材与参数/用户长稿v4角色图库.json",
+  "storyboard": {
+    "status": "not_started",
+    "shots": [],
+    "timing_basis": "actual_audio",
+    "preferred_hold_s": [
+      8,
+      10
+    ],
+    "review_above_s": 15,
+    "short_action_hold_s": [
+      3,
+      5
+    ]
+  },
+  "material_state": {
+    "voice": "not_started",
+    "character_references": "not_generated",
+    "illustrations": "not_started",
+    "cover": "not_started",
+    "pinyin_review": "not_started",
+    "render": "not_started",
+    "technical_check": "not_started",
+    "human_watch": "not_started",
+    "user_acceptance": "not_recorded"
+  }
+}

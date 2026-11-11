@@ -1,0 +1,258 @@
+{
+  "schema_version": 2,
+  "script_version": "v2",
+  "id": "ep046",
+  "episode": 46,
+  "title": "水面上的一封请柬",
+  "cover_title": "水面请柬",
+  "category": "自然",
+  "theme": "给小伙伴留出够得着的参与方式",
+  "setting": "蒲草塘浮叶观景台、蒲草塘无水的岸边石桌",
+  "viewpoint_character": "豆豆",
+  "guest": "豆豆、慢慢",
+  "character_names": [
+    "豆豆",
+    "皮皮",
+    "慢慢"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "按晓晓-35%实际口播、停顿和约8秒尾声确定",
+  "cn_characters": 269,
+  "initial_duration_budget_s": 107.13,
+  "shots": [
+    {
+      "id": 1,
+      "title": "豆豆从木台边看水面浮叶，皮皮和慢慢在栏内",
+      "location": "蒲草塘浮叶观景台",
+      "character_names": [
+        "豆豆",
+        "皮皮",
+        "慢慢"
+      ],
+      "narration_lines": [
+        "豆豆请慢慢一起画塘里的荷叶。",
+        "她把画板带到木台上，慢慢却看不到高栏外面。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "蒲草塘浮叶观景台。竖幅远景交代空间和前后层次。画面：豆豆从木台边看水面浮叶，皮皮和慢慢在栏内。入镜角色：豆豆、皮皮、慢慢。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.67,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "慢慢停在矮处，栏杆横木遮住前方视线",
+      "location": "蒲草塘浮叶观景台",
+      "character_names": [
+        "慢慢"
+      ],
+      "narration_lines": [
+        "慢慢抬起触角，横栏还是挡在眼前。",
+        "皮皮伸出手，又停住了，先问他想怎么看。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "低视角凸显脚边、地面与人物尺度",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "蒲草塘浮叶观景台。低视角凸显脚边、地面与人物尺度。画面：慢慢停在矮处，栏杆横木遮住前方视线。入镜角色：慢慢。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.04,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "豆豆指向岸上石桌，皮皮把画板转过去",
+      "location": "蒲草塘浮叶观景台",
+      "character_names": [
+        "豆豆",
+        "皮皮",
+        "慢慢"
+      ],
+      "narration_lines": [
+        "慢慢想自己爬过去看。",
+        "豆豆带他们去岸边的石桌，那儿有一块可从低处望的开口。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "蒲草塘浮叶观景台。平视中景突出人物姿态和相互位置。画面：豆豆指向岸上石桌，皮皮把画板转过去。入镜角色：豆豆、皮皮、慢慢。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.98,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "越过慢慢触角看干石沿外一片斜浮的圆荷叶",
+      "location": "蒲草塘无水的岸边石桌",
+      "character_names": [
+        "豆豆",
+        "皮皮",
+        "慢慢"
+      ],
+      "narration_lines": [
+        "到了石桌边，慢慢第一次看清叶子的边。",
+        "正巧一只圆叶斜过来，露出底下的梗。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "越肩构图同时看见观察者与目标",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "蒲草塘无水的岸边石桌。越肩构图同时看见观察者与目标。画面：越过慢慢触角看干石沿外一片斜浮的圆荷叶。入镜角色：豆豆、皮皮、慢慢。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "慢慢停在纸边，触角朝向纸上待补的一段弯线",
+      "location": "蒲草塘无水的岸边石桌",
+      "character_names": [
+        "慢慢"
+      ],
+      "narration_lines": [
+        "皮皮画了圆叶。",
+        "慢慢请他把边画斜一点，说它像一扇半开的门。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "蒲草塘无水的岸边石桌。近景突出手边动作或道具状态。画面：慢慢停在纸边，触角朝向纸上待补的一段弯线。入镜角色：慢慢。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 9.48,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "画板上叶形近似半开门，豆豆补一条叶柄",
+      "location": "蒲草塘无水的岸边石桌",
+      "character_names": [
+        "豆豆",
+        "皮皮",
+        "慢慢"
+      ],
+      "narration_lines": [
+        "豆豆添上叶柄，给画留了大块空水面。",
+        "慢慢说，旁边还可以请另一片叶子来。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "俯视呈现平面上的物件和路线",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "蒲草塘无水的岸边石桌。俯视呈现平面上的物件和路线。画面：画板上叶形近似半开门，豆豆补一条叶柄。入镜角色：豆豆、皮皮、慢慢。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.04,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "三个伙伴在石桌前共同看纸，纸面新增小叶",
+      "location": "蒲草塘无水的岸边石桌",
+      "character_names": [
+        "豆豆",
+        "皮皮",
+        "慢慢"
+      ],
+      "narration_lines": [
+        "于是，叶门旁多了一片小叶。",
+        "谁都没有替它定方向，慢慢先选了一个舒服的角度。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "蒲草塘无水的岸边石桌。平视中景突出人物姿态和相互位置。画面：三个伙伴在石桌前共同看纸，纸面新增小叶。入镜角色：豆豆、皮皮、慢慢。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.67,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "豆豆将画纸夹入木台展示框，皮皮扶住一角",
+      "location": "蒲草塘浮叶观景台",
+      "character_names": [
+        "豆豆",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "豆豆把画夹在台边，靠低的位置。",
+        "下个朋友经过，也可以贴着石桌看。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "蒲草塘浮叶观景台。侧面中景展示动作方向与相邻环境。画面：豆豆将画纸夹入木台展示框，皮皮扶住一角。入镜角色：豆豆、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.11,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "低石桌下是小蜗牛细路，远处两片叶在岸边水面",
+      "location": "蒲草塘无水的岸边石桌",
+      "character_names": [],
+      "narration_lines": [
+        "下午的水纹慢慢拐过叶柄。",
+        "那扇半开的门，正对着慢慢来时走过的小路。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "蒲草塘无水的岸边石桌。竖幅远景交代空间和前后层次。画面：低石桌下是小蜗牛细路，远处两片叶在岸边水面。入镜角色：无，仅画环境或道具。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 17.78,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v2剧本与九镜已编写，配音、插画、封面、字幕及视频待制作",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/结构化JSON/ep046.json",
+    "scope": "按用户反馈重写人物互动、故事事件、场景及九镜",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始"
+  }
+}

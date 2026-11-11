@@ -1,0 +1,256 @@
+{
+  "schema_version": 2,
+  "script_version": "v2",
+  "id": "ep066",
+  "episode": 66,
+  "title": "树荫下走到一半",
+  "cover_title": "树荫半路",
+  "category": "自然",
+  "theme": "计划走不完也可以好好告别",
+  "setting": "湿石园蜗牛步道、湿石园的叶桥边",
+  "viewpoint_character": "慢慢",
+  "guest": "慢慢、栗栗",
+  "character_names": [
+    "慢慢",
+    "栗栗",
+    "皮皮"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "按晓晓-35%实际口播、停顿和约8秒尾声确定",
+  "cn_characters": 266,
+  "initial_duration_budget_s": 105.47,
+  "shots": [
+    {
+      "id": 1,
+      "title": "慢慢停在石缝旁，栗栗与皮皮蹲在有树荫的低路",
+      "location": "湿石园蜗牛步道",
+      "character_names": [
+        "慢慢",
+        "栗栗",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "慢慢想走到湿石园的叶桥。",
+        "栗栗答应陪他，可他们走到一半，太阳照到了前面的石头。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "低视角凸显脚边、地面与人物尺度",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "湿石园蜗牛步道。低视角凸显脚边、地面与人物尺度。画面：慢慢停在石缝旁，栗栗与皮皮蹲在有树荫的低路。入镜角色：慢慢、栗栗、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.29,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "慢慢的触角停在光线边缘，叶桥还在画面远处",
+      "location": "湿石园蜗牛步道",
+      "character_names": [
+        "慢慢"
+      ],
+      "narration_lines": [
+        "慢慢摸到热石头，缩回一点。",
+        "他问，能不能今天只走到这儿。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "湿石园蜗牛步道。近景突出手边动作或道具状态。画面：慢慢的触角停在光线边缘，叶桥还在画面远处。入镜角色：慢慢。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 8.86,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "皮皮把画着叶桥的小图放低，栗栗退回阴影处",
+      "location": "湿石园蜗牛步道",
+      "character_names": [
+        "慢慢",
+        "栗栗",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "皮皮看了一眼小图，心里还有点舍不得。",
+        "栗栗已经坐下来，给慢慢留了一处潮湿石沿。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "湿石园蜗牛步道。平视中景突出人物姿态和相互位置。画面：皮皮把画着叶桥的小图放低，栗栗退回阴影处。入镜角色：慢慢、栗栗、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.29,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "纸面画阴影界线，三位在路线中段放一粒圆石",
+      "location": "湿石园蜗牛步道",
+      "character_names": [
+        "慢慢",
+        "栗栗",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "他们在图上给今天画了个停步的圆。",
+        "皮皮从附近找了颗圆石，摆在同一个地方。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "俯视呈现平面上的物件和路线",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "湿石园蜗牛步道。俯视呈现平面上的物件和路线。画面：纸面画阴影界线，三位在路线中段放一粒圆石。入镜角色：慢慢、栗栗、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.67,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "从栗栗肩后远望叶桥，皮皮手指留在石栏内",
+      "location": "湿石园的叶桥边",
+      "character_names": [
+        "皮皮",
+        "栗栗"
+      ],
+      "narration_lines": [
+        "栗栗跟皮皮去看了几眼叶桥，记住两片叶子的形状，又回来讲给慢慢听。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "越肩构图同时看见观察者与目标",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "湿石园的叶桥边。越肩构图同时看见观察者与目标。画面：从栗栗肩后远望叶桥，皮皮手指留在石栏内。入镜角色：皮皮、栗栗。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.01,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "慢慢在石沿旁听，皮皮用两只爪比叶桥的高低",
+      "location": "湿石园蜗牛步道",
+      "character_names": [
+        "慢慢",
+        "栗栗",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "皮皮说，上面那片宽，下面那片斜。",
+        "慢慢也说，从他的位置，能闻到下面那片的味道。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "湿石园蜗牛步道。平视中景突出人物姿态和相互位置。画面：慢慢在石沿旁听，皮皮用两只爪比叶桥的高低。入镜角色：慢慢、栗栗、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.67,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "慢慢从潮湿石沿探出触角，近处是一片淡绿小叶",
+      "location": "湿石园蜗牛步道",
+      "character_names": [
+        "慢慢"
+      ],
+      "narration_lines": [
+        "三个朋友又待了一会儿。",
+        "慢慢把触角伸到凉处，碰到一片刚落下来的小叶。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "湿石园蜗牛步道。近景突出手边动作或道具状态。画面：慢慢从潮湿石沿探出触角，近处是一片淡绿小叶。入镜角色：慢慢。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.04,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "伙伴沿阴影返回，圆石留在路中段边缘",
+      "location": "湿石园蜗牛步道",
+      "character_names": [
+        "慢慢",
+        "栗栗",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "回去时，皮皮没有把圆石收走。",
+        "下个凉爽的早晨，他们会从那里接着走。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "湿石园蜗牛步道。侧面中景展示动作方向与相邻环境。画面：伙伴沿阴影返回，圆石留在路中段边缘。入镜角色：慢慢、栗栗、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.42,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "叶桥在阳光退后的空石路旁，桥下水线柔和",
+      "location": "湿石园的叶桥边",
+      "character_names": [],
+      "narration_lines": [
+        "日头落下去，叶桥才慢慢进了树荫。",
+        "等树荫再来，路还在那里。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "湿石园的叶桥边。侧面中景展示动作方向与相邻环境。画面：叶桥在阳光退后的空石路旁，桥下水线柔和。入镜角色：无，仅画环境或道具。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 16.22,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v2剧本与九镜已编写，配音、插画、封面、字幕及视频待制作",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/结构化JSON/ep066.json",
+    "scope": "按用户反馈重写人物互动、故事事件、场景及九镜",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始"
+  }
+}

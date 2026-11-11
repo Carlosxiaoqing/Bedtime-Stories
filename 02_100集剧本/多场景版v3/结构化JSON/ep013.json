@@ -1,0 +1,273 @@
+{
+  "schema_version": 2,
+  "script_version": "v3",
+  "id": "ep013",
+  "episode": 13,
+  "title": "梨梨不一样大的梨",
+  "cover_title": "分梨有办法",
+  "category": "社区",
+  "theme": "公平可以先听每个人想要什么",
+  "setting": "长耳街果摊、街心共食长桌",
+  "viewpoint_character": "梨梨",
+  "guest": "梨梨、团团",
+  "character_names": [
+    "梨梨",
+    "皮皮",
+    "团团"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "成片约120秒，配音后实测校时",
+  "cn_characters": 268,
+  "initial_duration_budget_s": 115.51,
+  "shots": [
+    {
+      "id": 1,
+      "title": "果摊布上摆着大小不一的梨，梨梨举起空小盘",
+      "location": "长耳街果摊",
+      "character_names": [
+        "梨梨",
+        "皮皮",
+        "团团"
+      ],
+      "narration_lines": [
+        "梨梨要分三只梨。",
+        "最大的一只亮闪闪，最小的一只只有团团的爪心那么大。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街果摊。竖幅远景交代空间和前后层次。画面：果摊布上摆着大小不一的梨，梨梨举起空小盘。入镜角色：梨梨、皮皮、团团。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 13.02,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "梨梨把三只梨沿摊边排成一列",
+      "location": "长耳街果摊",
+      "character_names": [
+        "梨梨"
+      ],
+      "narration_lines": [
+        "她想了想，把大梨推给皮皮，又收回来。",
+        "每人一只，好像还是不好分。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街果摊。近景突出手边动作或道具状态。画面：梨梨把三只梨沿摊边排成一列。入镜角色：梨梨。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.64,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "团团指向最小的梨，皮皮托着空盘",
+      "location": "长耳街果摊",
+      "character_names": [
+        "皮皮",
+        "团团"
+      ],
+      "narration_lines": [
+        "团团说：“我想试试最小那只，听说它又脆又香。”",
+        "皮皮却想给大家都尝一点。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街果摊。平视中景突出人物姿态和相互位置。画面：团团指向最小的梨，皮皮托着空盘。入镜角色：皮皮、团团。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.67,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "梨梨扶着托盘往街心长桌看，三个朋友分拿梨与盘",
+      "location": "长耳街果摊",
+      "character_names": [
+        "梨梨",
+        "皮皮",
+        "团团"
+      ],
+      "narration_lines": [
+        "梨梨问清楚以后，把三只梨都带到了长桌边。",
+        "“那我们就分三种味道。”"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街果摊。侧面中景展示动作方向与相邻环境。画面：梨梨扶着托盘往街心长桌看，三个朋友分拿梨与盘。入镜角色：梨梨、皮皮、团团。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.98,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "三只盘各放三样梨块，果皮颜色有深有浅",
+      "location": "街心共食长桌",
+      "character_names": [
+        "梨梨",
+        "皮皮",
+        "团团"
+      ],
+      "narration_lines": [
+        "他们请摊主帮忙切好。",
+        "每个盘里有三块，浅黄一块，深黄一块，还有一块带青皮。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "俯视呈现平面上的物件和路线",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "街心共食长桌。俯视呈现平面上的物件和路线。画面：三只盘各放三样梨块，果皮颜色有深有浅。入镜角色：梨梨、皮皮、团团。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "团团拿起一片小梨，旁边两片还在盘中",
+      "location": "街心共食长桌",
+      "character_names": [
+        "团团"
+      ],
+      "narration_lines": [
+        "最小的梨果然很脆。",
+        "团团嚼完，才尝最大那只。",
+        "大的软一点，还带着淡淡的甜。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "街心共食长桌。近景突出手边动作或道具状态。画面：团团拿起一片小梨，旁边两片还在盘中。入镜角色：团团。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.74,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "三人把吃剩的小核放入碟中，梨梨举起空盘",
+      "location": "街心共食长桌",
+      "character_names": [
+        "梨梨",
+        "皮皮",
+        "团团"
+      ],
+      "narration_lines": [
+        "梨梨问大家最喜欢哪一块。",
+        "三只爪指了三个方向，他们笑得桌子都轻轻晃。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "街心共食长桌。平视中景突出人物姿态和相互位置。画面：三人把吃剩的小核放入碟中，梨梨举起空盘。入镜角色：梨梨、皮皮、团团。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.02,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "梨梨用三个不同大小的空盘摆在果摊边",
+      "location": "长耳街果摊",
+      "character_names": [
+        "梨梨"
+      ],
+      "narration_lines": [
+        "回到果摊，梨梨把三只盘摆好，给下一批朋友留了同样的尝法。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街果摊。侧面中景展示动作方向与相邻环境。画面：梨梨用三个不同大小的空盘摆在果摊边。入镜角色：梨梨。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 9.57,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "梨梨把大小梨核托在盘内，团团凑近分辨形状",
+      "location": "街心共食长桌",
+      "character_names": [
+        "梨梨",
+        "团团"
+      ],
+      "narration_lines": [
+        "收好盘子，团团还记着那一声脆响。",
+        "梨梨给他看最大的梨核，又给他看最小的，两只梨核挨得刚刚好。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "街心共食长桌。近景突出手边动作或道具状态。画面：梨梨把大小梨核托在盘内，团团凑近分辨形状。入镜角色：梨梨、团团。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 22.51,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v3剧本和九镜已校时估算，实际配音及后续制作待进行",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/多场景版v2/结构化JSON/ep013.json",
+    "scope": "以约两分钟为目标逐集校时，补充偏短故事的动作、对话或线索，压缩偏长的重复表述",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始",
+    "previous_script_sha256": "a762d4a18cb97194dbcf99bfca29d90b45cea41b28b0bf6cc458c3c054da740c",
+    "edited_shots": []
+  },
+  "duration_plan": {
+    "target_s": 120,
+    "planning_range_s": [
+      115,
+      125
+    ],
+    "estimated_s": 115.51,
+    "v2_estimated_using_same_method_s": 115.51,
+    "reference_narration_hanzi_per_second": 2.899607,
+    "opening_s": 1.0,
+    "tail_in_final_shot_s": 8.0
+  }
+}

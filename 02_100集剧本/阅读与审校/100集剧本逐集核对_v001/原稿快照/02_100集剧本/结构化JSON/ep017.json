@@ -1,0 +1,186 @@
+{
+  "schema_version": 2,
+  "id": "ep017",
+  "episode": 17,
+  "title": "小獾送来的叶子信",
+  "theme": "温柔的话可以慢慢读",
+  "setting": "门廊信架与卧室",
+  "guest": "小獾灰灰",
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "约90–120秒；以实际配音为准",
+  "cn_characters": 234,
+  "initial_duration_budget_s": 94.6,
+  "shots": [
+    {
+      "id": 1,
+      "title": "小獾递来夹叶短笺",
+      "narration_lines": [
+        "皮皮打开门，看见小獾灰灰，送来一张夹着叶子的短短小信。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "中景建立环境，主体位置清楚",
+      "image": "images/shot_01.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：小獾递来夹叶短笺。镜位：中景建立环境，主体位置清楚。",
+      "initial_budget_s": 9.45,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "纸上小杯图画",
+      "narration_lines": [
+        "信里画着一只小杯子，意思是，谢谢皮皮，昨天陪他坐了很久。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "主体或物件近景，保留地点线索",
+      "image": "images/shot_02.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：纸上小杯图画。镜位：主体或物件近景，保留地点线索。",
+      "initial_budget_s": 8.45,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "小书压平叶角",
+      "narration_lines": [
+        "皮皮没有马上找笔回信。",
+        "他先把卷起来的叶角，轻轻压在小书下面。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "中近景呈现动作后的稳定姿态",
+      "image": "images/shot_03.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：小书压平叶角。镜位：中近景呈现动作后的稳定姿态。",
+      "initial_budget_s": 10.11,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "展开叶面与细叶脉",
+      "narration_lines": [
+        "叶子慢慢舒展开，露出一条细细的叶脉，像通向朋友家的小路。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "细节特写，避免裁掉必要的爪子或道具",
+      "image": "images/shot_04.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：展开叶面与细叶脉。镜位：细节特写，避免裁掉必要的爪子或道具。",
+      "initial_budget_s": 8.76,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "桌上相邻两只小杯",
+      "narration_lines": [
+        "皮皮沿着那条小路看了一会儿，想起昨天，两只杯子挨在一起的样子。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "中景呈现情境变化，留低细节空间",
+      "image": "images/shot_05.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：桌上相邻两只小杯。镜位：中景呈现情境变化，留低细节空间。",
+      "initial_budget_s": 9.7,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "叶子信放在床头",
+      "narration_lines": [
+        "他把叶子信放在床头。",
+        "回信可以明天写，这份谢谢，今晚已经收到了。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "主体近景，暖光方向延续",
+      "image": "images/shot_06.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：叶子信放在床头。镜位：主体近景，暖光方向延续。",
+      "initial_budget_s": 10.11,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "灯光照亮短笺边缘",
+      "narration_lines": [
+        "窗灯照着纸边，暖暖的，没有再添上一大段话，也让人觉得很亲近。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "安顿动作中景或安静环境近景",
+      "image": "images/shot_07.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：灯光照亮短笺边缘。镜位：安顿动作中景或安静环境近景。",
+      "initial_budget_s": 9.07,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "被窝与床头叶子信",
+      "narration_lines": [
+        "皮皮把爪子放进被窝，闭上眼睛。",
+        "朋友的小心意，安安静静留在身边。"
+      ],
+      "pause_after_s": [
+        1.1,
+        1.1
+      ],
+      "camera": "放松姿态近景，光线略柔暗",
+      "image": "images/shot_08.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：被窝与床头叶子信。镜位：放松姿态近景，光线略柔暗。",
+      "initial_budget_s": 10.64,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "床头小信与睡眠远景",
+      "narration_lines": [
+        "小朋友，温柔的话不需要说得很多。",
+        "让它们在心里坐一会儿。",
+        "晚安。"
+      ],
+      "pause_after_s": [
+        1.1,
+        1.1,
+        8.0
+      ],
+      "camera": "木屋卧室或可见卧室的中远景收束，主体安睡",
+      "image": "images/shot_09.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：床头小信与睡眠远景。镜位：木屋卧室或可见卧室的中远景收束，主体安睡。",
+      "initial_budget_s": 18.32,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "需按本集提示词生成图片并合成配音；不含尚未制作的图片或音频",
+  "shared_config": "03_素材与参数/共用画风与提示词.json",
+  "character_names": [
+    "皮皮",
+    "小獾灰灰"
+  ]
+}

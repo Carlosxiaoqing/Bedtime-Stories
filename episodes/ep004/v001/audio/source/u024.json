@@ -1,0 +1,155 @@
+{
+  "text": "白天爬过的小山坡已经留在了森林里，今晚，没有哪座小山需要皮皮再去翻越了。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "de48616fe1c28c3f9dfc5689cd6141fac0566750311665eb52b2fc39dfafb838",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5384580,
+      "text": "白天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6846250,
+      "duration": 3076660,
+      "text": "爬"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9922910,
+      "duration": 1922910,
+      "text": "过"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11846250,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13384580,
+      "duration": 2884580,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16269160,
+      "duration": 8846250,
+      "text": "山坡"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26653750,
+      "duration": 4038330,
+      "text": "已经"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30884580,
+      "duration": 2500000,
+      "text": "留"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33384580,
+      "duration": 2500000,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 35884580,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 37230830,
+      "duration": 6922910,
+      "text": "森林"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 44153750,
+      "duration": 2884580,
+      "text": "里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 51077080,
+      "duration": 7500000,
+      "text": "今晚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 64346250,
+      "duration": 3461660,
+      "text": "没有"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 68000000,
+      "duration": 2884580,
+      "text": "哪"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 70884580,
+      "duration": 1730830,
+      "text": "座"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 72807500,
+      "duration": 3077080,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 75884580,
+      "duration": 5192500,
+      "text": "山"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 82422910,
+      "duration": 4422910,
+      "text": "需要"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 87038330,
+      "duration": 5192500,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 92615410,
+      "duration": 2307500,
+      "text": "再"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 94922910,
+      "duration": 1922910,
+      "text": "去"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 97038330,
+      "duration": 6922910,
+      "text": "翻越"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 103961660,
+      "duration": 2884580,
+      "text": "了"
+    }
+  ]
+}

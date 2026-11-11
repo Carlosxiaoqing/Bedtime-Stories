@@ -1,0 +1,95 @@
+{
+  "schema_version": 3,
+  "script_version": "v4",
+  "id": "ep054",
+  "episode": 54,
+  "title": "小芽换了个位置",
+  "theme": "舒服可以通过细小调整找到",
+  "language": "zh-CN",
+  "production_scope": "adopted_user_long_script",
+  "status": "copyedited_media_not_started",
+  "narration_paragraphs": [
+    {
+      "id": "p001",
+      "text": "随着春风一天比一天温暖，皮皮窗台上那盆向日葵小苗，已经长出了四片嫩绿的真叶，个子也比刚发芽时高出了一小截。\n今天傍晚，皮皮坐在卧室的小书桌前做拼图时，外面的春风一阵接一阵地吹进半开的窗户。"
+    },
+    {
+      "id": "p002",
+      "text": "皮皮听到窗台那边传来极其轻微的“沙、沙”声。\n他放下手里的拼图块，走过去一看，原来是因为小芽长高了，而花盆又放得离窗户左边的边框太近；每当春风吹进来，左边的叶子花窗帘往里一飘，垂下来的棉布帘角就会一次又一次地扫到小芽最上面那片嫩绿的叶子。"
+    },
+    {
+      "id": "p003",
+      "text": "小芽的叶尖被窗帘扫得轻轻晃来晃去，连带着细细的嫩茎都有点站不稳，看起来就像是坐在了一个老被人挤到的座位上，有点儿委屈。\n皮皮心想：是不是我的窗台太小了，得把小芽搬到院子里或者客厅的大桌子上才行呢？"
+    },
+    {
+      "id": "p004",
+      "text": "皮皮低头打量了一下整个卧室窗台。其实窗台并不小，只是之前为了给水壶和画册腾地方，花盆一直挤在最左边的角落里；而在窗台靠右一点的中间位置，明明还有一大块平平整整、阳光充足的空地方呢。\n于是，皮皮先把窗台右侧的小水壶往旁边挪了一点，然后用两只小爪子稳稳地托起红陶花盆的底座，一步一步，慢慢地把花盆平移到了窗台偏右的那个空位上。"
+    },
+    {
+      "id": "p005",
+      "text": "放好之后，皮皮还细心地用干抹布把花盆底下沾着的一点点水渍擦干净，确认花盆四个底角都坐得稳稳当当；最后，他把小水壶摆在花盆旁边一个既顺手、又绝对不会挤着叶子的位置。\n一阵春风再次从窗外吹进来。左边的叶子花窗帘依然欢快地鼓起来、摇晃着，而搬了新家的小芽，因为隔开了一小段安全的距离，再也不会被帘角扫到了！"
+    },
+    {
+      "id": "p006",
+      "text": "小芽虽然不会说话，但它在柔和的微风里稳稳地站着，把最上面那片嫩绿的叶子朝着窗外的夕阳，舒舒服服地轻轻伸展了一点点。\n皮皮看着它自在的样子，心里也跟着畅快极了。原来，当觉得不舒服的时候，并不一定要换一个很大很远的地方，只要在身边轻轻挪动一点点，就能找到最合适的角落。"
+    },
+    {
+      "id": "p007",
+      "text": "晚上洗漱完躺回小木床上时，皮皮也想起了白天的发现。他觉得脖子底下有一点点空，便伸手把大枕头往肩膀这边轻轻挪松了一寸，让两只长耳朵顺顺当当地垂落下来。\n暖黄色的毛毯盖好，胡萝卜玩偶抱好。房间还是原来的房间，一点儿也没变样，但皮皮却通过这小小的一挪，找到了今晚全新的舒服。"
+    },
+    {
+      "id": "p008",
+      "text": "小朋友，如果你躺在床上觉得哪里有一点点别扭，也可以像皮皮一样，轻轻挪动一下枕头或小脚丫。找到那个最舒服的位置后，就让身体安心地歇着吧。晚安。"
+    }
+  ],
+  "cn_characters": 873,
+  "narration_sha256": "e075029a008725d2f4ee838f2d5fd521924ec97a3dde97b5691064f69ed5ec77",
+  "source": {
+    "path": "/Users/ww/Downloads/100集睡前故事合集.md",
+    "sha256": "3feafa137e94824baccf8b6e3f3f24bac3e97714b2e201fcc48d461d8969c302",
+    "original_narration_sha256": "e075029a008725d2f4ee838f2d5fd521924ec97a3dde97b5691064f69ed5ec77",
+    "original_paragraph_count": 8
+  },
+  "revision_record": [],
+  "duration_policy": {
+    "basis": "complete_narration_at_current_voice_settings",
+    "limit_s": null,
+    "delete_for_duration": false,
+    "time_stretch": false
+  },
+  "voice": {
+    "config": "03_素材与参数/配音与声音参数.json",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000
+  },
+  "actual_duration_s": null,
+  "character_registry": "03_素材与参数/用户长稿v4角色图库.json",
+  "storyboard": {
+    "status": "not_started",
+    "shots": [],
+    "timing_basis": "actual_audio",
+    "preferred_hold_s": [
+      8,
+      10
+    ],
+    "review_above_s": 15,
+    "short_action_hold_s": [
+      3,
+      5
+    ]
+  },
+  "material_state": {
+    "voice": "not_started",
+    "character_references": "not_generated",
+    "illustrations": "not_started",
+    "cover": "not_started",
+    "pinyin_review": "not_started",
+    "render": "not_started",
+    "technical_check": "not_started",
+    "human_watch": "not_started",
+    "user_acceptance": "not_recorded"
+  }
+}

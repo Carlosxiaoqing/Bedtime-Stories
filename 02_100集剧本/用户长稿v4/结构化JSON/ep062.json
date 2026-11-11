@@ -1,0 +1,95 @@
+{
+  "schema_version": 3,
+  "script_version": "v4",
+  "id": "ep062",
+  "episode": 62,
+  "title": "拼图留到明天",
+  "theme": "未完成也可以安心停止",
+  "language": "zh-CN",
+  "production_scope": "adopted_user_long_script",
+  "status": "copyedited_media_not_started",
+  "narration_paragraphs": [
+    {
+      "id": "p001",
+      "text": "前几天，小熊绒绒送给皮皮一盒有一百片的小木头拼图，图案是一座开满鲜花的森林小花园。\n因为拼图的片数比以前玩过的都要多，今天吃过晚饭后，皮皮坐在卧室柔软的地垫上，专心致志地拼了起来。"
+    },
+    {
+      "id": "p002",
+      "text": "他先把有直边的边框一片片找出来拼好，接着又把绿油油的草地和小木桥连在了一起。\n皮皮拼得可认真了，小爪子一片接一片地比对。不知不觉，花园的大半部分都已经显现出来了，只剩下右上角花丛旁边，还空着一个小小的角落没有拼完。"
+    },
+    {
+      "id": "p003",
+      "text": "这时，皮皮觉得眼睛有点儿酸，抬头往窗外一看，哎呀，天色已经彻底黑透了，月亮都升到了半空中！而在他的手边，还散落着最后十几片颜色相近的花丛拼图，它们弯弯曲曲的卡口，就像十几扇还没找着钥匙合好的小门。\n皮皮心里有点纠结：如果现在不睡觉，非要把这最后十几片硬拼完，肯定要熬到很晚，眼睛会很累；可是如果要收拾地垫睡觉，难道要把好不容易拼了一晚上的大半座花园，全都拆散装回盒子里吗？那可太可惜了！"
+    },
+    {
+      "id": "p004",
+      "text": "皮皮坐在地垫上想了想，很快想出了一个两全其美的好办法。\n他从书架底层抽出一块平时画画用的平整大木板，放在地垫旁边；然后小心翼翼地用双手托着已经拼好的那一大片花园，轻轻地把它平移到了大木板上，一片也没有散开！"
+    },
+    {
+      "id": "p005",
+      "text": "至于手边那十几片还没拼上的小木片，皮皮没有乱丢，而是把它们一枚一枚捡起来，整整齐齐地放进旁边敞口的小木盒里，跟大木板摆在一起。\n这样一来，既不用熬夜硬撑，也不用拆掉今天的劳动成果；花园的入口完好地保留着，明天放学回来，随时都能顺着这个小角落继续往下拼。"
+    },
+    {
+      "id": "p006",
+      "text": "最后，皮皮找来一块轻薄的软棉布，轻轻盖住大木板的一角，防尘又妥帖，就像是给今天这座还没建完的小花园，道了一声轻轻的“晚安”。\n原来，事情哪怕没有在今天全部做完，也一样可以收得稳稳当当的。皮皮站起身，觉得小爪子不忙了，连微酸的小肩膀也一下子轻松了许多。"
+    },
+    {
+      "id": "p007",
+      "text": "皮皮钻进温暖的被窝，抱好胡萝卜玩偶。大木板上那个空着的小角落，安安静静地待在软布底下，一点儿也没有跟到床上来催促他。\n他的眼睛慢慢闭合，拼图里的小花园在耐心地等着明天，而今晚柔软的小木床，正温柔地接住他。"
+    },
+    {
+      "id": "p008",
+      "text": "小朋友，如果你今天也有没搭完的积木、没拼完的拼图或者没做完的喜欢的事，没关系，把它们稳稳放好，留到明天继续吧。现在，好好休息才是最重要的事。晚安。"
+    }
+  ],
+  "cn_characters": 828,
+  "narration_sha256": "2b622822da322ecf091dff09934a7fc607821891a16d577ab37f456351b544e0",
+  "source": {
+    "path": "/Users/ww/Downloads/100集睡前故事合集.md",
+    "sha256": "3feafa137e94824baccf8b6e3f3f24bac3e97714b2e201fcc48d461d8969c302",
+    "original_narration_sha256": "2b622822da322ecf091dff09934a7fc607821891a16d577ab37f456351b544e0",
+    "original_paragraph_count": 8
+  },
+  "revision_record": [],
+  "duration_policy": {
+    "basis": "complete_narration_at_current_voice_settings",
+    "limit_s": null,
+    "delete_for_duration": false,
+    "time_stretch": false
+  },
+  "voice": {
+    "config": "03_素材与参数/配音与声音参数.json",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000
+  },
+  "actual_duration_s": null,
+  "character_registry": "03_素材与参数/用户长稿v4角色图库.json",
+  "storyboard": {
+    "status": "not_started",
+    "shots": [],
+    "timing_basis": "actual_audio",
+    "preferred_hold_s": [
+      8,
+      10
+    ],
+    "review_above_s": 15,
+    "short_action_hold_s": [
+      3,
+      5
+    ]
+  },
+  "material_state": {
+    "voice": "not_started",
+    "character_references": "not_generated",
+    "illustrations": "not_started",
+    "cover": "not_started",
+    "pinyin_review": "not_started",
+    "render": "not_started",
+    "technical_check": "not_started",
+    "human_watch": "not_started",
+    "user_acceptance": "not_recorded"
+  }
+}

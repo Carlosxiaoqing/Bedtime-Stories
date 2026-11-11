@@ -1,0 +1,18 @@
+{
+  "status": "accepted",
+  "episode": "ep004",
+  "output": "/Users/ww/视频/Bedtime-Stories/Outputs/2026-11-11/ep004-v001",
+  "narration_complete": true,
+  "hanzi": 742,
+  "duration_s": 278.72,
+  "shot_count": 35,
+  "active_images_ready": 35,
+  "remaining_shots": [],
+  "subtitles_cues": 128,
+  "technical_checks": "passed",
+  "full_human_listen_watch": "not_certified",
+  "user_acceptance": "accepted",
+  "publication": "not_published",
+  "acceptance_record": "用户验收记录.json",
+  "engineering": "/Users/ww/视频/Bedtime-Stories/episodes/ep004/v001"
+}

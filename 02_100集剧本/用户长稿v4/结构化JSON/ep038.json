@@ -1,0 +1,95 @@
+{
+  "schema_version": 3,
+  "script_version": "v4",
+  "id": "ep038",
+  "episode": 38,
+  "title": "树枝给围巾让个座",
+  "theme": "把喜欢的东西安稳收回",
+  "language": "zh-CN",
+  "production_scope": "adopted_user_long_script",
+  "status": "copyedited_media_not_started",
+  "narration_paragraphs": [
+    {
+      "id": "p001",
+      "text": "深秋的早晨和傍晚有了一点点凉意，今天去上学的时候，皮皮第一次戴上了他那条用软毛线织成的浅黄色小围巾。\n下午，小鹿芽芽和小熊绒绒来皮皮家院子里玩丢沙包。跑了几圈后，皮皮觉得身上暖烘烘的有点出汗，就随手把浅黄小围巾解下来，搭在了门廊旁边一棵矮灌木的树枝上。"
+    },
+    {
+      "id": "p002",
+      "text": "那棵矮树枝像一只伸出来的小手臂，稳稳地替皮皮托了一整个下午的围巾。\n到了傍晚，伙伴们都回家了，晚风吹过来，矮树枝上的围巾布角跟着风一晃一晃的。皮皮走到门廊边，伸出小爪子想把围巾收进屋里。"
+    },
+    {
+      "id": "p003",
+      "text": "可是，就在皮皮往回一拉的时候，围巾边缘有一小段松散的毛线线圈，不小心挂在了细树枝分叉的小尖尖上，卡住了，没有马上松开。\n如果是性子急的时候，使劲往回一扯，不仅毛线会被拉断，细树枝上刚刚长出来的过冬小芽苞也会被拽掉。"
+    },
+    {
+      "id": "p004",
+      "text": "皮皮立刻停住了往回拉的爪子。他凑近细树枝，先不往后拽，而是顺着树枝的方向，把围巾轻轻往前送回了一点点。\n这一送，原本绷得紧紧的那小段毛线线圈，立刻变得松松软软的了。"
+    },
+    {
+      "id": "p005",
+      "text": "接着，皮皮用两根手指捏住线圈，顺着细枝的尖尖慢慢往上一抬、一挪——小围巾就毫发无损地回到了皮皮的怀里！而那根矮树枝轻轻晃了晃，上面圆圆的小芽苞还完好无损地留着呢。\n皮皮对着矮树枝笑了笑，小声说：“谢谢你今天帮我拿围巾，现在把座位还给你啦。”"
+    },
+    {
+      "id": "p006",
+      "text": "他捧着围巾走进屋，把它平平整整地叠好，放到门内专门挂衣服的小木架子上，不用让它在微凉的夜风里一直摇晃了。\n门廊外的矮树枝空了出来，重新安静地待在夜色里。今天向大自然借用过的地方，已经温柔地归还好了。"
+    },
+    {
+      "id": "p007",
+      "text": "洗完澡，皮皮钻进温暖的被窝。在盖被子的时候，他也特意把暖黄毛毯的四个边角都理得松松的，没有让哪一小块被子绷得紧紧的。\n他把胡萝卜玩偶抱在臂弯里，慢慢闭上眼睛。不管是外面的小树枝，还是屋里的软围巾，都在今晚找到了最舒服的归处。"
+    },
+    {
+      "id": "p008",
+      "text": "小朋友，如果今天你的心里也有哪件事像挂住的围巾一样拉得紧紧的，现在，往回松一松吧。暖暖地躺好，晚安。"
+    }
+  ],
+  "cn_characters": 709,
+  "narration_sha256": "2eb3b857c11b1fbef9cfed4d4f1bcc140a7a21849833156acac5318635d44db7",
+  "source": {
+    "path": "/Users/ww/Downloads/100集睡前故事合集.md",
+    "sha256": "3feafa137e94824baccf8b6e3f3f24bac3e97714b2e201fcc48d461d8969c302",
+    "original_narration_sha256": "2eb3b857c11b1fbef9cfed4d4f1bcc140a7a21849833156acac5318635d44db7",
+    "original_paragraph_count": 8
+  },
+  "revision_record": [],
+  "duration_policy": {
+    "basis": "complete_narration_at_current_voice_settings",
+    "limit_s": null,
+    "delete_for_duration": false,
+    "time_stretch": false
+  },
+  "voice": {
+    "config": "03_素材与参数/配音与声音参数.json",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000
+  },
+  "actual_duration_s": null,
+  "character_registry": "03_素材与参数/用户长稿v4角色图库.json",
+  "storyboard": {
+    "status": "not_started",
+    "shots": [],
+    "timing_basis": "actual_audio",
+    "preferred_hold_s": [
+      8,
+      10
+    ],
+    "review_above_s": 15,
+    "short_action_hold_s": [
+      3,
+      5
+    ]
+  },
+  "material_state": {
+    "voice": "not_started",
+    "character_references": "not_generated",
+    "illustrations": "not_started",
+    "cover": "not_started",
+    "pinyin_review": "not_started",
+    "render": "not_started",
+    "technical_check": "not_started",
+    "human_watch": "not_started",
+    "user_acceptance": "not_recorded"
+  }
+}

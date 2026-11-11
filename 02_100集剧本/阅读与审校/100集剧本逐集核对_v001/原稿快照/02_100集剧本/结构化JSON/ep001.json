@@ -1,0 +1,218 @@
+{
+  "schema_version": 2,
+  "id": "ep001",
+  "episode": 1,
+  "title": "小兔子皮皮的晚安星光",
+  "theme": "在熟悉的陪伴里放松与入睡",
+  "setting": "已验收的小木屋卧室及窗外",
+  "guest": "无",
+  "status": "approved_reference",
+  "language": "zh-CN",
+  "target_duration": "约90–120秒；以实际配音为准",
+  "cn_characters": 218,
+  "initial_duration_budget_s": 90.2,
+  "shots": [
+    {
+      "id": 1,
+      "title": "小屋与小灯",
+      "narration_lines": [
+        "夜深了，森林里的小屋，亮着一盏暖暖的小灯。",
+        "小兔子皮皮靠在枕头上，盖着他的小毛毯。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.72
+      ],
+      "camera": "中景建立环境，主体位置清楚",
+      "image": "images/shot_01.png",
+      "motion": "camera",
+      "image_prompt": "Use case: illustration-story. Asset type: the first full-bleed vertical 9:16 frame and visual reference for a gentle preschool bedtime story, no panels. Create a beautiful refined hand-painted watercolor children's picture-book illustration with visible subtle paper grain, rounded simple shapes and soft edges, muted dusty blue, sage and cream, warm restrained amber light, peaceful quiet atmosphere. Scene: inside a small cozy wooden forest cottage bedroom at night. Composition: small wooden bed on the left/lower middle, wooden window in the upper right showing a crescent moon and a dark quiet leafy forest. A little shaded bedside lamp casts soft warm light. Main character Pip is a small adorable soft gray bunny, round face, tiny pink nose, long relaxed ears, wearing a deep navy drooping nightcap dotted with a few tiny pale yellow stars. Pip rests comfortably against a cream pillow with sleepy half-open eyes, a warm yellow blanket pulled over his body. A small simple orange carrot plush with muted green leaves rests near his paws. Keep the room uncluttered, use confident storybook composition, gentle contrast without harsh highlights, hand-drawn facial features, not photorealistic and not 3D. The bunny should be clearly readable at phone size. Leave a quiet low-detail area near the lower edge for possible later captions. Full-bleed single image, absolutely no text, letters, labels, borders, collages or watermark. Portrait 9:16, ideally 1080x1920 or larger.",
+      "initial_budget_s": 13.61,
+      "actual_start_s": 0.0,
+      "actual_end_s": 12.32,
+      "actual_duration_s": 12.32,
+      "reference_image": "04_生产工程/第一期/第二版/图片/shot_01.png",
+      "motion_hint": "m01"
+    },
+    {
+      "id": 2,
+      "title": "月亮与树叶",
+      "narration_lines": [
+        "窗外，月亮弯弯的，树叶轻轻摇。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "主体或物件近景，保留地点线索",
+      "image": "images/shot_02.png",
+      "motion": "camera",
+      "image_prompt": "Use case: illustration-story. Asset: one new full-bleed 9:16 vertical illustration for scene 02 of the SAME gentle bedtime picture book. Reference image 1 supplies the established cottage bedroom, watercolor technique, wooden window, cream curtains printed with muted olive leaves, deep blue forest, warm amber and dusty blue palette. Create a closer view of this SAME wooden crossbar window seen from inside the room. The crescent moon is visible near the upper right, quiet blue forest and a few soft leafy branches outside. Curtains frame both sides. A very small edge of the cream pillow and yellow blanket may appear at lower left, but NO bunny is required. Focus on the calm moon and softly resting leaves to match the narration about moon and leaves. The special golden star has not appeared yet: do not add a prominent five-point star. Soft warm lamplight touches the lower window sill. Exact same refined hand-painted watercolor and paper grain as reference, muted colors and gentle contrast, no realism, no 3D, no new props. Single image, no panels, text, border, labels or watermark. Portrait 9:16.",
+      "initial_budget_s": 4.7,
+      "actual_start_s": 12.32,
+      "actual_end_s": 17.24,
+      "actual_duration_s": 4.919999999999998,
+      "reference_image": "04_生产工程/第一期/第二版/图片/shot_02.png",
+      "motion_hint": "m02"
+    },
+    {
+      "id": 3,
+      "title": "哈欠与放松",
+      "narration_lines": [
+        "皮皮揉揉眼睛，打了个小小的哈欠。",
+        "他把长耳朵轻轻放好，小爪子也放松了。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.72
+      ],
+      "camera": "中近景呈现动作后的稳定姿态",
+      "image": "images/shot_03.png",
+      "motion": "camera",
+      "image_prompt": "Use case: illustration-story. Input image 1 is the approved visual reference for character, room, watercolor technique and palette. Create ONE new full-bleed portrait 9:16 shot for scene 02 of the same bedtime picture book. Preserve precisely the gray bunny Pip's round face, pink nose, long soft floppy ears, deep navy drooping nightcap with pale yellow stars, warm yellow blanket, cream pillow, cute orange carrot plush with green leaves, wooden bed, leafy curtains, warm lamp and blue night window. Change composition to a closer medium shot of Pip from chest up in the same bed. His eyes are half closed and his little mouth forms a gentle tiny yawn, relaxed and adorable, no dramatic expression. His paws rest on the blanket pulled up to his chin, carrot plush beside one paw. Do not add hands or limbs. Keep enough of the window in the upper right and warm bedside light from lower left to recognize the same room. Muted peaceful soft hand-painted watercolor and paper texture, no dramatic contrast, no photorealism, no 3D. Single illustration, not a collage, no text, no borders, no watermark. Portrait 9:16.",
+      "initial_budget_s": 11.04,
+      "actual_start_s": 17.24,
+      "actual_end_s": 27.2,
+      "actual_duration_s": 9.96,
+      "reference_image": "04_生产工程/第一期/第二版/图片/shot_03.png",
+      "motion_hint": "m01"
+    },
+    {
+      "id": 4,
+      "title": "软软的毛毯",
+      "narration_lines": [
+        "小毛毯软软的，一直盖到下巴。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "细节特写，避免裁掉必要的爪子或道具",
+      "image": "images/shot_04.png",
+      "motion": "camera",
+      "image_prompt": "Use case: illustration-story. Reference image 1 defines the same gray bunny Pip, navy star nightcap, yellow blanket, carrot plush, wooden bed and watercolor style. Generate ONE new full-bleed vertical 9:16 bedtime story illustration, a detail close-up to accompany 'the little blanket is soft, pulled up to his chin'. Frame the bunny's lower round face and tiny pink nose near the upper third, long floppy ears beside his cheeks, two relaxed soft gray paws resting on the edge of the SAME warm yellow blanket tucked up under his chin. Show the cozy blanket filling the lower half with beautiful gentle watercolor texture. The same small orange carrot plush with muted green leaves peeks beside one paw, exactly one toy, no extra limbs. A little part of the navy cap with pale yellow stars is visible at the top. Cream pillow behind him; the warm wooden bedroom and a tiny hint of the blue night window remain in the background. Keep the SAME character proportions and hand-painted watercolor paper texture as reference, soft muted palette, comfortable, no stark highlights, no bright effects. This is a new closer camera angle, not a panel layout. No text, borders, watermark or lettering. Vertical 9:16.",
+      "initial_budget_s": 4.7,
+      "actual_start_s": 27.2,
+      "actual_end_s": 31.8,
+      "actual_duration_s": 4.600000000000001,
+      "reference_image": "04_生产工程/第一期/第二版/图片/shot_04.png",
+      "motion_hint": "m01"
+    },
+    {
+      "id": 5,
+      "title": "向星星道晚安",
+      "narration_lines": [
+        "窗边的一颗小星星，慢慢亮了起来。",
+        "皮皮望着它，在心里轻轻说：小星星，晚安。",
+        "小星星安安静静地，陪着他。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.72,
+        0.95
+      ],
+      "camera": "中景呈现情境变化，留低细节空间",
+      "image": "images/shot_05.png",
+      "motion": "star",
+      "image_prompt": "Use case: illustration-story. Input image 1 is the established visual reference for Pip, the bedroom and the watercolor palette. Generate one new single full-bleed portrait 9:16 illustration: scene 03, looking toward the SAME wooden bedroom window from the side of the bunny's bed. The window fills the upper two-thirds, its wooden crossbars, cream leafy curtains and deep blue forest are consistent with the reference. The same small crescent moon remains near the upper right. Add one modest softly glowing five-point pale golden star just to the LEFT of that crescent moon; it is small and gentle, no flare, no trail. In the lower left foreground show only the back and a little side profile of the SAME sleepy gray bunny with the navy yellow-star nightcap and long floppy ear, looking up toward the star while still tucked under the yellow blanket, not standing. A little warm light from the bedside lamp below the frame. Preserve the hand-painted watercolor paper texture, subdued cozy amber/blue palette, simple rounded shapes. Quiet breathing room and elegant composition, no bright white star or sparkling particle effects. No text, border, collage or watermark, vertical 9:16.",
+      "initial_budget_s": 15.2,
+      "actual_start_s": 31.8,
+      "actual_end_s": 47.36,
+      "actual_duration_s": 15.559999999999999,
+      "reference_image": "04_生产工程/第一期/第二版/图片/shot_05.png",
+      "motion_hint": "m03"
+    },
+    {
+      "id": 6,
+      "title": "玩偶与呼吸",
+      "narration_lines": [
+        "皮皮抱好胡萝卜玩偶，往被窝里缩了缩。",
+        "小脚丫暖暖的，小肚子一起，一伏。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.72
+      ],
+      "camera": "主体近景，暖光方向延续",
+      "image": "images/shot_06.png",
+      "motion": "breath",
+      "image_prompt": "Use case: illustration-story. Reference image 1 defines Pip's identity and the established cottage bedroom; reference image 2 defines the gentle star beside the crescent moon. Create ONE new full-bleed portrait 9:16 watercolor picture-book frame, scene 04: Pip is settled deeper in the SAME wooden bed, hugging the same orange carrot plush close to his chest, with the warm yellow blanket pulled to his chin. His eyes are nearly closed, a tiny peaceful smile. Keep gray fur, round face, small pink nose, long soft floppy ears and EXACT same deep navy star-patterned nightcap with yellow pom-pom. Medium close composition, slightly wider than the yawning closeup. Show the cream pillow and curved wood headboard behind him and a portion of the same wooden window upper right; the modest pale golden star is to the left of the crescent moon outside, same leafy cream curtains. Warm bedside lamp from lower left gives a much softer subdued glow. Same watercolor pigments and paper texture, low saturation, cozy dusty blue shadows. Keep paws anatomically simple and the carrot toy consistent, no new characters or props. No text, labels, border, collage or watermark. Vertical 9:16.",
+      "initial_budget_s": 10.73,
+      "actual_start_s": 47.36,
+      "actual_end_s": 58.0,
+      "actual_duration_s": 10.64,
+      "reference_image": "04_生产工程/第一期/第二版/图片/shot_06.png",
+      "motion_hint": "m01"
+    },
+    {
+      "id": 7,
+      "title": "安静的树叶",
+      "narration_lines": [
+        "风轻了，树叶也慢慢安静下来。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "安顿动作中景或安静环境近景",
+      "image": "images/shot_07.png",
+      "motion": "leaves",
+      "image_prompt": "Use case: illustration-story. Reference image 1 supplies the established watercolor bedroom and forest palette; reference image 2 supplies the same deep blue night forest and leafy curtain/window details. Create ONE full-bleed vertical 9:16 close-up shot to accompany 'the wind grows quiet, and the leaves slowly become still'. View a soft muted olive-green leafy branch just OUTSIDE the SAME bedroom window. Several rounded leaves extend across the middle and upper right, with layered tranquil dark blue forest silhouettes behind them. A narrow sliver of the wooden window and cream leaf-pattern curtain may remain at the far LEFT edge, showing the same location. The moon and special star are outside this close crop, do not add new celestial objects. No bunny in this shot. Gentle warm reflected light along a few leaf edges, restrained and peaceful, no sparkles, no dramatic wind, no hard highlights. Precisely the same hand-painted watercolor and soft visible paper grain as references, rounded simple shapes, muted sage and dusty blue. Single picture, no panels, labels, border, text or watermark. Portrait 9:16.",
+      "initial_budget_s": 4.7,
+      "actual_start_s": 58.0,
+      "actual_end_s": 62.68,
+      "actual_duration_s": 4.68,
+      "reference_image": "04_生产工程/第一期/第二版/图片/shot_07.png",
+      "motion_hint": "m02"
+    },
+    {
+      "id": 8,
+      "title": "皮皮入睡",
+      "narration_lines": [
+        "小兔子闭上眼睛，安心地睡着了。",
+        "小朋友，你也可以找个舒服的姿势。"
+      ],
+      "pause_after_s": [
+        1.1,
+        1.1
+      ],
+      "camera": "放松姿态近景，光线略柔暗",
+      "image": "images/shot_08.png",
+      "motion": "camera",
+      "image_prompt": "Use case: illustration-story. Reference image 1 is the exact sleeping bunny and cozy bed identity to preserve. Create ONE new full-bleed portrait 9:16 quiet bedtime illustration, a tender CLOSE view of Pip peacefully asleep on the SAME cream pillow. Preserve his soft gray fur, round face, tiny pink triangular nose, long floppy ears and deep navy nightcap with pale yellow stars and yellow pom-pom. His eyes are fully closed with relaxed curved eyelids and a tiny calm smile. The same warm yellow blanket rests below his chin and the same orange carrot plush with muted green leaves is tucked beside one paw near the lower edge. Use a slightly higher bedside angle than reference, concentrating on the face, cap and soft pillow, rather than repeating a full-room view. A tiny softly painted hint of the wooden bedroom and blue night window in the upper-right background, no extra furniture. Slightly dimmer muted amber and soft night-blue shadows, matching watercolor pigments and paper grain, no 3D, no realistic fur, no bright glow. Absolutely no text, border, collage or watermark. Portrait 9:16.",
+      "initial_budget_s": 10.64,
+      "actual_start_s": 62.68,
+      "actual_end_s": 72.92,
+      "actual_duration_s": 10.240000000000002,
+      "reference_image": "04_生产工程/第一期/第二版/图片/shot_08.png",
+      "motion_hint": "m01"
+    },
+    {
+      "id": 9,
+      "title": "陪伴与晚安",
+      "narration_lines": [
+        "轻轻闭上眼睛。",
+        "小被子陪着你。",
+        "晚安，做个甜甜的梦。"
+      ],
+      "pause_after_s": [
+        1.1,
+        1.1,
+        8.0
+      ],
+      "camera": "木屋卧室或可见卧室的中远景收束，主体安睡",
+      "image": "images/shot_09.png",
+      "motion": "breath_wide",
+      "image_prompt": "Use case: illustration-story. Reference image 1 defines the same bunny Pip and cottage bedroom; reference image 2 defines the single gentle star beside the crescent moon. Create ONE new full-bleed 9:16 portrait illustration, final scene 05: a WIDER quiet view of that SAME bedroom from near the doorway, showing the entire small wooden bed, bedside lamp on its little round wooden stool at lower left, and the same wooden crossbar window with cream leafy curtains at upper right. The SAME gray bunny is very small and comfortably asleep in the bed, eyes fully closed, navy yellow-star nightcap, long floppy ears, warm yellow blanket, hugging the orange carrot plush. Preserve the curved wooden headboard and footboard and cream pillow, same bed/window arrangement and slanted wooden ceiling beam. Moon and a modest pale gold star immediately to its left show outside the upper-right window. Let the room be noticeably dimmer and more blue-grey than the first scene, while keeping a little soft amber lamp glow and readable warm blanket. Broad calm low-detail negative space in the lower third, no new furniture or props. Refined hand-painted watercolor with visible soft paper grain and low saturation, gentle storybook shapes, peaceful composition. No text, frame, collage, watermark, sparkle particles or harsh highlights. Vertical 9:16.",
+      "initial_budget_s": 16.45,
+      "actual_start_s": 72.92,
+      "actual_end_s": 90.2,
+      "actual_duration_s": 17.28,
+      "reference_image": "04_生产工程/第一期/第二版/图片/shot_09.png",
+      "motion_hint": "m04"
+    }
+  ],
+  "actual_duration_s": 90.2,
+  "material_state": "首集已有全部素材",
+  "shared_config": "03_素材与参数/共用画风与提示词.json",
+  "character_names": [
+    "皮皮"
+  ]
+}

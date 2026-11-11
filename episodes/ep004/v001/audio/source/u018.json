@@ -1,0 +1,143 @@
+{
+  "text": "小脚边的毛毯拱了起来，变成了一座圆圆的小山坡，就跟白天去过的青草坡一模一样。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "3f2775fea81e119f1c525ef35e77d2f23b5ee8e81b4e585f8c6c79cb7e9c4ad7",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 9230830,
+      "text": "小脚边"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10500000,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12038330,
+      "duration": 6922910,
+      "text": "毛毯"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19346250,
+      "duration": 2500000,
+      "text": "拱"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21846250,
+      "duration": 1730830,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23769160,
+      "duration": 6346250,
+      "text": "起来"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 34153750,
+      "duration": 5000000,
+      "text": "变成"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 39153750,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 40500000,
+      "duration": 2115410,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 42615410,
+      "duration": 2692500,
+      "text": "座"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 45692500,
+      "duration": 5576660,
+      "text": "圆圆"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 51269160,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 52807500,
+      "duration": 3077080,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 55884580,
+      "duration": 8269160,
+      "text": "山坡"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 69153750,
+      "duration": 2307500,
+      "text": "就"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 71461660,
+      "duration": 2307500,
+      "text": "跟"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 73961660,
+      "duration": 8461660,
+      "text": "白天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 83961660,
+      "duration": 2884580,
+      "text": "去"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 86846250,
+      "duration": 2115410,
+      "text": "过"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 88961660,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 90692500,
+      "duration": 9615410,
+      "text": "青草坡"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 100692500,
+      "duration": 12115410,
+      "text": "一模一样"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "yaya",
+  "source": "/Users/ww/.codex/generated_images/01a1c779-b2c5-7591-8e26-7f019d36a778/exec-88bfaa09-71bc-4bb1-88ea-3a6c3ff5ed9e.png",
+  "dest": "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/yaya_identity_v001.png",
+  "prompt": "Use case: illustration-story. Asset type: production CHARACTER IDENTITY MODEL SHEET for a watercolor children's story. Input image 1 is ONLY the shared watercolor STYLE reference: do NOT copy its rabbit species, face, ears or cap. Plain warm ivory watercolor paper backdrop, four well-separated studies of ONE identical character: front full-body, three-quarter full-body, side full-body, large face portrait. Identical proportions, colors, facial features and clothing across all four views. Calm standing poses, rounded friendly forms, small gentle dark eyes, muted colors, delicate paper grain, hand-painted soft edges and low contrast. No scene, furniture, other characters, letters, numbers, labels, text, grid lines, borders or watermark. Not 3D, not photorealistic. Subject: Yaya, a gentle small woodland FAWN DEER. Light soft ochre-tan coat, cream muzzle and chest, a few stable cream small spots on the sides/back, large softly pointed deer ears with muted pink inner ears, slim but rounded legs ending in simple rounded brown hooves, small black-brown nose, expressive but small gentle dark eyes. No antlers. Childlike animal standing naturally on four legs; three full-body views must all keep the same quadruped anatomy and spot pattern. A muted dark sage-green small scarf, no hat, no rabbit ears. Graceful proportions, not a rabbit or bear with deer ears.",
+  "reference_inputs": [
+    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+  ]
+}

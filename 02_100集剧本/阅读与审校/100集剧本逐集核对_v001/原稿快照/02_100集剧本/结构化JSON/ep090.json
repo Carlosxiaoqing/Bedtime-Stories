@@ -1,0 +1,183 @@
+{
+  "schema_version": 2,
+  "id": "ep090",
+  "episode": 90,
+  "title": "星光织的小毯子",
+  "theme": "把想象转成温柔的安顿",
+  "setting": "卧室与轻柔星光联想",
+  "guest": "无",
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "约90–120秒；以实际配音为准",
+  "cn_characters": 247,
+  "initial_duration_budget_s": 97.6,
+  "shots": [
+    {
+      "id": 1,
+      "title": "毛毯上的浅金窗光",
+      "narration_lines": [
+        "皮皮的毛毯上，落着几小片窗光，像有一条条，很细很细的，浅金色线。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "中景建立环境，主体位置清楚",
+      "image": "images/shot_01.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：毛毯上的浅金窗光。镜位：中景建立环境，主体位置清楚。",
+      "initial_budget_s": 10.39,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "星光细线的柔和联想",
+      "narration_lines": [
+        "他想象，星星正在窗外，织一条小毯子，一边织，一边把夜晚的声音，放轻。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "主体或物件近景，保留地点线索",
+      "image": "images/shot_02.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：星光细线的柔和联想。镜位：主体或物件近景，保留地点线索。",
+      "initial_budget_s": 9.7,
+      "motion_hint": "m03",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "枕边与玩偶旁浅光线",
+      "narration_lines": [
+        "有一条线，绕过枕头；另一条线，停在玩偶旁边，没有把谁，缠得紧紧的。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "中近景呈现动作后的稳定姿态",
+      "image": "images/shot_03.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：枕边与玩偶旁浅光线。镜位：中近景呈现动作后的稳定姿态。",
+      "initial_budget_s": 9.39,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "爪子抚平毛毯光斑",
+      "narration_lines": [
+        "皮皮轻轻拉平毛毯，窗光也跟着，变得平平整整，像刚织好的一小段。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "细节特写，避免裁掉必要的爪子或道具",
+      "image": "images/shot_04.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：爪子抚平毛毯光斑。镜位：细节特写，避免裁掉必要的爪子或道具。",
+      "initial_budget_s": 9.39,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "平整毛毯与温柔皮皮",
+      "narration_lines": [
+        "他没有再找更多光线。",
+        "真正的毛毯已经够暖，想象的小毯子，也轻轻，完成了。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "中景呈现情境变化，留低细节空间",
+      "image": "images/shot_05.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：平整毛毯与温柔皮皮。镜位：中景呈现情境变化，留低细节空间。",
+      "initial_budget_s": 11.04,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "窗外星光与近处被面",
+      "narration_lines": [
+        "窗外的星星，留在很远的地方。",
+        "身边的温暖，已经近得，能轻轻摸到。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "主体近景，暖光方向延续",
+      "image": "images/shot_06.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：窗外星光与近处被面。镜位：主体近景，暖光方向延续。",
+      "initial_budget_s": 9.79,
+      "motion_hint": "m03",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "爪子入被长耳朵靠好",
+      "narration_lines": [
+        "皮皮把爪子放进被窝，长耳朵靠好，不再跟着每一条光线，慢慢往外看。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "安顿动作中景或安静环境近景",
+      "image": "images/shot_07.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：爪子入被长耳朵靠好。镜位：安顿动作中景或安静环境近景。",
+      "initial_budget_s": 9.7,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "毛毯轻微起伏与睡姿",
+      "narration_lines": [
+        "眼睛轻轻闭合，毛毯随着呼吸，一点点起伏，像温柔的夜晚，也在休息。"
+      ],
+      "pause_after_s": [
+        1.1
+      ],
+      "camera": "放松姿态近景，光线略柔暗",
+      "image": "images/shot_08.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：毛毯轻微起伏与睡姿。镜位：放松姿态近景，光线略柔暗。",
+      "initial_budget_s": 9.54,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "星窗与安睡小床远景",
+      "narration_lines": [
+        "小朋友，让小被子暖暖地陪着你吧。",
+        "今晚，不用再忙着，编织什么。",
+        "晚安。"
+      ],
+      "pause_after_s": [
+        1.1,
+        1.1,
+        8.0
+      ],
+      "camera": "木屋卧室或可见卧室的中远景收束，主体安睡",
+      "image": "images/shot_09.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：星窗与安睡小床远景。镜位：木屋卧室或可见卧室的中远景收束，主体安睡。",
+      "initial_budget_s": 18.64,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "需按本集提示词生成图片并合成配音；不含尚未制作的图片或音频",
+  "shared_config": "03_素材与参数/共用画风与提示词.json",
+  "character_names": [
+    "皮皮"
+  ]
+}

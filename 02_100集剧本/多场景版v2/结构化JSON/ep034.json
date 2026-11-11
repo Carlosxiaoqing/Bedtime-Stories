@@ -1,0 +1,258 @@
+{
+  "schema_version": 2,
+  "script_version": "v2",
+  "id": "ep034",
+  "episode": 34,
+  "title": "雪里的三角路牌",
+  "cover_title": "雪地路牌",
+  "category": "自然",
+  "theme": "从看不清的地方找到安全路线",
+  "setting": "白湾港雪地短步道、白湾港木栈桥前",
+  "viewpoint_character": "雪团",
+  "guest": "雪团、沐沐",
+  "character_names": [
+    "雪团",
+    "沐沐",
+    "皮皮"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "按晓晓-35%实际口播、停顿和约8秒尾声确定",
+  "cn_characters": 266,
+  "initial_duration_budget_s": 106.2,
+  "shots": [
+    {
+      "id": 1,
+      "title": "薄雪盖住低矮路沿，雪团、沐沐与皮皮站在遮风墙旁",
+      "location": "白湾港雪地短步道",
+      "character_names": [
+        "雪团",
+        "沐沐",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "一夜下了薄雪。",
+        "雪团要带朋友去木栈桥，过去的石头路已经看不清了。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "白湾港雪地短步道。竖幅远景交代空间和前后层次。画面：薄雪盖住低矮路沿，雪团、沐沐与皮皮站在遮风墙旁。入镜角色：雪团、沐沐、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.42,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "皮皮低头看分岔的一串雪印，鼻尖靠近新雪",
+      "location": "白湾港雪地短步道",
+      "character_names": [
+        "皮皮"
+      ],
+      "narration_lines": [
+        "皮皮指着一串脚印。",
+        "雪团看了看，脚印一半走到灌木旁，另一半转回了港口。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "白湾港雪地短步道。近景突出手边动作或道具状态。画面：皮皮低头看分岔的一串雪印，鼻尖靠近新雪。入镜角色：皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.04,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "从雪团肩后看见较高的三角路牌，脚印在地面分叉",
+      "location": "白湾港雪地短步道",
+      "character_names": [
+        "雪团",
+        "沐沐"
+      ],
+      "narration_lines": [
+        "他没跟着脚印走，抬头找起三角路牌。",
+        "牌子比雪高，顶角露在灰白天色里。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "越肩构图同时看见观察者与目标",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "白湾港雪地短步道。越肩构图同时看见观察者与目标。画面：从雪团肩后看见较高的三角路牌，脚印在地面分叉。入镜角色：雪团、沐沐。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "三个伙伴沿标记旁已扫开的窄路并排向前",
+      "location": "白湾港雪地短步道",
+      "character_names": [
+        "雪团",
+        "沐沐",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "三位朋友走到牌下，果然看见扫出来的一段路。",
+        "沐沐把脚步放轻，跟在雪团后面。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "白湾港雪地短步道。侧面中景展示动作方向与相邻环境。画面：三个伙伴沿标记旁已扫开的窄路并排向前。入镜角色：雪团、沐沐、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.67,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "木栈桥入口栏杆下有另一块几乎被雪挡住的小标记",
+      "location": "白湾港木栈桥前",
+      "character_names": [
+        "雪团",
+        "沐沐",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "到栈桥前，又有一块矮牌被雪盖了。",
+        "沐沐问，能不能给它也做一个高一点的位置。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "白湾港木栈桥前。平视中景突出人物姿态和相互位置。画面：木栈桥入口栏杆下有另一块几乎被雪挡住的小标记。入镜角色：雪团、沐沐、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.67,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "雪团将临时三角纸板夹在栏杆内侧，沐沐扶住夹子",
+      "location": "白湾港木栈桥前",
+      "character_names": [
+        "雪团",
+        "沐沐"
+      ],
+      "narration_lines": [
+        "他们请值守的朋友帮忙，把三角牌夹到栏上。",
+        "刚好从遮风墙那边也能看见。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "白湾港木栈桥前。近景突出手边动作或道具状态。画面：雪团将临时三角纸板夹在栏杆内侧，沐沐扶住夹子。入镜角色：雪团、沐沐。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.04,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "三位走回几步，回头确认两块三角牌之间的距离",
+      "location": "白湾港木栈桥前",
+      "character_names": [
+        "雪团",
+        "沐沐",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "雪团带大家往回试走了几步。",
+        "沿着两个三角看，雪再白，路也分得清。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "白湾港木栈桥前。侧面中景展示动作方向与相邻环境。画面：三位走回几步，回头确认两块三角牌之间的距离。入镜角色：雪团、沐沐、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.11,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "沐沐为雪团拍掉肩上雪粉，两个朋友望港口灯",
+      "location": "白湾港木栈桥前",
+      "character_names": [
+        "雪团",
+        "沐沐"
+      ],
+      "narration_lines": [
+        "回去前，沐沐给雪团拍掉一点雪。",
+        "雪团说，这两块牌子能替他再等一会儿朋友。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "白湾港木栈桥前。平视中景突出人物姿态和相互位置。画面：沐沐为雪团拍掉肩上雪粉，两个朋友望港口灯。入镜角色：雪团、沐沐。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "两块高低三角标记立在雪路上，木栈桥安稳延伸",
+      "location": "白湾港木栈桥前",
+      "character_names": [],
+      "narration_lines": [
+        "傍晚又落了细雪。",
+        "三角尖还在上面，给经过的人留着一条清楚的路。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "白湾港木栈桥前。竖幅远景交代空间和前后层次。画面：两块高低三角标记立在雪路上，木栈桥安稳延伸。入镜角色：无，仅画环境或道具。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 17.16,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v2剧本与九镜已编写，配音、插画、封面、字幕及视频待制作",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/结构化JSON/ep034.json",
+    "scope": "按用户反馈重写人物互动、故事事件、场景及九镜",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始"
+  }
+}

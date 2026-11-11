@@ -1,0 +1,258 @@
+{
+  "schema_version": 2,
+  "script_version": "v2",
+  "id": "ep076",
+  "episode": 76,
+  "title": "风筝为什么总点头",
+  "cover_title": "风筝点头",
+  "category": "自然",
+  "theme": "一起改变一件事再看看结果",
+  "setting": "榛子坡开阔草场、草场的树下修整毯",
+  "viewpoint_character": "斑斑",
+  "guest": "斑斑、团团",
+  "character_names": [
+    "斑斑",
+    "皮皮",
+    "团团"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "按晓晓-35%实际口播、停顿和约8秒尾声确定",
+  "cn_characters": 259,
+  "initial_duration_budget_s": 104.01,
+  "shots": [
+    {
+      "id": 1,
+      "title": "开阔草场上斑斑握线，皮皮与团团看低飞风筝",
+      "location": "榛子坡开阔草场",
+      "character_names": [
+        "斑斑",
+        "皮皮",
+        "团团"
+      ],
+      "narration_lines": [
+        "斑斑第一次放自己做的风筝。",
+        "它刚升起来，就朝草尖点个头，怎么也飞不远。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "榛子坡开阔草场。竖幅远景交代空间和前后层次。画面：开阔草场上斑斑握线，皮皮与团团看低飞风筝。入镜角色：斑斑、皮皮、团团。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.04,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "斑斑手上风筝尾带有两侧长短不一的纸片",
+      "location": "榛子坡开阔草场",
+      "character_names": [
+        "斑斑"
+      ],
+      "narration_lines": [
+        "斑斑以为风不够。",
+        "皮皮看看旁边的草，草叶全朝一个方向弯着，风还在。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "榛子坡开阔草场。近景突出手边动作或道具状态。画面：斑斑手上风筝尾带有两侧长短不一的纸片。入镜角色：斑斑。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.42,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "树下毯铺着风筝，团团指左尾，皮皮留出右边完整尾带",
+      "location": "草场的树下修整毯",
+      "character_names": [
+        "斑斑",
+        "皮皮",
+        "团团"
+      ],
+      "narration_lines": [
+        "他们把风筝收下来。",
+        "团团发现尾带一头长、一头短，长的那头缠了一团纸。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "俯视呈现平面上的物件和路线",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "草场的树下修整毯。俯视呈现平面上的物件和路线。画面：树下毯铺着风筝，团团指左尾，皮皮留出右边完整尾带。入镜角色：斑斑、皮皮、团团。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "团团从左尾取下缠纸，斑斑扶稳风筝腹面",
+      "location": "草场的树下修整毯",
+      "character_names": [
+        "团团"
+      ],
+      "narration_lines": [
+        "团团想把两边都剪短。",
+        "斑斑说，先只解掉这一团，飞一次看看。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "草场的树下修整毯。近景突出手边动作或道具状态。画面：团团从左尾取下缠纸，斑斑扶稳风筝腹面。入镜角色：团团。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 9.17,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "草场上斑斑和皮皮保持间距，团团远处望起飞角度",
+      "location": "榛子坡开阔草场",
+      "character_names": [
+        "斑斑",
+        "皮皮",
+        "团团"
+      ],
+      "narration_lines": [
+        "再放的时候，风筝先歪了歪，接着飞平了。",
+        "团团说，他这次只看见它点了一个小头。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "榛子坡开阔草场。侧面中景展示动作方向与相邻环境。画面：草场上斑斑和皮皮保持间距，团团远处望起飞角度。入镜角色：斑斑、皮皮、团团。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.67,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "从斑斑肩后见风筝在柔和天色中飞平",
+      "location": "榛子坡开阔草场",
+      "character_names": [
+        "斑斑",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "皮皮问还要不要把尾带剪短。",
+        "斑斑看着它飞了一圈，说今天这样就很好。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "越肩构图同时看见观察者与目标",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "榛子坡开阔草场。越肩构图同时看见观察者与目标。画面：从斑斑肩后见风筝在柔和天色中飞平。入镜角色：斑斑、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "三位回到毯边收线，斑斑将缠下来的纸放进工具袋",
+      "location": "草场的树下修整毯",
+      "character_names": [
+        "斑斑",
+        "皮皮",
+        "团团"
+      ],
+      "narration_lines": [
+        "玩够了，他们把线一点一点收好。",
+        "那团纸没有扔在草地上，斑斑把它收进了小袋。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "草场的树下修整毯。平视中景突出人物姿态和相互位置。画面：三位回到毯边收线，斑斑将缠下来的纸放进工具袋。入镜角色：斑斑、皮皮、团团。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.67,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "三位在修整毯上收卷完整尾带，团团扶线，风筝平放",
+      "location": "草场的树下修整毯",
+      "character_names": [
+        "斑斑",
+        "皮皮",
+        "团团"
+      ],
+      "narration_lines": [
+        "团团摸了摸长尾带，没再去剪它。",
+        "斑斑把尾带顺着一侧卷起来，递给团团帮他扶住。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "俯视呈现平面上的物件和路线",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "草场的树下修整毯。俯视呈现平面上的物件和路线。画面：三位在修整毯上收卷完整尾带，团团扶线，风筝平放。入镜角色：斑斑、皮皮、团团。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.98,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "草场没有风筝了，几排草叶仍向同一个方向",
+      "location": "榛子坡开阔草场",
+      "character_names": [],
+      "narration_lines": [
+        "风还没停。",
+        "斑斑抱着风筝走远，草叶替它又点了一次头。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "环境留白为主，关键物件或人物位于上部",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "榛子坡开阔草场。环境留白为主，关键物件或人物位于上部。画面：草场没有风筝了，几排草叶仍向同一个方向。入镜角色：无，仅画环境或道具。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 15.6,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v2剧本与九镜已编写，配音、插画、封面、字幕及视频待制作",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/结构化JSON/ep076.json",
+    "scope": "按用户反馈重写人物互动、故事事件、场景及九镜",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始"
+  }
+}

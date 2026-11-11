@@ -1,0 +1,95 @@
+{
+  "schema_version": 3,
+  "script_version": "v4",
+  "id": "ep051",
+  "episode": 51,
+  "title": "种子睡在泥土里",
+  "theme": "把照顾做好后安心等待",
+  "language": "zh-CN",
+  "production_scope": "adopted_user_long_script",
+  "status": "copyedited_media_not_started",
+  "narration_paragraphs": [
+    {
+      "id": "p001",
+      "text": "漫长的冬天终于过去，森林里的冰雪融化了，迎来了生机勃勃的春天。\n今天在森林学堂的自然课上，山羊老师给每个小朋友发了一粒圆滚滚、褐色的向日葵种子，让大家带回家种在花盆里，观察春天的生长。"
+    },
+    {
+      "id": "p002",
+      "text": "皮皮一路小心翼翼地把种子护在手心里带回了家。\n他在门廊下找来一只透气性最好的红陶小花盆，装进他和小鼹鼠点点一起去森林边缘挖来的、最松软肥沃的黑泥土。"
+    },
+    {
+      "id": "p003",
+      "text": "皮皮用小木铲在花盆正中间，轻轻挖了一个浅浅的小土坑。那个小土坑不大不小，周围的泥土被拨得松松软软的，就像一个专门为种子宝宝定制的小被窝。\n皮皮屏住呼吸，把向日葵种子平平地放进小坑里，然后再用小爪子把旁边的细土轻轻拢过来，像盖被子一样盖好；最后，他拿起细嘴小水壶，沿着花盆转了一圈，添了一点点清澈的溪水。"
+    },
+    {
+      "id": "p004",
+      "text": "晶莹的水珠慢慢地渗进黑泥土里，把土壤润得深深的，表面没有留下一点儿积水的小水坑。\n种好之后，皮皮双手托着腮帮子，蹲在花盆前等了一会儿。一分钟过去了，五分钟过去了……红陶花盆的表面还是刚才那副平平静静的样子，连一丁点儿绿色的影子都没有冒出来。"
+    },
+    {
+      "id": "p005",
+      "text": "皮皮心里有点儿痒痒的，他伸出一根小手指，差点儿想把刚盖好的泥土拨开一条缝，看看里面的种子到底有没有开始发芽。\n可就在指尖快要碰到泥土时，皮皮把小爪子收了回来。他想起山羊老师说过的话：“种子在发芽之前，需要先在黑暗温暖的泥土里，安安静静地睡上好几个饱觉呢。如果总去掀它的被子，它就睡不好、长不高啦。”"
+    },
+    {
+      "id": "p006",
+      "text": "是呀，泥土已经松好了，水也已经浇透了，种子已经被照顾得妥妥当当，根本不用再挖出来确认了。\n皮皮找来一张硬卡纸，在上面画了一颗小小的种子和一片绿叶，贴在花盆侧面，用来记住今天这个美好的开始；然后把花盆稳稳地搬到了卧室向阳的窗台上。"
+    },
+    {
+      "id": "p007",
+      "text": "窗外的天色慢慢变暗，花盆里的种子没有急着在今晚就长高，屋里的小兔子，也不用焦急地守在窗边干等了。\n皮皮回到床上，拉好暖黄色的毛毯。你看，向日葵种子有松软湿润的黑泥土当被窝，而皮皮有蓬松温暖的黄毛毯当被窝。"
+    },
+    {
+      "id": "p008",
+      "text": "长耳朵放松下来，眼睛轻轻闭好。今晚，种子和小兔子都可以在各自最安全的地方，美美地睡上一觉。\n小朋友，今天你已经认真做好的事情，就放心地让它慢慢生长吧。现在，不需要再操心啦，先照顾好你自己的睡眠，晚安。"
+    }
+  ],
+  "cn_characters": 812,
+  "narration_sha256": "7169c1fc3f6b8b10ba6b2bfa1d6bc7660e2a511f08429acf922d8823fb1369a3",
+  "source": {
+    "path": "/Users/ww/Downloads/100集睡前故事合集.md",
+    "sha256": "3feafa137e94824baccf8b6e3f3f24bac3e97714b2e201fcc48d461d8969c302",
+    "original_narration_sha256": "7169c1fc3f6b8b10ba6b2bfa1d6bc7660e2a511f08429acf922d8823fb1369a3",
+    "original_paragraph_count": 8
+  },
+  "revision_record": [],
+  "duration_policy": {
+    "basis": "complete_narration_at_current_voice_settings",
+    "limit_s": null,
+    "delete_for_duration": false,
+    "time_stretch": false
+  },
+  "voice": {
+    "config": "03_素材与参数/配音与声音参数.json",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000
+  },
+  "actual_duration_s": null,
+  "character_registry": "03_素材与参数/用户长稿v4角色图库.json",
+  "storyboard": {
+    "status": "not_started",
+    "shots": [],
+    "timing_basis": "actual_audio",
+    "preferred_hold_s": [
+      8,
+      10
+    ],
+    "review_above_s": 15,
+    "short_action_hold_s": [
+      3,
+      5
+    ]
+  },
+  "material_state": {
+    "voice": "not_started",
+    "character_references": "not_generated",
+    "illustrations": "not_started",
+    "cover": "not_started",
+    "pinyin_review": "not_started",
+    "render": "not_started",
+    "technical_check": "not_started",
+    "human_watch": "not_started",
+    "user_acceptance": "not_recorded"
+  }
+}

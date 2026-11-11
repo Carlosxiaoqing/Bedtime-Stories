@@ -1,0 +1,99 @@
+{
+  "schema_version": 3,
+  "script_version": "v4",
+  "id": "ep008",
+  "episode": 8,
+  "title": "胡萝卜玩偶的小床",
+  "theme": "照顾别人时也照顾自己",
+  "language": "zh-CN",
+  "production_scope": "adopted_user_long_script",
+  "status": "copyedited_media_not_started",
+  "narration_paragraphs": [
+    {
+      "id": "p001",
+      "text": "今天是学堂的“玩具宝贝日”，每个小朋友都可以带一个自己最心爱的玩偶去学校，学会怎么当一个会照顾人的小主人。\n皮皮把他的胡萝卜玩偶装进小书包，小心地露出一截绿色的叶子头，一路护送到了树洞教室。"
+    },
+    {
+      "id": "p002",
+      "text": "教室里可真热闹呀！小刺猬栗栗带了一只布缝的小苹果，小鼹鼠点点带了一只毛绒小铲子。\n到了中午玩“过家家”的时候，皮皮特别认真地照顾胡萝卜玩偶。他把自己的小围兜解下来给玩偶当披风，又把自己坐的小垫子让了一大半给玩偶躺着，自己只用半个小屁股悬在木头凳子边上。"
+    },
+    {
+      "id": "p003",
+      "text": "山羊老师走过来，看见皮皮坐得歪歪扭扭的，便温柔地笑了：“皮皮，你把胡萝卜照顾得真好，可是你自己坐得舒服吗？”\n皮皮摸了摸有点发酸的小腿，摇了摇头。"
+    },
+    {
+      "id": "p004",
+      "text": "山羊老师拿来一块软布，铺在皮皮怀里：“你看，让玩偶靠在你怀里，你坐满整个软垫，这样你们两个都能舒舒服服的呀。照顾好朋友的时候，也要先照顾好自己呢。”\n皮皮试了试，哇，果然又稳当又暖和！"
+    },
+    {
+      "id": "p005",
+      "text": "放学回到家，到了晚上睡觉的时间，皮皮还记着白天照顾玩偶的快乐。\n他给胡萝卜玩偶找来一块干净的小方巾，想在自己的大枕头旁边，替它单独铺一张神气的小床。"
+    },
+    {
+      "id": "p006",
+      "text": "皮皮把方巾折得方方正正，用小爪子轻轻压平两个角，让玩偶躺上去。玩偶的绿叶子朝着窗户，圆圆的身体刚好靠住枕边。\n皮皮看了又看，觉得玩偶可能还会冷，就把自己的暖黄毛毯扯过去一大半，给它盖得严严实实。"
+    },
+    {
+      "id": "p007",
+      "text": "这下玩偶有了豪华小床，可皮皮躺下来时却发现，自己的半边被子溜走了，晚风从脖子后面钻进来，有点凉飕飕的。\n皮皮想起了白天山羊老师说的话。他没有再去柜子里找新毯子，而是把胡萝卜玩偶轻轻挪近了一点，放进自己的臂弯里，让暖暖的大毛毯，同时盖住他们两个。"
+    },
+    {
+      "id": "p008",
+      "text": "那块小方巾变成了玩偶的专属小枕头。胡萝卜贴着皮皮温热的爪心，谁也不用躺得远远的，两个人都暖烘烘的。\n皮皮安稳地靠好，嘴角轻轻弯着。忙着照顾玩偶了一整天的小爪子，终于也可以休息了。"
+    },
+    {
+      "id": "p009",
+      "text": "小朋友，今晚睡觉的时候，给自己也留一份满满的舒服吧。\n你和身边喜欢的小伙伴，都可以窝在暖暖的被子里，好好歇着。晚安。"
+    }
+  ],
+  "cn_characters": 735,
+  "narration_sha256": "ddd9e8c4e3c0d0157a22c81fc7547f03d0dbe729084f0855de8198c5dafda481",
+  "source": {
+    "path": "/Users/ww/Downloads/100集睡前故事合集.md",
+    "sha256": "3feafa137e94824baccf8b6e3f3f24bac3e97714b2e201fcc48d461d8969c302",
+    "original_narration_sha256": "ddd9e8c4e3c0d0157a22c81fc7547f03d0dbe729084f0855de8198c5dafda481",
+    "original_paragraph_count": 9
+  },
+  "revision_record": [],
+  "duration_policy": {
+    "basis": "complete_narration_at_current_voice_settings",
+    "limit_s": null,
+    "delete_for_duration": false,
+    "time_stretch": false
+  },
+  "voice": {
+    "config": "03_素材与参数/配音与声音参数.json",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000
+  },
+  "actual_duration_s": null,
+  "character_registry": "03_素材与参数/用户长稿v4角色图库.json",
+  "storyboard": {
+    "status": "not_started",
+    "shots": [],
+    "timing_basis": "actual_audio",
+    "preferred_hold_s": [
+      8,
+      10
+    ],
+    "review_above_s": 15,
+    "short_action_hold_s": [
+      3,
+      5
+    ]
+  },
+  "material_state": {
+    "voice": "not_started",
+    "character_references": "not_generated",
+    "illustrations": "not_started",
+    "cover": "not_started",
+    "pinyin_review": "not_started",
+    "render": "not_started",
+    "technical_check": "not_started",
+    "human_watch": "not_started",
+    "user_acceptance": "not_recorded"
+  }
+}

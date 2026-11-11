@@ -1,0 +1,254 @@
+{
+  "schema_version": 2,
+  "script_version": "v2",
+  "id": "ep041",
+  "episode": 41,
+  "title": "斑斑想换一个游戏",
+  "cover_title": "换个游戏",
+  "category": "学校",
+  "theme": "表达不同意见也能继续做朋友",
+  "setting": "榆树学校操场边、操场的沙包区",
+  "viewpoint_character": "斑斑",
+  "guest": "斑斑、朵朵",
+  "character_names": [
+    "斑斑",
+    "皮皮",
+    "朵朵"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "按晓晓-35%实际口播、停顿和约8秒尾声确定",
+  "cn_characters": 262,
+  "initial_duration_budget_s": 104.23,
+  "shots": [
+    {
+      "id": 1,
+      "title": "斑斑和皮皮、朵朵在操场边，地上有圆圈和直线",
+      "location": "榆树学校操场边",
+      "character_names": [
+        "斑斑",
+        "皮皮",
+        "朵朵"
+      ],
+      "narration_lines": [
+        "课间，皮皮提议追着圆圈跑。",
+        "斑斑陪跑了两趟，就坐到了沙包筐旁边。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校操场边。竖幅远景交代空间和前后层次。画面：斑斑和皮皮、朵朵在操场边，地上有圆圈和直线。入镜角色：斑斑、皮皮、朵朵。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.11,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "皮皮在圆圈边招手，斑斑手还搭在沙包上",
+      "location": "榆树学校操场边",
+      "character_names": [
+        "斑斑",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "皮皮以为他跑累了，停下来等。",
+        "斑斑搓了搓沙包角，说今天想玩不用一直跑的。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校操场边。平视中景突出人物姿态和相互位置。画面：皮皮在圆圈边招手，斑斑手还搭在沙包上。入镜角色：斑斑、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "朵朵从沙包筐里挑出一只小沙包",
+      "location": "榆树学校操场边",
+      "character_names": [
+        "朵朵"
+      ],
+      "narration_lines": [
+        "朵朵捡起一只沙包。",
+        "“我也想试试投进去。可刚才看你们跑得开心，就没说。”"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校操场边。近景突出手边动作或道具状态。画面：朵朵从沙包筐里挑出一只小沙包。入镜角色：朵朵。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "沙地画近中远三道圈，三个伙伴分别试距离",
+      "location": "操场的沙包区",
+      "character_names": [
+        "斑斑",
+        "皮皮",
+        "朵朵"
+      ],
+      "narration_lines": [
+        "斑斑画了三个圈。",
+        "想跑的从远处送包过来，想投的，就站在最近那条线。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "俯视呈现平面上的物件和路线",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "操场的沙包区。俯视呈现平面上的物件和路线。画面：沙地画近中远三道圈，三个伙伴分别试距离。入镜角色：斑斑、皮皮、朵朵。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.42,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "皮皮从远线送沙包，斑斑在近线等他停稳",
+      "location": "操场的沙包区",
+      "character_names": [
+        "斑斑",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "皮皮从远处送来第一只。",
+        "等他站稳，斑斑接过去，投到了离自己最近的圈里。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "操场的沙包区。侧面中景展示动作方向与相邻环境。画面：皮皮从远线送沙包，斑斑在近线等他停稳。入镜角色：斑斑、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.04,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "朵朵举起沙包瞄准中间圈，第一只已经在近圈",
+      "location": "操场的沙包区",
+      "character_names": [
+        "朵朵"
+      ],
+      "narration_lines": [
+        "朵朵试中间那圈，第一下没投进。",
+        "斑斑给她指了指脚边，她往前挪了半步。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "操场的沙包区。平视中景突出人物姿态和相互位置。画面：朵朵举起沙包瞄准中间圈，第一只已经在近圈。入镜角色：朵朵。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "两只沙包落在相邻圈内，斑斑与朵朵对望",
+      "location": "操场的沙包区",
+      "character_names": [
+        "斑斑",
+        "朵朵"
+      ],
+      "narration_lines": [
+        "第二下投中了。",
+        "斑斑刚想再来一轮，听到皮皮问：“这回我能在近处投吗？”"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "操场的沙包区。近景突出手边动作或道具状态。画面：两只沙包落在相邻圈内，斑斑与朵朵对望。入镜角色：斑斑、朵朵。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.42,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "三位将筐抬回操场边，一条圆线被留下",
+      "location": "榆树学校操场边",
+      "character_names": [
+        "斑斑",
+        "皮皮",
+        "朵朵"
+      ],
+      "narration_lines": [
+        "当然可以。",
+        "三个人玩到上课铃响，每个人都试过一种刚才没想过的玩法。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校操场边。侧面中景展示动作方向与相邻环境。画面：三位将筐抬回操场边，一条圆线被留下。入镜角色：斑斑、皮皮、朵朵。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "空沙地保留三圈，最远圈有几枚淡脚印",
+      "location": "操场的沙包区",
+      "character_names": [],
+      "narration_lines": [
+        "操场静下来，最远的圈旁留着脚印，最近的圈里有一枚沙包角压出来的小印。"
+      ],
+      "pause_after_s": [
+        8.0
+      ],
+      "camera": "环境留白为主，关键物件或人物位于上部",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "操场的沙包区。环境留白为主，关键物件或人物位于上部。画面：空沙地保留三圈，最远圈有几枚淡脚印。入镜角色：无，仅画环境或道具。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 17.69,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v2剧本与九镜已编写，配音、插画、封面、字幕及视频待制作",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/结构化JSON/ep041.json",
+    "scope": "按用户反馈重写人物互动、故事事件、场景及九镜",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始"
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "text": "小松鼠团团跑得最快，一下子就爬到了坡顶，摇着蓬松的大尾巴喊：“皮皮，快上来呀，这儿能看见你家的屋顶呢！”",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "68b4adf5ba4c9c5aef0c1e34806088bf3921675bb7320211e19d1e62b7626411",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 3653750,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4922910,
+      "duration": 5384580,
+      "text": "松鼠"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10692500,
+      "duration": 5769160,
+      "text": "团团"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16846250,
+      "duration": 2692080,
+      "text": "跑"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19538330,
+      "duration": 1346250,
+      "text": "得"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21077080,
+      "duration": 3076660,
+      "text": "最"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24153750,
+      "duration": 5000000,
+      "text": "快"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33577080,
+      "duration": 8269160,
+      "text": "一下子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 42038330,
+      "duration": 1922910,
+      "text": "就"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 43961660,
+      "duration": 2692080,
+      "text": "爬"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 46653750,
+      "duration": 2307500,
+      "text": "到"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 48961660,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 50307500,
+      "duration": 7692500,
+      "text": "坡顶"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 61653750,
+      "duration": 2884580,
+      "text": "摇"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 64538330,
+      "duration": 1730830,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 66461660,
+      "duration": 5769160,
+      "text": "蓬松"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 72230830,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 73769160,
+      "duration": 7307500,
+      "text": "大尾巴"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 81077080,
+      "duration": 4807500,
+      "text": "喊"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 90500000,
+      "duration": 8461660,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 102230830,
+      "duration": 2692080,
+      "text": "快"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 104922910,
+      "duration": 5769160,
+      "text": "上来"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 110692500,
+      "duration": 3653750,
+      "text": "呀"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 118269160,
+      "duration": 3461660,
+      "text": "这儿"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 121730830,
+      "duration": 1922910,
+      "text": "能"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 123846250,
+      "duration": 5000000,
+      "text": "看见"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 128846250,
+      "duration": 2115410,
+      "text": "你"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 130961660,
+      "duration": 2500000,
+      "text": "家"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 133461660,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 135192500,
+      "duration": 6345830,
+      "text": "屋顶"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 141538330,
+      "duration": 4230830,
+      "text": "呢"
+    }
+  ]
+}

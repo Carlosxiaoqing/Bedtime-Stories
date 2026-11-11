@@ -1,0 +1,33 @@
+{
+  "id": 21,
+  "title": "钻进暖黄被窝",
+  "destination": "/Users/ww/视频/Bedtime-Stories/episodes/ep004/v001/images/shot_21.png",
+  "prompt": "Use case: illustration-story. Asset type: ONE original full-bleed vertical 9:16 watercolor story illustration for one locked narration shot. Use every input according to its explicitly labelled role; preserve the existing named identities, not just their species. Input 1: identity for 皮皮 (pipi), preserve exactly: 暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。 Input 2: clothing only for 皮皮: 换装表右：原深蓝星星睡帽和黄色帽球，保留原兔体型；玩偶和毛毯是另行配置的场景道具。 Input 3: environment layout / watercolor style ONLY. Keep the geography and furnishings, but draw ONLY the requested people and props for this shot, never copy unwanted actors. This is not an image to reuse as the output.\nVisible characters: 皮皮 (pipi). Do not draw extra background animals. Pipi wears ONLY the RIGHT bedtime star cap, navy with pale yellow stars and yellow pompom. No overalls, raincoat, backpack or shoes in bed. Yellow blanket and orange carrot toy with dark green leaves are scene props, not identity changes. Other established outfits: Lili sage-gray vest and pale oatmeal cloth snack satchel; Tuantuan short dark ochre/rust scarf; goat teacher sage cardigan, oatmeal shirt and brown trousers. Only use these if that character is requested. Scene continuity: 夜晚：皮皮木屋卧室，床在左下，木窗在右上，叶纹窗帘，左侧暖灯；皮皮深蓝星星帽、黄帽球，暖黄毛毯、橙色胡萝卜玩偶。重要脸和动作放在上部，底部留字幕低细节区。\nThe SINGLE visual moment and framing: 中远景：皮皮已换星星睡帽坐进小木床被窝，毛毯暖黄，胡萝卜玩偶在枕边尚未抱起。\nStyle: hand-painted gentle watercolor on fine warm paper, muted natural hues, soft edges and rounded shapes, quiet storybook mood, no glossy 3D or photorealism. Daylight scenes use soft greens and warm daylight, not bedroom amber tint. Night scenes use soft warm lamplight and muted gray-blue windows. Composition: full-bleed vertical 9:16. Keep all important faces, hands, feet, biscuits, fabric folds and other story actions in the upper 68% of the image. Bottom 32% is low-detail negative space for later subtitles, with no crucial objects there. Make the specified story state visually understandable. Text: NONE. No words, labels, subtitles, numbers, logos, watermark, speech bubbles, panels, frames or collage. Do not reproduce model sheets, multiple versions of a character, or wardrobe lineups. Each named character appears exactly once. This is a new single coherent scene, not a copy of the references. No motion streaks or implied camera zoom. Never turn a metaphor into a real transformation: yellow blankets remain fabric, imagined grassy softness is not actual grass growing in bed. No new story events. ",
+  "reference_inputs": [
+    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+    "/Users/ww/视频/Bedtime-Stories/episodes/ep001/v005/images/shot_01.png"
+  ],
+  "characters": [
+    "pipi"
+  ],
+  "outfits": {
+    "pipi": "sleep_v001"
+  },
+  "source_ranges": [
+    {
+      "unit_id": "u016",
+      "paragraph_id": "p008",
+      "start_char": 16,
+      "end_char": 31
+    }
+  ],
+  "timing": {
+    "start_s": 165.04,
+    "end_s": 169.88
+  },
+  "source_generated_path": "/Users/ww/.codex/generated_images/01a1c779-b2c5-7591-8e26-7f019d36a778/exec-dc14d6d7-f09b-4ba7-a571-d397f4e1160d.png",
+  "sha256": "438df889f6fe30cd8f1afca44f672117fbce8f77d3726229c0a662f40bec69ba",
+  "provider": "built-in image_gen",
+  "status": "generated_pending_visual_review"
+}

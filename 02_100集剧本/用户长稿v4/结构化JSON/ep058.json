@@ -1,0 +1,95 @@
+{
+  "schema_version": 3,
+  "script_version": "v4",
+  "id": "ep058",
+  "episode": 58,
+  "title": "叶子印的小卡片",
+  "theme": "把表达留在恰好的程度",
+  "language": "zh-CN",
+  "production_scope": "adopted_user_long_script",
+  "status": "copyedited_media_not_started",
+  "narration_paragraphs": [
+    {
+      "id": "p001",
+      "text": "明天是森林学堂里山羊老师的生日，小朋友们商量好，每个人亲手做一张独一无二的小贺卡送给老师。\n今天傍晚放学回家后，皮皮坐在卧室的小书桌前，准备制作他的生日卡片。"
+    },
+    {
+      "id": "p002",
+      "text": "皮皮从院子里捡来了一片形状特别漂亮的三角枫叶，叶背上的叶脉凸起得清清楚楚。他在调色盘里挤了一点温和的草绿色水彩颜料，用小刷子蘸上一点水，轻轻涂在枫叶的背面。\n接着，皮皮把涂好颜色的叶子翻过来，平平地按在一张厚实的米色卡纸左下方，用小爪子轻轻压了压，再小心地揭起来。"
+    },
+    {
+      "id": "p003",
+      "text": "第一道绿色的叶脉印子出现在了卡纸上，因为颜料蘸得少，印子有一点点浅，像笼罩在晨雾里的小树。\n皮皮没有觉得画坏了，他在叶子上稍微添了一点点颜料，在第一道浅印子旁边又轻轻印了一次。这回，一深一浅两片绿色叶影挨在一起，一下子就有了立体的层次感！"
+    },
+    {
+      "id": "p004",
+      "text": "看着这么漂亮的叶子印，皮皮兴致高涨起来。他再次举起枫叶，心里想着：这张卡纸还这么大，我要不要把整张纸从上到下、从左到右，密密麻麻全都印满绿叶子，让老师看到我有多用心呢？\n可是，就在他的小爪子举在半空，低头往下看的时候，他忽然注意到：在左下方那两片绿色叶影的右上方，留着一大块干干净净、米白色的卡纸空白。"
+    },
+    {
+      "id": "p005",
+      "text": "在柔和的床头灯光下，那一大块空白就像一片宁静的阳光草地，衬得左下角的两片绿叶格外清新、格外显眼。如果把空白全都印满，这两片好不容易印出来的叶子，反而要被淹没在乱糟糟的颜色里了。\n皮皮立刻停下了举着叶子的小爪子。他放下枫叶，只拿起一支细细的棕色画笔，在那块好看的空白边缘，画了一座小小的、屋顶弯弯的树洞教室。"
+    },
+    {
+      "id": "p006",
+      "text": "两片绿叶守在树洞教室门前，上面是开阔又明亮的空白天空。\n这张小卡片，明天送给山羊老师刚刚好！原来，根本不用在纸上添满密密麻麻的颜色，也不用写满挤挤挨挨的字，恰到好处地停下来，里面就已经装满了最真诚的心意。"
+    },
+    {
+      "id": "p007",
+      "text": "皮皮高高兴兴地去洗手间洗净小爪子上的颜料，把那片立了功的枫叶擦干净放回花盆旁，而那张印好的小卡片，则安安静静地平放在书桌上晾干。\n爬上床，皮皮盖好暖黄色的毛毯，抱住胡萝卜玩偶。今晚，想要对老师表达的祝福，已经有了一个既柔软又体面的地方。"
+    },
+    {
+      "id": "p008",
+      "text": "他闭上眼睛，脑海里还留着小卡片上那座小屋旁，那一大块干干净净、让人心里无比敞亮的空白。\n小朋友，今天认真做过的小事情，做到刚刚好的程度就可以先放下啦。在心里也留出一点干净的空白和安静，陪自己香甜地睡觉吧。晚安。"
+    }
+  ],
+  "cn_characters": 867,
+  "narration_sha256": "832bb112b37bc809546fda2304eb2c8df72db8ebe7477f75594f02e3a45c8267",
+  "source": {
+    "path": "/Users/ww/Downloads/100集睡前故事合集.md",
+    "sha256": "3feafa137e94824baccf8b6e3f3f24bac3e97714b2e201fcc48d461d8969c302",
+    "original_narration_sha256": "832bb112b37bc809546fda2304eb2c8df72db8ebe7477f75594f02e3a45c8267",
+    "original_paragraph_count": 8
+  },
+  "revision_record": [],
+  "duration_policy": {
+    "basis": "complete_narration_at_current_voice_settings",
+    "limit_s": null,
+    "delete_for_duration": false,
+    "time_stretch": false
+  },
+  "voice": {
+    "config": "03_素材与参数/配音与声音参数.json",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000
+  },
+  "actual_duration_s": null,
+  "character_registry": "03_素材与参数/用户长稿v4角色图库.json",
+  "storyboard": {
+    "status": "not_started",
+    "shots": [],
+    "timing_basis": "actual_audio",
+    "preferred_hold_s": [
+      8,
+      10
+    ],
+    "review_above_s": 15,
+    "short_action_hold_s": [
+      3,
+      5
+    ]
+  },
+  "material_state": {
+    "voice": "not_started",
+    "character_references": "not_generated",
+    "illustrations": "not_started",
+    "cover": "not_started",
+    "pinyin_review": "not_started",
+    "render": "not_started",
+    "technical_check": "not_started",
+    "human_watch": "not_started",
+    "user_acceptance": "not_recorded"
+  }
+}

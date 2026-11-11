@@ -1,0 +1,99 @@
+{
+  "schema_version": 3,
+  "script_version": "v4",
+  "id": "ep017",
+  "episode": 17,
+  "title": "小獾送来的叶子信",
+  "theme": "温柔的话可以慢慢读",
+  "language": "zh-CN",
+  "production_scope": "adopted_user_long_script",
+  "status": "copyedited_media_not_started",
+  "narration_paragraphs": [
+    {
+      "id": "p001",
+      "text": "昨天在学堂的积木课上，小獾灰灰不小心把自己搭了很久的木头城堡碰倒了。\n灰灰是个平时不爱说话的小家伙，看着满地的积木，他难过得缩在教室角落里，耳朵都垂了下来。"
+    },
+    {
+      "id": "p002",
+      "text": "那时候，皮皮没有去催他重新搭，也没有大声安慰他，只是倒了一小杯温水放在灰灰手边，然后安安静静地坐在他旁边，陪他一起把积木一块一块捡回盒子里，陪了他好久好久。"
+    },
+    {
+      "id": "p003",
+      "text": "今天傍晚，皮皮刚吃过晚饭，就听见门外传来两声轻轻的敲门声：“笃、笃。”\n皮皮打开小木门一看，小獾灰灰已经害羞地跑到篱笆外面去了，只留下一片宽宽的、用红枫叶做成的“叶子信”，平平地放在门口的台阶上。"
+    },
+    {
+      "id": "p004",
+      "text": "皮皮捡起那片叶子信走回屋里。只见厚实的叶面上，灰灰用削尖的炭笔，认认真真地画了两只挨在一起的小水杯，水杯上面还画了一颗小小的爱心。\n虽然没有写一个字，但皮皮一下子就读懂了——灰灰是在说：“谢谢你昨天陪我坐了那么久。”"
+    },
+    {
+      "id": "p005",
+      "text": "皮皮心里暖洋洋的。他想马上找出画纸和蜡笔，也给灰灰画一封长长的回信送过去。\n可是他看了看窗外，月亮已经爬上了树梢，森林里的小路黑漆漆的；而且手里的枫叶信，因为被晚风吹过，叶角稍微有一点点向上卷了起来。"
+    },
+    {
+      "id": "p006",
+      "text": "皮皮停下了找笔的动作。他先把这片珍贵的叶子信捧到床头，轻轻压在一本厚厚的图画书下面。\n过了一小会儿，他打开书一看，卷起来的叶角已经慢慢舒展开了，在暖黄色的床头灯光下，露出一条条细细的、清晰的叶脉，就像一条通向好朋友家的小路。"
+    },
+    {
+      "id": "p007",
+      "text": "皮皮沿着那条叶脉小路静静地看了一会儿，脑海里又浮现出昨天两只小水杯挨在一起的温暖样子。\n他把舒展好的叶子信平放在床头柜上。回信可以留到明天早上到了学校再当面送给灰灰，而这份沉甸甸的“谢谢”，今晚他已经稳稳地收到了。"
+    },
+    {
+      "id": "p008",
+      "text": "窗灯照着红枫叶的边缘，暖融融的。好朋友之间，哪怕没有再添上一大段热闹的话，也让人觉得无比亲近和安心。\n皮皮把小爪子放进温暖的被窝，轻轻闭上眼睛。朋友的小心意，正安安静静地留在枕边陪着他呢。"
+    },
+    {
+      "id": "p009",
+      "text": "小朋友，温柔的话和温暖的心意，不需要一下子全部说完。让它们在你的心里安安静静地坐一会儿，陪你进入甜甜的梦乡吧。晚安。"
+    }
+  ],
+  "cn_characters": 745,
+  "narration_sha256": "0339d1f0492efb0829a40ea9f766a4d02bedb87eb4ee5c131ba47f24b0a790bf",
+  "source": {
+    "path": "/Users/ww/Downloads/100集睡前故事合集.md",
+    "sha256": "3feafa137e94824baccf8b6e3f3f24bac3e97714b2e201fcc48d461d8969c302",
+    "original_narration_sha256": "0339d1f0492efb0829a40ea9f766a4d02bedb87eb4ee5c131ba47f24b0a790bf",
+    "original_paragraph_count": 9
+  },
+  "revision_record": [],
+  "duration_policy": {
+    "basis": "complete_narration_at_current_voice_settings",
+    "limit_s": null,
+    "delete_for_duration": false,
+    "time_stretch": false
+  },
+  "voice": {
+    "config": "03_素材与参数/配音与声音参数.json",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000
+  },
+  "actual_duration_s": null,
+  "character_registry": "03_素材与参数/用户长稿v4角色图库.json",
+  "storyboard": {
+    "status": "not_started",
+    "shots": [],
+    "timing_basis": "actual_audio",
+    "preferred_hold_s": [
+      8,
+      10
+    ],
+    "review_above_s": 15,
+    "short_action_hold_s": [
+      3,
+      5
+    ]
+  },
+  "material_state": {
+    "voice": "not_started",
+    "character_references": "not_generated",
+    "illustrations": "not_started",
+    "cover": "not_started",
+    "pinyin_review": "not_started",
+    "render": "not_started",
+    "technical_check": "not_started",
+    "human_watch": "not_started",
+    "user_acceptance": "not_recorded"
+  }
+}

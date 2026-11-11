@@ -1,0 +1,156 @@
+{
+  "duration_s": 101.2,
+  "fps": 25,
+  "lines": [
+    {
+      "line": 1,
+      "shot": 1,
+      "text": "睡前，皮皮把小枕头拍了拍，枕面鼓起一个软软的小包，像朵小云。",
+      "start_s": 1.0,
+      "end_s": 10.332833333333333,
+      "pause_after_s": 0.95,
+      "source": "audio/source/line_01.mp3",
+      "source_trim_start_s": 0.15835416666666666
+    },
+    {
+      "line": 2,
+      "shot": 2,
+      "text": "他把一只耳朵放上去，云朵有点高；换个方向，又有一点点低。",
+      "start_s": 11.282833333333333,
+      "end_s": 19.395104166666666,
+      "pause_after_s": 0.95,
+      "source": "audio/source/line_02.mp3",
+      "source_trim_start_s": 0.15133333333333332
+    },
+    {
+      "line": 3,
+      "shot": 3,
+      "text": "皮皮没有急着躺好。",
+      "start_s": 20.345104166666665,
+      "end_s": 22.853416666666664,
+      "pause_after_s": 0.72,
+      "source": "audio/source/line_03.mp3",
+      "source_trim_start_s": 0.1506875
+    },
+    {
+      "line": 4,
+      "shot": 3,
+      "text": "他把枕头转了半圈，慢慢拨松里面的棉絮。",
+      "start_s": 23.573416666666667,
+      "end_s": 29.2059375,
+      "pause_after_s": 0.95,
+      "source": "audio/source/line_04.mp3",
+      "source_trim_start_s": 0.16529166666666667
+    },
+    {
+      "line": 5,
+      "shot": 4,
+      "text": "窗外飘过一朵真正的云，也在月亮旁边，轻轻换了个位置。",
+      "start_s": 30.1559375,
+      "end_s": 37.661812499999996,
+      "pause_after_s": 0.95,
+      "source": "audio/source/line_05.mp3",
+      "source_trim_start_s": 0.15158333333333332
+    },
+    {
+      "line": 6,
+      "shot": 5,
+      "text": "皮皮看着它笑了。",
+      "start_s": 38.6118125,
+      "end_s": 40.8235625,
+      "pause_after_s": 0.72,
+      "source": "audio/source/line_06.mp3",
+      "source_trim_start_s": 0.15227083333333333
+    },
+    {
+      "line": 7,
+      "shot": 5,
+      "text": "原来，小云朵也会慢慢找，一个合适的地方。",
+      "start_s": 41.5435625,
+      "end_s": 47.58354166666667,
+      "pause_after_s": 0.95,
+      "source": "audio/source/line_07.mp3",
+      "source_trim_start_s": 0.14964583333333334
+    },
+    {
+      "line": 8,
+      "shot": 6,
+      "text": "他把枕头往里挪一点，让长耳朵自然垂下，小脑袋也稳稳地靠住。",
+      "start_s": 48.533541666666665,
+      "end_s": 57.30789583333333,
+      "pause_after_s": 0.95,
+      "source": "audio/source/line_08.mp3",
+      "source_trim_start_s": 0.15595833333333334
+    },
+    {
+      "line": 9,
+      "shot": 7,
+      "text": "这回，不高，也不低。",
+      "start_s": 58.25789583333333,
+      "end_s": 61.48320833333333,
+      "pause_after_s": 0.72,
+      "source": "audio/source/line_09.mp3",
+      "source_trim_start_s": 0.15775
+    },
+    {
+      "line": 10,
+      "shot": 7,
+      "text": "小枕头轻轻托着他，像接住一片落下的叶子。",
+      "start_s": 62.20320833333333,
+      "end_s": 68.15470833333333,
+      "pause_after_s": 0.95,
+      "source": "audio/source/line_10.mp3",
+      "source_trim_start_s": 0.13129166666666667
+    },
+    {
+      "line": 11,
+      "shot": 8,
+      "text": "皮皮闭上眼睛，把爪子放松。",
+      "start_s": 69.10470833333333,
+      "end_s": 73.11285416666666,
+      "pause_after_s": 1.1,
+      "source": "audio/source/line_11.mp3",
+      "source_trim_start_s": 0.154375
+    },
+    {
+      "line": 12,
+      "shot": 8,
+      "text": "窗外的云走远了，枕边的小云留下来。",
+      "start_s": 74.21285416666667,
+      "end_s": 79.15343750000001,
+      "pause_after_s": 1.1,
+      "source": "audio/source/line_12.mp3",
+      "source_trim_start_s": 0.15195833333333333
+    },
+    {
+      "line": 13,
+      "shot": 9,
+      "text": "小朋友，你也可以慢慢找到，自己的舒服。",
+      "start_s": 80.2534375,
+      "end_s": 85.84085416666667,
+      "pause_after_s": 1.1,
+      "source": "audio/source/line_13.mp3",
+      "source_trim_start_s": 0.13616666666666666
+    },
+    {
+      "line": 14,
+      "shot": 9,
+      "text": "枕头已经等好了。",
+      "start_s": 86.94085416666667,
+      "end_s": 89.14664583333334,
+      "pause_after_s": 1.1,
+      "source": "audio/source/line_14.mp3",
+      "source_trim_start_s": 0.15477083333333333
+    },
+    {
+      "line": 15,
+      "shot": 9,
+      "text": "晚安，做个软软的梦。",
+      "start_s": 90.24664583333333,
+      "end_s": 93.1791875,
+      "pause_after_s": 8.0,
+      "source": "audio/source/line_15.mp3",
+      "source_trim_start_s": 0.15241666666666667
+    }
+  ]
+}

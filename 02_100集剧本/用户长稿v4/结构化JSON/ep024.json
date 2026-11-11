@@ -1,0 +1,99 @@
+{
+  "schema_version": 3,
+  "script_version": "v4",
+  "id": "ep024",
+  "episode": 24,
+  "title": "露珠的小小座位",
+  "theme": "为细小的事物留一点空间",
+  "language": "zh-CN",
+  "production_scope": "adopted_user_long_script",
+  "status": "copyedited_media_not_started",
+  "narration_paragraphs": [
+    {
+      "id": "p001",
+      "text": "皮皮现在是个细心的小园丁了。森林学堂窗台上的那盆圆叶椒草，经过他和小鹿芽芽一个星期的轮流照顾，长得绿油油的，叶片又厚又亮。\n今天放学时，山羊老师让皮皮把花盆抱回家度周末，等星期一再带回学校。"
+    },
+    {
+      "id": "p002",
+      "text": "傍晚回到小木屋，皮皮把花盆稳稳地搬到了卧室的窗台上。\n吃过晚饭，皮皮拿来一块干净的小方布巾，想在睡前像平时擦桌子那样，把每一片绿叶子都擦拭一遍。"
+    },
+    {
+      "id": "p003",
+      "text": "当他伸出爪子，正要碰触最上面那片舒展的圆叶子时，皮皮忽然停住了。\n他低头仔细一看，发现在那片叶子的边缘，有一颗圆滚滚、亮晶晶的小露珠，正紧紧贴着细细的叶脉坐着呢。"
+    },
+    {
+      "id": "p004",
+      "text": "更神奇的是，那颗小小的露珠就像一面袖珍小圆镜，正好把屋里暖黄色的床头灯映在了里面，闪着一点温暖的星光。\n皮皮心想：如果我现在用布巾去擦叶子，这颗好不容易坐稳的小露珠，不就被我擦没了吗？"
+    },
+    {
+      "id": "p005",
+      "text": "于是，皮皮轻轻收回了手里的方布巾。不仅如此，他还发现窗户边上的叶子花窗帘，每次被夜风吹动时，帘角都会扫到花盆的叶子。\n皮皮便双手抱起小花盆，把它往窗台内侧轻轻挪了一小段距离，给花盆和窗帘之间留出了一道宽宽的空隙。"
+    },
+    {
+      "id": "p006",
+      "text": "这样一来，绿叶子可以自在地舒展开来，那颗亮晶晶的小露珠也没有滚走。原来，它今晚的专属小座位，就在这片叶脉上呀。\n夜风再次从窗外经过，窗帘角轻轻摇晃着，再也没有拂到那片柔软的叶子。"
+    },
+    {
+      "id": "p007",
+      "text": "皮皮把小方布巾叠得整整齐齐，放回床头的小竹篮里。他懂得了一个新道理：有些微小又美好的事物，不需要我们去过多地摆弄它，只要远远地照看一下，给它留出一点点安静的空间，就足够了。"
+    },
+    {
+      "id": "p008",
+      "text": "皮皮爬上自己的小木床，在躺下的时候，也特意把枕头拍松，给自己的两只长耳朵留出了一点不会被挤到的宽敞位置。\n月光很安静，窗台上的花盆也很安静。皮皮抱着胡萝卜玩偶，慢慢闭上了眼睛。"
+    },
+    {
+      "id": "p009",
+      "text": "小朋友，今晚睡觉的时候，也给自己的身体留一点舒服、宽松的空间吧。不用把自己蜷得紧紧的，舒展小手和小脚，安心入睡吧，晚安。"
+    }
+  ],
+  "cn_characters": 690,
+  "narration_sha256": "0bb5f15b5f042b6bd601f9ed98975d309a8bca7a50f15eb91c2d4d5405d12976",
+  "source": {
+    "path": "/Users/ww/Downloads/100集睡前故事合集.md",
+    "sha256": "3feafa137e94824baccf8b6e3f3f24bac3e97714b2e201fcc48d461d8969c302",
+    "original_narration_sha256": "0bb5f15b5f042b6bd601f9ed98975d309a8bca7a50f15eb91c2d4d5405d12976",
+    "original_paragraph_count": 9
+  },
+  "revision_record": [],
+  "duration_policy": {
+    "basis": "complete_narration_at_current_voice_settings",
+    "limit_s": null,
+    "delete_for_duration": false,
+    "time_stretch": false
+  },
+  "voice": {
+    "config": "03_素材与参数/配音与声音参数.json",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000
+  },
+  "actual_duration_s": null,
+  "character_registry": "03_素材与参数/用户长稿v4角色图库.json",
+  "storyboard": {
+    "status": "not_started",
+    "shots": [],
+    "timing_basis": "actual_audio",
+    "preferred_hold_s": [
+      8,
+      10
+    ],
+    "review_above_s": 15,
+    "short_action_hold_s": [
+      3,
+      5
+    ]
+  },
+  "material_state": {
+    "voice": "not_started",
+    "character_references": "not_generated",
+    "illustrations": "not_started",
+    "cover": "not_started",
+    "pinyin_review": "not_started",
+    "render": "not_started",
+    "technical_check": "not_started",
+    "human_watch": "not_started",
+    "user_acceptance": "not_recorded"
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "schema_version": 2,
+  "script_version": "v2",
+  "id": "ep026",
+  "episode": 26,
+  "title": "晚开的纸花",
+  "cover_title": "晚开纸花",
+  "category": "想象",
+  "theme": "给伙伴留一会儿准备时间",
+  "setting": "纸花镇的折纸店、纸花镇露天花廊",
+  "viewpoint_character": "米米",
+  "guest": "米米、桃桃",
+  "character_names": [
+    "米米",
+    "桃桃",
+    "皮皮"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "按晓晓-35%实际口播、停顿和约8秒尾声确定",
+  "cn_characters": 247,
+  "initial_duration_budget_s": 99.55,
+  "shots": [
+    {
+      "id": 1,
+      "title": "米米在折纸店举着合拢花苞，桃桃与皮皮守着纸盒",
+      "location": "纸花镇的折纸店",
+      "character_names": [
+        "米米",
+        "桃桃",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "纸花镇的花听见自己的名字才会开。",
+        "米米折了一朵，花苞却一直合着。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "纸花镇的折纸店。竖幅远景交代空间和前后层次。画面：米米在折纸店举着合拢花苞，桃桃与皮皮守着纸盒。入镜角色：米米、桃桃、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.42,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "桃桃凑近花苞试着叫名，米米握住细纸梗",
+      "location": "纸花镇的折纸店",
+      "character_names": [
+        "米米",
+        "桃桃"
+      ],
+      "narration_lines": [
+        "桃桃叫它红花，皮皮叫它小灯。",
+        "米米想说它有别的名字，嘴巴张了张。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "纸花镇的折纸店。平视中景突出人物姿态和相互位置。画面：桃桃凑近花苞试着叫名，米米握住细纸梗。入镜角色：米米、桃桃。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.11,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "米米用爪尖护住花苞上一处极细的折线",
+      "location": "纸花镇的折纸店",
+      "character_names": [
+        "米米"
+      ],
+      "narration_lines": [
+        "他们又喊了一次，米米把花苞收回胸前。",
+        "原来她还没想好，要怎么开口。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "纸花镇的折纸店。近景突出手边动作或道具状态。画面：米米用爪尖护住花苞上一处极细的折线。入镜角色：米米。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.42,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "三位伙伴在露天花廊并坐，花苞立在米米膝前",
+      "location": "纸花镇露天花廊",
+      "character_names": [
+        "米米",
+        "桃桃",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "桃桃把凳子拉远一点。",
+        "皮皮也不猜了，三个人一起看花廊外面落下的细雨。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "纸花镇露天花廊。侧面中景展示动作方向与相邻环境。画面：三位伙伴在露天花廊并坐，花苞立在米米膝前。入镜角色：米米、桃桃、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.04,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "米米把浅黄纸瓣转向自己，指尖不再攥紧",
+      "location": "纸花镇露天花廊",
+      "character_names": [
+        "米米"
+      ],
+      "narration_lines": [
+        "米米转了转纸花。",
+        "雨停前，她忽然想起刚才有一滴水，落在她鼻尖上。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "纸花镇露天花廊。近景突出手边动作或道具状态。画面：米米把浅黄纸瓣转向自己，指尖不再攥紧。入镜角色：米米。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.11,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "米米低头朝花苞说话，另外两位坐在两侧",
+      "location": "纸花镇露天花廊",
+      "character_names": [
+        "米米",
+        "桃桃",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "她低下头，轻声叫它一滴雨。",
+        "说完，她没有马上去掰开花瓣。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "纸花镇露天花廊。平视中景突出人物姿态和相互位置。画面：米米低头朝花苞说话，另外两位坐在两侧。入镜角色：米米、桃桃、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 8.86,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "米米掌心里纸花展开，花心显出一枚浅蓝水滴",
+      "location": "纸花镇露天花廊",
+      "character_names": [
+        "米米"
+      ],
+      "narration_lines": [
+        "最外边的花瓣先松开，里面露出一个蓝色小点，像米米想起的那滴雨。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "纸花镇露天花廊。近景突出手边动作或道具状态。画面：米米掌心里纸花展开，花心显出一枚浅蓝水滴。入镜角色：米米。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 9.7,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "店内托盘里多朵各色纸花敞开，一滴雨花放在靠边处",
+      "location": "纸花镇的折纸店",
+      "character_names": [
+        "米米",
+        "桃桃",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "回到店里，米米把一滴雨放在最边上。",
+        "它开得晚，刚好挨着第二天的空纸。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "俯视呈现平面上的物件和路线",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "纸花镇的折纸店。俯视呈现平面上的物件和路线。画面：店内托盘里多朵各色纸花敞开，一滴雨花放在靠边处。入镜角色：米米、桃桃、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "折纸店柜边，米米把浅黄纸花举向画外的来客",
+      "location": "纸花镇的折纸店",
+      "character_names": [
+        "米米"
+      ],
+      "narration_lines": [
+        "后来有人问这朵花叫什么。",
+        "米米坐近了一点，自己把名字说给他听。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "纸花镇的折纸店。平视中景突出人物姿态和相互位置。画面：折纸店柜边，米米把浅黄纸花举向画外的来客。入镜角色：米米。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 17.16,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v2剧本与九镜已编写，配音、插画、封面、字幕及视频待制作",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/结构化JSON/ep026.json",
+    "scope": "按用户反馈重写人物互动、故事事件、场景及九镜",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始"
+  }
+}

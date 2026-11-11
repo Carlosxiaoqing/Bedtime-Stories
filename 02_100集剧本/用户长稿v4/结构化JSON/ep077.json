@@ -1,0 +1,100 @@
+{
+  "schema_version": 3,
+  "script_version": "v4",
+  "id": "ep077",
+  "episode": 77,
+  "title": "两片不一样的叶子",
+  "theme": "给不同的喜欢留下空间",
+  "language": "zh-CN",
+  "production_scope": "adopted_user_long_script",
+  "status": "copyedited_media_not_started",
+  "narration_paragraphs": [
+    {
+      "id": "p001",
+      "text": "今天下午，小鼹鼠点点带着他的收集夹来到皮皮家，他们打算在卧室的大书桌上，用落叶拼贴一幅名叫《秋日小花园》的画。\n点点从夹子里掏出了一片圆圆的、像小荷叶一样的黄杨树叶；皮皮则从自己的篮子里找出了一片细长的、像小柳叶一样的黄金槐树叶。"
+    },
+    {
+      "id": "p002",
+      "text": "刚开始摆的时候，两位好朋友有了一点点不一样的意见。\n皮皮平时喜欢整整齐齐的队伍，他想把圆叶子和长叶子的叶尖全都朝上，像两个并排站立的小士兵一样贴在画纸正中间；而小鼹鼠点点却喜欢平缓柔和的线条，他想让那片圆圆的叶子平平地横躺在画纸下方。"
+    },
+    {
+      "id": "p003",
+      "text": "两个人拿着叶子比划了半天，谁也没法说服谁。\n如果是小宝宝的时候，遇到意见不一样可能就会赌气不玩了；但现在的皮皮和点点都是懂得互相商量的大孩子了。他们同时停下小爪子，没有争吵，而是把桌上的白画纸轻轻转了一个方向，重新打量起来。"
+    },
+    {
+      "id": "p004",
+      "text": "这一转，皮皮的眼睛亮了！他对点点说：“点点你看，如果按你喜欢的，让你的圆叶子平平地躺在下面，它看起来就像花园里的一汪圆圆的小池塘；而我的长叶子竖在池塘边上，不就正好是池塘岸边的一棵高高的小树吗？”\n点点凑过去一看，拍着小爪子开心地笑了起来：“太棒啦！池塘和岸边的树，本来就不用朝着同一个方向长呀！”"
+    },
+    {
+      "id": "p005",
+      "text": "原来，两片完全不一样的叶子、两种完全不一样的想法，根本不必强行掰成同一个朝向，只要互相配合一下，就能和谐地待在同一幅画里。圆叶子和长叶子，都在画纸上找到了最适合自己的位置。\n接着，皮皮用棕色蜡笔在小树旁添上了一条浅浅的泥土小路，点点则在池塘上方留出了一大块干净的空白，给这座小花园放进了一点宁静的空气。"
+    },
+    {
+      "id": "p006",
+      "text": "拼贴画完成以后，他们高高兴兴地一起收拾好桌面，在门廊前挥手道了晚安，自始至终都没有再去争论到底哪一片叶子更好看。\n洗漱完毕，皮皮回到自己的小木床上躺下。他摸了摸自己的两只长耳朵，发现它们在枕头上也是一只微微靠里、一只自然朝外地放着，虽然不对称，却舒服极了。"
+    },
+    {
+      "id": "p007",
+      "text": "他抱好胡萝卜玩偶，闭上眼睛。不管是画纸上不一样的树叶，还是生活里不一样的喜好，都可以安安稳稳地待在一起。\n小朋友，每个人都有自己独特的想法和样子，在心里留一点宽敞的位置，给那些小小的不一样吧。舒舒服服地躺好，晚安。"
+    }
+  ],
+  "cn_characters": 794,
+  "narration_sha256": "e7e93ea18598c0d905385fb7ec59cbf5d54c940e5c0a935cac21cb847d149eb3",
+  "source": {
+    "path": "/Users/ww/Downloads/100集睡前故事合集.md",
+    "sha256": "3feafa137e94824baccf8b6e3f3f24bac3e97714b2e201fcc48d461d8969c302",
+    "original_narration_sha256": "9cf80d1169a81b87289a62df7ac88033dc68335e19dfef9d1c3123b52d189140",
+    "original_paragraph_count": 7
+  },
+  "revision_record": [
+    {
+      "change_id": "C005",
+      "episode": "ep077",
+      "paragraph_id": "p006",
+      "before": "至始至终都没有再去争论",
+      "after": "自始至终都没有再去争论",
+      "reason": "修正成语错字"
+    }
+  ],
+  "duration_policy": {
+    "basis": "complete_narration_at_current_voice_settings",
+    "limit_s": null,
+    "delete_for_duration": false,
+    "time_stretch": false
+  },
+  "voice": {
+    "config": "03_素材与参数/配音与声音参数.json",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000
+  },
+  "actual_duration_s": null,
+  "character_registry": "03_素材与参数/用户长稿v4角色图库.json",
+  "storyboard": {
+    "status": "not_started",
+    "shots": [],
+    "timing_basis": "actual_audio",
+    "preferred_hold_s": [
+      8,
+      10
+    ],
+    "review_above_s": 15,
+    "short_action_hold_s": [
+      3,
+      5
+    ]
+  },
+  "material_state": {
+    "voice": "not_started",
+    "character_references": "not_generated",
+    "illustrations": "not_started",
+    "cover": "not_started",
+    "pinyin_review": "not_started",
+    "render": "not_started",
+    "technical_check": "not_started",
+    "human_watch": "not_started",
+    "user_acceptance": "not_recorded"
+  }
+}

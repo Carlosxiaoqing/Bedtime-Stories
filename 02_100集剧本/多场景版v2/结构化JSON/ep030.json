@@ -1,0 +1,256 @@
+{
+  "schema_version": 2,
+  "script_version": "v2",
+  "id": "ep030",
+  "episode": 30,
+  "title": "萤火虫喜欢哪一边",
+  "cover_title": "草边小灯",
+  "category": "自然",
+  "theme": "靠近之前留意小动物的感受",
+  "setting": "蒲草塘黄昏步道、蒲草塘观虫台",
+  "viewpoint_character": "栗栗",
+  "guest": "栗栗、豆豆",
+  "character_names": [
+    "栗栗",
+    "皮皮",
+    "豆豆"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "按晓晓-35%实际口播、停顿和约8秒尾声确定",
+  "cn_characters": 252,
+  "initial_duration_budget_s": 101.82,
+  "shots": [
+    {
+      "id": 1,
+      "title": "黄昏步道旁有一处亮点，栗栗与皮皮、豆豆停在路边",
+      "location": "蒲草塘黄昏步道",
+      "character_names": [
+        "栗栗",
+        "皮皮",
+        "豆豆"
+      ],
+      "narration_lines": [
+        "傍晚，栗栗在草间看见一点亮。",
+        "他想让伙伴也瞧见，伸手去拨面前的草。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "蒲草塘黄昏步道。竖幅远景交代空间和前后层次。画面：黄昏步道旁有一处亮点，栗栗与皮皮、豆豆停在路边。入镜角色：栗栗、皮皮、豆豆。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.42,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "栗栗爪边草茎歪开，亮点只剩一点远影",
+      "location": "蒲草塘黄昏步道",
+      "character_names": [
+        "栗栗"
+      ],
+      "narration_lines": [
+        "草一动，那点亮就飞到更里面了。",
+        "栗栗收回手，怕下一次也看不清。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "蒲草塘黄昏步道。近景突出手边动作或道具状态。画面：栗栗爪边草茎歪开，亮点只剩一点远影。入镜角色：栗栗。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 9.79,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "豆豆指向不碰草的高一点的平台，皮皮让开木道",
+      "location": "蒲草塘黄昏步道",
+      "character_names": [
+        "皮皮",
+        "豆豆",
+        "栗栗"
+      ],
+      "narration_lines": [
+        "豆豆常来塘边。",
+        "她指着前面的观察台，说从高一点的地方，也能看见草根。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "蒲草塘黄昏步道。侧面中景展示动作方向与相邻环境。画面：豆豆指向不碰草的高一点的平台，皮皮让开木道。入镜角色：皮皮、豆豆、栗栗。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "三个伙伴在台内靠栏安坐，草丛留足距离",
+      "location": "蒲草塘观虫台",
+      "character_names": [
+        "栗栗",
+        "皮皮",
+        "豆豆"
+      ],
+      "narration_lines": [
+        "他们在台边坐下，把带来的灯朝脚下放低。",
+        "草尖渐渐从暗处显出来。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "蒲草塘观虫台。平视中景突出人物姿态和相互位置。画面：三个伙伴在台内靠栏安坐，草丛留足距离。入镜角色：栗栗、皮皮、豆豆。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.11,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "从栗栗肩后望见草丛里的三个散开的小光点",
+      "location": "蒲草塘观虫台",
+      "character_names": [
+        "栗栗"
+      ],
+      "narration_lines": [
+        "栗栗先看见一个亮点，然后是第二个。",
+        "第三个停得最远，他几乎要漏掉。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "越肩构图同时看见观察者与目标",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "蒲草塘观虫台。越肩构图同时看见观察者与目标。画面：从栗栗肩后望见草丛里的三个散开的小光点。入镜角色：栗栗。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.42,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "豆豆举起三根翅羽示意数量，栗栗保持安静",
+      "location": "蒲草塘观虫台",
+      "character_names": [
+        "豆豆"
+      ],
+      "narration_lines": [
+        "豆豆没有出声，只抬起三根翅羽。",
+        "栗栗也用爪指了指，告诉她三个都看到了。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "蒲草塘观虫台。近景突出手边动作或道具状态。画面：豆豆举起三根翅羽示意数量，栗栗保持安静。入镜角色：豆豆。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.04,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "伙伴一起离开栏边，灯仍朝向地面，草丛远离脚步",
+      "location": "蒲草塘观虫台",
+      "character_names": [
+        "栗栗",
+        "皮皮",
+        "豆豆"
+      ],
+      "narration_lines": [
+        "看够了，栗栗先起身。",
+        "他轻轻绕开台边的草，让那一片暗处一直暗着。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "蒲草塘观虫台。侧面中景展示动作方向与相邻环境。画面：伙伴一起离开栏边，灯仍朝向地面，草丛远离脚步。入镜角色：栗栗、皮皮、豆豆。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.11,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "栗栗把脚步放慢，皮皮听他描述第三个亮点",
+      "location": "蒲草塘黄昏步道",
+      "character_names": [
+        "栗栗",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "回程皮皮问，哪个小灯最难找。",
+        "栗栗说，是最远那一个，可它闪得最好看。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "蒲草塘黄昏步道。平视中景突出人物姿态和相互位置。画面：栗栗把脚步放慢，皮皮听他描述第三个亮点。入镜角色：栗栗、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.42,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "空观察台边有淡淡水纹，草丛里两点微光",
+      "location": "蒲草塘观虫台",
+      "character_names": [],
+      "narration_lines": [
+        "步道上已听不见脚步。",
+        "草丛那边，刚刚的几个小灯还在各自的地方亮着。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "环境留白为主，关键物件或人物位于上部",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "蒲草塘观虫台。环境留白为主，关键物件或人物位于上部。画面：空观察台边有淡淡水纹，草丛里两点微光。入镜角色：无，仅画环境或道具。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 17.78,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v2剧本与九镜已编写，配音、插画、封面、字幕及视频待制作",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/结构化JSON/ep030.json",
+    "scope": "按用户反馈重写人物互动、故事事件、场景及九镜",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始"
+  }
+}

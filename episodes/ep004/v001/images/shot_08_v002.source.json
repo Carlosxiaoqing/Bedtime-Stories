@@ -1,0 +1,15 @@
+{
+  "id": 8,
+  "prompt": "Use case: precise-object-edit. Image 1 is the EDIT TARGET, one tired hedgehog Lili alone on the grassy hill. Image 2 is ONLY the BAG DESIGN reference: the small pale oatmeal satchel between the rabbit and hedgehog. Change ONLY the bag in image 1: replace the large drawstring sack with a full but rounded pale oatmeal canvas SHOULDER SATCHEL, soft rounded flap, ONE small wooden button, ONE shoulder strap, the SAME construction as the bag in image 2. It can bulge with biscuits but must remain the flap satchel, not a tied sack. Keep image 1's hedgehog identity, face, spines, sage vest, paws, pose, fatigue expression, background hill, cottage, river, trees, sunlight, composition and empty subtitle space EXACTLY unchanged. Do NOT copy any character from image 2. Exactly ONE animal, the hedgehog. No rabbit. Single vertical 9:16 watercolor scene, no words or watermark.",
+  "reference_inputs": [
+    "/Users/ww/视频/Bedtime-Stories/episodes/ep004/v001/images/shot_08.png",
+    "/Users/ww/视频/Bedtime-Stories/episodes/ep004/v001/cover_base.png"
+  ],
+  "source_generated_path": "/Users/ww/.codex/generated_images/01a1c779-b2c5-7591-8e26-7f019d36a778/exec-05035b8d-d7e4-4f6e-9422-13f3749e80d9.png",
+  "destination": "/Users/ww/视频/Bedtime-Stories/episodes/ep004/v001/images/shot_08_v002.png",
+  "revision": 2,
+  "reason": "match recurring flap satchel",
+  "sha256": "accce8b926a3657fe26b00941c237a5803d99ef67a2f74fc2f0063d44f129083",
+  "provider": "built-in image_gen",
+  "status": "generated_pending_visual_review"
+}

@@ -1,0 +1,272 @@
+{
+  "schema_version": 2,
+  "script_version": "v3",
+  "id": "ep047",
+  "episode": 47,
+  "title": "柜子里那只空抽屉",
+  "cover_title": "空抽屉",
+  "category": "家庭",
+  "theme": "共享空间也能约好各自的地方",
+  "setting": "米米家缝纫桌、米米家矮柜前",
+  "viewpoint_character": "米米",
+  "guest": "米米、团团",
+  "character_names": [
+    "米米",
+    "皮皮",
+    "团团"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "成片约120秒，配音后实测校时",
+  "cn_characters": 282,
+  "initial_duration_budget_s": 120.33,
+  "shots": [
+    {
+      "id": 1,
+      "title": "缝纫桌下有三格矮柜，米米与皮皮、团团整理各自物件",
+      "location": "米米家缝纫桌",
+      "character_names": [
+        "米米",
+        "皮皮",
+        "团团"
+      ],
+      "narration_lines": [
+        "皮皮和团团常来米米家做手工。",
+        "今天皮皮去找自己的纸尺，抽屉里多了一袋松果。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "米米家缝纫桌。竖幅远景交代空间和前后层次。画面：缝纫桌下有三格矮柜，米米与皮皮、团团整理各自物件。入镜角色：米米、皮皮、团团。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 14.05,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "皮皮从松果袋下抽出弯了一角的纸尺",
+      "location": "米米家矮柜前",
+      "character_names": [
+        "皮皮"
+      ],
+      "narration_lines": [
+        "纸尺的角被压弯了。",
+        "团团跑过来看，说他昨天见抽屉空着，就把松果放进去了。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "米米家矮柜前。近景突出手边动作或道具状态。画面：皮皮从松果袋下抽出弯了一角的纸尺。入镜角色：皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "三位围着敞开的三格抽屉，米米拿出两块布片",
+      "location": "米米家矮柜前",
+      "character_names": [
+        "米米",
+        "皮皮",
+        "团团"
+      ],
+      "narration_lines": [
+        "米米说，可以腾一格放公用的东西。",
+        "自己要用的，就先放进各自的小格。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "米米家矮柜前。平视中景突出人物姿态和相互位置。画面：三位围着敞开的三格抽屉，米米拿出两块布片。入镜角色：米米、皮皮、团团。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.33,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "三只布袋排成一列，尺、松果与共用软布分别归位",
+      "location": "米米家矮柜前",
+      "character_names": [
+        "米米",
+        "皮皮",
+        "团团"
+      ],
+      "narration_lines": [
+        "他们给纸尺套了块布，松果换到另一格。",
+        "最矮的一格空出来，放大家都能借的软布。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "俯视呈现平面上的物件和路线",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "米米家矮柜前。俯视呈现平面上的物件和路线。画面：三只布袋排成一列，尺、松果与共用软布分别归位。入镜角色：米米、皮皮、团团。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 13.05,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "团团向米米展示自己手里最后一枚松果，米米指回私人物袋",
+      "location": "米米家缝纫桌",
+      "character_names": [
+        "团团",
+        "米米"
+      ],
+      "narration_lines": [
+        "团团举起最后一颗松果，问能不能留给大家用。",
+        "米米请他先想想，下次还想不想要回来。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "米米家缝纫桌。平视中景突出人物姿态和相互位置。画面：团团向米米展示自己手里最后一枚松果，米米指回私人物袋。入镜角色：团团、米米。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 13.74,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "团团将一颗松果放到单独的小盘中，余下仍在私袋里",
+      "location": "米米家缝纫桌",
+      "character_names": [
+        "团团"
+      ],
+      "narration_lines": [
+        "团团挑了一颗最平的，放进公用格的小盘。",
+        "其他几颗，他还想留着排图案。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "米米家缝纫桌。近景突出手边动作或道具状态。画面：团团将一颗松果放到单独的小盘中，余下仍在私袋里。入镜角色：团团。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.67,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "皮皮与团团把矮柜推进墙边，米米在下格前贴软布记号",
+      "location": "米米家矮柜前",
+      "character_names": [
+        "米米",
+        "皮皮",
+        "团团"
+      ],
+      "narration_lines": [
+        "抽屉推好以后，皮皮画了几个小图案。",
+        "想找公用软布，只要看最下面那一个。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "米米家矮柜前。侧面中景展示动作方向与相邻环境。画面：皮皮与团团把矮柜推进墙边，米米在下格前贴软布记号。入镜角色：米米、皮皮、团团。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.02,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "缝纫桌上用松果压住一张图，三人取用公用布",
+      "location": "米米家缝纫桌",
+      "character_names": [
+        "米米",
+        "皮皮",
+        "团团"
+      ],
+      "narration_lines": [
+        "做手工时，大家一起用了那颗松果。",
+        "团团的松果袋留在格子里，也没人替他拿。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "米米家缝纫桌。平视中景突出人物姿态和相互位置。画面：缝纫桌上用松果压住一张图，三人取用公用布。入镜角色：米米、皮皮、团团。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "关好的矮柜下方露一角公用软布，顶面静放一把纸尺",
+      "location": "米米家矮柜前",
+      "character_names": [],
+      "narration_lines": [
+        "傍晚走前，皮皮把纸尺放回自己的格子。",
+        "它在软布套里，第二天拿出来还是平的。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "米米家矮柜前。近景突出手边动作或道具状态。画面：关好的矮柜下方露一角公用软布，顶面静放一把纸尺。入镜角色：无，仅画环境或道具。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 19.76,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v3剧本和九镜已校时估算，实际配音及后续制作待进行",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/多场景版v2/结构化JSON/ep047.json",
+    "scope": "以约两分钟为目标逐集校时，补充偏短故事的动作、对话或线索，压缩偏长的重复表述",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始",
+    "previous_script_sha256": "02fc4dd74a14afd9fdf7c818e856c3b4e5f59a7fded630e4907a3300d9c47ac4",
+    "edited_shots": []
+  },
+  "duration_plan": {
+    "target_s": 120,
+    "planning_range_s": [
+      115,
+      125
+    ],
+    "estimated_s": 120.33,
+    "v2_estimated_using_same_method_s": 120.33,
+    "reference_narration_hanzi_per_second": 2.899607,
+    "opening_s": 1.0,
+    "tail_in_final_shot_s": 8.0
+  }
+}

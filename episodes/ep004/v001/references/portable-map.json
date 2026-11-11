@@ -1,0 +1,38 @@
+[
+  {
+    "original_path": "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "portable_path": "references/assets/pipi_identity_v001.png",
+    "sha256": "6f754c72b9fa7281790bb1fce42bb18701ea055446fda2cdec7ae58b92232674",
+    "role": "identity_or_wardrobe"
+  },
+  {
+    "original_path": "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+    "portable_path": "references/assets/pipi_wardrobe_v001.png",
+    "sha256": "30cb3e6f07e625bbe629ac7ff37d2fa0819de8c3aff1e0305d01447cefd85897",
+    "role": "identity_or_wardrobe"
+  },
+  {
+    "original_path": "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png",
+    "portable_path": "references/assets/lili_identity_v001.png",
+    "sha256": "41b97e6934d4ec71687b09c479370d029743a367d90cbe990ac51344ed0e54de",
+    "role": "identity_or_wardrobe"
+  },
+  {
+    "original_path": "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/tuantuan_identity_v001.png",
+    "portable_path": "references/assets/tuantuan_identity_v001.png",
+    "sha256": "27a34b5b38a1e7897039a3d3cffa4bbcc3617ddb47432b3d1e8c4f80a88e11ef",
+    "role": "identity_or_wardrobe"
+  },
+  {
+    "original_path": "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/goat_teacher_identity_v001.png",
+    "portable_path": "references/assets/goat_teacher_identity_v001.png",
+    "sha256": "88bf3c92e0e316fa0219f48ef4ef6364f5b17bce4f63ddf66a712049a4e9b1c9",
+    "role": "identity_or_wardrobe"
+  },
+  {
+    "original_path": "/Users/ww/视频/Bedtime-Stories/episodes/ep001/v005/images/shot_01.png",
+    "portable_path": "references/assets/ep001_room_layout_reference_only.png",
+    "sha256": "247807173f26c264c4603011316802679b6ed207b9c08ed807e4ba6fa7980c5c",
+    "role": "environment_layout_only_not_a_plot_image"
+  }
+]

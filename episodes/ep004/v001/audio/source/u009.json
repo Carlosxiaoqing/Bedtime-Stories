@@ -1,0 +1,65 @@
+{
+  "text": "栗栗松了一口气，挨着皮皮坐了下来。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "eacd6aec59e12de63eea37ecc706db1751b3a1b79fb6c0c22faa9f6ed34ae687",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 7884580,
+      "text": "栗栗松"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9153750,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10500000,
+      "duration": 10577080,
+      "text": "一口气"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24922910,
+      "duration": 2884580,
+      "text": "挨"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27807500,
+      "duration": 1730830,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 29730830,
+      "duration": 5577080,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 35692500,
+      "duration": 3269160,
+      "text": "坐"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 38961660,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 40307500,
+      "duration": 6730830,
+      "text": "下来"
+    }
+  ]
+}

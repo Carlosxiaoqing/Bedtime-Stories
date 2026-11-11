@@ -1,0 +1,87 @@
+{
+  "schema_version": 3,
+  "script_version": "v4",
+  "id": "ep048",
+  "episode": 48,
+  "title": "晒过太阳的小布袋",
+  "theme": "通过熟悉触感安心休息",
+  "language": "zh-CN",
+  "production_scope": "adopted_user_long_script",
+  "status": "copyedited_media_not_started",
+  "narration_paragraphs": [
+    {
+      "id": "p001",
+      "text": "今天中午是个难得的冬日大晴天，金灿灿的阳光毫无保留地照在小木屋向阳的窗台上。\n皮皮在去森林学堂下午班之前，特意把自己枕头边那只装满干薰衣草和棉花的小布袋，放在了向阳的窗台木板上，让它美美地晒一个日光浴。"
+    },
+    {
+      "id": "p002",
+      "text": "到了傍晚放学回家，太阳虽然已经落山了，但当皮皮走到窗台边，把那只浅米色的小布袋重新抱进爪心里时，他惊喜地发现，布袋里好像还藏着白天太阳公公留下的温度！\n小布袋的表面有一层细细的棉绒，摸起来又干爽又软糯，凑近闻一闻，除了淡淡的干花草香，还有一股只有晒过太阳才有的、蓬松又温柔的暖阳气息。"
+    },
+    {
+      "id": "p003",
+      "text": "因为白天在窗台上放久了，小布袋里面的棉花团有一点点偏向了一边，让袋子的一角高高地鼓了起来。\n皮皮坐在床沿上，没有使劲去拍打它，而是伸出两只小爪子，隔着柔软的棉布，把里面的小棉团一点一点轻轻拨松、揉匀，让那个鼓起来的小角，像做完体操一样，慢慢地躺平了。"
+    },
+    {
+      "id": "p004",
+      "text": "到了睡觉的时候，皮皮把这只晒过太阳的小布袋，轻轻放到了自己大枕头的旁边。他没有把布袋压在身子底下，只是让它安安静静地陪在脸颊旁，只要一侧头，就能闻到那股让人安心的阳光味道。\n皮皮望了一眼窗外，冬夜的雪色是清冷的浅蓝色；再看一眼屋里，床上的毛毯是温暖的鹅黄色。不同的颜色，都在这个夜晚慢慢地歇息着。"
+    },
+    {
+      "id": "p005",
+      "text": "皮皮先抱起自己的胡萝卜玩偶放进怀里，接着又伸出小爪子，轻轻摸了摸枕边那只软糯的小布袋，然后才心满意足地把爪子放回了被窝里。\n软软的小枕头托着脸颊，暖黄色的毛毯裹着脚丫，身边围绕着的每一件东西，都是那么熟悉、干爽又柔软。"
+    },
+    {
+      "id": "p006",
+      "text": "皮皮闭上眼睛，再也不需要去屋里的其他地方寻找什么了，因为今天最顶级的舒服，已经完完整整地待在这里了。\n小朋友，你的小被子和小枕头，是不是也有一种你最熟悉的、香香软软的味道呢？让熟悉的小被子紧紧陪着你，轻轻靠好，慢慢休息吧。晚安。"
+    }
+  ],
+  "cn_characters": 669,
+  "narration_sha256": "7097ae45fad1b8497aded9af9d6cc58b802aa15da9ac50580bc24abd74bb91a4",
+  "source": {
+    "path": "/Users/ww/Downloads/100集睡前故事合集.md",
+    "sha256": "3feafa137e94824baccf8b6e3f3f24bac3e97714b2e201fcc48d461d8969c302",
+    "original_narration_sha256": "7097ae45fad1b8497aded9af9d6cc58b802aa15da9ac50580bc24abd74bb91a4",
+    "original_paragraph_count": 6
+  },
+  "revision_record": [],
+  "duration_policy": {
+    "basis": "complete_narration_at_current_voice_settings",
+    "limit_s": null,
+    "delete_for_duration": false,
+    "time_stretch": false
+  },
+  "voice": {
+    "config": "03_素材与参数/配音与声音参数.json",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000
+  },
+  "actual_duration_s": null,
+  "character_registry": "03_素材与参数/用户长稿v4角色图库.json",
+  "storyboard": {
+    "status": "not_started",
+    "shots": [],
+    "timing_basis": "actual_audio",
+    "preferred_hold_s": [
+      8,
+      10
+    ],
+    "review_above_s": 15,
+    "short_action_hold_s": [
+      3,
+      5
+    ]
+  },
+  "material_state": {
+    "voice": "not_started",
+    "character_references": "not_generated",
+    "illustrations": "not_started",
+    "cover": "not_started",
+    "pinyin_review": "not_started",
+    "render": "not_started",
+    "technical_check": "not_started",
+    "human_watch": "not_started",
+    "user_acceptance": "not_recorded"
+  }
+}

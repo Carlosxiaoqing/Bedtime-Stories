@@ -1,0 +1,91 @@
+{
+  "schema_version": 3,
+  "script_version": "v4",
+  "id": "ep032",
+  "episode": 32,
+  "title": "松果转身坐好了",
+  "theme": "找到合适的支撑",
+  "language": "zh-CN",
+  "production_scope": "adopted_user_long_script",
+  "status": "copyedited_media_not_started",
+  "narration_paragraphs": [
+    {
+      "id": "p001",
+      "text": "今天下午，森林学堂举办了一场小小的“秋日果实展”。每个小朋友都把自己捡到的最漂亮的秋果摆在课桌上，互相参观。\n皮皮带去了一枚他在后山松树林里捡到的大松果。那枚松果饱满极了，鳞片像一朵层层叠叠盛开的木头花。"
+    },
+    {
+      "id": "p002",
+      "text": "傍晚放学后，皮皮把这枚心爱的大松果带回了家，想把它摆在卧室的窗台上当装饰。\n皮皮想让松果像个站岗的小士兵一样，尖尖的头朝上，笔直地立在窗台木板上。可是，松果的底座并不是平平的，皮皮刚松开爪子，松果就轻轻晃了两下，“骨碌”一下歪倒了，慢慢躺到了旁边。"
+    },
+    {
+      "id": "p003",
+      "text": "皮皮不甘心，又伸出两只小爪子试着扶了扶，还在它底下垫了一小块硬纸板。可只要手一拿开，松果还是坐不稳，总是固执地往左边倒下去，好像它天生就只喜欢靠着自己的侧面躺着。\n今天在果实展上，皮皮看到小鹿芽芽的葫芦是横着放的，小熊绒绒的板栗是堆着放的，没有谁规定果实一定要笔直地站着呀。"
+    },
+    {
+      "id": "p004",
+      "text": "于是，皮皮不再强迫松果立正了。他从桌角拿来一只浅浅的原木小托盘，在盘底铺上一小片厚实的米色软绒布，然后把松果放上去，任由它顺着自己最舒服的原来的样子，侧着身子躺好。\n这回，松果再也不摇晃了。它层层叠叠的小鳞片安安静静地挨在一起，斜斜地对着窗外，看上去比刚才硬撑着站立的时候，要自在、好看得多。"
+    },
+    {
+      "id": "p005",
+      "text": "皮皮抬头望向窗外，不远处就有一棵高大的老松树，枝头也挂着好几枚松果，有的朝东，有的朝西，有的垂着头，每一枚都有自己生长的方向。\n皮皮把木托盘在窗台一角放稳，给旁边的窗帘留出活动的空间，彻底放下了让松果“坐得直直的”念头。"
+    },
+    {
+      "id": "p006",
+      "text": "洗漱完毕，皮皮靠回床上的大枕头。今晚，他也没有规规矩矩地平躺着，而是学着那枚松果的样子，转了个身，找了一个侧着身子、把胡萝卜玩偶抱在怀里的舒服姿势。\n睡帽的帽尖轻轻垂下，长耳朵自然地放松。柔软的小床稳稳地托着他的侧身，再也不用费力气去扶住什么了。"
+    },
+    {
+      "id": "p007",
+      "text": "小朋友，舒服本来就可以有许许多多不一样的样子。今晚，不管是平躺还是侧卧，让你的身体自己找到最放松的位置，慢慢休息吧。晚安。"
+    }
+  ],
+  "cn_characters": 718,
+  "narration_sha256": "a4ac07408a2446839e6c08df539a2174671d05e61b10cd58449731dfacd3e41d",
+  "source": {
+    "path": "/Users/ww/Downloads/100集睡前故事合集.md",
+    "sha256": "3feafa137e94824baccf8b6e3f3f24bac3e97714b2e201fcc48d461d8969c302",
+    "original_narration_sha256": "a4ac07408a2446839e6c08df539a2174671d05e61b10cd58449731dfacd3e41d",
+    "original_paragraph_count": 7
+  },
+  "revision_record": [],
+  "duration_policy": {
+    "basis": "complete_narration_at_current_voice_settings",
+    "limit_s": null,
+    "delete_for_duration": false,
+    "time_stretch": false
+  },
+  "voice": {
+    "config": "03_素材与参数/配音与声音参数.json",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000
+  },
+  "actual_duration_s": null,
+  "character_registry": "03_素材与参数/用户长稿v4角色图库.json",
+  "storyboard": {
+    "status": "not_started",
+    "shots": [],
+    "timing_basis": "actual_audio",
+    "preferred_hold_s": [
+      8,
+      10
+    ],
+    "review_above_s": 15,
+    "short_action_hold_s": [
+      3,
+      5
+    ]
+  },
+  "material_state": {
+    "voice": "not_started",
+    "character_references": "not_generated",
+    "illustrations": "not_started",
+    "cover": "not_started",
+    "pinyin_review": "not_started",
+    "render": "not_started",
+    "technical_check": "not_started",
+    "human_watch": "not_started",
+    "user_acceptance": "not_recorded"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "schema_version": 3,
+  "script_version": "v4",
+  "id": "ep052",
+  "episode": 52,
+  "title": "第一片小叶子",
+  "theme": "留意细小而真实的变化",
+  "language": "zh-CN",
+  "production_scope": "adopted_user_long_script",
+  "status": "copyedited_media_not_started",
+  "narration_paragraphs": [
+    {
+      "id": "p001",
+      "text": "自从把向日葵种子种进红陶花盆后，好几个晴朗的日子过去了。皮皮每天放学回家，都会去窗台边看一眼，按时给它添一点点水，从来没有着急地去扒开泥土。\n直到今天傍晚，皮皮从森林学堂背着书包回到家，像往常一样走到卧室窗台前时，他的眼睛一下子亮了起来！"
+    },
+    {
+      "id": "p002",
+      "text": "只见原本平平整整的黑泥土正中央，不知什么时候，悄悄顶开了一道小小的裂隙；从裂隙里，探出了一对很小很小的、嫩绿色的子叶！\n那两片小叶子实在是太嫩、太小了，边缘还微微地合拢着，就像婴儿刚刚张开的小手掌，怯生生地打量着这个明亮的世界。"
+    },
+    {
+      "id": "p003",
+      "text": "皮皮惊喜极了，他忍不住把小脸凑近了一点，想看清楚叶片上细细的纹路。\n可是，当他温热的鼻息吹到小叶子上时，小嫩叶轻轻颤动了一下。皮皮连忙轻轻往后退开半步，屏住呼吸，给这片刚刚出生的小叶子留出足够宽敞、自在舒展的空间。"
+    },
+    {
+      "id": "p004",
+      "text": "皮皮低头仔细看了看，发现在小嫩芽的根部旁边，有一粒稍微有点干硬的小土块，正斜斜地靠在嫩茎上。\n皮皮没有直接用粗粗的手指去抠，而是从工具篮里找来了一片薄薄的、圆头的小木片，像医生做检查一样，极其轻柔地把那粒干土块往旁边拨松、推开。"
+    },
+    {
+      "id": "p005",
+      "text": "做好这一切后，皮皮立刻把小木片收好放回篮子里，再也没有去碰一下叶尖，只是安安静静地站在窗边，满心欢喜地欣赏了好一会儿。\n这片小叶子虽然没有一下子长得像大树那么高，甚至还没有皮皮的小指甲盖大，可是就这么一点点鲜活的新绿，已经让整个窗台变得跟昨天完全不一样了。"
+    },
+    {
+      "id": "p006",
+      "text": "吃过晚饭，皮皮拿出自己的《自然观察日记本》，翻开新的一页，用浅绿色的彩铅，把今天的小画画得比昨天多出了两片小小的嫩叶。画好之后，他就心满意足地轻轻合上了本子。\n到了睡觉的时间，皮皮离开窗台走向小木床。他知道，明天早上醒来再看也完全来得及，小叶子在夜里会自己慢慢长大，不需要他一整晚都睁着眼睛盯着看。"
+    },
+    {
+      "id": "p007",
+      "text": "他钻进被窝，抱好胡萝卜玩偶，慢慢闭上眼睛。今天亲眼看见的那一点点美妙的小变化，已经变成一颗绿色的星星，轻轻留在他的心里了。\n小朋友，你在生活里学会的一点点新本领、长高的一点点个子，也都像这第一片小叶子一样，值得被温柔地记住。现在，带着这份喜悦好好休息吧，晚安。"
+    }
+  ],
+  "cn_characters": 775,
+  "narration_sha256": "e0a06f6dc56e4e514ea1264eece93d85b9561811510eb158d3e8a4948417b569",
+  "source": {
+    "path": "/Users/ww/Downloads/100集睡前故事合集.md",
+    "sha256": "3feafa137e94824baccf8b6e3f3f24bac3e97714b2e201fcc48d461d8969c302",
+    "original_narration_sha256": "e0a06f6dc56e4e514ea1264eece93d85b9561811510eb158d3e8a4948417b569",
+    "original_paragraph_count": 7
+  },
+  "revision_record": [],
+  "duration_policy": {
+    "basis": "complete_narration_at_current_voice_settings",
+    "limit_s": null,
+    "delete_for_duration": false,
+    "time_stretch": false
+  },
+  "voice": {
+    "config": "03_素材与参数/配音与声音参数.json",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000
+  },
+  "actual_duration_s": null,
+  "character_registry": "03_素材与参数/用户长稿v4角色图库.json",
+  "storyboard": {
+    "status": "not_started",
+    "shots": [],
+    "timing_basis": "actual_audio",
+    "preferred_hold_s": [
+      8,
+      10
+    ],
+    "review_above_s": 15,
+    "short_action_hold_s": [
+      3,
+      5
+    ]
+  },
+  "material_state": {
+    "voice": "not_started",
+    "character_references": "not_generated",
+    "illustrations": "not_started",
+    "cover": "not_started",
+    "pinyin_review": "not_started",
+    "render": "not_started",
+    "technical_check": "not_started",
+    "human_watch": "not_started",
+    "user_acceptance": "not_recorded"
+  }
+}

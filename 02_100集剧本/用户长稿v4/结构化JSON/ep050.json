@@ -1,0 +1,91 @@
+{
+  "schema_version": 3,
+  "script_version": "v4",
+  "id": "ep050",
+  "episode": 50,
+  "title": "小雪人的晚安帽",
+  "theme": "关心不等于把一切带回身边",
+  "language": "zh-CN",
+  "production_scope": "adopted_user_long_script",
+  "status": "copyedited_media_not_started",
+  "narration_paragraphs": [
+    {
+      "id": "p001",
+      "text": "昨天森林里下了一场大雪，今天下午放学后，皮皮、小松鼠团团和小熊绒绒聚在皮皮家的院子里，一起滚了两个大雪球，堆起了一个胖乎乎、圆滚滚的小雪人。\n大家用红彤彤的胡萝卜头给雪人做了鼻子，用两颗黑亮亮的松子做了眼睛；最后，皮皮还从屋里找来了一顶自己小时候戴过的旧法兰绒布帽，戴在了小雪人圆圆的脑袋上。"
+    },
+    {
+      "id": "p002",
+      "text": "吃过晚饭，天黑透了，外面的雪停了，吹起了一阵轻轻的夜风。\n皮皮在关紧院门准备回屋睡觉时，透过门廊的灯光看了一眼院子中间的小雪人，发现它头顶上那顶旧布帽，被晚风吹得稍微歪向了一边。"
+    },
+    {
+      "id": "p003",
+      "text": "皮皮穿上小棉鞋，迈步走到小雪人身边，伸出小爪子把歪掉的帽边轻轻理平、往下按稳，特意让帽子正面那枚圆圆的木头纽扣，正对着自己卧室那扇亮着暖灯的窗户。\n小雪人插在身体两侧的两根小树枝手臂，还是笑眯眯地向两边伸展着，就像在安安静静地拥抱着这一整片洁白的雪地。"
+    },
+    {
+      "id": "p004",
+      "text": "皮皮摸了摸小雪人冰凉的脸蛋，心里冒出一个念头：屋里那么暖和，小雪人一个人站在院子里，要不要我回屋拿一条厚毛毯出来，把整个小雪人都包起来，或者干脆把它抱进屋里睡觉呢？\n可是皮皮转念一想，立马忍俊不禁地摇了摇头：要是给雪人盖上热乎乎的毛毯，或者抱进烧着暖炉的木屋里，小雪人马上就会热得化成一滩水啦！"
+    },
+    {
+      "id": "p005",
+      "text": "冰凉清爽的院子，才是小雪人最舒服的家；而温暖干燥的小木屋，则是小兔子最舒服的家。\n于是，皮皮只是蹲下来，把小雪人脚边作为装饰的两枚小松果摆得更端正了一些，没有再去拿毛毯把它包起来。大家都待在最适合自己的地方，这就是最好的照顾了。"
+    },
+    {
+      "id": "p006",
+      "text": "皮皮退回门廊下，对着戴好帽子的雪人轻声说了句“晚安”。旧布帽稳稳地扣在雪人头上，夜风再吹过时，帽檐连一角也没有被翻起来。\n回到卧室，脱下棉鞋，皮皮钻进暖烘烘的被窝里。他也学着刚才给雪人理帽子的样子，把自己软软的睡帽尖轻轻摆到枕头边，让两只长耳朵彻底放松下来。"
+    },
+    {
+      "id": "p007",
+      "text": "窗外院子里的小雪人安安静静地站着没再忙活，屋里被窝中的小兔子，也慢慢地闭上了眼睛。\n小朋友，当我们关心一样东西或者一个人的时候，只要把温暖的心意轻轻送到，就可以安心休息了。让小被子暖暖地陪着你，晚安。"
+    }
+  ],
+  "cn_characters": 771,
+  "narration_sha256": "c6c3800eacf1bdbccca379fdbb311b4fb39bbd2137afa48085c2ce19ac80ffa8",
+  "source": {
+    "path": "/Users/ww/Downloads/100集睡前故事合集.md",
+    "sha256": "3feafa137e94824baccf8b6e3f3f24bac3e97714b2e201fcc48d461d8969c302",
+    "original_narration_sha256": "c6c3800eacf1bdbccca379fdbb311b4fb39bbd2137afa48085c2ce19ac80ffa8",
+    "original_paragraph_count": 7
+  },
+  "revision_record": [],
+  "duration_policy": {
+    "basis": "complete_narration_at_current_voice_settings",
+    "limit_s": null,
+    "delete_for_duration": false,
+    "time_stretch": false
+  },
+  "voice": {
+    "config": "03_素材与参数/配音与声音参数.json",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000
+  },
+  "actual_duration_s": null,
+  "character_registry": "03_素材与参数/用户长稿v4角色图库.json",
+  "storyboard": {
+    "status": "not_started",
+    "shots": [],
+    "timing_basis": "actual_audio",
+    "preferred_hold_s": [
+      8,
+      10
+    ],
+    "review_above_s": 15,
+    "short_action_hold_s": [
+      3,
+      5
+    ]
+  },
+  "material_state": {
+    "voice": "not_started",
+    "character_references": "not_generated",
+    "illustrations": "not_started",
+    "cover": "not_started",
+    "pinyin_review": "not_started",
+    "render": "not_started",
+    "technical_check": "not_started",
+    "human_watch": "not_started",
+    "user_acceptance": "not_recorded"
+  }
+}

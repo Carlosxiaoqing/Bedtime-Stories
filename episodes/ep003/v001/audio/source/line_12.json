@@ -1,0 +1,17 @@
+{
+  "text": "窗外的云走远了，枕边的小云留下来。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "edge_tts": "7.3.1",
+  "fingerprint": "04b8fef62d07c1c79995aab08a4c79ec44e5f4af6e7e11394f050700530a0e3e",
+  "boundaries": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 1000000,
+      "duration": 56807689,
+      "text": "窗外的云走远了，枕边的小云留下来。"
+    }
+  ]
+}

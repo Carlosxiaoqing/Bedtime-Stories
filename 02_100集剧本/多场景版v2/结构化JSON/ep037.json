@@ -1,0 +1,257 @@
+{
+  "schema_version": 2,
+  "script_version": "v2",
+  "id": "ep037",
+  "episode": 37,
+  "title": "修伞铺的转角补丁",
+  "cover_title": "转角补丁",
+  "category": "社区",
+  "theme": "把用途和心意放在一起",
+  "setting": "长耳街修伞铺工作台、修伞铺门前试伞处",
+  "viewpoint_character": "斑斑",
+  "guest": "斑斑、灰灰、米米",
+  "character_names": [
+    "斑斑",
+    "灰灰",
+    "米米"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "按晓晓-35%实际口播、停顿和约8秒尾声确定",
+  "cn_characters": 249,
+  "initial_duration_budget_s": 100.89,
+  "shots": [
+    {
+      "id": 1,
+      "title": "旧伞撑在铺内工作台上，斑斑指着一处破口",
+      "location": "长耳街修伞铺工作台",
+      "character_names": [
+        "斑斑",
+        "灰灰",
+        "米米"
+      ],
+      "narration_lines": [
+        "斑斑带来一把旧伞。",
+        "伞布在拐角破了个小口，正好碰到他喜欢的蓝边。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街修伞铺工作台。竖幅远景交代空间和前后层次。画面：旧伞撑在铺内工作台上，斑斑指着一处破口。入镜角色：斑斑、灰灰、米米。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.42,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "斑斑小心托住蓝色伞边，露出三角破口",
+      "location": "长耳街修伞铺工作台",
+      "character_names": [
+        "斑斑"
+      ],
+      "narration_lines": [
+        "灰灰拿来一块整圆补丁。",
+        "斑斑比了一下，补上去，蓝边就只剩一截。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街修伞铺工作台。近景突出手边动作或道具状态。画面：斑斑小心托住蓝色伞边，露出三角破口。入镜角色：斑斑。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 9.79,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "米米摆出圆片和两条弯布，灰灰扶稳伞骨",
+      "location": "长耳街修伞铺工作台",
+      "character_names": [
+        "斑斑",
+        "灰灰",
+        "米米"
+      ],
+      "narration_lines": [
+        "米米说，也许补丁可以绕个弯。",
+        "她摊开两段布，让斑斑先挑顺手的形状。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街修伞铺工作台。平视中景突出人物姿态和相互位置。画面：米米摆出圆片和两条弯布，灰灰扶稳伞骨。入镜角色：斑斑、灰灰、米米。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.42,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "蓝色弯布叠在旧蓝边上，破口仍清楚可见",
+      "location": "长耳街修伞铺工作台",
+      "character_names": [
+        "斑斑",
+        "米米"
+      ],
+      "narration_lines": [
+        "斑斑把细布沿边贴过去，破口正好被第二段盖住。",
+        "灰灰照着样子固定了布片。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "俯视呈现平面上的物件和路线",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街修伞铺工作台。俯视呈现平面上的物件和路线。画面：蓝色弯布叠在旧蓝边上，破口仍清楚可见。入镜角色：斑斑、米米。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "铺门口伞已撑开，灰灰往伞面淋几滴清水",
+      "location": "修伞铺门前试伞处",
+      "character_names": [
+        "斑斑",
+        "灰灰",
+        "米米"
+      ],
+      "narration_lines": [
+        "补好后，他们到门口试伞。",
+        "几滴水沿着新蓝边往下走，没有钻进那道口。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "修伞铺门前试伞处。侧面中景展示动作方向与相邻环境。画面：铺门口伞已撑开，灰灰往伞面淋几滴清水。入镜角色：斑斑、灰灰、米米。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.42,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "斑斑从伞里朝上看，蓝边转过一角连成双线",
+      "location": "修伞铺门前试伞处",
+      "character_names": [
+        "斑斑"
+      ],
+      "narration_lines": [
+        "斑斑往伞里看。",
+        "旧蓝边在下面，新蓝边拐到上面，正好是两道并排的线。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "修伞铺门前试伞处。近景突出手边动作或道具状态。画面：斑斑从伞里朝上看，蓝边转过一角连成双线。入镜角色：斑斑。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.42,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "米米给斑斑一块余布，灰灰把旧伞套递给他",
+      "location": "长耳街修伞铺工作台",
+      "character_names": [
+        "斑斑",
+        "灰灰",
+        "米米"
+      ],
+      "narration_lines": [
+        "米米把剩下的布给他。",
+        "下次碰到小口，斑斑说可以先想想它长在哪儿。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街修伞铺工作台。平视中景突出人物姿态和相互位置。画面：米米给斑斑一块余布，灰灰把旧伞套递给他。入镜角色：斑斑、灰灰、米米。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.42,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "斑斑收起伞向街上走，灰灰在门口挥手",
+      "location": "修伞铺门前试伞处",
+      "character_names": [
+        "斑斑",
+        "灰灰"
+      ],
+      "narration_lines": [
+        "斑斑把伞收好。",
+        "离开时那段蓝色露在伞套外，怎么藏都藏不住。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "修伞铺门前试伞处。侧面中景展示动作方向与相邻环境。画面：斑斑收起伞向街上走，灰灰在门口挥手。入镜角色：斑斑、灰灰。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 9.48,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "修伞台上留下用来比形状的纸角，雨后光落在台面",
+      "location": "长耳街修伞铺工作台",
+      "character_names": [],
+      "narration_lines": [
+        "灰灰把纸样放进盒子。",
+        "最边上的格子里，又多了一个能拐弯的补丁。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街修伞铺工作台。近景突出手边动作或道具状态。画面：修伞台上留下用来比形状的纸角，雨后光落在台面。入镜角色：无，仅画环境或道具。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 17.16,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v2剧本与九镜已编写，配音、插画、封面、字幕及视频待制作",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/结构化JSON/ep037.json",
+    "scope": "按用户反馈重写人物互动、故事事件、场景及九镜",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始"
+  }
+}

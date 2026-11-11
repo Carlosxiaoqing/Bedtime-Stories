@@ -1,0 +1,9 @@
+{
+  "provider": "built-in image_gen",
+  "source_generated_path": "/Users/ww/.codex/generated_images/01a1c779-b2c5-7591-8e26-7f019d36a778/exec-b8c76682-2b89-4f45-9082-403e21c35e42.png",
+  "prompt": "Make one tiny continuity correction only: replace the small full round moon near the top center with a small delicate warm crescent moon, matching the crescent phase seen throughout the same story's nighttime bedroom and cottage. Preserve the entire watercolor landscape, grassy hillside, clover, distant red roof cottage, stream, trees and low-detail bottom. No other changes, no characters, no text. Vertical 9:16.",
+  "reference_inputs": [
+    "/Users/ww/视频/Bedtime-Stories/episodes/ep004/v001/images/shot_30.png"
+  ],
+  "sha256": "cf413147a862b23bdd39dcb793fd9f11625819d97d924ec62bd277235c32656d"
+}

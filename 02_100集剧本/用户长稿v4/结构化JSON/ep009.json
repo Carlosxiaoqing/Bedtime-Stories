@@ -1,0 +1,95 @@
+{
+  "schema_version": 3,
+  "script_version": "v4",
+  "id": "ep009",
+  "episode": 9,
+  "title": "拖鞋排排坐",
+  "theme": "把白天留在床边",
+  "language": "zh-CN",
+  "production_scope": "adopted_user_long_script",
+  "status": "copyedited_media_not_started",
+  "narration_paragraphs": [
+    {
+      "id": "p001",
+      "text": "今天早上，阳光像金色的蜂蜜一样洒在森林里，山羊老师带着学堂的小朋友们，去小木桥那边远足。\n出门前，山羊老师教大家唱了一首《排排坐，慢慢走》的歌谣：“小脚丫，一对对，走起路来不掉队；左一步，右一步，累了就回小窝睡。”"
+    },
+    {
+      "id": "p002",
+      "text": "皮皮穿着他最喜欢的蓝色小布鞋，走在队伍的中间。前面是摇着大尾巴的小松鼠团团，后面是迈着小碎步的小刺猬栗栗。\n他们走过了长满蒲公英的草地，走过了“咚咚”响的小木桥，还在大榕树下捡了许多好看的树叶。"
+    },
+    {
+      "id": "p003",
+      "text": "皮皮的小布鞋今天可真忙呀，带着他爬小坡、跨树根，走了好远好远的路。\n等傍晚回到小木屋门口时，皮皮脱下外面的小布鞋，换上了屋里软绵绵的毛绒小拖鞋。"
+    },
+    {
+      "id": "p004",
+      "text": "吃过晚饭，皮皮又穿着小拖鞋在屋里忙活了一阵子：他先走到小书架旁，把今天捡到的树叶夹进画册里；又走到有月光的窗边，给小花盆浇了一点点水。\n终于到了睡觉的时间。皮皮坐在床沿上，低头一看，发现脱下来的两只小拖鞋，一只鞋尖朝着窗户，一只鞋尖朝着房门，东倒西歪的，好像还想往外跑呢。"
+    },
+    {
+      "id": "p005",
+      "text": "皮皮笑了，他想起白天远足时大家排队唱歌的样子。\n他弯下腰，用小爪子把两只拖鞋轻轻挪过来，让它们并排坐在床边的小地毯上。"
+    },
+    {
+      "id": "p006",
+      "text": "左边一只，右边一只。圆圆的鞋尖朝着同一个方向，紧紧挨着，就像白天远足时他和栗栗并肩坐在一起一样，变成了两个安静的好朋友。\n皮皮把毛茸茸的小脚丫收进被窝里，暖暖的黄毛毯马上落下来，给小脚腾出了最舒服的位置。"
+    },
+    {
+      "id": "p007",
+      "text": "小拖鞋今晚不用再出发了。明天的小路还没有打开，而今天的小路，已经稳稳当当地走完了。\n皮皮靠好枕头，听见晚风在门外停了一停，屋里再也没有新的脚步声。"
+    },
+    {
+      "id": "p008",
+      "text": "他抱着胡萝卜玩偶，慢慢闭上眼睛。小拖鞋乖乖地坐在床下，陪着小木床一起歇息。\n小朋友，你的小脚丫今天也走了很远的路吧。现在，把鞋子留在床边，让小脚在被窝里暖暖地休息。晚安，我们明天再慢慢出发。"
+    }
+  ],
+  "cn_characters": 654,
+  "narration_sha256": "52666b0aa9a309f46c83955cdc112b9f07a50937df95336c02a43907540e3fe6",
+  "source": {
+    "path": "/Users/ww/Downloads/100集睡前故事合集.md",
+    "sha256": "3feafa137e94824baccf8b6e3f3f24bac3e97714b2e201fcc48d461d8969c302",
+    "original_narration_sha256": "52666b0aa9a309f46c83955cdc112b9f07a50937df95336c02a43907540e3fe6",
+    "original_paragraph_count": 8
+  },
+  "revision_record": [],
+  "duration_policy": {
+    "basis": "complete_narration_at_current_voice_settings",
+    "limit_s": null,
+    "delete_for_duration": false,
+    "time_stretch": false
+  },
+  "voice": {
+    "config": "03_素材与参数/配音与声音参数.json",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000
+  },
+  "actual_duration_s": null,
+  "character_registry": "03_素材与参数/用户长稿v4角色图库.json",
+  "storyboard": {
+    "status": "not_started",
+    "shots": [],
+    "timing_basis": "actual_audio",
+    "preferred_hold_s": [
+      8,
+      10
+    ],
+    "review_above_s": 15,
+    "short_action_hold_s": [
+      3,
+      5
+    ]
+  },
+  "material_state": {
+    "voice": "not_started",
+    "character_references": "not_generated",
+    "illustrations": "not_started",
+    "cover": "not_started",
+    "pinyin_review": "not_started",
+    "render": "not_started",
+    "technical_check": "not_started",
+    "human_watch": "not_started",
+    "user_acceptance": "not_recorded"
+  }
+}

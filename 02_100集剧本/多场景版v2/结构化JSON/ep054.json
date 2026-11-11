@@ -1,0 +1,256 @@
+{
+  "schema_version": 2,
+  "script_version": "v2",
+  "id": "ep054",
+  "episode": 54,
+  "title": "桃桃的画请先别擦",
+  "cover_title": "先别擦画",
+  "category": "学校",
+  "theme": "帮忙之前先问对方想要什么",
+  "setting": "榆树学校美术桌、教室的晾画绳",
+  "viewpoint_character": "桃桃",
+  "guest": "桃桃、斑斑",
+  "character_names": [
+    "桃桃",
+    "皮皮",
+    "斑斑"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "按晓晓-35%实际口播、停顿和约8秒尾声确定",
+  "cn_characters": 268,
+  "initial_duration_budget_s": 106.81,
+  "shots": [
+    {
+      "id": 1,
+      "title": "桃桃握着紫笔看水彩纸，皮皮旁边摆一块海绵",
+      "location": "榆树学校美术桌",
+      "character_names": [
+        "桃桃",
+        "皮皮",
+        "斑斑"
+      ],
+      "narration_lines": [
+        "桃桃画了一棵紫色的树。",
+        "皮皮以为她选错颜色，伸手想用海绵擦掉一点。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校美术桌。平视中景突出人物姿态和相互位置。画面：桃桃握着紫笔看水彩纸，皮皮旁边摆一块海绵。入镜角色：桃桃、皮皮、斑斑。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "桃桃用爪护住紫色树冠，海绵停在纸边",
+      "location": "榆树学校美术桌",
+      "character_names": [
+        "桃桃"
+      ],
+      "narration_lines": [
+        "桃桃把画护住，说先别擦。",
+        "她想画的是晚霞下面的树，树叶刚好有点紫。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校美术桌。近景突出手边动作或道具状态。画面：桃桃用爪护住紫色树冠，海绵停在纸边。入镜角色：桃桃。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.42,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "皮皮把海绵放回小碟，桃桃给他看画中留白",
+      "location": "榆树学校美术桌",
+      "character_names": [
+        "桃桃",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "皮皮放下海绵，问她还缺什么。",
+        "桃桃指着树后面，说留白太宽，她想添一条远路。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校美术桌。平视中景突出人物姿态和相互位置。画面：皮皮把海绵放回小碟，桃桃给他看画中留白。入镜角色：桃桃、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "三张试画纸有宽路、窄路和断开的路，三双手分开",
+      "location": "榆树学校美术桌",
+      "character_names": [
+        "桃桃",
+        "皮皮",
+        "斑斑"
+      ],
+      "narration_lines": [
+        "斑斑也来帮忙。",
+        "他们在废纸上画三种路，让桃桃自己看看哪条适合那棵树。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "俯视呈现平面上的物件和路线",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校美术桌。俯视呈现平面上的物件和路线。画面：三张试画纸有宽路、窄路和断开的路，三双手分开。入镜角色：桃桃、皮皮、斑斑。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.04,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "桃桃选择最窄那条，紫树旁加一段淡赭水线",
+      "location": "榆树学校美术桌",
+      "character_names": [
+        "桃桃"
+      ],
+      "narration_lines": [
+        "桃桃挑了最窄的路。",
+        "她让路藏到树后，只露出两截，像刚有人走过。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校美术桌。近景突出手边动作或道具状态。画面：桃桃选择最窄那条，紫树旁加一段淡赭水线。入镜角色：桃桃。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 9.79,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "三位把画夹上绳，紫树和另一幅绿树相邻",
+      "location": "教室的晾画绳",
+      "character_names": [
+        "桃桃",
+        "皮皮",
+        "斑斑"
+      ],
+      "narration_lines": [
+        "晾画时，皮皮把自己的绿树夹在旁边。",
+        "两幅树长得不一样，远处的天却一样柔和。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "教室的晾画绳。侧面中景展示动作方向与相邻环境。画面：三位把画夹上绳，紫树和另一幅绿树相邻。入镜角色：桃桃、皮皮、斑斑。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.67,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "斑斑指向紫树旁淡路，桃桃从他的视角看画",
+      "location": "教室的晾画绳",
+      "character_names": [
+        "桃桃",
+        "斑斑"
+      ],
+      "narration_lines": [
+        "斑斑说，想从桃桃的路走去看皮皮的树。",
+        "桃桃指了个方向，给他看两张画能怎么接。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "教室的晾画绳。平视中景突出人物姿态和相互位置。画面：斑斑指向紫树旁淡路，桃桃从他的视角看画。入镜角色：桃桃、斑斑。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.98,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "皮皮把洁净海绵装进水盘，桃桃端空纸来借",
+      "location": "榆树学校美术桌",
+      "character_names": [
+        "桃桃",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "下课后，皮皮洗好海绵。",
+        "桃桃走过来借它，这次她想让另一张画的云淡一点。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校美术桌。平视中景突出人物姿态和相互位置。画面：皮皮把洁净海绵装进水盘，桃桃端空纸来借。入镜角色：桃桃、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.04,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "晾画绳上两棵颜色不同的树，树间细路隐入纸边",
+      "location": "教室的晾画绳",
+      "character_names": [],
+      "narration_lines": [
+        "纸干了以后，那段小路还在。",
+        "沿着它看过去，紫色的树正好挡住半边晚霞。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "教室的晾画绳。近景突出手边动作或道具状态。画面：晾画绳上两棵颜色不同的树，树间细路隐入纸边。入镜角色：无，仅画环境或道具。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 17.78,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v2剧本与九镜已编写，配音、插画、封面、字幕及视频待制作",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/结构化JSON/ep054.json",
+    "scope": "按用户反馈重写人物互动、故事事件、场景及九镜",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始"
+  }
+}

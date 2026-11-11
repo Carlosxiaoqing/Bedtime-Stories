@@ -1,0 +1,183 @@
+{
+  "schema_version": 2,
+  "id": "ep030",
+  "episode": 30,
+  "title": "雨珠回到花园",
+  "theme": "细小的声音也会自然结束",
+  "setting": "窗边花园与卧室",
+  "guest": "无",
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "约90–120秒；以实际配音为准",
+  "cn_characters": 231,
+  "initial_duration_budget_s": 92.6,
+  "shots": [
+    {
+      "id": 1,
+      "title": "屋檐下圆润雨珠",
+      "narration_lines": [
+        "雨已经停了，屋檐上还挂着几颗小雨珠，皮皮隔着窗，看它们慢慢变圆。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "中景建立环境，主体位置清楚",
+      "image": "images/shot_01.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：屋檐下圆润雨珠。镜位：中景建立环境，主体位置清楚。",
+      "initial_budget_s": 10.7,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "雨珠落在花盆边",
+      "narration_lines": [
+        "一颗雨珠落下来，碰到花盆的边沿，发出一声，很轻很轻的小响。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "主体或物件近景，保留地点线索",
+      "image": "images/shot_02.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：雨珠落在花盆边。镜位：主体或物件近景，保留地点线索。",
+      "initial_budget_s": 8.76,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "皮皮轻扶盆边叶片",
+      "narration_lines": [
+        "皮皮把盆沿旁的叶子扶开一点，让后面的水珠，可以落回松松的泥土。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "中近景呈现动作后的稳定姿态",
+      "image": "images/shot_03.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：皮皮轻扶盆边叶片。镜位：中近景呈现动作后的稳定姿态。",
+      "initial_budget_s": 9.7,
+      "motion_hint": "m02",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "叶尖雨珠落入泥土",
+      "narration_lines": [
+        "又一颗雨珠，顺着叶尖滑下去。",
+        "花园没有说话，只把它轻轻接住。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "细节特写，避免裁掉必要的爪子或道具",
+      "image": "images/shot_04.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：叶尖雨珠落入泥土。镜位：细节特写，避免裁掉必要的爪子或道具。",
+      "initial_budget_s": 9.48,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "屋檐雨珠逐渐稀少",
+      "narration_lines": [
+        "屋檐上的雨珠越来越少，窗外的小响声，也慢慢隔得远了。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "中景呈现情境变化，留低细节空间",
+      "image": "images/shot_05.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：屋檐雨珠逐渐稀少。镜位：中景呈现情境变化，留低细节空间。",
+      "initial_budget_s": 8.14,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "关窗后走回床边",
+      "narration_lines": [
+        "皮皮把窗户关好，回到床边。",
+        "花园已经收到了雨，今晚不用再添些什么。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "主体近景，暖光方向延续",
+      "image": "images/shot_06.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：关窗后走回床边。镜位：主体近景，暖光方向延续。",
+      "initial_budget_s": 10.42,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "毛毯盖肩与怀中玩偶",
+      "narration_lines": [
+        "他把毛毯拉到肩头，让胡萝卜玩偶，靠着自己温暖的小手臂。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "安顿动作中景或安静环境近景",
+      "image": "images/shot_07.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：毛毯盖肩与怀中玩偶。镜位：安顿动作中景或安静环境近景。",
+      "initial_budget_s": 8.45,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "眼睛闭合与静止雨窗",
+      "narration_lines": [
+        "最后一点雨声，也留在了窗外。",
+        "皮皮的眼睛，慢慢合上了。"
+      ],
+      "pause_after_s": [
+        1.1,
+        1.1
+      ],
+      "camera": "放松姿态近景，光线略柔暗",
+      "image": "images/shot_08.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：眼睛闭合与静止雨窗。镜位：放松姿态近景，光线略柔暗。",
+      "initial_budget_s": 9.07,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "静夜花园与小屋远景",
+      "narration_lines": [
+        "小朋友，今天的小声音，已经找到自己的去处。",
+        "你也舒服地歇着吧，晚安。"
+      ],
+      "pause_after_s": [
+        1.1,
+        8.0
+      ],
+      "camera": "木屋卧室或可见卧室的中远景收束，主体安睡",
+      "image": "images/shot_09.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：静夜花园与小屋远景。镜位：木屋卧室或可见卧室的中远景收束，主体安睡。",
+      "initial_budget_s": 17.85,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "需按本集提示词生成图片并合成配音；不含尚未制作的图片或音频",
+  "shared_config": "03_素材与参数/共用画风与提示词.json",
+  "character_names": [
+    "皮皮"
+  ]
+}

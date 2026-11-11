@@ -1,0 +1,91 @@
+{
+  "schema_version": 3,
+  "script_version": "v4",
+  "id": "ep086",
+  "episode": 86,
+  "title": "枕边的森林电台",
+  "theme": "从倾听外界回到自身安静",
+  "language": "zh-CN",
+  "production_scope": "adopted_user_long_script",
+  "status": "copyedited_media_not_started",
+  "narration_paragraphs": [
+    {
+      "id": "p001",
+      "text": "前几天，小熊绒绒的爸爸修好了一台老式的木壳收音机。皮皮去绒绒家玩的时候，他们拧开旋钮，听到了“森林广播电台”里传出来的轻音乐和故事，皮皮觉得神奇极了。\n今天晚上，皮皮洗漱完毕，早早地钻进被窝，侧着身子躺在柔软的大枕头上。"
+    },
+    {
+      "id": "p002",
+      "text": "屋里关了大灯，一片宁静。皮皮竖起长耳朵听了听窗外，突发奇想地把今晚的整座森林，想象成了一座不插电的、很轻很轻的“枕边小电台”。\n你听，节目已经开始了：窗外老橡树的树叶轻轻挨着树叶，发出的“沙沙、沙沙”声，就是电台里播放的第一首轻音乐小曲子；再往远处听一点，森林深处那条小溪缓缓流淌的声音，就像一条慢吞吞往前走的细线，在给音乐伴奏呢。"
+    },
+    {
+      "id": "p003",
+      "text": "至于门廊下挂着的那串贝壳小风铃，因为白天已经用软棉布系好了，今晚正乖乖地歇着，没有加入这场广播。\n皮皮听着听着，发现这座“森林电台”并不是每一秒钟都塞满了声音的。风停下来的间隙里，会留出好大一段没有任何声响的空白，可那段舒服的空白，听起来也格外让人安心。"
+    },
+    {
+      "id": "p004",
+      "text": "皮皮没有从被窝里爬起来，去推开窗户寻找更多、更响的新声音；他只是保持着侧躺的舒服姿势，看着窗边那道早就留好的、窄窄的窗帘小缝。\n又听了一小会儿，神奇的变化发生了——随着皮皮的困意越来越浓，窗外森林里的树叶声和小溪声，好像自己慢慢地往后退，挪到了很远很远的地方，音量被自动调到了最小。"
+    },
+    {
+      "id": "p005",
+      "text": "相反，皮皮脸颊底下贴着的纯棉枕套的柔软布纹，还有怀里胡萝卜玩偶温暖的触感，反而变得离自己好近、好清晰。\n皮皮把玩偶往怀里抱了抱，彻底松开了小爪子。他想：真正的森林电台到了深夜也是不用一直播放新节目的；当所有的曲子都播完之后，屋里这片纯粹的安静，本身就是最好听的晚安曲呀。"
+    },
+    {
+      "id": "p006",
+      "text": "暖黄色的小毛毯随着皮皮的呼吸，轻轻地一起、一伏。房间里没有任何忙碌的动静，只有熟悉的、暖融融的夜晚包裹着全身。\n皮皮慢慢闭上眼睛，把竖着听了一整天声音的两只长耳朵，也像关掉收音机开关一样，轻轻地、软软地放下来休息了。"
+    },
+    {
+      "id": "p007",
+      "text": "小朋友，今晚的广播已经结束啦，你也不必再竖着小耳朵去寻找外面的新声音了。把注意力收回温暖的被窝里，让安静陪着你，晚安。"
+    }
+  ],
+  "cn_characters": 753,
+  "narration_sha256": "ac81ef9cfcb95525fb9194aa208ed0004ac91872fd9339f78c2ddcc007bdd942",
+  "source": {
+    "path": "/Users/ww/Downloads/100集睡前故事合集.md",
+    "sha256": "3feafa137e94824baccf8b6e3f3f24bac3e97714b2e201fcc48d461d8969c302",
+    "original_narration_sha256": "ac81ef9cfcb95525fb9194aa208ed0004ac91872fd9339f78c2ddcc007bdd942",
+    "original_paragraph_count": 7
+  },
+  "revision_record": [],
+  "duration_policy": {
+    "basis": "complete_narration_at_current_voice_settings",
+    "limit_s": null,
+    "delete_for_duration": false,
+    "time_stretch": false
+  },
+  "voice": {
+    "config": "03_素材与参数/配音与声音参数.json",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000
+  },
+  "actual_duration_s": null,
+  "character_registry": "03_素材与参数/用户长稿v4角色图库.json",
+  "storyboard": {
+    "status": "not_started",
+    "shots": [],
+    "timing_basis": "actual_audio",
+    "preferred_hold_s": [
+      8,
+      10
+    ],
+    "review_above_s": 15,
+    "short_action_hold_s": [
+      3,
+      5
+    ]
+  },
+  "material_state": {
+    "voice": "not_started",
+    "character_references": "not_generated",
+    "illustrations": "not_started",
+    "cover": "not_started",
+    "pinyin_review": "not_started",
+    "render": "not_started",
+    "technical_check": "not_started",
+    "human_watch": "not_started",
+    "user_acceptance": "not_recorded"
+  }
+}

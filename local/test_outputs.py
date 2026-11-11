@@ -13,7 +13,9 @@ class OutputRules(unittest.TestCase):
             b=run.new_output_dir(datetime(2026,11,11,0,0,0,tzinfo=run.CST),'render')
             self.assertEqual(a.parent.name,'2026-11-10')
             self.assertEqual(b.parent.name,'2026-11-11')
-            self.assertEqual(b.parent.parent.name,'Outputs')
+            self.assertEqual(b.parent.parent.name,'本地复现')
+            self.assertEqual(b.parent.parent.parent.name,'ep001')
+            self.assertFalse((Path(temp)/'Outputs').exists())
     def test_repeat_preserves_previous_run(self):
         with tempfile.TemporaryDirectory() as temp, patch.object(run,'ROOT',Path(temp)):
             now=datetime(2026,11,10,12,0,tzinfo=run.CST)

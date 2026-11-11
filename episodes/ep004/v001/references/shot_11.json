@@ -1,0 +1,53 @@
+{
+  "registry": "/Users/ww/视频/Bedtime-Stories/03_素材与参数/用户长稿v4角色图库.json",
+  "referenced_image_paths": [
+    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+  ],
+  "characters": [
+    {
+      "id": "pipi",
+      "name": "皮皮",
+      "identity_version": "v001",
+      "identity_paths": [
+        "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+      ],
+      "identity_anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+      "outfit": {
+        "id": "day_v001",
+        "description": "换装表左：灰蓝短背带裤、米色上衣、蓝布鞋、小黄书包，无帽；仅画这套服装，不复制表中其他兔子。",
+        "files": [
+          {
+            "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+            "sha256": "30cb3e6f07e625bbe629ac7ff37d2fa0819de8c3aff1e0305d01447cefd85897",
+            "size": [
+              1536,
+              1024
+            ],
+            "format": "PNG",
+            "source": "built-in image_gen",
+            "review": "assistant_visually_reviewed",
+            "user_acceptance": "not_recorded",
+            "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/pipi_wardrobe.json",
+            "reference_inputs": [
+              "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "lili",
+      "name": "栗栗",
+      "identity_version": "v001",
+      "identity_paths": [
+        "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+      ],
+      "identity_anchors": "浅棕圆脸、深棕短而圆润背刺、小黑鼻。",
+      "outfit": null
+    }
+  ],
+  "instructions": "将referenced_image_paths原样传入图像工具；引用图只作身份或服装依据。只画本镜入镜角色，勿复制参考表里的多个人物或背景。",
+  "user_visual_acceptance": "not_recorded"
+}

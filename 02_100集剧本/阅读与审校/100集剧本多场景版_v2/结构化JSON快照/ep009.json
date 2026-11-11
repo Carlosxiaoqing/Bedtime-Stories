@@ -1,0 +1,252 @@
+{
+  "schema_version": 2,
+  "script_version": "v2",
+  "id": "ep009",
+  "episode": 9,
+  "title": "影子车站的失物",
+  "cover_title": "影子失物",
+  "category": "想象",
+  "theme": "先问清来历再做决定",
+  "setting": "影子车站的落地灯下、影子站候车廊",
+  "viewpoint_character": "桃桃",
+  "guest": "桃桃",
+  "character_names": [
+    "桃桃",
+    "皮皮"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "按晓晓-35%实际口播、停顿和约8秒尾声确定",
+  "cn_characters": 243,
+  "initial_duration_budget_s": 99.01,
+  "shots": [
+    {
+      "id": 1,
+      "title": "桃桃与皮皮站在落地灯前，地面有长尾形影子",
+      "location": "影子车站的落地灯下",
+      "character_names": [
+        "桃桃",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "在影子车站，桃桃捡到了一条长尾巴。",
+        "它扁扁地贴着地，谁也提不起来。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "影子车站的落地灯下。竖幅远景交代空间和前后层次。画面：桃桃与皮皮站在落地灯前，地面有长尾形影子。入镜角色：桃桃、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.42,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "桃桃把自己的弯尾摆到影子旁，皮皮蹲看",
+      "location": "影子站候车廊",
+      "character_names": [
+        "桃桃",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "“像我的尾巴。”",
+        "桃桃往旁边站了站，却发现自己的影子明明在脚下。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "影子站候车廊。平视中景突出人物姿态和相互位置。画面：桃桃把自己的弯尾摆到影子旁，皮皮蹲看。入镜角色：桃桃、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 9.79,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "皮皮在失物影子旁摆一片叶形纸牌",
+      "location": "影子站候车廊",
+      "character_names": [
+        "皮皮"
+      ],
+      "narration_lines": [
+        "皮皮想贴一张失物牌，风一吹，牌子滑到灯边。",
+        "那条长尾巴也晃了一下。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "影子站候车廊。近景突出手边动作或道具状态。画面：皮皮在失物影子旁摆一片叶形纸牌。入镜角色：皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.42,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "从桃桃肩后看见灯罩边一根垂下的绳",
+      "location": "影子车站的落地灯下",
+      "character_names": [
+        "桃桃",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "桃桃顺着影子回头看。",
+        "灯罩边垂着一根绳，正好弯出尾巴的形状。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "越肩构图同时看见观察者与目标",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "影子车站的落地灯下。越肩构图同时看见观察者与目标。画面：从桃桃肩后看见灯罩边一根垂下的绳。入镜角色：桃桃、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 9.79,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "桃桃把绳子轻扶成直线，地面影子也拉直",
+      "location": "影子车站的落地灯下",
+      "character_names": [
+        "桃桃"
+      ],
+      "narration_lines": [
+        "她用爪子扶直绳子，尾巴立刻成了一条线。",
+        "两人这才明白，没人丢尾巴。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "影子车站的落地灯下。近景突出手边动作或道具状态。画面：桃桃把绳子轻扶成直线，地面影子也拉直。入镜角色：桃桃。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.42,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "灯下两双爪摆出一片叶形轮廓",
+      "location": "影子站候车廊",
+      "character_names": [
+        "桃桃",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "他们干脆玩起猜影子。",
+        "皮皮的耳朵一合，墙上多了一片大叶子。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "俯视呈现平面上的物件和路线",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "影子站候车廊。俯视呈现平面上的物件和路线。画面：灯下两双爪摆出一片叶形轮廓。入镜角色：桃桃、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 9.48,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "桃桃举起两爪，候车廊墙上是开翅小鸟形影",
+      "location": "影子站候车廊",
+      "character_names": [
+        "桃桃",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "桃桃把爪子交叉，影子变成了小鸟。",
+        "她放低一点，小鸟就落到台阶旁。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "影子站候车廊。平视中景突出人物姿态和相互位置。画面：桃桃举起两爪，候车廊墙上是开翅小鸟形影。入镜角色：桃桃、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.11,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "皮皮把叶形失物牌收进小盒，桃桃放下手",
+      "location": "影子车站的落地灯下",
+      "character_names": [
+        "桃桃",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "临走时，皮皮收起失物牌。",
+        "灯绳垂回原处，又有一条小尾巴在那儿了。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "影子车站的落地灯下。侧面中景展示动作方向与相邻环境。画面：皮皮把叶形失物牌收进小盒，桃桃放下手。入镜角色：桃桃、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.11,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "候车廊墙下空着，落地灯旁只留小绳弯影",
+      "location": "影子站候车廊",
+      "character_names": [],
+      "narration_lines": [
+        "候车廊静悄悄。",
+        "那条尾巴有自己的位置，谁经过都可以跟它打个招呼。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "影子站候车廊。近景突出手边动作或道具状态。画面：候车廊墙下空着，落地灯旁只留小绳弯影。入镜角色：无，仅画环境或道具。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 17.47,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v2剧本与九镜已编写，配音、插画、封面、字幕及视频待制作",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/结构化JSON/ep009.json",
+    "scope": "按用户反馈重写人物互动、故事事件、场景及九镜",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始"
+  }
+}

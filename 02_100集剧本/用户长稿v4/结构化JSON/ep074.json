@@ -1,0 +1,95 @@
+{
+  "schema_version": 3,
+  "script_version": "v4",
+  "id": "ep074",
+  "episode": 74,
+  "title": "今天的小小叹气",
+  "theme": "不急着赶走不舒服的心情",
+  "language": "zh-CN",
+  "production_scope": "adopted_user_long_script",
+  "status": "copyedited_media_not_started",
+  "narration_paragraphs": [
+    {
+      "id": "p001",
+      "text": "并不是每一天的手工都能顺心如意的。\n今天傍晚，皮皮坐在卧室的软地垫上，用硬纸板和小木片搭一座双层的小木屋模型。他原本在脑海里想得好好的，要搭出一座比画册上还要精致的小房子。"
+    },
+    {
+      "id": "p002",
+      "text": "可是真正动手搭起来的时候，这座模型小木屋却总和他心里想的不太一样：\n左边的窗户剪得有一点点歪，正面那扇小木门粘上去后也没有完全对齐，屋顶的纸板更是老往一边滑。皮皮改了一次又一次，还是不满意。"
+    },
+    {
+      "id": "p003",
+      "text": "最后，皮皮停下了动作，看着眼前歪歪扭扭的模型，忍不住轻轻地叹了一口气：“唉——”\n他的两只长耳朵垂了下来，小爪子无力地放在膝盖头上，心里有一点点闷闷的小沮丧。"
+    },
+    {
+      "id": "p004",
+      "text": "要是以前，皮皮可能会生自己的气，或者赌气非要熬夜拆掉重做不可。\n但现在的皮皮，没有继续跟那些纸板较劲，也没有强迫自己马上露出笑脸假装开心。他从床边抱来了一只最厚实的鹅绒软垫，垫在屁股底下，让自己在地垫上坐得更舒服一些。"
+    },
+    {
+      "id": "p005",
+      "text": "他想：今天搭得不顺利，心里有一点点不高兴、想叹一口气，这也是很正常的事情呀；就让这口小小的叹气，陪我在这只软垫上安安静静地坐一会儿吧。\n皮皮没有责怪自己，只是静静地坐着，听了一会儿窗外温柔的夜风声。慢慢地，胸口那股闷闷的感觉，就随着那声叹气散开去了一大半。"
+    },
+    {
+      "id": "p006",
+      "text": "过了一会儿，皮皮伸出小爪子，把散落在周围的零碎木片和歪窗户轻轻收进工具盒里，只把最底下那层粘得最稳当的木头底座留在了桌面上。\n底座已经很结实了，明天放学回来精力充沛的时候，随时还能从这个稳稳的底座重新开始。今天手里的模型小屋没有搭好，可一点儿也不妨碍皮皮正待在自己真正温暖、真正结实的大木屋家里呀！"
+    },
+    {
+      "id": "p007",
+      "text": "皮皮站起身走到小木床边，把软绵绵的胡萝卜玩偶紧紧抱进怀里。玩偶身上熟悉的柔软触感，让皮皮刚才一直绷着的小爪子彻底松开了。\n他爬上床，不再去想模型上的每一扇歪窗户，而是先把暖黄毛毯的被角拉好，在床上找了一个最舒展的躺姿。"
+    },
+    {
+      "id": "p008",
+      "text": "皮皮的眼睛慢慢闭上。刚才那口小小的叹气，已经顺着夜风飘走了，再也不用一直堵在胸口了。\n小朋友，如果今天你也遇到了一点点不顺心的小事，叹一口气也没关系。不用跟自己生气，先钻进温暖的被窝里好好休息，明天又是崭新的一天。晚安。"
+    }
+  ],
+  "cn_characters": 782,
+  "narration_sha256": "3aadf0cc4cda60de65a7e492ff53182580636e38128e2db2388d2138346df0bb",
+  "source": {
+    "path": "/Users/ww/Downloads/100集睡前故事合集.md",
+    "sha256": "3feafa137e94824baccf8b6e3f3f24bac3e97714b2e201fcc48d461d8969c302",
+    "original_narration_sha256": "3aadf0cc4cda60de65a7e492ff53182580636e38128e2db2388d2138346df0bb",
+    "original_paragraph_count": 8
+  },
+  "revision_record": [],
+  "duration_policy": {
+    "basis": "complete_narration_at_current_voice_settings",
+    "limit_s": null,
+    "delete_for_duration": false,
+    "time_stretch": false
+  },
+  "voice": {
+    "config": "03_素材与参数/配音与声音参数.json",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000
+  },
+  "actual_duration_s": null,
+  "character_registry": "03_素材与参数/用户长稿v4角色图库.json",
+  "storyboard": {
+    "status": "not_started",
+    "shots": [],
+    "timing_basis": "actual_audio",
+    "preferred_hold_s": [
+      8,
+      10
+    ],
+    "review_above_s": 15,
+    "short_action_hold_s": [
+      3,
+      5
+    ]
+  },
+  "material_state": {
+    "voice": "not_started",
+    "character_references": "not_generated",
+    "illustrations": "not_started",
+    "cover": "not_started",
+    "pinyin_review": "not_started",
+    "render": "not_started",
+    "technical_check": "not_started",
+    "human_watch": "not_started",
+    "user_acceptance": "not_recorded"
+  }
+}

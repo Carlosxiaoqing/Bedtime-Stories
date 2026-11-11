@@ -1,0 +1,143 @@
+{
+  "text": "随后，皮皮把小脚丫慢慢伸平，被角的小山坡便轻轻落了下去，变成了一片软软的草地。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "2a831964f6ad4595997b78b24e6767080fd5837b4d5747d4cb0a3e91d2526d6b",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 8846250,
+      "text": "随后"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15115410,
+      "duration": 4615410,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20115410,
+      "duration": 1730830,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22038330,
+      "duration": 9615410,
+      "text": "小脚丫"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32038330,
+      "duration": 5000000,
+      "text": "慢慢"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 37230830,
+      "duration": 9038330,
+      "text": "伸平"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 49730830,
+      "duration": 3076660,
+      "text": "被"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 52807500,
+      "duration": 2692500,
+      "text": "角"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 55500000,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 57038330,
+      "duration": 3077080,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 60115410,
+      "duration": 8846250,
+      "text": "山坡"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 70692500,
+      "duration": 3077080,
+      "text": "便"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 73961660,
+      "duration": 5961660,
+      "text": "轻轻"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 80115410,
+      "duration": 2692080,
+      "text": "落"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 82807500,
+      "duration": 1346250,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 84346250,
+      "duration": 7692500,
+      "text": "下去"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 96461660,
+      "duration": 5000000,
+      "text": "变成"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 101461660,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 102807500,
+      "duration": 5577080,
+      "text": "一片"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 108769160,
+      "duration": 5961660,
+      "text": "软软"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 114730830,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 116077080,
+      "duration": 8077080,
+      "text": "草地"
+    }
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "schema_version": 2,
+  "script_version": "v2",
+  "id": "ep051",
+  "episode": 51,
+  "title": "团团发明的拐弯棋",
+  "cover_title": "拐弯棋",
+  "category": "社区",
+  "theme": "一起商量的规则才容易玩下去",
+  "setting": "长耳街公园石桌、公园树下长凳",
+  "viewpoint_character": "团团",
+  "guest": "团团、斑斑、桃桃",
+  "character_names": [
+    "团团",
+    "斑斑",
+    "桃桃"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "按晓晓-35%实际口播、停顿和约8秒尾声确定",
+  "cn_characters": 265,
+  "initial_duration_budget_s": 105.16,
+  "shots": [
+    {
+      "id": 1,
+      "title": "公园石桌上铺弯曲棋盘，团团摆三种松果棋",
+      "location": "长耳街公园石桌",
+      "character_names": [
+        "团团",
+        "斑斑",
+        "桃桃"
+      ],
+      "narration_lines": [
+        "团团做了张拐弯棋。",
+        "第一局他走错路，便说：“这次那个弯，可以直接跨过去。”"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街公园石桌。竖幅远景交代空间和前后层次。画面：公园石桌上铺弯曲棋盘，团团摆三种松果棋。入镜角色：团团、斑斑、桃桃。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "斑斑一只爪停在棋格，桃桃把手里的棋子放下",
+      "location": "长耳街公园石桌",
+      "character_names": [
+        "团团",
+        "斑斑",
+        "桃桃"
+      ],
+      "narration_lines": [
+        "斑斑跟着跨了一步，团团又说不行。",
+        "桃桃把棋放下，问这一局到底怎么走。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街公园石桌。平视中景突出人物姿态和相互位置。画面：斑斑一只爪停在棋格，桃桃把手里的棋子放下。入镜角色：团团、斑斑、桃桃。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "团团把被挪乱的松果摆回起点，指尖停在第一个弯",
+      "location": "长耳街公园石桌",
+      "character_names": [
+        "团团"
+      ],
+      "narration_lines": [
+        "团团望着三个挪来挪去的松果，说自己只是想让棋走得快一些。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街公园石桌。近景突出手边动作或道具状态。画面：团团把被挪乱的松果摆回起点，指尖停在第一个弯。入镜角色：团团。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 9.07,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "纸上新增一块小弯板，两只爪各点在入口和出口",
+      "location": "长耳街公园石桌",
+      "character_names": [
+        "团团",
+        "斑斑",
+        "桃桃"
+      ],
+      "narration_lines": [
+        "他们在纸上加了一条短路。",
+        "谁都能走一次，走完短路，就把自己的叶片翻过来。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "俯视呈现平面上的物件和路线",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街公园石桌。俯视呈现平面上的物件和路线。画面：纸上新增一块小弯板，两只爪各点在入口和出口。入镜角色：团团、斑斑、桃桃。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "斑斑先经过短路，翻下一枚绿叶片，团团看清动作",
+      "location": "长耳街公园石桌",
+      "character_names": [
+        "团团",
+        "斑斑"
+      ],
+      "narration_lines": [
+        "这回斑斑先走短路。",
+        "团团看见他的叶片翻了面，知道下一轮他会和自己走同一条长路。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街公园石桌。平视中景突出人物姿态和相互位置。画面：斑斑先经过短路，翻下一枚绿叶片，团团看清动作。入镜角色：团团、斑斑。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.61,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "桃桃绕过远弯，从侧面看另两只棋子的位置",
+      "location": "长耳街公园石桌",
+      "character_names": [
+        "团团",
+        "斑斑",
+        "桃桃"
+      ],
+      "narration_lines": [
+        "桃桃把短路留到最后用。",
+        "大家的棋有时挨在一起，有时又隔了很远。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街公园石桌。侧面中景展示动作方向与相邻环境。画面：桃桃绕过远弯，从侧面看另两只棋子的位置。入镜角色：团团、斑斑、桃桃。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.11,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "三枚松果分别到达棋盘尾端，三片叶子全翻面",
+      "location": "长耳街公园石桌",
+      "character_names": [
+        "团团",
+        "斑斑",
+        "桃桃"
+      ],
+      "narration_lines": [
+        "到了终点，三片叶子都翻过了。",
+        "团团发现，这次谁都没有停下来问能不能跨。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "俯视呈现平面上的物件和路线",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街公园石桌。俯视呈现平面上的物件和路线。画面：三枚松果分别到达棋盘尾端，三片叶子全翻面。入镜角色：团团、斑斑、桃桃。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.04,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "三位拿着纸盘在长凳坐下，团团指向没试过的长弯",
+      "location": "公园树下长凳",
+      "character_names": [
+        "团团",
+        "斑斑",
+        "桃桃"
+      ],
+      "narration_lines": [
+        "坐到树下时，团团问：“下次我们能不能一局不走短路？”",
+        "朋友们都想试试。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "公园树下长凳。平视中景突出人物姿态和相互位置。画面：三位拿着纸盘在长凳坐下，团团指向没试过的长弯。入镜角色：团团、斑斑、桃桃。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.42,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "石桌上棋盘已叠好，最上面是一片翻面的叶子",
+      "location": "长耳街公园石桌",
+      "character_names": [],
+      "narration_lines": [
+        "团团把棋收回袋里。",
+        "他记得下一局开始前，要先把今天想好的走法说一遍。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街公园石桌。近景突出手边动作或道具状态。画面：石桌上棋盘已叠好，最上面是一片翻面的叶子。入镜角色：无，仅画环境或道具。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 18.09,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v2剧本与九镜已编写，配音、插画、封面、字幕及视频待制作",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/结构化JSON/ep051.json",
+    "scope": "按用户反馈重写人物互动、故事事件、场景及九镜",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始"
+  }
+}

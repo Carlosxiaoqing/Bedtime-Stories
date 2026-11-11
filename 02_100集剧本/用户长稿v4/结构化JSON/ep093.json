@@ -1,0 +1,95 @@
+{
+  "schema_version": 3,
+  "script_version": "v4",
+  "id": "ep093",
+  "episode": 93,
+  "title": "小椅子稳稳坐好",
+  "theme": "找回稳当的支撑",
+  "language": "zh-CN",
+  "production_scope": "adopted_user_long_script",
+  "status": "copyedited_media_not_started",
+  "narration_paragraphs": [
+    {
+      "id": "p001",
+      "text": "皮皮的卧室窗边，有一把陪伴了他很久的原木小靠背椅。每天晚上临睡前，皮皮都喜欢在这把小椅子上坐一小会儿，喝口温水，看看窗外的夜空，让白天的心情慢慢平静下来。\n今天晚上，皮皮洗完澡，像往常一样走到窗边，一屁股坐到了小木椅上。"
+    },
+    {
+      "id": "p002",
+      "text": "可是刚一坐下去，“咯噔”一下，小木椅的椅面居然轻轻地左右晃动了一下！\n皮皮愣了愣：这把小椅子平时四平八稳的，今天怎么突然摇晃起来了呢？要是坐着一把摇摇晃晃的椅子看月亮，身体就得一直绷着劲儿保持平衡，那可一点儿也不放松呀。"
+    },
+    {
+      "id": "p003",
+      "text": "皮皮没有凑合着继续坐下去，他立刻先从椅子上站了起来，低下头，借着床头灯柔和的光线，往小木椅的四条椅脚下面仔细看了看。\n哈哈，一下子就找到原因啦！原来，下午皮皮在窗边翻看口袋绘本的时候，有一本薄薄的小画册不小心滑落到了地上，正好有一半被压在了小木椅右前方的那只椅脚底下；这就好比给小椅子的四只脚里，单独垫上了一只不合脚的厚底鞋，难怪它会站不稳呢！"
+    },
+    {
+      "id": "p004",
+      "text": "皮皮蹲下身，一手轻轻抬起一点椅脚，另一只手把那本薄薄的小画册平平稳稳地抽了出来。\n他拍了拍画册封皮，把它端端正正地插回了旁边的书架上；然后双手扶着椅背，重新让小木椅的四只木头脚，完完全全、平平整整地踩在了坚实的木地板上。"
+    },
+    {
+      "id": "p005",
+      "text": "放好之后，皮皮用手轻轻按了按椅面——纹丝不动！这回，小木椅又恢复了往日那副最稳当、最可靠的样子。\n皮皮重新慢吞吞地坐了下去，后背放心地靠在椅背上，抬头看了一眼窗外皎洁的月亮。因为身下的椅子稳稳的，他觉得今晚的月色看起来也比刚才更柔和、更舒服了一点。"
+    },
+    {
+      "id": "p006",
+      "text": "不过，皮皮只在小椅子上安静地坐了一小会儿，就站起身把椅子轻轻推回了桌边。因为今晚，他不需要坐在窗前一直盯着看月亮往哪里走。\n在温暖的床头灯旁，那张比小木椅还要宽敞、还要柔软的小木床，已经在等着他了。皮皮抱起胡萝卜玩偶爬上床，让自己的整个身体，毫无保留地慢慢靠向大枕头。"
+    },
+    {
+      "id": "p007",
+      "text": "暖黄色的毛毯盖好了，两只长耳朵放好了。皮皮感觉自己从头到脚的每一小块重量，都有结实的床板和柔软的床垫在下面安安稳稳地托着、接住着。\n皮皮安心地闭上眼睛。窗边的小椅子站得稳稳当当，床上的小兔子，也躺得稳稳当当。"
+    },
+    {
+      "id": "p008",
+      "text": "小朋友，现在躺在小床上的你，是不是也能感觉到小床正稳稳地托着你的后背和小脑袋呢？找一个最踏实、最稳当的舒服姿势吧，把全身的力气都交给小床，今晚好好休息，晚安。"
+    }
+  ],
+  "cn_characters": 849,
+  "narration_sha256": "ec1168c94d4d88929df468c6784d53dacfdb5b65bce925bd759f579b3a99d4d3",
+  "source": {
+    "path": "/Users/ww/Downloads/100集睡前故事合集.md",
+    "sha256": "3feafa137e94824baccf8b6e3f3f24bac3e97714b2e201fcc48d461d8969c302",
+    "original_narration_sha256": "ec1168c94d4d88929df468c6784d53dacfdb5b65bce925bd759f579b3a99d4d3",
+    "original_paragraph_count": 8
+  },
+  "revision_record": [],
+  "duration_policy": {
+    "basis": "complete_narration_at_current_voice_settings",
+    "limit_s": null,
+    "delete_for_duration": false,
+    "time_stretch": false
+  },
+  "voice": {
+    "config": "03_素材与参数/配音与声音参数.json",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000
+  },
+  "actual_duration_s": null,
+  "character_registry": "03_素材与参数/用户长稿v4角色图库.json",
+  "storyboard": {
+    "status": "not_started",
+    "shots": [],
+    "timing_basis": "actual_audio",
+    "preferred_hold_s": [
+      8,
+      10
+    ],
+    "review_above_s": 15,
+    "short_action_hold_s": [
+      3,
+      5
+    ]
+  },
+  "material_state": {
+    "voice": "not_started",
+    "character_references": "not_generated",
+    "illustrations": "not_started",
+    "cover": "not_started",
+    "pinyin_review": "not_started",
+    "render": "not_started",
+    "technical_check": "not_started",
+    "human_watch": "not_started",
+    "user_acceptance": "not_recorded"
+  }
+}

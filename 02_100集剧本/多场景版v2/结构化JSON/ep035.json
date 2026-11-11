@@ -1,0 +1,261 @@
+{
+  "schema_version": 2,
+  "script_version": "v2",
+  "id": "ep035",
+  "episode": 35,
+  "title": "灰灰坐进了学生桌",
+  "cover_title": "给灰灰上课",
+  "category": "学校",
+  "theme": "每个人都有能教给别人的东西",
+  "setting": "榆树学校换角色课堂、学校工具墙边",
+  "viewpoint_character": "点点",
+  "guest": "点点、灰灰",
+  "character_names": [
+    "点点",
+    "灰灰",
+    "皮皮"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "按晓晓-35%实际口播、停顿和约8秒尾声确定",
+  "cn_characters": 273,
+  "initial_duration_budget_s": 108.38,
+  "shots": [
+    {
+      "id": 1,
+      "title": "灰灰坐学生桌，点点和皮皮站在桌边，台面铺纸",
+      "location": "榆树学校换角色课堂",
+      "character_names": [
+        "点点",
+        "灰灰",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "今天的活动是请同学教一件事。",
+        "灰灰来学，点点却觉得自己只有挖土的本领。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校换角色课堂。竖幅远景交代空间和前后层次。画面：灰灰坐学生桌，点点和皮皮站在桌边，台面铺纸。入镜角色：点点、灰灰、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "点点托着纸上小洞图，灰灰拿起两张纸",
+      "location": "榆树学校换角色课堂",
+      "character_names": [
+        "点点",
+        "灰灰"
+      ],
+      "narration_lines": [
+        "灰灰问他，地洞下雨时怎么能保持干爽。",
+        "点点听完，找来两张厚纸。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校换角色课堂。平视中景突出人物姿态和相互位置。画面：点点托着纸上小洞图，灰灰拿起两张纸。入镜角色：点点、灰灰。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 9.79,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "点点在两纸间画出向上弯的洞道，皮皮捏纸边",
+      "location": "榆树学校换角色课堂",
+      "character_names": [
+        "点点",
+        "灰灰",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "他先画一条朝下的路，再画一条往上弯的小路，请灰灰猜雨会往哪一边走。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "俯视呈现平面上的物件和路线",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校换角色课堂。俯视呈现平面上的物件和路线。画面：点点在两纸间画出向上弯的洞道，皮皮捏纸边。入镜角色：点点、灰灰、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.32,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "灰灰指错方向，点点用蓝纸条顺着坡放下",
+      "location": "榆树学校换角色课堂",
+      "character_names": [
+        "点点",
+        "灰灰"
+      ],
+      "narration_lines": [
+        "灰灰指了上坡。",
+        "点点没有急着纠正，拿一条蓝纸当水，顺着下坡摆过去。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校换角色课堂。近景突出手边动作或道具状态。画面：灰灰指错方向，点点用蓝纸条顺着坡放下。入镜角色：点点、灰灰。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.42,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "灰灰托住立起来的纸模型，从侧面看坡口",
+      "location": "榆树学校换角色课堂",
+      "character_names": [
+        "点点",
+        "灰灰"
+      ],
+      "narration_lines": [
+        "灰灰把纸立起来，从侧边看了一会儿。",
+        "这次他指到洞口下面，还画了一道浅沟。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校换角色课堂。平视中景突出人物姿态和相互位置。画面：灰灰托住立起来的纸模型，从侧面看坡口。入镜角色：点点、灰灰。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "皮皮扶斜纸面，点点调整沟道位置，灰灰等在一边",
+      "location": "榆树学校换角色课堂",
+      "character_names": [
+        "点点",
+        "灰灰",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "点点点点头。",
+        "皮皮也来试，把沟画得稍远一些，就不会挤到两条进门的路。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校换角色课堂。侧面中景展示动作方向与相邻环境。画面：皮皮扶斜纸面，点点调整沟道位置，灰灰等在一边。入镜角色：点点、灰灰、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "工具墙边挂着纸模型，灰灰认真向点点点头",
+      "location": "学校工具墙边",
+      "character_names": [
+        "点点",
+        "灰灰"
+      ],
+      "narration_lines": [
+        "活动结束，灰灰把模型挂起来。",
+        "“这回是你教我看路。”",
+        "点点把爪藏进了围兜里。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "学校工具墙边。平视中景突出人物姿态和相互位置。画面：工具墙边挂着纸模型，灰灰认真向点点点头。入镜角色：点点、灰灰。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.77,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "点点翻开纸模型下方预留的空白折页，皮皮凑近",
+      "location": "学校工具墙边",
+      "character_names": [
+        "点点",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "皮皮问，下回能不能学画第二个洞口。",
+        "点点打开折页，里面早留了一个位置。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "学校工具墙边。近景突出手边动作或道具状态。画面：点点翻开纸模型下方预留的空白折页，皮皮凑近。入镜角色：点点、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.04,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "灰灰推好学生椅，点点摊开模型空着的第二个洞口",
+      "location": "榆树学校换角色课堂",
+      "character_names": [
+        "灰灰",
+        "点点"
+      ],
+      "narration_lines": [
+        "下课后，灰灰把学生椅推好，问点点下次还愿不愿意教他。",
+        "点点把第二个洞口留给了他们两个。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校换角色课堂。平视中景突出人物姿态和相互位置。画面：灰灰推好学生椅，点点摊开模型空着的第二个洞口。入镜角色：灰灰、点点。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 20.59,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v2剧本与九镜已编写，配音、插画、封面、字幕及视频待制作",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/结构化JSON/ep035.json",
+    "scope": "按用户反馈重写人物互动、故事事件、场景及九镜",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始"
+  }
+}

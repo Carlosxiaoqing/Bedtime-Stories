@@ -1,0 +1,261 @@
+{
+  "schema_version": 2,
+  "script_version": "v2",
+  "id": "ep077",
+  "episode": 77,
+  "title": "搬家前的那棵柿子树",
+  "cover_title": "柿树道别",
+  "category": "家庭",
+  "theme": "换住处以后也能记住一起做过的事",
+  "setting": "梨梨家待搬的客厅、梨梨家门前柿树下",
+  "viewpoint_character": "梨梨",
+  "guest": "梨梨、桃桃",
+  "character_names": [
+    "梨梨",
+    "皮皮",
+    "桃桃"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "按晓晓-35%实际口播、停顿和约8秒尾声确定",
+  "cn_characters": 278,
+  "initial_duration_budget_s": 109.94,
+  "shots": [
+    {
+      "id": 1,
+      "title": "客厅有几只收拢箱子，梨梨抱图画，皮皮和桃桃坐在旁边",
+      "location": "梨梨家待搬的客厅",
+      "character_names": [
+        "梨梨",
+        "皮皮",
+        "桃桃"
+      ],
+      "narration_lines": [
+        "梨梨要搬到长耳街另一头。",
+        "箱子快收好了，她却舍不得门前那棵柿子树。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "梨梨家待搬的客厅。竖幅远景交代空间和前后层次。画面：客厅有几只收拢箱子，梨梨抱图画，皮皮和桃桃坐在旁边。入镜角色：梨梨、皮皮、桃桃。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "从梨梨肩后看柿枝上的三颗果与树根旁落叶",
+      "location": "梨梨家门前柿树下",
+      "character_names": [
+        "梨梨",
+        "皮皮",
+        "桃桃"
+      ],
+      "narration_lines": [
+        "皮皮问，她最舍不得什么。",
+        "梨梨说，是秋天坐在树下时，树影像一张有洞的纸。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "越肩构图同时看见观察者与目标",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "梨梨家门前柿树下。越肩构图同时看见观察者与目标。画面：从梨梨肩后看柿枝上的三颗果与树根旁落叶。入镜角色：梨梨、皮皮、桃桃。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.04,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "梨梨的掌心接住一小片树影，落叶在掌边",
+      "location": "梨梨家门前柿树下",
+      "character_names": [
+        "梨梨"
+      ],
+      "narration_lines": [
+        "桃桃没有说新家也有树。",
+        "她在梨梨旁边坐下，一起看今天的树影慢慢落到手上。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "梨梨家门前柿树下。近景突出手边动作或道具状态。画面：梨梨的掌心接住一小片树影，落叶在掌边。入镜角色：梨梨。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.67,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "树下纸上描出三段不同树影，三位压住纸边",
+      "location": "梨梨家门前柿树下",
+      "character_names": [
+        "梨梨",
+        "皮皮",
+        "桃桃"
+      ],
+      "narration_lines": [
+        "他们在纸上描了一段影子。",
+        "皮皮想描全，梨梨只留了自己最熟悉的那三个小洞。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "俯视呈现平面上的物件和路线",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "梨梨家门前柿树下。俯视呈现平面上的物件和路线。画面：树下纸上描出三段不同树影，三位压住纸边。入镜角色：梨梨、皮皮、桃桃。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.67,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "梨梨把影子画放在纸箱最上面，伙伴从两侧扶住箱口",
+      "location": "梨梨家待搬的客厅",
+      "character_names": [
+        "梨梨",
+        "皮皮",
+        "桃桃"
+      ],
+      "narration_lines": [
+        "回去后，梨梨把画放在最后一个箱子最上面。",
+        "到了新家，她想先把这张取出来。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "梨梨家待搬的客厅。平视中景突出人物姿态和相互位置。画面：梨梨把影子画放在纸箱最上面，伙伴从两侧扶住箱口。入镜角色：梨梨、皮皮、桃桃。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "三位沿柿树外沿走一圈，梨梨抬手朝枝头挥别",
+      "location": "梨梨家门前柿树下",
+      "character_names": [
+        "梨梨",
+        "皮皮",
+        "桃桃"
+      ],
+      "narration_lines": [
+        "关门前，他们再到树下走一圈。",
+        "梨梨摸了摸树皮，轻轻说：“我还会从这条路来。”"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "梨梨家门前柿树下。侧面中景展示动作方向与相邻环境。画面：三位沿柿树外沿走一圈，梨梨抬手朝枝头挥别。入镜角色：梨梨、皮皮、桃桃。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.04,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "桃桃从树下拾一枚落叶递给梨梨，皮皮等在门边",
+      "location": "梨梨家门前柿树下",
+      "character_names": [
+        "梨梨",
+        "皮皮",
+        "桃桃"
+      ],
+      "narration_lines": [
+        "桃桃从地上捡一片叶子给她。",
+        "梨梨把叶夹在画后，这样新地方也能看见它的颜色。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "梨梨家门前柿树下。平视中景突出人物姿态和相互位置。画面：桃桃从树下拾一枚落叶递给梨梨，皮皮等在门边。入镜角色：梨梨、皮皮、桃桃。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.98,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "梨梨端出最后一只纸箱，朋友帮扶住箱侧",
+      "location": "梨梨家待搬的客厅",
+      "character_names": [
+        "梨梨",
+        "皮皮",
+        "桃桃"
+      ],
+      "narration_lines": [
+        "出发时，梨梨自己拿了那个箱子。",
+        "皮皮和桃桃帮着扶两边，走得比来时慢一点。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "梨梨家待搬的客厅。侧面中景展示动作方向与相邻环境。画面：梨梨端出最后一只纸箱，朋友帮扶住箱侧。入镜角色：梨梨、皮皮、桃桃。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "空柿树下影子落在台阶角，几片叶仍在原处",
+      "location": "梨梨家门前柿树下",
+      "character_names": [],
+      "narration_lines": [
+        "柿子树没有跟着搬走。",
+        "傍晚它又落下一片树影，正好盖在他们坐过的地方。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "环境留白为主，关键物件或人物位于上部",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "梨梨家门前柿树下。环境留白为主，关键物件或人物位于上部。画面：空柿树下影子落在台阶角，几片叶仍在原处。入镜角色：无，仅画环境或道具。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 18.09,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v2剧本与九镜已编写，配音、插画、封面、字幕及视频待制作",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/结构化JSON/ep077.json",
+    "scope": "按用户反馈重写人物互动、故事事件、场景及九镜",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始"
+  }
+}

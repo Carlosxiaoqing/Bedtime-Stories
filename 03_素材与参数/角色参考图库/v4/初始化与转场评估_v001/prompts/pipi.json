@@ -1,0 +1,9 @@
+{
+  "id": "pipi",
+  "source": "/Users/ww/.codex/generated_images/01a1c779-b2c5-7591-8e26-7f019d36a778/exec-8e6479eb-f001-44ea-8911-286e74dde6b4.png",
+  "dest": "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+  "prompt": "Use case: identity-preserve / illustration-story. Asset type: production character reference sheet for an existing children's watercolor story protagonist, Pipi, a small warm-gray lop-eared rabbit. Input image 1 is the authoritative EXISTING CHARACTER IDENTITY and watercolor style reference, NOT a scene to reproduce. Preserve this exact rabbit's round face, small soft dark eyes, tiny pink triangular nose, pink cheeks, short soft muzzle, long naturally drooping ears with muted pink interiors, warm gray/taupe fur, rounded childlike body. Create a clean coherent MODEL SHEET on plain warm ivory paper, no bedroom or landscape. Four studies of THE SAME character, well spaced: full-body front without a hat, full-body three-quarter wearing the existing deep navy cap with pale yellow stars and yellow pompom, full-body side without the cap, and a larger face study. Standing neutral friendly posture, simple short rounded paws, consistent proportions in all studies. No outfit except the established cap in that one view; fur remains fully stylized. Match hand-painted muted watercolor and delicate paper grain, soft edges, low contrast, gentle daylight, no glossy 3D or photorealism. No words, labels, letters, numbers, borders, logos, watermark. No other characters, no carrot toy, no blankets. Do not redesign the face or change species. The cap is removable wardrobe, identity must remain recognizable without it.",
+  "reference_inputs": [
+    "/Users/ww/视频/Bedtime-Stories/episodes/ep001/v005/images/shot_01.png"
+  ]
+}

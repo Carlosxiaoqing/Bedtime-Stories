@@ -1,0 +1,91 @@
+{
+  "schema_version": 3,
+  "script_version": "v4",
+  "id": "ep079",
+  "episode": 79,
+  "title": "安静也能一起玩",
+  "theme": "陪伴可以不填满声音",
+  "language": "zh-CN",
+  "production_scope": "adopted_user_long_script",
+  "status": "copyedited_media_not_started",
+  "narration_paragraphs": [
+    {
+      "id": "p001",
+      "text": "平时课间休息的时候，森林学堂的操场上总是热闹非凡，大家一起玩老鹰捉小鸡、跳皮筋，笑声和欢呼声一刻也不停。\n不过今天下午放学后，下了半天毛毛细雨的森林格外宁静。小鼹鼠点点带着一本新借来的无字图画册，来到皮皮家的小木屋做客。"
+    },
+    {
+      "id": "p002",
+      "text": "他们没有在客厅里跑闹，而是搬来两把小木椅，并排坐在卧室靠窗的小桌边。\n那本厚厚的无字小画册，平平展展地摊开在他们两个人的中间。画册上没有一个字，全是用柔和的水彩画出来的森林四季风景。谁也没有急着开口去大声讲故事，屋子里安安静静的。"
+    },
+    {
+      "id": "p003",
+      "text": "第一页画着一座弯弯的石头小桥，清澈的桥洞下，正漂过一片小小的红树叶。\n小鼹鼠点点伸出毛茸茸的小爪子，轻轻指了指桥下的那片红树叶；坐在一旁的皮皮看懂了，微笑着轻轻点了一下头，又用手指了指桥栏杆上停着的一只小蜻蜓。"
+    },
+    {
+      "id": "p004",
+      "text": "就这样，他们不需要用嘴巴说很多话，只要一个眼神、一个手势，就能明白对方看到了什么有趣的小细节。\n看完这一页，皮皮伸爪轻轻翻到下一页。翻过书页之后，两个人都没有急着往下指，而是一起停下来歇了一会儿，竖起耳朵，静静地听着窗外被雨水洗过的树叶，在微风里“沙沙”地轻轻挨着树叶。"
+    },
+    {
+      "id": "p005",
+      "text": "整座小木屋没有像平时做游戏时那样变得热热闹闹，可是你看，在温暖的窗灯下，有两双放松的小爪子，正安安静静地靠在同一张小木桌边。这份不说话的默契，让人心里觉得无比踏实、无比温暖。\n一直看到画册的最后一页，天色已经完全黑了下来。点点拿来一条布书签夹好，皮皮则轻轻合上画册的封皮，起身把好朋友送到了门廊门口。"
+    },
+    {
+      "id": "p006",
+      "text": "点点挥挥手回家去了。那段没有说很多话、却格外美好的傍晚时光，留在了窗边的小木桌上，也稳稳地留在了皮皮暖暖的心窝里。\n洗漱完毕，皮皮钻进暖黄色的毛毯里，把胡萝卜玩偶抱在身边，特意在枕头旁拍了拍，就像是给刚才那份舒服的“安静”，也在床上留了一个专属的小座位。"
+    },
+    {
+      "id": "p007",
+      "text": "皮皮的眼睛慢慢闭合。此时此刻，房间里的声音很少很少，可是那种被好朋友和温暖包围着的陪伴感，却一点儿也不少。\n小朋友，好朋友在一起的时候，不一定要一直热热闹闹地说话；今晚睡觉的时候，你也可以安安静静地待着，让喜欢的小伙伴轻轻陪着你。晚安。"
+    }
+  ],
+  "cn_characters": 774,
+  "narration_sha256": "75e1c403bf9b060baa5b1c07f5c3ea765b57cf07ff4707e986fc432fb71ff15e",
+  "source": {
+    "path": "/Users/ww/Downloads/100集睡前故事合集.md",
+    "sha256": "3feafa137e94824baccf8b6e3f3f24bac3e97714b2e201fcc48d461d8969c302",
+    "original_narration_sha256": "75e1c403bf9b060baa5b1c07f5c3ea765b57cf07ff4707e986fc432fb71ff15e",
+    "original_paragraph_count": 7
+  },
+  "revision_record": [],
+  "duration_policy": {
+    "basis": "complete_narration_at_current_voice_settings",
+    "limit_s": null,
+    "delete_for_duration": false,
+    "time_stretch": false
+  },
+  "voice": {
+    "config": "03_素材与参数/配音与声音参数.json",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000
+  },
+  "actual_duration_s": null,
+  "character_registry": "03_素材与参数/用户长稿v4角色图库.json",
+  "storyboard": {
+    "status": "not_started",
+    "shots": [],
+    "timing_basis": "actual_audio",
+    "preferred_hold_s": [
+      8,
+      10
+    ],
+    "review_above_s": 15,
+    "short_action_hold_s": [
+      3,
+      5
+    ]
+  },
+  "material_state": {
+    "voice": "not_started",
+    "character_references": "not_generated",
+    "illustrations": "not_started",
+    "cover": "not_started",
+    "pinyin_review": "not_started",
+    "render": "not_started",
+    "technical_check": "not_started",
+    "human_watch": "not_started",
+    "user_acceptance": "not_recorded"
+  }
+}

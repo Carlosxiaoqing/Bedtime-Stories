@@ -1,0 +1,188 @@
+{
+  "schema_version": 2,
+  "id": "ep075",
+  "episode": 75,
+  "title": "轻轻的小招呼",
+  "theme": "温柔表达不需要很大声音",
+  "setting": "门廊与卧室",
+  "guest": "小刺猬栗栗",
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "约90–120秒；以实际配音为准",
+  "cn_characters": 241,
+  "initial_duration_budget_s": 97.1,
+  "shots": [
+    {
+      "id": 1,
+      "title": "门口栗栗递来叶子",
+      "narration_lines": [
+        "小刺猬栗栗来送一片漂亮叶子，皮皮站在门里，想说谢谢，声音却轻轻的。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "中景建立环境，主体位置清楚",
+      "image": "images/shot_01.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：门口栗栗递来叶子。镜位：中景建立环境，主体位置清楚。",
+      "initial_budget_s": 11.01,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "桌上叶子与安坐栗栗",
+      "narration_lines": [
+        "栗栗没有催他，只把叶子放到小桌上，在旁边，慢慢坐了一会儿。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "主体或物件近景，保留地点线索",
+      "image": "images/shot_02.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：桌上叶子与安坐栗栗。镜位：主体或物件近景，保留地点线索。",
+      "initial_budget_s": 8.76,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "皮皮递出软垫木碟",
+      "narration_lines": [
+        "皮皮拿来另一只软垫，放在栗栗身后，又把小木碟，轻轻推近。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "中近景呈现动作后的稳定姿态",
+      "image": "images/shot_03.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：皮皮递出软垫木碟。镜位：中近景呈现动作后的稳定姿态。",
+      "initial_budget_s": 8.45,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "两位朋友温柔对望",
+      "narration_lines": [
+        "这些小动作，都像一个安静的招呼。",
+        "栗栗看着他，嘴角，也慢慢弯起来。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "细节特写，避免裁掉必要的爪子或道具",
+      "image": "images/shot_04.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：两位朋友温柔对望。镜位：细节特写，避免裁掉必要的爪子或道具。",
+      "initial_budget_s": 10.11,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "皮皮轻声说谢谢",
+      "narration_lines": [
+        "皮皮这才轻轻说，谢谢。",
+        "声音没有变得很大，却已经，送到朋友身边了。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "中景呈现情境变化，留低细节空间",
+      "image": "images/shot_05.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：皮皮轻声说谢谢。镜位：中景呈现情境变化，留低细节空间。",
+      "initial_budget_s": 10.11,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "朋友门前轻声道别",
+      "narration_lines": [
+        "他们一起看了看叶子，就在门口道晚安。",
+        "今天的相见，柔柔的，已经很好。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "主体近景，暖光方向延续",
+      "image": "images/shot_06.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：朋友门前轻声道别。镜位：主体近景，暖光方向延续。",
+      "initial_budget_s": 10.42,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "皮皮在枕边放松耳朵",
+      "narration_lines": [
+        "皮皮回到小床，把长耳朵放松。",
+        "没有说得热热闹闹，也能有，亲近的时光。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "安顿动作中景或安静环境近景",
+      "image": "images/shot_07.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：皮皮在枕边放松耳朵。镜位：安顿动作中景或安静环境近景。",
+      "initial_budget_s": 10.42,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "爪心玩偶与闭眼",
+      "narration_lines": [
+        "玩偶贴着爪心，眼睛慢慢闭上。",
+        "那句轻轻的谢谢，还暖暖地，留在心里。"
+      ],
+      "pause_after_s": [
+        1.1,
+        1.1
+      ],
+      "camera": "放松姿态近景，光线略柔暗",
+      "image": "images/shot_08.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：爪心玩偶与闭眼。镜位：放松姿态近景，光线略柔暗。",
+      "initial_budget_s": 10.64,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "桌上秋叶与睡眠远景",
+      "narration_lines": [
+        "小朋友，按照舒服的方式，表达自己的温柔吧。",
+        "现在，安心歇着，晚安。"
+      ],
+      "pause_after_s": [
+        1.1,
+        8.0
+      ],
+      "camera": "木屋卧室或可见卧室的中远景收束，主体安睡",
+      "image": "images/shot_09.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：桌上秋叶与睡眠远景。镜位：木屋卧室或可见卧室的中远景收束，主体安睡。",
+      "initial_budget_s": 17.23,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "需按本集提示词生成图片并合成配音；不含尚未制作的图片或音频",
+  "shared_config": "03_素材与参数/共用画风与提示词.json",
+  "character_names": [
+    "皮皮",
+    "小刺猬栗栗"
+  ]
+}

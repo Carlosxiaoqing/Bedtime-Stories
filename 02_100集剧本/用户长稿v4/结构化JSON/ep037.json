@@ -1,0 +1,91 @@
+{
+  "schema_version": 3,
+  "script_version": "v4",
+  "id": "ep037",
+  "episode": 37,
+  "title": "一根羽毛的休息",
+  "theme": "轻轻的东西也可以安稳停下",
+  "language": "zh-CN",
+  "production_scope": "adopted_user_long_script",
+  "status": "copyedited_media_not_started",
+  "narration_paragraphs": [
+    {
+      "id": "p001",
+      "text": "今天下午在森林学堂的操场上，山羊老师带着大家玩“羽毛球拍托气球”的游戏。\n大家在草地上跑来跑去，仰着头，竖着耳朵，眼睛一刻也不眨地盯着空中飘浮的气球，生怕它掉在地上。皮皮玩得特别投入，连两只长耳朵都一直高高地竖着。"
+    },
+    {
+      "id": "p002",
+      "text": "傍晚放学回到家，皮皮推开卧室的窗户透气时，一阵秋风吹过，一根洁白干净的小鸟羽毛，从树冠间飘飘悠悠地落了下来，正好停在了皮皮家的木头窗台上。\n那根小羽毛实在是太轻、太软了。窗外只要有一丁点儿微风经过，羽毛尖上细细的绒毛就会轻轻发抖，整根羽毛也在光滑的窗台木板上转来转去，好像还带着白天的风，怎么也停不稳当。"
+    },
+    {
+      "id": "p003",
+      "text": "皮皮把小爪子停在窗台旁边，没有冒失地去抓它，只是静静地看它转了半个方向，又慢吞吞地靠回窗框边。\n皮皮心想：这根小羽毛在天上飞了那么久，现在一定也很想找个不会被风吹跑的地方，安安稳稳地睡一觉吧。"
+    },
+    {
+      "id": "p004",
+      "text": "于是，皮皮转身从书架上找来了一只浅浅的圆形小木碟，在碟子底部铺上了一小片有些粗糙纹理的纯棉布，然后屏住呼吸，捏起羽毛根部，把它轻轻地放进了木碟里。\n有了棉布温柔的摩擦力，小羽毛一下子就有了平稳的依靠，再也不会在光滑的窗台上乱滑、乱撞窗框了。它边缘那些细细密密的白色绒毛，也终于放心地舒展开来。"
+    },
+    {
+      "id": "p005",
+      "text": "皮皮把这只盛着羽毛的小木碟，挪到了窗台内侧一个不挡风的安静角落里。这样，外面的窗帘依然有地方轻轻摇晃，而小羽毛也有了安稳停歇的小窝。\n天色渐渐暗透了，小木碟里的白羽毛映着一小块银色的月光，一动不动，像是终于把白天所有的风都慢慢放下了。"
+    },
+    {
+      "id": "p006",
+      "text": "皮皮洗漱完躺回枕头上。他摸了摸自己竖了一整天的两只长耳朵，也让它们像那根小羽毛一样，轻轻地、软软地落在了枕头两边，不用再一直竖着去听外面的动静了。\n他抱住胡萝卜玩偶，闭上眼睛。窗台上的小羽毛，和小床上的小兔子，都已经安顿好了。"
+    },
+    {
+      "id": "p007",
+      "text": "小朋友，把你身体里还绷着的小肩膀、小拳头，也像小羽毛一样慢慢松开吧。让轻轻的夜晚，陪你安稳休息。晚安。"
+    }
+  ],
+  "cn_characters": 705,
+  "narration_sha256": "f90ab838710a758d8770da42e05af142ed6386aec3f51cbda28fa56ef34fca6f",
+  "source": {
+    "path": "/Users/ww/Downloads/100集睡前故事合集.md",
+    "sha256": "3feafa137e94824baccf8b6e3f3f24bac3e97714b2e201fcc48d461d8969c302",
+    "original_narration_sha256": "f90ab838710a758d8770da42e05af142ed6386aec3f51cbda28fa56ef34fca6f",
+    "original_paragraph_count": 7
+  },
+  "revision_record": [],
+  "duration_policy": {
+    "basis": "complete_narration_at_current_voice_settings",
+    "limit_s": null,
+    "delete_for_duration": false,
+    "time_stretch": false
+  },
+  "voice": {
+    "config": "03_素材与参数/配音与声音参数.json",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000
+  },
+  "actual_duration_s": null,
+  "character_registry": "03_素材与参数/用户长稿v4角色图库.json",
+  "storyboard": {
+    "status": "not_started",
+    "shots": [],
+    "timing_basis": "actual_audio",
+    "preferred_hold_s": [
+      8,
+      10
+    ],
+    "review_above_s": 15,
+    "short_action_hold_s": [
+      3,
+      5
+    ]
+  },
+  "material_state": {
+    "voice": "not_started",
+    "character_references": "not_generated",
+    "illustrations": "not_started",
+    "cover": "not_started",
+    "pinyin_review": "not_started",
+    "render": "not_started",
+    "technical_check": "not_started",
+    "human_watch": "not_started",
+    "user_acceptance": "not_recorded"
+  }
+}

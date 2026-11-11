@@ -1,0 +1,17 @@
+{
+  "text": "小枕头轻轻托着他，像接住一片落下的叶子。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "edge_tts": "7.3.1",
+  "fingerprint": "6ded084445d67c2913df052a3eb3d06fb82820f0cb8843690a363182c9f22373",
+  "boundaries": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 1000000,
+      "duration": 66615380,
+      "text": "小枕头轻轻托着他，像接住一片落下的叶子。"
+    }
+  ]
+}

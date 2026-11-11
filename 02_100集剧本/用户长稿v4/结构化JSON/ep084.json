@@ -1,0 +1,95 @@
+{
+  "schema_version": 3,
+  "script_version": "v4",
+  "id": "ep084",
+  "episode": 84,
+  "title": "蒲公英的轻信",
+  "theme": "送出的温柔不必一直追着",
+  "language": "zh-CN",
+  "production_scope": "adopted_user_long_script",
+  "status": "copyedited_media_not_started",
+  "narration_paragraphs": [
+    {
+      "id": "p001",
+      "text": "今天下午，皮皮和小鹿芽芽去森林学堂后面的向阳山坡上写生。\n那里的草丛间，长着好几株已经结出白色绒球的蒲公英。每一株蒲公英都像举着一小把白白软软的棉花糖，安安静静地坐在细细高高的绿色花茎上。"
+    },
+    {
+      "id": "p002",
+      "text": "画完画准备回家的时候，皮皮蹲在一株最大的蒲公英绒球前，在心里默默许了一个美好的愿望——祝愿森林里的每一个好朋友，今晚都能做一个甜甜的好梦。\n就在皮皮许完愿的时候，一阵温柔的傍晚轻风从山坡上吹过，“呼——”"
+    },
+    {
+      "id": "p003",
+      "text": "只见那把白白的小绒球轻轻晃了晃，上面有好几粒带着白色小绒伞的蒲公英种子，顺着风势轻轻脱离了花茎，慢悠悠地飞向了半空中！它们看起来，就像几封没有重量的、洁白的小信件，带着皮皮刚刚许下的祝福出发了。\n要是放在以前，皮皮看到蒲公英飞走了，肯定会迈开小短腿跟在后面追着跑，想看清每一粒种子到底飞到了哪里，甚至想伸出爪子把它们一粒粒抓回来。"
+    },
+    {
+      "id": "p004",
+      "text": "可是今天，皮皮没有伸出小爪子去抓，也没有迈步去追。他只是背着小书包，安安静静地站在山坡的小路边，用温柔的目光送了它们一小会儿。\n他看见有一粒小绒伞飞得近一点，晃晃悠悠地落在了路边的三叶草叶片旁；还有一粒飞得高一点，顺着微风飘进了不远处温暖的树影里。每一粒小种子，都有风为它指引的、属于自己的方向。"
+    },
+    {
+      "id": "p005",
+      "text": "到了晚上，皮皮回到了自己的小木屋里。他把今天在山坡上画好的那幅水彩小画，端端正正地摆在了床头柜上。\n画纸上，还清晰地留着那株没有散完的白白小绒球，和几朵飘在空中的小绒伞。"
+    },
+    {
+      "id": "p006",
+      "text": "皮皮钻进被窝，对着画纸轻声说了一句：“晚安，小种子们。”\n他心里明白了一个特别让人放松的道理：当我们把一份温暖的祝福、或者一封饱含心意的轻信送出去以后，是不需要跟在后面跑一整晚，去确认每一封信到底落在了哪片草叶上的；只要送出了温柔，这件事就已经很美好了。"
+    },
+    {
+      "id": "p007",
+      "text": "暖黄色的毛毯暖暖地贴住身体。皮皮把两只小爪子彻底放松下来，思绪不再追着白天的山风往远方跑了。\n他的眼睛轻轻闭好。外面那些飘落的蒲公英小信件，此时也一定在草丛和泥土里找到了自己的小窝，正慢慢地歇着呢。"
+    },
+    {
+      "id": "p008",
+      "text": "小朋友，白天你对别人说过的温柔话语、送出的善意，都已经像蒲公英一样稳稳落下啦。现在，收回远望的目光，记得好好陪陪自己，安心睡个好觉吧。晚安。"
+    }
+  ],
+  "cn_characters": 803,
+  "narration_sha256": "6ec5b667995b49b1ab10536b6f2c8f6a05e1fd3831badcd1521e649d08482e12",
+  "source": {
+    "path": "/Users/ww/Downloads/100集睡前故事合集.md",
+    "sha256": "3feafa137e94824baccf8b6e3f3f24bac3e97714b2e201fcc48d461d8969c302",
+    "original_narration_sha256": "6ec5b667995b49b1ab10536b6f2c8f6a05e1fd3831badcd1521e649d08482e12",
+    "original_paragraph_count": 8
+  },
+  "revision_record": [],
+  "duration_policy": {
+    "basis": "complete_narration_at_current_voice_settings",
+    "limit_s": null,
+    "delete_for_duration": false,
+    "time_stretch": false
+  },
+  "voice": {
+    "config": "03_素材与参数/配音与声音参数.json",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000
+  },
+  "actual_duration_s": null,
+  "character_registry": "03_素材与参数/用户长稿v4角色图库.json",
+  "storyboard": {
+    "status": "not_started",
+    "shots": [],
+    "timing_basis": "actual_audio",
+    "preferred_hold_s": [
+      8,
+      10
+    ],
+    "review_above_s": 15,
+    "short_action_hold_s": [
+      3,
+      5
+    ]
+  },
+  "material_state": {
+    "voice": "not_started",
+    "character_references": "not_generated",
+    "illustrations": "not_started",
+    "cover": "not_started",
+    "pinyin_review": "not_started",
+    "render": "not_started",
+    "technical_check": "not_started",
+    "human_watch": "not_started",
+    "user_acceptance": "not_recorded"
+  }
+}

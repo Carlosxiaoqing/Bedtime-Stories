@@ -1,0 +1,254 @@
+{
+  "schema_version": 2,
+  "script_version": "v2",
+  "id": "ep012",
+  "episode": 12,
+  "title": "豆豆的荷叶邀请",
+  "cover_title": "荷叶邀请",
+  "category": "自然",
+  "theme": "想一起玩可以先问对方",
+  "setting": "蒲草塘木栈道、蒲草塘岸边的观察台",
+  "viewpoint_character": "豆豆",
+  "guest": "豆豆、慢慢",
+  "character_names": [
+    "豆豆",
+    "皮皮",
+    "慢慢"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "按晓晓-35%实际口播、停顿和约8秒尾声确定",
+  "cn_characters": 246,
+  "initial_duration_budget_s": 99.22,
+  "shots": [
+    {
+      "id": 1,
+      "title": "鸭子豆豆站在蒲草边，皮皮在木栈道停步",
+      "location": "蒲草塘木栈道",
+      "character_names": [
+        "豆豆",
+        "皮皮",
+        "慢慢"
+      ],
+      "narration_lines": [
+        "豆豆想请朋友看她找到的荷叶。",
+        "她刚把叶柄举高，小蜗牛慢慢缩进了壳。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "蒲草塘木栈道。竖幅远景交代空间和前后层次。画面：鸭子豆豆站在蒲草边，皮皮在木栈道停步。入镜角色：豆豆、皮皮、慢慢。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "豆豆放低叶柄，叶面遮住半条窄道",
+      "location": "蒲草塘木栈道",
+      "character_names": [
+        "豆豆"
+      ],
+      "narration_lines": [
+        "豆豆以为慢慢不喜欢荷叶，准备拿走。",
+        "皮皮指了指叶子落下的影子。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "蒲草塘木栈道。近景突出手边动作或道具状态。画面：豆豆放低叶柄，叶面遮住半条窄道。入镜角色：豆豆。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.11,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "慢慢的触角探出，叶影盖住他前方的细路",
+      "location": "蒲草塘木栈道",
+      "character_names": [
+        "慢慢"
+      ],
+      "narration_lines": [
+        "原来叶子挡住了慢慢要走的路。",
+        "他没有看见朋友，只看见一片突然来的暗影。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "低视角凸显脚边、地面与人物尺度",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "蒲草塘木栈道。低视角凸显脚边、地面与人物尺度。画面：慢慢的触角探出，叶影盖住他前方的细路。入镜角色：慢慢。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "豆豆侧身把叶柄拿到路旁，皮皮蹲在低处",
+      "location": "蒲草塘木栈道",
+      "character_names": [
+        "豆豆",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "豆豆把叶子移到旁边，低下头问：“我在前面的台子等你，好吗？”"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "蒲草塘木栈道。平视中景突出人物姿态和相互位置。画面：豆豆侧身把叶柄拿到路旁，皮皮蹲在低处。入镜角色：豆豆、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 8.45,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "慢慢向前探身，豆豆在前方平台边留出空位",
+      "location": "蒲草塘木栈道",
+      "character_names": [
+        "豆豆",
+        "慢慢"
+      ],
+      "narration_lines": [
+        "慢慢伸出两根触角，慢吞吞往前走。",
+        "豆豆也放慢了脚步，跟他走同一段路。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "蒲草塘木栈道。侧面中景展示动作方向与相邻环境。画面：慢慢向前探身，豆豆在前方平台边留出空位。入镜角色：豆豆、慢慢。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "观察台矮沿上荷叶平展，慢慢停在边缘干处",
+      "location": "蒲草塘岸边的观察台",
+      "character_names": [
+        "豆豆",
+        "皮皮",
+        "慢慢"
+      ],
+      "narration_lines": [
+        "到了观察台，他们把叶子平放下来。",
+        "叶面有几颗水珠，围着叶脉排成一圈。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "俯视呈现平面上的物件和路线",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "蒲草塘岸边的观察台。俯视呈现平面上的物件和路线。画面：观察台矮沿上荷叶平展，慢慢停在边缘干处。入镜角色：豆豆、皮皮、慢慢。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "豆豆的翅尖指着一颗滚到叶角的水珠",
+      "location": "蒲草塘岸边的观察台",
+      "character_names": [
+        "豆豆",
+        "慢慢"
+      ],
+      "narration_lines": [
+        "豆豆轻轻抬起一角。",
+        "水珠滚了半圈，慢慢也转过半个身子去看。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "蒲草塘岸边的观察台。近景突出手边动作或道具状态。画面：豆豆的翅尖指着一颗滚到叶角的水珠。入镜角色：豆豆、慢慢。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 9.48,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "三个朋友从不同高度看荷叶，互相留有空隙",
+      "location": "蒲草塘岸边的观察台",
+      "character_names": [
+        "豆豆",
+        "皮皮",
+        "慢慢"
+      ],
+      "narration_lines": [
+        "这回，豆豆问：“还要再看一次吗？”",
+        "慢慢把触角伸得长长的。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "蒲草塘岸边的观察台。平视中景突出人物姿态和相互位置。画面：三个朋友从不同高度看荷叶，互相留有空隙。入镜角色：豆豆、皮皮、慢慢。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 8.54,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "荷叶平放在空台面上，蒲草和塘水占远景",
+      "location": "蒲草塘岸边的观察台",
+      "character_names": [],
+      "narration_lines": [
+        "那颗水珠后来停在叶尖。",
+        "豆豆把叶子放稳，让下一个经过的朋友也能看见。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "蒲草塘岸边的观察台。近景突出手边动作或道具状态。画面：荷叶平放在空台面上，蒲草和塘水占远景。入镜角色：无，仅画环境或道具。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 18.09,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v2剧本与九镜已编写，配音、插画、封面、字幕及视频待制作",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/结构化JSON/ep012.json",
+    "scope": "按用户反馈重写人物互动、故事事件、场景及九镜",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始"
+  }
+}

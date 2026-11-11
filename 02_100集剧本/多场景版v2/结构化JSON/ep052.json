@@ -1,0 +1,258 @@
+{
+  "schema_version": 2,
+  "script_version": "v2",
+  "id": "ep052",
+  "episode": 52,
+  "title": "花圃门口的半朵花",
+  "cover_title": "半朵花",
+  "category": "自然",
+  "theme": "发现小生命自己的节奏",
+  "setting": "蝶园边缘的花坛、蝶园观察亭",
+  "viewpoint_character": "芽芽",
+  "guest": "芽芽、桃桃",
+  "character_names": [
+    "芽芽",
+    "桃桃",
+    "皮皮"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "按晓晓-35%实际口播、停顿和约8秒尾声确定",
+  "cn_characters": 304,
+  "initial_duration_budget_s": 118.07,
+  "shots": [
+    {
+      "id": 1,
+      "title": "芽芽、桃桃与皮皮在蝶园花坛外看一朵半开的花",
+      "location": "蝶园边缘的花坛",
+      "character_names": [
+        "芽芽",
+        "桃桃",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "芽芽给朋友看一朵半开的花。",
+        "桃桃以为它早上就会全开，等到午后，还是只开了一半。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "蝶园边缘的花坛。竖幅远景交代空间和前后层次。画面：芽芽、桃桃与皮皮在蝶园花坛外看一朵半开的花。入镜角色：芽芽、桃桃、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.29,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "芽芽在栏外指向同一枝上合拢与展开的两朵花",
+      "location": "蝶园边缘的花坛",
+      "character_names": [
+        "芽芽"
+      ],
+      "narration_lines": [
+        "同一根枝上，旁边有一朵全开，一朵还合着。",
+        "芽芽说，可以先看看来找它们的是谁。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "蝶园边缘的花坛。近景突出手边动作或道具状态。画面：芽芽在栏外指向同一枝上合拢与展开的两朵花。入镜角色：芽芽。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.67,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "三位在观察亭坐好，面向不同高度的花梗",
+      "location": "蝶园观察亭",
+      "character_names": [
+        "芽芽",
+        "桃桃",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "他们搬到亭子里。",
+        "皮皮负责看开大的那朵，桃桃看还合着的，芽芽看半开的。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "蝶园观察亭。平视中景突出人物姿态和相互位置。画面：三位在观察亭坐好，面向不同高度的花梗。入镜角色：芽芽、桃桃、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.04,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "越过芽芽肩背，看半开花边停着一只淡黄蝴蝶",
+      "location": "蝶园边缘的花坛",
+      "character_names": [
+        "芽芽"
+      ],
+      "narration_lines": [
+        "过了一会儿，半开花边来了只蝴蝶。",
+        "它停在露出来的花瓣上，又飞去另一枝。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "越肩构图同时看见观察者与目标",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "蝶园边缘的花坛。越肩构图同时看见观察者与目标。画面：越过芽芽肩背，看半开花边停着一只淡黄蝴蝶。入镜角色：芽芽。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.04,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "全开花蕊旁有两只小虫，皮皮只从栏外观察",
+      "location": "蝶园边缘的花坛",
+      "character_names": [
+        "皮皮"
+      ],
+      "narration_lines": [
+        "皮皮那边也有小虫。",
+        "桃桃却看见，一滴雨正好停在合拢的花尖，像一颗小珠子。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "蝶园边缘的花坛。近景突出手边动作或道具状态。画面：全开花蕊旁有两只小虫，皮皮只从栏外观察。入镜角色：皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "观察亭里三位交换坐位，半开花与花苞在不同视线末端",
+      "location": "蝶园观察亭",
+      "character_names": [
+        "芽芽",
+        "桃桃",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "三个朋友交换了位置。",
+        "桃桃到芽芽那边看看蝴蝶歇过的地方，皮皮则发现，花苞上的水珠亮得很清楚。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "蝶园观察亭。平视中景突出人物姿态和相互位置。画面：观察亭里三位交换坐位，半开花与花苞在不同视线末端。入镜角色：芽芽、桃桃、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 14.48,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "桃桃靠亭内低栏，远处未开的花苞尖留一颗清水珠",
+      "location": "蝶园观察亭",
+      "character_names": [
+        "桃桃"
+      ],
+      "narration_lines": [
+        "桃桃又坐回原处。",
+        "她最想看的还是那滴水，风一来，水珠在合着的花尖上轻轻晃了一下。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "越肩构图同时看见观察者与目标",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "蝶园观察亭。越肩构图同时看见观察者与目标。画面：桃桃靠亭内低栏，远处未开的花苞尖留一颗清水珠。入镜角色：桃桃。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.61,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "三位从花坛旁离开，半开花仍在原位",
+      "location": "蝶园边缘的花坛",
+      "character_names": [
+        "芽芽",
+        "桃桃",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "离开时，芽芽回头看了一眼。",
+        "花还是半开着，几只小虫都飞到更远的地方去了。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "蝶园边缘的花坛。侧面中景展示动作方向与相邻环境。画面：三位从花坛旁离开，半开花仍在原位。入镜角色：芽芽、桃桃、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "桃桃在花坛外示意低坐位，芽芽弯身看花尖亮点",
+      "location": "蝶园边缘的花坛",
+      "character_names": [
+        "桃桃",
+        "芽芽"
+      ],
+      "narration_lines": [
+        "到门口，桃桃回头给芽芽指了指自己刚才坐的位置。",
+        "芽芽也学她低下一点，果然看见花尖亮了一下。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "蝶园边缘的花坛。侧面中景展示动作方向与相邻环境。画面：桃桃在花坛外示意低坐位，芽芽弯身看花尖亮点。入镜角色：桃桃、芽芽。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 21.22,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v2剧本与九镜已编写，配音、插画、封面、字幕及视频待制作",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/结构化JSON/ep052.json",
+    "scope": "按用户反馈重写人物互动、故事事件、场景及九镜",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始"
+  }
+}

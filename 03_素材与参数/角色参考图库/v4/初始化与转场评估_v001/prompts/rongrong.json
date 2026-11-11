@@ -1,0 +1,9 @@
+{
+  "id": "rongrong",
+  "source": "/Users/ww/.codex/generated_images/01a1c779-b2c5-7591-8e26-7f019d36a778/exec-606d80be-abdb-4527-91b8-ac315805ce66.png",
+  "dest": "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/rongrong_identity_v001.png",
+  "prompt": "Use case: illustration-story. Asset type: production CHARACTER IDENTITY MODEL SHEET for a watercolor children's story. Input image 1 is ONLY the shared watercolor STYLE reference: do NOT copy its rabbit species, face, ears, hat or markings. Plain warm ivory watercolor paper backdrop, four well-separated studies of ONE identical character: front full-body, three-quarter full-body, side full-body, large face portrait. Consistent proportions, colors, facial features and clothing across all four views. Quiet standing poses, rounded friendly forms, small gentle dark eyes, muted colors, delicate paper grain, hand-painted soft edges and low contrast. No scene, furniture, other characters, letters, numbers, labels, text, grid lines, borders or watermark. Not 3D, not photorealistic, not a toy photograph. Subject: Rongrong, a friendly young woodland BROWN BEAR, broad sturdy rounded body, short powerful rounded arms and paws, round ears, pale tan-brown fur and cream-beige muzzle, small dark nose and gentle small dark eyes. Physically bigger and broader than the rabbit in the style reference, approximately 1.4 times its standing height, but this sheet contains only the bear. Wearing a simple muted dark forest-green vest. No cap, no scarf, no rabbit features. Warm, shy, dependable expression, never imposing or aggressive.",
+  "reference_inputs": [
+    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+  ]
+}

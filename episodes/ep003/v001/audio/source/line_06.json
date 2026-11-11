@@ -1,0 +1,17 @@
+{
+  "text": "皮皮看着它笑了。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "edge_tts": "7.3.1",
+  "fingerprint": "b830e8816d79ff32d92b500542c1bc79ea5042230c78f3080d4a7b9d708a97cb",
+  "boundaries": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 1000000,
+      "duration": 29692306,
+      "text": "皮皮看着它笑了。"
+    }
+  ]
+}

@@ -1,0 +1,261 @@
+{
+  "schema_version": 2,
+  "script_version": "v2",
+  "id": "ep086",
+  "episode": 86,
+  "title": "会放大悄悄话的杯子",
+  "cover_title": "悄悄话杯",
+  "category": "想象",
+  "theme": "别人的心事可以留给对方自己讲",
+  "setting": "回声集市的杯子铺、杯子铺外的静石凳",
+  "viewpoint_character": "桃桃",
+  "guest": "桃桃、梨梨、米米",
+  "character_names": [
+    "桃桃",
+    "梨梨",
+    "米米"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "按晓晓-35%实际口播、停顿和约8秒尾声确定",
+  "cn_characters": 275,
+  "initial_duration_budget_s": 109.71,
+  "shots": [
+    {
+      "id": 1,
+      "title": "杯铺摆高矮回声杯，桃桃与梨梨米米在柜台前试杯",
+      "location": "回声集市的杯子铺",
+      "character_names": [
+        "桃桃",
+        "梨梨",
+        "米米"
+      ],
+      "narration_lines": [
+        "回声集市有一种杯子，朝里说话，杯口就把声音放大。",
+        "桃桃用它喊了一声自己的名字。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "回声集市的杯子铺。竖幅远景交代空间和前后层次。画面：杯铺摆高矮回声杯，桃桃与梨梨米米在柜台前试杯。入镜角色：桃桃、梨梨、米米。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.29,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "梨梨靠桃桃耳边说话，桃桃的手仍握杯柄",
+      "location": "回声集市的杯子铺",
+      "character_names": [
+        "桃桃",
+        "梨梨"
+      ],
+      "narration_lines": [
+        "梨梨凑近，想告诉桃桃明天要送给米米什么。",
+        "桃桃顺手把杯口也举了起来。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "回声集市的杯子铺。平视中景突出人物姿态和相互位置。画面：梨梨靠桃桃耳边说话，桃桃的手仍握杯柄。入镜角色：桃桃、梨梨。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.04,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "桃桃手中杯口转向身侧，杯边离梨梨的嘴拉开",
+      "location": "回声集市的杯子铺",
+      "character_names": [
+        "桃桃"
+      ],
+      "narration_lines": [
+        "梨梨轻轻碰了一下杯柄。",
+        "桃桃立刻放低杯子，才听懂她想先只告诉自己。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "回声集市的杯子铺。近景突出手边动作或道具状态。画面：桃桃手中杯口转向身侧，杯边离梨梨的嘴拉开。入镜角色：桃桃。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "两个朋友在静石凳并坐，回声杯留在铺内",
+      "location": "杯子铺外的静石凳",
+      "character_names": [
+        "桃桃",
+        "梨梨"
+      ],
+      "narration_lines": [
+        "她们坐到铺外去。",
+        "梨梨用原来的声音说了一遍，是她亲手折的一朵小纸花。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "杯子铺外的静石凳。平视中景突出人物姿态和相互位置。画面：两个朋友在静石凳并坐，回声杯留在铺内。入镜角色：桃桃、梨梨。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.04,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "桃桃走回柜台，手掌离开回声杯，米米从对面向她询问",
+      "location": "回声集市的杯子铺",
+      "character_names": [
+        "桃桃",
+        "米米",
+        "梨梨"
+      ],
+      "narration_lines": [
+        "桃桃答应让梨梨自己送礼物。",
+        "回到铺里，米米问她们聊了什么，桃桃说是明天才会知道的事。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "回声集市的杯子铺。平视中景突出人物姿态和相互位置。画面：桃桃走回柜台，手掌离开回声杯，米米从对面向她询问。入镜角色：桃桃、米米、梨梨。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 13.23,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "米米试着对杯子说自己的名字，两个朋友在旁微笑",
+      "location": "回声集市的杯子铺",
+      "character_names": [
+        "桃桃",
+        "梨梨",
+        "米米"
+      ],
+      "narration_lines": [
+        "米米也试着喊自己的名字。",
+        "杯子回了一声米米，大家听见都笑了。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "回声集市的杯子铺。侧面中景展示动作方向与相邻环境。画面：米米试着对杯子说自己的名字，两个朋友在旁微笑。入镜角色：桃桃、梨梨、米米。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 9.79,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "三个朋友在柜台试用软布盖杯，杯形稳放在台面",
+      "location": "回声集市的杯子铺",
+      "character_names": [
+        "桃桃",
+        "梨梨",
+        "米米"
+      ],
+      "narration_lines": [
+        "收好杯子前，梨梨给它盖了块软布。",
+        "米米问，有些话不进杯子，也会有人听见吗？"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "回声集市的杯子铺。平视中景突出人物姿态和相互位置。画面：三个朋友在柜台试用软布盖杯，杯形稳放在台面。入镜角色：桃桃、梨梨、米米。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "三个朋友在石凳肩并肩，梨梨向米米递一枚折纸叶",
+      "location": "杯子铺外的静石凳",
+      "character_names": [
+        "桃桃",
+        "梨梨",
+        "米米"
+      ],
+      "narration_lines": [
+        "“会呀。”",
+        "桃桃说。",
+        "梨梨先给米米一片折好的叶子，让她猜明天还会收到什么。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "杯子铺外的静石凳。平视中景突出人物姿态和相互位置。画面：三个朋友在石凳肩并肩，梨梨向米米递一枚折纸叶。入镜角色：桃桃、梨梨、米米。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.45,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "静石凳空了半边，柜台上的回声杯覆浅布",
+      "location": "杯子铺外的静石凳",
+      "character_names": [],
+      "narration_lines": [
+        "离开时，杯子没有再说话。",
+        "那件小小的心事，已经在两位朋友中间放好了。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "环境留白为主，关键物件或人物位于上部",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "杯子铺外的静石凳。环境留白为主，关键物件或人物位于上部。画面：静石凳空了半边，柜台上的回声杯覆浅布。入镜角色：无，仅画环境或道具。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 17.78,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v2剧本与九镜已编写，配音、插画、封面、字幕及视频待制作",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/结构化JSON/ep086.json",
+    "scope": "按用户反馈重写人物互动、故事事件、场景及九镜",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始"
+  }
+}

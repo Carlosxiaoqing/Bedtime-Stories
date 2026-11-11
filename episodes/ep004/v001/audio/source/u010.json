@@ -1,0 +1,107 @@
+{
+  "text": "他们打开小布包，一人分了一块散发着奶香的燕麦小饼干。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "56bf6821150c567a8acefc88de053aeac9f3caf7efe1e6f9d40fd07f8466defc",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 3846250,
+      "text": "他们"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 5307500,
+      "duration": 4807500,
+      "text": "打开"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10307500,
+      "duration": 2884580,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13192500,
+      "duration": 6153750,
+      "text": "布包"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23961660,
+      "duration": 2884580,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26846250,
+      "duration": 3269160,
+      "text": "人"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30500000,
+      "duration": 2115410,
+      "text": "分"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32615410,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33961660,
+      "duration": 7307500,
+      "text": "一块"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 41653750,
+      "duration": 5961660,
+      "text": "散发"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 47615410,
+      "duration": 1730830,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 49730830,
+      "duration": 5961660,
+      "text": "奶香"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 55692500,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 57230830,
+      "duration": 4807500,
+      "text": "燕麦"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 62230830,
+      "duration": 3269160,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 65500000,
+      "duration": 7692500,
+      "text": "饼干"
+    }
+  ]
+}

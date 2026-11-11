@@ -1,0 +1,91 @@
+{
+  "schema_version": 3,
+  "script_version": "v4",
+  "id": "ep031",
+  "episode": 31,
+  "title": "秋叶的软枕头",
+  "theme": "落下也能找到安稳的地方",
+  "language": "zh-CN",
+  "production_scope": "adopted_user_long_script",
+  "status": "copyedited_media_not_started",
+  "narration_paragraphs": [
+    {
+      "id": "p001",
+      "text": "森林里的秋天来啦，树叶纷纷换上了金黄色和浅橘色的新衣裳。\n皮皮今天在放学回家的路上，一直仰着头看树冠。他发现好多树叶在离开树枝妈妈的时候，都会在空中打着旋儿跳一支舞，然后才落到地上。"
+    },
+    {
+      "id": "p002",
+      "text": "同路的小刺猬栗栗看着满地的落叶，有点担心地问：“皮皮，树叶从那么高的树枝上掉下来，离开了自己原本的地方，会不会摔疼，会不会睡不好觉呀？”\n皮皮当时想了想，说：“我们回家的时候，帮它们看一看吧。”"
+    },
+    {
+      "id": "p003",
+      "text": "到了傍晚，皮皮走到自己家小木屋门前时，正好有一片浅黄色的白桦树叶，从头顶飘飘悠悠地落了下来，轻轻靠在了门廊台阶旁的一丛细草上。\n可是，这片秋叶并没有平平展展地躺好。它的边缘有一点点向上卷曲，叶子的正中间被下面一根硬邦邦的小枯枝顶住了，风一吹，它就翘来翘去的，像是在床上翻来覆去，怎么也找不到一个舒服的睡觉姿势。"
+    },
+    {
+      "id": "p004",
+      "text": "皮皮想起了栗栗白天问的话。他轻轻蹲在细草丛旁边，没有粗鲁地把秋叶抓起来，而是伸出两根小手指，把压在秋叶背面底下那一小段硬硬的枯枝，小心翼翼地抽了出来，挪到了小路边。\n枯枝一拿走，下面那丛绿油油、软绵绵的细草立刻慢慢弹了起来，稳稳地托住了浅黄秋叶的背面，就像给这片刚从高处落下来的叶子，铺好了一只充满弹性的绿色小枕头！"
+    },
+    {
+      "id": "p005",
+      "text": "一阵晚风再次经过门廊，这回，那片秋叶只是惬意地动了动边角，稳稳地陷在细草丛的怀抱里，再也没有翻过身来追着小路乱跑了。\n皮皮看着它安稳的样子，微笑着站起身。他没有把这片秋叶捡进屋里夹进书本，而是让它留在自己选好的、有草叶托着的泥土小床上。"
+    },
+    {
+      "id": "p006",
+      "text": "回到卧室的床边，皮皮脱下小外套，在躺下之前，也学着刚才照顾秋叶的样子，把自己的小枕头往中间拨松了一点，让两只长耳朵不必委屈地折着，能够平平顺顺地垂下来。\n暖黄色的毛毯盖住身体，皮皮闭上了眼睛。门外有细草做的绿枕头托着秋叶，屋里有棉花做的软枕头托着小兔子。"
+    },
+    {
+      "id": "p007",
+      "text": "小朋友，如果今天你的心里也有一些像落叶一样飘下来的小事情、小失落，没关系，把它们轻轻放在软软的枕头上吧。找个最舒服的姿势，晚安。"
+    }
+  ],
+  "cn_characters": 728,
+  "narration_sha256": "5865cf484b7582466f65e19839797be2b1a3c3bb3ba71938f4965a274d6ca2cd",
+  "source": {
+    "path": "/Users/ww/Downloads/100集睡前故事合集.md",
+    "sha256": "3feafa137e94824baccf8b6e3f3f24bac3e97714b2e201fcc48d461d8969c302",
+    "original_narration_sha256": "5865cf484b7582466f65e19839797be2b1a3c3bb3ba71938f4965a274d6ca2cd",
+    "original_paragraph_count": 7
+  },
+  "revision_record": [],
+  "duration_policy": {
+    "basis": "complete_narration_at_current_voice_settings",
+    "limit_s": null,
+    "delete_for_duration": false,
+    "time_stretch": false
+  },
+  "voice": {
+    "config": "03_素材与参数/配音与声音参数.json",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000
+  },
+  "actual_duration_s": null,
+  "character_registry": "03_素材与参数/用户长稿v4角色图库.json",
+  "storyboard": {
+    "status": "not_started",
+    "shots": [],
+    "timing_basis": "actual_audio",
+    "preferred_hold_s": [
+      8,
+      10
+    ],
+    "review_above_s": 15,
+    "short_action_hold_s": [
+      3,
+      5
+    ]
+  },
+  "material_state": {
+    "voice": "not_started",
+    "character_references": "not_generated",
+    "illustrations": "not_started",
+    "cover": "not_started",
+    "pinyin_review": "not_started",
+    "render": "not_started",
+    "technical_check": "not_started",
+    "human_watch": "not_started",
+    "user_acceptance": "not_recorded"
+  }
+}

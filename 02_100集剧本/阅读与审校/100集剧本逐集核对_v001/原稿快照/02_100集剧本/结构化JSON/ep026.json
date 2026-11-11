@@ -1,0 +1,189 @@
+{
+  "schema_version": 2,
+  "id": "ep026",
+  "episode": 26,
+  "title": "水壶旁的小云",
+  "theme": "忙碌结束后慢慢安顿",
+  "setting": "小木屋桌边与卧室",
+  "guest": "无",
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "约90–120秒；以实际配音为准",
+  "cn_characters": 238,
+  "initial_duration_budget_s": 96.9,
+  "shots": [
+    {
+      "id": 1,
+      "title": "桌边水壶与淡水汽",
+      "narration_lines": [
+        "傍晚的桌边，水壶旁还有一缕淡淡的水汽。",
+        "皮皮隔着桌子，看它慢慢散开。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "中景建立环境，主体位置清楚",
+      "image": "images/shot_01.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：桌边水壶与淡水汽。镜位：中景建立环境，主体位置清楚。",
+      "initial_budget_s": 11.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "轻柔变化的水汽轮廓",
+      "narration_lines": [
+        "那团小云，先像一片叶子，又像一条细细的围巾，没有固定的样子。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "主体或物件近景，保留地点线索",
+      "image": "images/shot_02.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：轻柔变化的水汽轮廓。镜位：主体或物件近景，保留地点线索。",
+      "initial_budget_s": 9.07,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "杯子放回木托盘",
+      "narration_lines": [
+        "皮皮没有伸爪去碰，只把小杯子放回托盘，给桌面腾出安静的地方。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "中近景呈现动作后的稳定姿态",
+      "image": "images/shot_03.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：杯子放回木托盘。镜位：中近景呈现动作后的稳定姿态。",
+      "initial_budget_s": 9.39,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "隔热垫上的安静水壶",
+      "narration_lines": [
+        "水汽越来越淡，最后融进了暖灯里。",
+        "小水壶安安稳稳，坐在隔热垫上。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "细节特写，避免裁掉必要的爪子或道具",
+      "image": "images/shot_04.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：隔热垫上的安静水壶。镜位：细节特写，避免裁掉必要的爪子或道具。",
+      "initial_budget_s": 10.11,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "布巾擦净桌角水印",
+      "narration_lines": [
+        "今天的杯子不用再排队了。",
+        "皮皮用干布巾，擦掉了桌角的一小圈水印。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "中景呈现情境变化，留低细节空间",
+      "image": "images/shot_05.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：布巾擦净桌角水印。镜位：中景呈现情境变化，留低细节空间。",
+      "initial_budget_s": 10.42,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "走向卧室的小门",
+      "narration_lines": [
+        "他关轻桌边的小柜门，走回卧室。",
+        "那朵小云，已经完成了今晚的旅行。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "主体近景，暖光方向延续",
+      "image": "images/shot_06.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：走向卧室的小门。镜位：主体近景，暖光方向延续。",
+      "initial_budget_s": 10.11,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "床上安顿毛毯玩偶",
+      "narration_lines": [
+        "毛毯铺好了，枕头也软软的。",
+        "皮皮把玩偶放近，慢慢躺下来。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "安顿动作中景或安静环境近景",
+      "image": "images/shot_07.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：床上安顿毛毯玩偶。镜位：安顿动作中景或安静环境近景。",
+      "initial_budget_s": 8.86,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "爪子耳朵放松近景",
+      "narration_lines": [
+        "小爪子歇着，长耳朵歇着。",
+        "刚才忙过的地方，都留给了安静。"
+      ],
+      "pause_after_s": [
+        1.1,
+        1.1
+      ],
+      "camera": "放松姿态近景，光线略柔暗",
+      "image": "images/shot_08.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：爪子耳朵放松近景。镜位：放松姿态近景，光线略柔暗。",
+      "initial_budget_s": 9.39,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "暖灯渐暗的卧室",
+      "narration_lines": [
+        "小朋友，今天的忙碌可以散一散了。",
+        "把身体放舒服，晚安，做个轻轻的梦。"
+      ],
+      "pause_after_s": [
+        1.1,
+        8.0
+      ],
+      "camera": "木屋卧室或可见卧室的中远景收束，主体安睡",
+      "image": "images/shot_09.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：暖灯渐暗的卧室。镜位：木屋卧室或可见卧室的中远景收束，主体安睡。",
+      "initial_budget_s": 17.85,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "需按本集提示词生成图片并合成配音；不含尚未制作的图片或音频",
+  "shared_config": "03_素材与参数/共用画风与提示词.json",
+  "character_names": [
+    "皮皮"
+  ]
+}

@@ -1,4 +1,4 @@
-"""Local entry point. All new deliverables go into Outputs/YYYY-MM-DD/run/."""
+"""Keep render sources in episodes/ and final deliverables in dated Outputs/."""
 import argparse
 from datetime import datetime, timedelta, timezone
 import hashlib
@@ -57,7 +57,7 @@ def inspect_video(path):
     return {'resolution':[1080,1920], 'fps':25, 'duration_s':float(data['format']['duration']), 'full_decode':'passed'}
 
 def new_output_dir(now, command):
-    day=ROOT/'Outputs'/now.astimezone(CST).strftime('%Y-%m-%d')
+    day=ROOT/'episodes/ep001/本地复现'/now.astimezone(CST).strftime('%Y-%m-%d')
     day.mkdir(parents=True,exist_ok=True)
     output=day/f"ep001_v005_{command}_{now.astimezone(CST):%H%M%S}_{uuid.uuid4().hex[:6]}"
     output.mkdir()
@@ -71,6 +71,7 @@ def main():
     if args.command=='doctor': return
     now=datetime.now(CST)
     output=new_output_dir(now,args.command)
+    delivery=ROOT/'Outputs'/now.astimezone(CST).strftime('%Y-%m-%d')/output.name
     try:
         if args.command=='export-reference':
             shutil.copytree(EPISODE/'output',output,dirs_exist_ok=True)
@@ -93,7 +94,11 @@ def main():
         assert len(cues)==37
         report.update(command=args.command, generated_at=now.isoformat(), subtitles=37, human_review='pending', source='ep001/v005', output=str(output.relative_to(ROOT)))
         (output/'local-validation.json').write_text(json.dumps(report,ensure_ascii=False,indent=2),encoding='utf-8')
-        print(f'COMPLETE: {output}',flush=True)
+        delivery.mkdir(parents=True)
+        for name in ('ep001.mp4','ep001_clean.mp4','cover.png','发布文案.md'):
+            if (output/name).exists(): shutil.copy2(output/name,delivery/name)
+        (delivery/'README.md').write_text('# 第一集复现交付\n\n完整工程与检查记录：'+str(output)+'\n',encoding='utf-8')
+        print(f'COMPLETE: {delivery}; engineering: {output}',flush=True)
     except Exception as exc:
         (output/'FAILED.txt').write_text(str(exc),encoding='utf-8')
         raise

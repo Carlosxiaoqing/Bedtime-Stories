@@ -1,0 +1,275 @@
+{
+  "schema_version": 2,
+  "script_version": "v3",
+  "id": "ep011",
+  "episode": 11,
+  "title": "绒绒等在第三把椅子",
+  "cover_title": "第三把椅子",
+  "category": "社区",
+  "theme": "陪伴可以先问一句",
+  "setting": "长耳街健康站等候室、健康站檐下台阶",
+  "viewpoint_character": "绒绒",
+  "guest": "绒绒、栗栗",
+  "character_names": [
+    "绒绒",
+    "皮皮",
+    "栗栗"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "成片约120秒，配音后实测校时",
+  "cn_characters": 277,
+  "initial_duration_budget_s": 119.33,
+  "shots": [
+    {
+      "id": 1,
+      "title": "绒绒站在三把椅子旁，皮皮与栗栗提着书",
+      "location": "长耳街健康站等候室",
+      "character_names": [
+        "绒绒",
+        "皮皮",
+        "栗栗"
+      ],
+      "narration_lines": [
+        "绒绒陪栗栗来健康站做例行检查。",
+        "轮到栗栗进去时，绒绒也跟着站了起来。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街健康站等候室。竖幅远景交代空间和前后层次。画面：绒绒站在三把椅子旁，皮皮与栗栗提着书。入镜角色：绒绒、皮皮、栗栗。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 13.02,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "栗栗在门内指向正对门的第三把椅子",
+      "location": "长耳街健康站等候室",
+      "character_names": [
+        "绒绒",
+        "栗栗"
+      ],
+      "narration_lines": [
+        "栗栗说：“我想自己试试。你能在这把椅子等我吗？”",
+        "他又指了一下门口，说出来就能从那里看见绒绒。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街健康站等候室。平视中景突出人物姿态和相互位置。画面：栗栗在门内指向正对门的第三把椅子。入镜角色：绒绒、栗栗。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 15.12,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "绒绒坐在第三把椅子上，门口仍可见",
+      "location": "长耳街健康站等候室",
+      "character_names": [
+        "绒绒"
+      ],
+      "narration_lines": [
+        "绒绒点点头。",
+        "可门一合上，他还是很想过去问问栗栗好不好。",
+        "他把爪从椅边收回来，想起栗栗刚才指得很清楚。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街健康站等候室。近景突出手边动作或道具状态。画面：绒绒坐在第三把椅子上，门口仍可见。入镜角色：绒绒。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 17.56,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "皮皮在旁边翻开图画书，绒绒朝书页转头",
+      "location": "长耳街健康站等候室",
+      "character_names": [
+        "皮皮",
+        "绒绒"
+      ],
+      "narration_lines": [
+        "皮皮没催他坐下，只打开一本有三座小桥的书，问他想从哪座桥走。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街健康站等候室。侧面中景展示动作方向与相邻环境。画面：皮皮在旁边翻开图画书，绒绒朝书页转头。入镜角色：皮皮、绒绒。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.26,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "两双爪指在书页不同桥面上",
+      "location": "长耳街健康站等候室",
+      "character_names": [
+        "皮皮",
+        "绒绒"
+      ],
+      "narration_lines": [
+        "他们顺着画里的路找。",
+        "第三座桥最宽，绒绒说，栗栗的圆背从那儿过正合适。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "俯视呈现平面上的物件和路线",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街健康站等候室。俯视呈现平面上的物件和路线。画面：两双爪指在书页不同桥面上。入镜角色：皮皮、绒绒。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.02,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "栗栗从门边出来，绒绒从第三把椅起身",
+      "location": "长耳街健康站等候室",
+      "character_names": [
+        "栗栗",
+        "绒绒"
+      ],
+      "narration_lines": [
+        "这时门开了。",
+        "栗栗看见绒绒还在那把椅子上，先跑过去碰了碰他的爪。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街健康站等候室。平视中景突出人物姿态和相互位置。画面：栗栗从门边出来，绒绒从第三把椅起身。入镜角色：栗栗、绒绒。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.33,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "栗栗用爪轻推图画书，绒绒把书往中间挪",
+      "location": "长耳街健康站等候室",
+      "character_names": [
+        "栗栗",
+        "绒绒"
+      ],
+      "narration_lines": [
+        "“你看了哪一页？”",
+        "栗栗问。",
+        "绒绒把书移过来，指给他看那座最宽的桥。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街健康站等候室。近景突出手边动作或道具状态。画面：栗栗用爪轻推图画书，绒绒把书往中间挪。入镜角色：栗栗、绒绒。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "三位朋友在台阶上摊开书，栗栗坐在中间",
+      "location": "健康站檐下台阶",
+      "character_names": [
+        "绒绒",
+        "栗栗",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "走到檐下，他们把剩下那一页一起看完。",
+        "栗栗说，下次也想陪绒绒来。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "健康站檐下台阶。侧面中景展示动作方向与相邻环境。画面：三位朋友在台阶上摊开书，栗栗坐在中间。入镜角色：绒绒、栗栗、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.98,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "台阶边一片榆叶搭在合好的图画书上",
+      "location": "健康站檐下台阶",
+      "character_names": [],
+      "narration_lines": [
+        "皮皮合上书。",
+        "书里的桥留在那一页，下次还可以从桥的另一头走。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "健康站檐下台阶。近景突出手边动作或道具状态。画面：台阶边一片榆叶搭在合好的图画书上。入镜角色：无，仅画环境或道具。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 17.69,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v3剧本和九镜已校时估算，实际配音及后续制作待进行",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/多场景版v2/结构化JSON/ep011.json",
+    "scope": "以约两分钟为目标逐集校时，补充偏短故事的动作、对话或线索，压缩偏长的重复表述",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始",
+    "previous_script_sha256": "66c365e164e4c867b58cfea1e6f4d106c6ad948977d424d362e476a6d4d50b62",
+    "edited_shots": [
+      2,
+      3
+    ]
+  },
+  "duration_plan": {
+    "target_s": 120,
+    "planning_range_s": [
+      115,
+      125
+    ],
+    "estimated_s": 119.33,
+    "v2_estimated_using_same_method_s": 104.1,
+    "reference_narration_hanzi_per_second": 2.899607,
+    "opening_s": 1.0,
+    "tail_in_final_shot_s": 8.0
+  }
+}

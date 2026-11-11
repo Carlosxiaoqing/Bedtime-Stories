@@ -1,0 +1,257 @@
+{
+  "schema_version": 2,
+  "script_version": "v2",
+  "id": "ep081",
+  "episode": 81,
+  "title": "风把帽子送回来了",
+  "cover_title": "帽子找风",
+  "category": "想象",
+  "theme": "看见事情还会往哪儿走",
+  "setting": "风坡镇的晒帽广场、风坡镇上空的低云边",
+  "viewpoint_character": "皮皮",
+  "guest": "斑斑、朵朵",
+  "character_names": [
+    "皮皮",
+    "斑斑",
+    "朵朵"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "按晓晓-35%实际口播、停顿和约8秒尾声确定",
+  "cn_characters": 287,
+  "initial_duration_budget_s": 112.75,
+  "shots": [
+    {
+      "id": 1,
+      "title": "晒帽广场挂着各色帽子，皮皮的星帽从夹子上浮起",
+      "location": "风坡镇的晒帽广场",
+      "character_names": [
+        "皮皮",
+        "斑斑",
+        "朵朵"
+      ],
+      "narration_lines": [
+        "风坡镇的风会送帽子。",
+        "皮皮把帽子放去晒，转头一看，它已经往云边飞了。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "风坡镇的晒帽广场。竖幅远景交代空间和前后层次。画面：晒帽广场挂着各色帽子，皮皮的星帽从夹子上浮起。入镜角色：皮皮、斑斑、朵朵。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "斑斑伸手指广场东边，朵朵托住空篮，皮皮盯帽子",
+      "location": "风坡镇的晒帽广场",
+      "character_names": [
+        "皮皮",
+        "斑斑",
+        "朵朵"
+      ],
+      "narration_lines": [
+        "斑斑想跟过去。",
+        "朵朵拦了拦，说风今天绕广场走一圈，先看看它带别的帽子去哪儿。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "风坡镇的晒帽广场。平视中景突出人物姿态和相互位置。画面：斑斑伸手指广场东边，朵朵托住空篮，皮皮盯帽子。入镜角色：皮皮、斑斑、朵朵。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.98,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "灰蓝低云沿广场外绕，草帽和星帽在不同位置浮着",
+      "location": "风坡镇上空的低云边",
+      "character_names": [],
+      "narration_lines": [
+        "草帽先过水车，再过矮树。",
+        "皮皮的帽子比它轻一点，多绕了一个小圈。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "风坡镇上空的低云边。竖幅远景交代空间和前后层次。画面：灰蓝低云沿广场外绕，草帽和星帽在不同位置浮着。入镜角色：无，仅画环境或道具。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.11,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "三位把空篮从广场中央移到水车旁的低栏内",
+      "location": "风坡镇的晒帽广场",
+      "character_names": [
+        "皮皮",
+        "斑斑",
+        "朵朵"
+      ],
+      "narration_lines": [
+        "他们搬着空篮到水车边。",
+        "皮皮以为帽子会落到篮里，先落下来的却是树上的一片叶。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "风坡镇的晒帽广场。侧面中景展示动作方向与相邻环境。画面：三位把空篮从广场中央移到水车旁的低栏内。入镜角色：皮皮、斑斑、朵朵。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.29,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "皮皮手指着篮底叶片和水车旁同向低草",
+      "location": "风坡镇的晒帽广场",
+      "character_names": [
+        "皮皮"
+      ],
+      "narration_lines": [
+        "皮皮看见叶尖朝着矮树，想起草帽刚才也是往那边走。",
+        "他请伙伴一起把篮挪近树根。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "风坡镇的晒帽广场。近景突出手边动作或道具状态。画面：皮皮手指着篮底叶片和水车旁同向低草。入镜角色：皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.29,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "矮树下朵朵托高篮口，皮皮朝已降低的星帽伸手",
+      "location": "风坡镇的晒帽广场",
+      "character_names": [
+        "皮皮",
+        "斑斑",
+        "朵朵"
+      ],
+      "narration_lines": [
+        "这回帽子降得低些，刚好落到篮边。",
+        "斑斑用爪扶住篮子，皮皮把星帽稳稳接过来。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "风坡镇的晒帽广场。平视中景突出人物姿态和相互位置。画面：矮树下朵朵托高篮口，皮皮朝已降低的星帽伸手。入镜角色：皮皮、斑斑、朵朵。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.67,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "皮皮翻开星帽边缘，夹层里卡着一枚细窄叶片",
+      "location": "风坡镇的晒帽广场",
+      "character_names": [
+        "皮皮"
+      ],
+      "narration_lines": [
+        "帽子里还夹着一片叶子。",
+        "皮皮没见过这种形状，朵朵说，那是云边矮树的叶。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "风坡镇的晒帽广场。近景突出手边动作或道具状态。画面：皮皮翻开星帽边缘，夹层里卡着一枚细窄叶片。入镜角色：皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.04,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "三位把摘下的帽子夹紧，皮皮最后自己戴好帽子",
+      "location": "风坡镇的晒帽广场",
+      "character_names": [
+        "皮皮",
+        "斑斑",
+        "朵朵"
+      ],
+      "narration_lines": [
+        "他们把别的帽子也送回晒绳。",
+        "皮皮把自己的戴好，给最后一顶多夹了一只夹子。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "风坡镇的晒帽广场。侧面中景展示动作方向与相邻环境。画面：三位把摘下的帽子夹紧，皮皮最后自己戴好帽子。入镜角色：皮皮、斑斑、朵朵。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.67,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "皮皮扶着戴好的星帽沿，抬头望向正在离去的低云",
+      "location": "风坡镇的晒帽广场",
+      "character_names": [
+        "皮皮"
+      ],
+      "narration_lines": [
+        "风绕完这一圈，终于往别处走了。",
+        "皮皮摸摸帽里的叶子，又抬头看了眼它经过的那片低云。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "越肩构图同时看见观察者与目标",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "风坡镇的晒帽广场。越肩构图同时看见观察者与目标。画面：皮皮扶着戴好的星帽沿，抬头望向正在离去的低云。入镜角色：皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 19.97,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v2剧本与九镜已编写，配音、插画、封面、字幕及视频待制作",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/结构化JSON/ep081.json",
+    "scope": "按用户反馈重写人物互动、故事事件、场景及九镜",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始"
+  }
+}

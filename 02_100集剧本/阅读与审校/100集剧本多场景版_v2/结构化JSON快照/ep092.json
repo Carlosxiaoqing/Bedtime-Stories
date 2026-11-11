@@ -1,0 +1,259 @@
+{
+  "schema_version": 2,
+  "script_version": "v2",
+  "id": "ep092",
+  "episode": 92,
+  "title": "草种铺借来的一阵风",
+  "cover_title": "借一阵风",
+  "category": "想象",
+  "theme": "想借东西时想想什么时候送回来",
+  "setting": "天气集的风瓶摊、天气集上方的空草坡",
+  "viewpoint_character": "芽芽",
+  "guest": "芽芽、团团",
+  "character_names": [
+    "芽芽",
+    "皮皮",
+    "团团"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "按晓晓-35%实际口播、停顿和约8秒尾声确定",
+  "cn_characters": 281,
+  "initial_duration_budget_s": 110.88,
+  "shots": [
+    {
+      "id": 1,
+      "title": "风瓶摊台上立三只透明瓶，芽芽与皮皮团团站在桌边",
+      "location": "天气集的风瓶摊",
+      "character_names": [
+        "芽芽",
+        "皮皮",
+        "团团"
+      ],
+      "narration_lines": [
+        "天气集可以借风。",
+        "芽芽想让家里的纸旗飘一会儿，借走一只装着细风的小瓶。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "天气集的风瓶摊。竖幅远景交代空间和前后层次。画面：风瓶摊台上立三只透明瓶，芽芽与皮皮团团站在桌边。入镜角色：芽芽、皮皮、团团。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "芽芽将瓶盖掀一条小缝，纸旗只有最尖处偏起",
+      "location": "天气集的风瓶摊",
+      "character_names": [
+        "芽芽"
+      ],
+      "narration_lines": [
+        "她打开一点盖子，纸旗轻轻动了。",
+        "团团想开大些，芽芽却见瓶里的风一下变薄了。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "天气集的风瓶摊。近景突出手边动作或道具状态。画面：芽芽将瓶盖掀一条小缝，纸旗只有最尖处偏起。入镜角色：芽芽。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.67,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "芽芽扣好瓶盖，皮皮用手护住桌上歪了一角的纸旗",
+      "location": "天气集的风瓶摊",
+      "character_names": [
+        "芽芽",
+        "皮皮",
+        "团团"
+      ],
+      "narration_lines": [
+        "她把盖子合上。",
+        "摊主说，瓶里的风要回草坡转一圈，等它吹够了再送回来。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "天气集的风瓶摊。平视中景突出人物姿态和相互位置。画面：芽芽扣好瓶盖，皮皮用手护住桌上歪了一角的纸旗。入镜角色：芽芽、皮皮、团团。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "三位在空草坡靠内的石沿上，芽芽向上托瓶",
+      "location": "天气集上方的空草坡",
+      "character_names": [
+        "芽芽",
+        "皮皮",
+        "团团"
+      ],
+      "narration_lines": [
+        "他们走到草坡，迎面有一阵好长的风。",
+        "芽芽把瓶口朝上，等风自己走进去。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "天气集上方的空草坡。侧面中景展示动作方向与相邻环境。画面：三位在空草坡靠内的石沿上，芽芽向上托瓶。入镜角色：芽芽、皮皮、团团。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "从芽芽背后看纸旗在自然风里展开，空瓶举在身侧",
+      "location": "天气集上方的空草坡",
+      "character_names": [
+        "芽芽",
+        "皮皮",
+        "团团"
+      ],
+      "narration_lines": [
+        "团团的纸旗被草坡上的风吹开了。",
+        "皮皮问，还用不用把风全装回瓶子里。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "越肩构图同时看见观察者与目标",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "天气集上方的空草坡。越肩构图同时看见观察者与目标。画面：从芽芽背后看纸旗在自然风里展开，空瓶举在身侧。入镜角色：芽芽、皮皮、团团。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "芽芽把瓶口放低，三位看一小缕风形纹绕过旗角",
+      "location": "天气集上方的空草坡",
+      "character_names": [
+        "芽芽",
+        "皮皮",
+        "团团"
+      ],
+      "narration_lines": [
+        "芽芽只装了一点，剩下的留在坡上。",
+        "这样带回摊子时，小瓶轻轻的，旁边的旗也还能动。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "天气集上方的空草坡。平视中景突出人物姿态和相互位置。画面：芽芽把瓶口放低，三位看一小缕风形纹绕过旗角。入镜角色：芽芽、皮皮、团团。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.29,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "芽芽在摊前归还小瓶，摊主柜台上还有两个空位",
+      "location": "天气集的风瓶摊",
+      "character_names": [
+        "芽芽",
+        "皮皮",
+        "团团"
+      ],
+      "narration_lines": [
+        "她把风瓶送回去，告诉摊主草坡上还有一大阵风。",
+        "下一个朋友来借，也可以直接到那里找。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "天气集的风瓶摊。平视中景突出人物姿态和相互位置。画面：芽芽在摊前归还小瓶，摊主柜台上还有两个空位。入镜角色：芽芽、皮皮、团团。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.92,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "团团将没有折坏的纸旗卷起来，皮皮扶一角布边",
+      "location": "天气集的风瓶摊",
+      "character_names": [
+        "团团"
+      ],
+      "narration_lines": [
+        "团团把旗卷好，说明天想再到草坡。",
+        "芽芽说，到时候连瓶子也用不着带了。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "天气集的风瓶摊。近景突出手边动作或道具状态。画面：团团将没有折坏的纸旗卷起来，皮皮扶一角布边。入镜角色：团团。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "空草坡一排细草向同侧拂过，远处风瓶摊微亮",
+      "location": "天气集上方的空草坡",
+      "character_names": [],
+      "narration_lines": [
+        "傍晚的草坡上，风从石头边慢慢转过去。",
+        "它借给大家一会儿，又往自己的路上走。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "天气集上方的空草坡。侧面中景展示动作方向与相邻环境。画面：空草坡一排细草向同侧拂过，远处风瓶摊微亮。入镜角色：无，仅画环境或道具。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 18.72,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v2剧本与九镜已编写，配音、插画、封面、字幕及视频待制作",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/结构化JSON/ep092.json",
+    "scope": "按用户反馈重写人物互动、故事事件、场景及九镜",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "text": "皮皮迈着小短腿，一步，两步，认真地往上爬。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "1707191dbcf6e5656212dc4d2836a3079e3252fb245ec8d3701b18488478d3f3",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5192500,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6846250,
+      "duration": 2692080,
+      "text": "迈"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9538330,
+      "duration": 1538330,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11269160,
+      "duration": 11153750,
+      "text": "小短腿"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25500000,
+      "duration": 2884580,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 28384580,
+      "duration": 4038330,
+      "text": "步"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36269160,
+      "duration": 7500000,
+      "text": "两步"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 47807500,
+      "duration": 5384580,
+      "text": "认真"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 53192500,
+      "duration": 1346250,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 54922910,
+      "duration": 2307500,
+      "text": "往"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 57230830,
+      "duration": 2884580,
+      "text": "上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 60115410,
+      "duration": 5000000,
+      "text": "爬"
+    }
+  ]
+}

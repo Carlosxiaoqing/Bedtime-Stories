@@ -1,0 +1,274 @@
+{
+  "schema_version": 2,
+  "script_version": "v3",
+  "id": "ep003",
+  "episode": 3,
+  "title": "小象的两条浇水路",
+  "cover_title": "果园水路",
+  "category": "自然",
+  "theme": "让不同本领互相帮忙",
+  "setting": "榛子坡果园的高坡、果园两级花圃与浅水槽",
+  "viewpoint_character": "朵朵",
+  "guest": "朵朵",
+  "character_names": [
+    "皮皮",
+    "朵朵"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "成片约120秒，配音后实测校时",
+  "cn_characters": 282,
+  "initial_duration_budget_s": 122.49,
+  "shots": [
+    {
+      "id": 1,
+      "title": "高坡有石槽和小树苗，朵朵在水桶旁抬鼻子",
+      "location": "榛子坡果园的高坡",
+      "character_names": [
+        "皮皮",
+        "朵朵"
+      ],
+      "narration_lines": [
+        "小象朵朵来果园帮忙。",
+        "她能把水送过高高的花篱，却看不清篱后的小苗。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "榛子坡果园的高坡。竖幅远景交代空间和前后层次。画面：高坡有石槽和小树苗，朵朵在水桶旁抬鼻子。入镜角色：皮皮、朵朵。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.67,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "皮皮的爪边有干土细粒，眼前是叶尖下垂的小苗",
+      "location": "果园两级花圃与浅水槽",
+      "character_names": [
+        "皮皮"
+      ],
+      "narration_lines": [
+        "皮皮钻到矮篱后面。",
+        "最里面那排苗叶子蔫蔫的，泥土还干着。",
+        "皮皮用爪尖碰了碰泥，土粒一下就散开了。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.72,
+        0.95
+      ],
+      "camera": "低视角凸显脚边、地面与人物尺度",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "果园两级花圃与浅水槽。低视角凸显脚边、地面与人物尺度。画面：皮皮的爪边有干土细粒，眼前是叶尖下垂的小苗。入镜角色：皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 16.53,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "朵朵的鼻尖悬在水桶上方，一滴水落回桶里",
+      "location": "榛子坡果园的高坡",
+      "character_names": [
+        "朵朵"
+      ],
+      "narration_lines": [
+        "朵朵想再喷高一点。",
+        "皮皮赶紧说：“等一等，水会落到嫩叶上。”"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "榛子坡果园的高坡。近景突出手边动作或道具状态。画面：朵朵的鼻尖悬在水桶上方，一滴水落回桶里。入镜角色：朵朵。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 9.6,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "皮皮摆两片宽树叶，叶尖对着干土",
+      "location": "果园两级花圃与浅水槽",
+      "character_names": [
+        "皮皮"
+      ],
+      "narration_lines": [
+        "皮皮捡来两片宽叶子，顺着坡搭好。",
+        "上头接石槽，下头的叶尖正对小苗的根。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "俯视呈现平面上的物件和路线",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "果园两级花圃与浅水槽。俯视呈现平面上的物件和路线。画面：皮皮摆两片宽树叶，叶尖对着干土，叶面顺坡搭接，叶尖朝小苗根部。入镜角色：皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.02,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "朵朵鼻尖离开高处石槽，槽口挂着第一颗水珠",
+      "location": "榛子坡果园的高坡",
+      "character_names": [
+        "朵朵"
+      ],
+      "narration_lines": [
+        "朵朵把水送进高处的石槽。",
+        "她只放一点，等皮皮说看见了才接着送。",
+        "鼻尖刚离开，槽口就挂了一颗水珠。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "榛子坡果园的高坡。侧面中景展示动作方向与相邻环境。画面：朵朵鼻尖离开高处石槽，槽口挂着第一颗水珠。入镜角色：朵朵。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 16.53,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "水沿宽叶尖滴进第一株小苗旁的泥土",
+      "location": "果园两级花圃与浅水槽",
+      "character_names": [
+        "皮皮"
+      ],
+      "narration_lines": [
+        "水沿着叶子拐了个弯，滴进苗边的泥土。",
+        "皮皮又把叶尖挪向下一株。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "果园两级花圃与浅水槽。近景突出手边动作或道具状态。画面：水沿宽叶尖滴进第一株小苗旁的泥土。入镜角色：皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.98,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "皮皮向篱外挥爪，朵朵的鼻尖离开石槽，根旁土色已深",
+      "location": "果园两级花圃与浅水槽",
+      "character_names": [
+        "皮皮",
+        "朵朵"
+      ],
+      "narration_lines": [
+        "一个在上面送，一个在下面引。",
+        "连最小的那株，也喝到了水。",
+        "皮皮喊了一声够啦，朵朵才把鼻尖挪开。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "果园两级花圃与浅水槽。平视中景突出人物姿态和相互位置。画面：皮皮向篱外挥爪，朵朵的鼻尖离开石槽，根旁土色已深。入镜角色：皮皮、朵朵。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 15.84,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "两位朋友坐在树荫里，一同看坡下花圃",
+      "location": "榛子坡果园的高坡",
+      "character_names": [
+        "皮皮",
+        "朵朵"
+      ],
+      "narration_lines": [
+        "收好水桶，朵朵坐到皮皮旁边。",
+        "她低下头，这回能看见那排小苗了。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "榛子坡果园的高坡。平视中景突出人物姿态和相互位置。画面：两位朋友坐在树荫里，一同看坡下花圃。入镜角色：皮皮、朵朵。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.64,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "两条深浅不同的湿土水迹在最后一株苗旁会合",
+      "location": "果园两级花圃与浅水槽",
+      "character_names": [],
+      "narration_lines": [
+        "高处有一条水路，低处也有一条。",
+        "两条路在小苗脚下，碰到了一起。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "环境留白为主，关键物件或人物位于上部",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "果园两级花圃与浅水槽。环境留白为主，关键物件或人物位于上部。画面：两条深浅不同的湿土水迹在最后一株苗旁会合。入镜角色：无，仅画环境或道具。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 17.69,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v3剧本和九镜已校时估算，实际配音及后续制作待进行",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/多场景版v2/结构化JSON/ep003.json",
+    "scope": "以约两分钟为目标逐集校时，补充偏短故事的动作、对话或线索，压缩偏长的重复表述",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始",
+    "previous_script_sha256": "325d0756f748dea7bf6e85abeab84badeeed4b09eee04f6e941a3bd346bfae9b",
+    "edited_shots": [
+      2,
+      4,
+      5,
+      7
+    ]
+  },
+  "duration_plan": {
+    "target_s": 120,
+    "planning_range_s": [
+      115,
+      125
+    ],
+    "estimated_s": 122.49,
+    "v2_estimated_using_same_method_s": 102.37,
+    "reference_narration_hanzi_per_second": 2.899607,
+    "opening_s": 1.0,
+    "tail_in_final_shot_s": 8.0
+  }
+}

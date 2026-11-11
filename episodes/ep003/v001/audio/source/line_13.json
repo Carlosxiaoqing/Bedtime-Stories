@@ -1,0 +1,17 @@
+{
+  "text": "小朋友，你也可以慢慢找到，自己的舒服。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "edge_tts": "7.3.1",
+  "fingerprint": "03cf075d8bded631097db7c2540017dacfea46240e81718747c8492712109f4d",
+  "boundaries": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 1000000,
+      "duration": 63153842,
+      "text": "小朋友，你也可以慢慢找到，自己的舒服。"
+    }
+  ]
+}

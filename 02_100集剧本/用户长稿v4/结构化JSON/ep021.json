@@ -1,0 +1,91 @@
+{
+  "schema_version": 3,
+  "script_version": "v4",
+  "id": "ep021",
+  "episode": 21,
+  "title": "雨点敲敲小伞",
+  "theme": "让声音慢慢退到背景",
+  "language": "zh-CN",
+  "production_scope": "adopted_user_long_script",
+  "status": "copyedited_media_not_started",
+  "narration_paragraphs": [
+    {
+      "id": "p001",
+      "text": "今天下午，森林学堂快要放学的时候，天空忽然飘来了一大片灰蒙蒙的云，紧接着，淅淅沥沥的小雨就落了下来。\n皮皮从教室门口的伞架上，取下了自己那把印着小蘑菇图案的明黄色小雨伞，“啪”的一下撑开，走进了细细的雨幕里。"
+    },
+    {
+      "id": "p002",
+      "text": "皮皮现在已经能够双手稳稳地举着伞，不让雨水淋湿自己的小书包了。\n走在回家的青石板小路上，雨点落下来，敲在绷紧的伞面上，发出一阵阵“滴答、滴答、沙沙沙”的轻响，就像有许多隐形的小手指，在伞顶上弹奏一首欢快的小曲子。"
+    },
+    {
+      "id": "p003",
+      "text": "路过小刺猬栗栗家门口时，皮皮还把小伞往栗栗头顶倾斜了一点，护送栗栗跑进了屋檐下。\n等皮皮独自走上自己家的木门廊时，他并没有急着马上把伞收起来，而是坐在门廊的小木凳上，静静地听了一会儿。"
+    },
+    {
+      "id": "p004",
+      "text": "他把明黄色的小伞稍微靠近自己一点，只见一颗圆滚滚的小水珠，正顺着伞边的布褶，慢悠悠地往下滑，“啪嗒”一下，正好落在了门廊花盆的一片宽叶子尖上。\n绿叶子被水珠压得低了低头，随后又稳稳地抬了起来。那颗小水珠没有急着赶路，就停在叶脉边上，映着屋里的灯光。"
+    },
+    {
+      "id": "p005",
+      "text": "皮皮看够了，才慢吞吞地把小伞合拢，放进门边的木头伞架里，让伞面上细细的雨水，顺着布纹自己慢慢流进接水盘。\n推开木门回到屋里，用干毛巾擦干毛茸茸的小爪子和长耳朵，皮皮惊喜地发现：当厚实的木门和玻璃窗关好之后，外面原本清脆的雨声，一下子变得好远、好柔，就像隔着一层厚厚的棉花糖。"
+    },
+    {
+      "id": "p006",
+      "text": "卧室里的床头灯照着干燥又蓬松的暖黄毛毯，胡萝卜玩偶早就靠在枕边，为他留好了最暖和的位置。\n皮皮钻进被窝里，听着雨点还在外面的屋顶和树叶上轻轻敲着。他已经不需要再撑起小伞，也不需要再打开窗户去看了。"
+    },
+    {
+      "id": "p007",
+      "text": "皮皮闭上眼睛，把竖了一整天的长耳朵彻底放松下来。那远远的、沙沙的雨声，变成了一段留在门外的摇篮曲，把小屋衬托得更加安静、更加安全。\n小朋友，窗外或身边的那些小声音，就让它们轻轻留在远处吧。现在，干燥又温暖的小床正稳稳地陪着你。晚安，做个好梦。"
+    }
+  ],
+  "cn_characters": 698,
+  "narration_sha256": "847a01b8e0084f22297fed52579ee17b4b7e4a854ceaca828bc238b2168e2c6d",
+  "source": {
+    "path": "/Users/ww/Downloads/100集睡前故事合集.md",
+    "sha256": "3feafa137e94824baccf8b6e3f3f24bac3e97714b2e201fcc48d461d8969c302",
+    "original_narration_sha256": "847a01b8e0084f22297fed52579ee17b4b7e4a854ceaca828bc238b2168e2c6d",
+    "original_paragraph_count": 7
+  },
+  "revision_record": [],
+  "duration_policy": {
+    "basis": "complete_narration_at_current_voice_settings",
+    "limit_s": null,
+    "delete_for_duration": false,
+    "time_stretch": false
+  },
+  "voice": {
+    "config": "03_素材与参数/配音与声音参数.json",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000
+  },
+  "actual_duration_s": null,
+  "character_registry": "03_素材与参数/用户长稿v4角色图库.json",
+  "storyboard": {
+    "status": "not_started",
+    "shots": [],
+    "timing_basis": "actual_audio",
+    "preferred_hold_s": [
+      8,
+      10
+    ],
+    "review_above_s": 15,
+    "short_action_hold_s": [
+      3,
+      5
+    ]
+  },
+  "material_state": {
+    "voice": "not_started",
+    "character_references": "not_generated",
+    "illustrations": "not_started",
+    "cover": "not_started",
+    "pinyin_review": "not_started",
+    "render": "not_started",
+    "technical_check": "not_started",
+    "human_watch": "not_started",
+    "user_acceptance": "not_recorded"
+  }
+}

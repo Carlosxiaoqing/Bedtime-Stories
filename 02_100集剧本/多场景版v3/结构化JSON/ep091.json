@@ -1,0 +1,273 @@
+{
+  "schema_version": 2,
+  "script_version": "v3",
+  "id": "ep091",
+  "episode": 91,
+  "title": "旧隧道里的两扇亮窗",
+  "cover_title": "隧道亮窗",
+  "category": "出行",
+  "theme": "遇到不熟悉的一段路可以先了解它",
+  "setting": "雾谷小火车进山站、穿旧隧道的车厢、雾谷林边站",
+  "viewpoint_character": "栗栗",
+  "guest": "栗栗、团团",
+  "character_names": [
+    "栗栗",
+    "皮皮",
+    "团团"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "成片约120秒，配音后实测校时",
+  "cn_characters": 288,
+  "initial_duration_budget_s": 122.4,
+  "shots": [
+    {
+      "id": 1,
+      "title": "栗栗皮皮团团站在进山站，木图标着隧道两个亮口",
+      "location": "雾谷小火车进山站",
+      "character_names": [
+        "栗栗",
+        "皮皮",
+        "团团"
+      ],
+      "narration_lines": [
+        "栗栗听说去雾谷要过旧隧道。",
+        "他想坐车，又怕车一进去，外面就什么也看不见了。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "雾谷小火车进山站。竖幅远景交代空间和前后层次。画面：栗栗皮皮团团站在进山站，木图标着隧道两个亮口。入镜角色：栗栗、皮皮、团团。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 13.71,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "栗栗用爪指隧道图上的两个缺口，两个伙伴靠近",
+      "location": "雾谷小火车进山站",
+      "character_names": [
+        "栗栗",
+        "皮皮",
+        "团团"
+      ],
+      "narration_lines": [
+        "站台图上画着两个小缺口。",
+        "团团问了站员，原来隧道中间真有两扇透光的窗。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "雾谷小火车进山站。平视中景突出人物姿态和相互位置。画面：栗栗用爪指隧道图上的两个缺口，两个伙伴靠近。入镜角色：栗栗、皮皮、团团。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "车厢内栗栗坐在伙伴中间，手里摊着窗形小图",
+      "location": "穿旧隧道的车厢",
+      "character_names": [
+        "栗栗",
+        "皮皮",
+        "团团"
+      ],
+      "narration_lines": [
+        "他们上车后，栗栗把图放在膝盖上。",
+        "皮皮说，看见第一扇亮窗就轻轻碰一下他。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "穿旧隧道的车厢。侧面中景展示动作方向与相邻环境。画面：车厢内栗栗坐在伙伴中间，手里摊着窗形小图。入镜角色：栗栗、皮皮、团团。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "从栗栗肩后见黑暗中的第一扇亮窗和外面蕨叶",
+      "location": "穿旧隧道的车厢",
+      "character_names": [
+        "栗栗",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "车进了隧道，第一扇亮窗很快过来。",
+        "栗栗碰了碰皮皮，他在光里看见了一丛蕨叶。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "越肩构图同时看见观察者与目标",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "穿旧隧道的车厢。越肩构图同时看见观察者与目标。画面：从栗栗肩后见黑暗中的第一扇亮窗和外面蕨叶。入镜角色：栗栗、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.71,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "团团手指停在图上第二扇亮窗位置，车内木椅明亮稳定",
+      "location": "穿旧隧道的车厢",
+      "character_names": [
+        "团团"
+      ],
+      "narration_lines": [
+        "团团没有急着数秒，只在图上等下一处。",
+        "栗栗摸摸木椅，还是进洞前那把椅子。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "穿旧隧道的车厢。近景突出手边动作或道具状态。画面：团团手指停在图上第二扇亮窗位置，车内木椅明亮稳定。入镜角色：团团。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "第二扇亮窗透出灰石溪谷，栗栗与团团的侧影在车窗内",
+      "location": "穿旧隧道的车厢",
+      "character_names": [
+        "栗栗",
+        "团团"
+      ],
+      "narration_lines": [
+        "第二扇窗慢一点才来。",
+        "外面有浅浅的溪水，栗栗来不及全看清，车已经又往前走了。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "越肩构图同时看见观察者与目标",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "穿旧隧道的车厢。越肩构图同时看见观察者与目标。画面：第二扇亮窗透出灰石溪谷，栗栗与团团的侧影在车窗内。入镜角色：栗栗、团团。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 13.05,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "栗栗在林边站指小图两扇窗，团团与皮皮回头看站后溪谷",
+      "location": "雾谷林边站",
+      "character_names": [
+        "栗栗",
+        "皮皮",
+        "团团"
+      ],
+      "narration_lines": [
+        "出了洞，栗栗跟站员讲第一扇窗里的蕨叶。",
+        "站员说，第二扇外面那条溪，再往前就流到站台后面。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "雾谷林边站。平视中景突出人物姿态和相互位置。画面：栗栗在林边站指小图两扇窗，团团与皮皮回头看站后溪谷。入镜角色：栗栗、皮皮、团团。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 14.78,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "栗栗指林边一丛蕨叶，皮皮与团团在站牌旁等",
+      "location": "雾谷林边站",
+      "character_names": [
+        "栗栗",
+        "皮皮",
+        "团团"
+      ],
+      "narration_lines": [
+        "团团问回去还想不想坐。",
+        "栗栗点点头，说这次他想坐靠窗，看看第一丛蕨叶长在哪一边。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "雾谷林边站。侧面中景展示动作方向与相邻环境。画面：栗栗指林边一丛蕨叶，皮皮与团团在站牌旁等。入镜角色：栗栗、皮皮、团团。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 13.74,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "车已停稳，隧道在远处山体下只露圆口，林边站明亮",
+      "location": "雾谷林边站",
+      "character_names": [],
+      "narration_lines": [
+        "风从林边站过来。",
+        "栗栗把图折好，把那两小块亮留在纸的外面。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "环境留白为主，关键物件或人物位于上部",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "雾谷林边站。环境留白为主，关键物件或人物位于上部。画面：车已停稳，隧道在远处山体下只露圆口，林边站明亮。入镜角色：无，仅画环境或道具。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 17.34,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v3剧本和九镜已校时估算，实际配音及后续制作待进行",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/多场景版v2/结构化JSON/ep091.json",
+    "scope": "以约两分钟为目标逐集校时，补充偏短故事的动作、对话或线索，压缩偏长的重复表述",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始",
+    "previous_script_sha256": "0365881a82a2d154cca65a4db3166687a73c0f1ab8b85ef45de5f294bed746b0",
+    "edited_shots": []
+  },
+  "duration_plan": {
+    "target_s": 120,
+    "planning_range_s": [
+      115,
+      125
+    ],
+    "estimated_s": 122.4,
+    "v2_estimated_using_same_method_s": 122.4,
+    "reference_narration_hanzi_per_second": 2.899607,
+    "opening_s": 1.0,
+    "tail_in_final_shot_s": 8.0
+  }
+}

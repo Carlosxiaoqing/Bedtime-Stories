@@ -1,0 +1,250 @@
+{
+  "schema_version": 2,
+  "script_version": "v2",
+  "id": "ep001",
+  "episode": 1,
+  "title": "榆树学校的新同桌",
+  "cover_title": "新同桌",
+  "category": "学校",
+  "theme": "给新朋友一个开口的机会",
+  "setting": "榆树学校门厅、榆树教室靠书架的双人桌、学校石阶",
+  "viewpoint_character": "皮皮",
+  "guest": "斑斑",
+  "character_names": [
+    "皮皮",
+    "斑斑"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "按晓晓-35%实际口播、停顿和约8秒尾声确定",
+  "cn_characters": 231,
+  "initial_duration_budget_s": 93.1,
+  "shots": [
+    {
+      "id": 1,
+      "title": "雨后校门敞开，斑斑抱着蓝书包站在脚垫旁",
+      "location": "榆树学校门厅",
+      "character_names": [
+        "皮皮",
+        "斑斑"
+      ],
+      "narration_lines": [
+        "早晨，榆树学校来了一个新同学。",
+        "小狗斑斑把蓝书包抱得紧紧的。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校门厅。竖幅远景交代空间和前后层次。画面：雨后校门敞开，斑斑抱着蓝书包站在脚垫旁。入镜角色：皮皮、斑斑。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 9.79,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "皮皮拍身边椅子，斑斑看着内侧过道",
+      "location": "榆树教室靠书架的双人桌",
+      "character_names": [
+        "皮皮",
+        "斑斑"
+      ],
+      "narration_lines": [
+        "皮皮拍拍身边的椅子。",
+        "斑斑却摇摇头，站在过道里没动。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "榆树教室靠书架的双人桌。平视中景突出人物姿态和相互位置。画面：皮皮拍身边椅子，斑斑看着内侧过道。入镜角色：皮皮、斑斑。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 8.54,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "从斑斑肩后看见内侧椅子前的窄缝",
+      "location": "榆树教室靠书架的双人桌",
+      "character_names": [
+        "皮皮",
+        "斑斑"
+      ],
+      "narration_lines": [
+        "皮皮以为他想一个人坐，正要收回手，忽然看见斑斑伸长脖子。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "越肩构图同时看见观察者与目标",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "榆树教室靠书架的双人桌。越肩构图同时看见观察者与目标。画面：从斑斑肩后看见内侧椅子前的窄缝。入镜角色：皮皮、斑斑。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 8.76,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "斑斑用爪尖指向书包侧面的圆水壶",
+      "location": "榆树教室靠书架的双人桌",
+      "character_names": [
+        "斑斑"
+      ],
+      "narration_lines": [
+        "斑斑小声说：“我想坐外边。我的水壶太圆，怕挤过去碰到你。”"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "榆树教室靠书架的双人桌。近景突出手边动作或道具状态。画面：斑斑用爪尖指向书包侧面的圆水壶。入镜角色：斑斑。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 8.14,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "皮皮坐进靠书架的座位，外侧椅面留空",
+      "location": "榆树教室靠书架的双人桌",
+      "character_names": [
+        "皮皮",
+        "斑斑"
+      ],
+      "narration_lines": [
+        "皮皮往里挪了一个位置，给斑斑留出了宽宽的一条路。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "榆树教室靠书架的双人桌。侧面中景展示动作方向与相邻环境。画面：皮皮坐进靠书架的座位，外侧椅面留空。入镜角色：皮皮、斑斑。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 7.83,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "两双爪在桌上拼半张叶形名牌",
+      "location": "榆树教室靠书架的双人桌",
+      "character_names": [
+        "皮皮",
+        "斑斑"
+      ],
+      "narration_lines": [
+        "上课前要做桌牌。",
+        "斑斑剪出半片叶子，皮皮把另一半接了上去。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "俯视呈现平面上的物件和路线",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "榆树教室靠书架的双人桌。俯视呈现平面上的物件和路线。画面：两双爪在桌上拼半张叶形名牌。入镜角色：皮皮、斑斑。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 9.48,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "双人桌立着整叶桌牌，皮皮和斑斑交换两片半叶书签",
+      "location": "榆树教室靠书架的双人桌",
+      "character_names": [
+        "皮皮",
+        "斑斑"
+      ],
+      "narration_lines": [
+        "他们把拼好的叶子立在桌上，又剪了两片小小的半叶，送给对方当书签。",
+        "斑斑这才放稳水壶，抬起脸笑了。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "榆树教室靠书架的双人桌。平视中景突出人物姿态和相互位置。画面：双人桌立着整叶桌牌，皮皮和斑斑交换两片半叶书签。入镜角色：皮皮、斑斑。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 14.79,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "课后石阶上，斑斑转身向仍在门口的皮皮挥爪",
+      "location": "学校石阶",
+      "character_names": [
+        "皮皮",
+        "斑斑"
+      ],
+      "narration_lines": [
+        "放学时，斑斑先走了两级石阶，又回头问：“明天还坐一起吗？”"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "学校石阶。侧面中景展示动作方向与相邻环境。画面：课后石阶上，斑斑转身向仍在门口的皮皮挥爪。入镜角色：皮皮、斑斑。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 8.14,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "两位朋友并排下石阶，阶边一小滩水映树冠",
+      "location": "学校石阶",
+      "character_names": [
+        "皮皮",
+        "斑斑"
+      ],
+      "narration_lines": [
+        "“好啊。”",
+        "皮皮走到他旁边。",
+        "两只书包一左一右，轻轻碰了一下。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.72,
+        8.0
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "学校石阶。竖幅远景交代空间和前后层次。画面：两位朋友并排下石阶，阶边一小滩水映树冠。入镜角色：皮皮、斑斑。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 16.63,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v2剧本与九镜已编写，配音、插画、封面、字幕及视频待制作",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/结构化JSON/ep001.json",
+    "scope": "按用户反馈重写人物互动、故事事件、场景及九镜",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始"
+  }
+}

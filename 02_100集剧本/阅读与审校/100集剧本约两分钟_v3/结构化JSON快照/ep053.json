@@ -1,0 +1,270 @@
+{
+  "schema_version": 2,
+  "script_version": "v3",
+  "id": "ep053",
+  "episode": 53,
+  "title": "云鲸慢慢换班",
+  "cover_title": "云鲸换班",
+  "category": "想象",
+  "theme": "有人接手时可以放心歇一歇",
+  "setting": "云海渡口的鲸桥平台、云鲸歇脚的低云湾",
+  "viewpoint_character": "沐沐",
+  "guest": "沐沐、朵朵",
+  "character_names": [
+    "沐沐",
+    "皮皮",
+    "朵朵"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "成片约120秒，配音后实测校时",
+  "cn_characters": 282,
+  "initial_duration_budget_s": 120.33,
+  "shots": [
+    {
+      "id": 1,
+      "title": "云海渡口有一头云鲸浮在两台之间，沐沐拿着两盏小灯",
+      "location": "云海渡口的鲸桥平台",
+      "character_names": [
+        "沐沐",
+        "皮皮",
+        "朵朵"
+      ],
+      "narration_lines": [
+        "云海有两头云鲸，轮流当渡口的桥。",
+        "沐沐要换班时，发现第一头还舍不得把背挪开。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "云海渡口的鲸桥平台。竖幅远景交代空间和前后层次。画面：云海渡口有一头云鲸浮在两台之间，沐沐拿着两盏小灯。入镜角色：沐沐、皮皮、朵朵。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 14.05,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "皮皮看两个云台间的空缝，沐沐把灯举在栏边",
+      "location": "云海渡口的鲸桥平台",
+      "character_names": [
+        "沐沐",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "它担心桥一走，谁会踩空。",
+        "沐沐也没有催，先请皮皮把排队的朋友领回栏内。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "云海渡口的鲸桥平台。平视中景突出人物姿态和相互位置。画面：皮皮看两个云台间的空缝，沐沐把灯举在栏边。入镜角色：沐沐、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.02,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "从沐沐肩后看第二头云鲸接近同高平台，朵朵举低灯",
+      "location": "云海渡口的鲸桥平台",
+      "character_names": [
+        "沐沐",
+        "朵朵"
+      ],
+      "narration_lines": [
+        "第二头云鲸从低处浮上来。",
+        "朵朵举着小灯，让它看清另一头桥还停在哪里。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "越肩构图同时看见观察者与目标",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "云海渡口的鲸桥平台。越肩构图同时看见观察者与目标。画面：从沐沐肩后看第二头云鲸接近同高平台，朵朵举低灯。入镜角色：沐沐、朵朵。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.02,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "沐沐手中两盏灯分别靠在两道对齐的石线旁",
+      "location": "云海渡口的鲸桥平台",
+      "character_names": [
+        "沐沐"
+      ],
+      "narration_lines": [
+        "沐沐把两盏灯放到对齐的石线上。",
+        "两头云鲸挪了挪，背刚好在同一个高度。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "云海渡口的鲸桥平台。近景突出手边动作或道具状态。画面：沐沐手中两盏灯分别靠在两道对齐的石线旁。入镜角色：沐沐。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.02,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "新云鲸贴稳两个平台，旧云鲸尾部刚离开平台侧边",
+      "location": "云海渡口的鲸桥平台",
+      "character_names": [
+        "沐沐",
+        "皮皮",
+        "朵朵"
+      ],
+      "narration_lines": [
+        "新的桥停稳后，第一头才慢慢把尾巴挪开。",
+        "皮皮等沐沐点头，再领朋友们走过新桥。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "云海渡口的鲸桥平台。侧面中景展示动作方向与相邻环境。画面：新云鲸贴稳两个平台，旧云鲸尾部刚离开平台侧边。入镜角色：沐沐、皮皮、朵朵。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 13.05,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "低云湾处，旧云鲸卧下，沐沐和皮皮站在高栏内",
+      "location": "云鲸歇脚的低云湾",
+      "character_names": [
+        "沐沐",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "第一头去了低云湾。",
+        "沐沐从岸边望过去，它终于把背放低，露出一个圆圆的喷水口。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "云鲸歇脚的低云湾。竖幅远景交代空间和前后层次。画面：低云湾处，旧云鲸卧下，沐沐和皮皮站在高栏内。入镜角色：沐沐、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 13.05,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "朵朵把小灯移到湾口，沐沐向远处新桥挥手",
+      "location": "云鲸歇脚的低云湾",
+      "character_names": [
+        "沐沐",
+        "朵朵"
+      ],
+      "narration_lines": [
+        "朵朵给湾口留了一盏灯。",
+        "沐沐指了指正在用的新桥，让歇着的云鲸看见有人接上了。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "云鲸歇脚的低云湾。平视中景突出人物姿态和相互位置。画面：朵朵把小灯移到湾口，沐沐向远处新桥挥手。入镜角色：沐沐、朵朵。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 13.4,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "沐沐与皮皮回到渡口，把只余一盏灯放在值守桌",
+      "location": "云海渡口的鲸桥平台",
+      "character_names": [
+        "沐沐",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "回到平台，沐沐把换班的两步讲给皮皮听。",
+        "先让新桥停稳，再跟旧桥道别。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "云海渡口的鲸桥平台。侧面中景展示动作方向与相邻环境。画面：沐沐与皮皮回到渡口，把只余一盏灯放在值守桌。入镜角色：沐沐、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.67,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "低云湾里云鲸安卧，湾口小灯柔和照亮云纹",
+      "location": "云鲸歇脚的低云湾",
+      "character_names": [],
+      "narration_lines": [
+        "湾里响起一声很轻的呼气。",
+        "走过渡口的脚步远了，云鲸终于可以慢慢躺平。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "云鲸歇脚的低云湾。侧面中景展示动作方向与相邻环境。画面：低云湾里云鲸安卧，湾口小灯柔和照亮云纹。入镜角色：无，仅画环境或道具。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 19.07,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v3剧本和九镜已校时估算，实际配音及后续制作待进行",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/多场景版v2/结构化JSON/ep053.json",
+    "scope": "以约两分钟为目标逐集校时，补充偏短故事的动作、对话或线索，压缩偏长的重复表述",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始",
+    "previous_script_sha256": "aaf0599b8f18f0d70afcc43a7c0693295abdc8d28f88c82672892c866ff58fcd",
+    "edited_shots": []
+  },
+  "duration_plan": {
+    "target_s": 120,
+    "planning_range_s": [
+      115,
+      125
+    ],
+    "estimated_s": 120.33,
+    "v2_estimated_using_same_method_s": 120.33,
+    "reference_narration_hanzi_per_second": 2.899607,
+    "opening_s": 1.0,
+    "tail_in_final_shot_s": 8.0
+  }
+}

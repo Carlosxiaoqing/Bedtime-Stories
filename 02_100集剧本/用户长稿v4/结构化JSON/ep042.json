@@ -1,0 +1,91 @@
+{
+  "schema_version": 3,
+  "script_version": "v4",
+  "id": "ep042",
+  "episode": 42,
+  "title": "小手套找到了伴",
+  "theme": "不着急地整理小遗漏",
+  "language": "zh-CN",
+  "production_scope": "adopted_user_long_script",
+  "status": "copyedited_media_not_started",
+  "narration_paragraphs": [
+    {
+      "id": "p001",
+      "text": "冬天的早晨和傍晚冷飕飕的，皮皮出门上学时，总会戴上妈妈给他织的那双毛茸茸的红白条纹小手套。\n今天下午放学的时候，皮皮在院门口和小熊绒绒一起堆了一个小小的雪球。因为觉得戴着手套拍雪球不够灵活，皮皮进屋前，就在玄关那儿把手套摘了下来。"
+    },
+    {
+      "id": "p002",
+      "text": "到了晚上准备睡觉前，皮皮像往常一样去检查明天上学要穿戴的衣物。\n他把叠好的小围巾放进门边的藤编收纳篮里，可低头一看，咦？大大的篮子里，怎么只孤零零地坐着一只左手的小手套呢？右手的那只小手套去哪儿了呀？"
+    },
+    {
+      "id": "p003",
+      "text": "要是放在以前，皮皮发现少了一只手套，肯定会急得在屋里团团转，甚至想拿手电筒开门跑到雪地里去找。\n但是现在的皮皮遇到小麻烦时，已经学会先让自己冷静下来了。他站在玄关的暖灯下，深吸了一口气，没有马上开门跑出去，而是先在脑海里像放电影一样，回忆了一下傍晚进门时的动作。"
+    },
+    {
+      "id": "p004",
+      "text": "“我进门的时候，先坐在矮木凳上换了拖鞋……”皮皮一边小声嘟囔，一边低下头，先往门边那张换鞋的矮木凳下面看去。\n哈哈，找到了！原来右手的那只小手套，当时从膝盖上滑了下来，正安安静静地靠在里面的木凳脚旁边，就像跟皮皮玩捉迷藏，躲进了一个很小很小的阴影角落里。"
+    },
+    {
+      "id": "p005",
+      "text": "皮皮弯下腰，高高兴兴地把那只小手套捡了起来。他用小爪子轻轻掸掉手套表面沾着的一点点细灰，然后把它放进藤编篮里，让两只红白条纹的小手套平平展展地躺在一起。\n一只大拇指朝左，一只大拇指朝右，掌心挨着掌心，就像失散了一小会儿的好兄弟终于团聚了。篮子里一下子变得整整齐齐、成双成对。"
+    },
+    {
+      "id": "p006",
+      "text": "皮皮把收纳篮往架子里面推稳。这样一来，明天早上出门上学的时候，就不用慌慌张张地到处找手套了，今天的小寻找已经圆满结束啦。\n他迈着轻松的步子回到卧室的小床上，把自己的两只小爪子，也像那双手套一样，成双成对地放进了暖暖和和的被窝里。"
+    },
+    {
+      "id": "p007",
+      "text": "胡萝卜玩偶靠着胸口，皮皮轻轻闭上眼睛。屋里所有小小的伙伴，都找到自己的伴儿，安顿好了。\n小朋友，白天要是有小小的一点遗漏，只要不着急、慢慢找，总能整理好的。现在，把你的两只小手也放进温暖的被窝里，舒服地休息吧。晚安。"
+    }
+  ],
+  "cn_characters": 749,
+  "narration_sha256": "83c25f2152dc59cfdbd72223a92ebf9aa9cc9e4c0d266135c17e7e0a59ca029f",
+  "source": {
+    "path": "/Users/ww/Downloads/100集睡前故事合集.md",
+    "sha256": "3feafa137e94824baccf8b6e3f3f24bac3e97714b2e201fcc48d461d8969c302",
+    "original_narration_sha256": "83c25f2152dc59cfdbd72223a92ebf9aa9cc9e4c0d266135c17e7e0a59ca029f",
+    "original_paragraph_count": 7
+  },
+  "revision_record": [],
+  "duration_policy": {
+    "basis": "complete_narration_at_current_voice_settings",
+    "limit_s": null,
+    "delete_for_duration": false,
+    "time_stretch": false
+  },
+  "voice": {
+    "config": "03_素材与参数/配音与声音参数.json",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000
+  },
+  "actual_duration_s": null,
+  "character_registry": "03_素材与参数/用户长稿v4角色图库.json",
+  "storyboard": {
+    "status": "not_started",
+    "shots": [],
+    "timing_basis": "actual_audio",
+    "preferred_hold_s": [
+      8,
+      10
+    ],
+    "review_above_s": 15,
+    "short_action_hold_s": [
+      3,
+      5
+    ]
+  },
+  "material_state": {
+    "voice": "not_started",
+    "character_references": "not_generated",
+    "illustrations": "not_started",
+    "cover": "not_started",
+    "pinyin_review": "not_started",
+    "render": "not_started",
+    "technical_check": "not_started",
+    "human_watch": "not_started",
+    "user_acceptance": "not_recorded"
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "schema_version": 2,
+  "id": "ep016",
+  "episode": 16,
+  "title": "小鹿的风铃结",
+  "theme": "把清脆的白天收起来",
+  "setting": "门廊与卧室",
+  "guest": "小鹿芽芽",
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "约90–120秒；以实际配音为准",
+  "cn_characters": 240,
+  "initial_duration_budget_s": 97.5,
+  "shots": [
+    {
+      "id": 1,
+      "title": "门廊风铃与小鹿",
+      "narration_lines": [
+        "门廊的小风铃，陪皮皮和小鹿芽芽，听了一下午的风。",
+        "天色慢慢暗了。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "中景建立环境，主体位置清楚",
+      "image": "images/shot_01.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：门廊风铃与小鹿。镜位：中景建立环境，主体位置清楚。",
+      "initial_budget_s": 11.11,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "松开绳结与铃片",
+      "narration_lines": [
+        "风铃的绳结松了一点，铃片碰在一起，发出几声细细的轻响。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "主体或物件近景，保留地点线索",
+      "image": "images/shot_02.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：松开绳结与铃片。镜位：主体或物件近景，保留地点线索。",
+      "initial_budget_s": 8.45,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "棉布托住风铃片",
+      "narration_lines": [
+        "芽芽用鼻尖指给皮皮看。",
+        "皮皮拿来一小条棉布，先稳稳托住铃片。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "中近景呈现动作后的稳定姿态",
+      "image": "images/shot_03.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：棉布托住风铃片。镜位：中近景呈现动作后的稳定姿态。",
+      "initial_budget_s": 9.79,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "棉布隔开风铃片",
+      "narration_lines": [
+        "他们把绳结理好，再让棉布松松靠在铃片中间，晚风便不再敲得那么勤。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "细节特写，避免裁掉必要的爪子或道具",
+      "image": "images/shot_04.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：棉布隔开风铃片。镜位：细节特写，避免裁掉必要的爪子或道具。",
+      "initial_budget_s": 10.01,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "安静风铃与屋檐叶影",
+      "narration_lines": [
+        "风铃还是挂在原处，只是安静了。",
+        "屋檐下，听得见树叶轻轻挨着树叶。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "中景呈现情境变化，留低细节空间",
+      "image": "images/shot_05.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：安静风铃与屋檐叶影。镜位：中景呈现情境变化，留低细节空间。",
+      "initial_budget_s": 10.11,
+      "motion_hint": "m02",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "小鹿回到近处暖屋",
+      "narration_lines": [
+        "芽芽在门口道晚安。",
+        "皮皮看着她回到近处的小屋，才把门轻轻合好。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "主体近景，暖光方向延续",
+      "image": "images/shot_06.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：小鹿回到近处暖屋。镜位：主体近景，暖光方向延续。",
+      "initial_budget_s": 10.11,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "棉布叠进小篮子",
+      "narration_lines": [
+        "他把剩下的棉布叠进小篮子。",
+        "明天，风铃还可以继续唱它的小曲子。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "安顿动作中景或安静环境近景",
+      "image": "images/shot_07.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：棉布叠进小篮子。镜位：安顿动作中景或安静环境近景。",
+      "initial_budget_s": 10.11,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "盖到下巴的毛毯",
+      "narration_lines": [
+        "现在，皮皮靠进枕头，把毛毯盖到下巴，听房间慢慢安静下来。"
+      ],
+      "pause_after_s": [
+        1.1
+      ],
+      "camera": "放松姿态近景，光线略柔暗",
+      "image": "images/shot_08.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：盖到下巴的毛毯。镜位：放松姿态近景，光线略柔暗。",
+      "initial_budget_s": 8.6,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "木屋与安静风铃远景",
+      "narration_lines": [
+        "小朋友，白天的声音也歇一会儿吧。",
+        "让安静靠近一点。",
+        "晚安，做个轻轻的梦。"
+      ],
+      "pause_after_s": [
+        1.1,
+        1.1,
+        8.0
+      ],
+      "camera": "木屋卧室或可见卧室的中远景收束，主体安睡",
+      "image": "images/shot_09.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：木屋与安静风铃远景。镜位：木屋卧室或可见卧室的中远景收束，主体安睡。",
+      "initial_budget_s": 19.26,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "需按本集提示词生成图片并合成配音；不含尚未制作的图片或音频",
+  "shared_config": "03_素材与参数/共用画风与提示词.json",
+  "character_names": [
+    "皮皮",
+    "小鹿芽芽"
+  ]
+}

@@ -1,0 +1,83 @@
+[
+  {
+    "file": "images/shot_01.png",
+    "size": [
+      941,
+      1672
+    ],
+    "sha256": "7c479080ef42b0e1c8ee938d9bef5214fe9a26ab109d09acab4ab00e0b602893",
+    "source": "OpenAI image_gen; original episode 003 illustration"
+  },
+  {
+    "file": "images/shot_02.png",
+    "size": [
+      941,
+      1672
+    ],
+    "sha256": "fdc8d69016d0e88db3cac337f8371284d97ce7133116ddf4dffaaa7bf12fce80",
+    "source": "OpenAI image_gen; original episode 003 illustration"
+  },
+  {
+    "file": "images/shot_03.png",
+    "size": [
+      941,
+      1672
+    ],
+    "sha256": "4beefbb85807feefde573a92c5b4ed7b875b2cf32f995e3b12945d2c502a0f3d",
+    "source": "OpenAI image_gen; original episode 003 illustration"
+  },
+  {
+    "file": "images/shot_04.png",
+    "size": [
+      941,
+      1672
+    ],
+    "sha256": "9a4ca9450b78f9705138fe585ce145aacce8184c8e322c7387a4e755f164ed8f",
+    "source": "OpenAI image_gen; original episode 003 illustration"
+  },
+  {
+    "file": "images/shot_05.png",
+    "size": [
+      941,
+      1672
+    ],
+    "sha256": "f45f937c7096628a24716fc70c251c9f7ac71b970360602df8a3ab6db524c4a4",
+    "source": "OpenAI image_gen; original episode 003 illustration"
+  },
+  {
+    "file": "images/shot_06.png",
+    "size": [
+      941,
+      1672
+    ],
+    "sha256": "022ed6c349844ebfe878cadfeea67beaf0f91e65e625ad8ebf9b0039d726690b",
+    "source": "OpenAI image_gen; original episode 003 illustration"
+  },
+  {
+    "file": "images/shot_07.png",
+    "size": [
+      941,
+      1672
+    ],
+    "sha256": "9ee11c6924ac77d6bc903e95a2fef6923bff69476ec742470875441bc6059f7f",
+    "source": "OpenAI image_gen; original episode 003 illustration"
+  },
+  {
+    "file": "images/shot_08.png",
+    "size": [
+      941,
+      1672
+    ],
+    "sha256": "a828a0ea03c2c4aad81716e2e3250b459674a0f59751736300c76e7c77da06c1",
+    "source": "OpenAI image_gen; original episode 003 illustration"
+  },
+  {
+    "file": "images/shot_09.png",
+    "size": [
+      941,
+      1672
+    ],
+    "sha256": "a6d903e4a18ea44297747c294b48159e9c8d8e6e1c10304e0b33149fca3dfb83",
+    "source": "OpenAI image_gen; original episode 003 illustration"
+  }
+]

@@ -1,0 +1,137 @@
+{
+  "text": "山羊老师走过来，温柔地摸了摸皮皮的长耳朵，夸他是个懂得照顾朋友的好孩子。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "91c705a650e1e6da5c919b961132fd51b003f1d26195a26f8dcfeabfffa2652e",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 6346250,
+      "text": "山羊"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7807500,
+      "duration": 5000000,
+      "text": "老师"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13000000,
+      "duration": 3269160,
+      "text": "走"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16269160,
+      "duration": 6153750,
+      "text": "过来"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27807500,
+      "duration": 5384580,
+      "text": "温柔"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33192500,
+      "duration": 1346250,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 34922910,
+      "duration": 2884580,
+      "text": "摸"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 37807500,
+      "duration": 1538330,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 39346250,
+      "duration": 3077080,
+      "text": "摸"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 42807500,
+      "duration": 6538330,
+      "text": "皮皮的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 49346250,
+      "duration": 3461660,
+      "text": "长"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 53000000,
+      "duration": 7692500,
+      "text": "耳朵"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 65692500,
+      "duration": 2500000,
+      "text": "夸"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 68192500,
+      "duration": 1922910,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 70307500,
+      "duration": 3846250,
+      "text": "是个"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 74538330,
+      "duration": 4422910,
+      "text": "懂得"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 79153750,
+      "duration": 4615410,
+      "text": "照顾"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 83961660,
+      "duration": 4615410,
+      "text": "朋友"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 88577080,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 90307500,
+      "duration": 2884580,
+      "text": "好"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 93192500,
+      "duration": 8653750,
+      "text": "孩子"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "lili",
+  "source": "/Users/ww/.codex/generated_images/01a1c779-b2c5-7591-8e26-7f019d36a778/exec-c9f95a08-33e4-4df3-a907-c08eb7e7d4c4.png",
+  "dest": "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png",
+  "prompt": "Use case: illustration-story. Asset type: production CHARACTER IDENTITY MODEL SHEET for a watercolor children's story. Input image 1 is ONLY the shared watercolor STYLE reference: do NOT copy its rabbit species, face, ears, hat or markings. Plain warm ivory watercolor paper backdrop, four well-separated studies of ONE identical character: front full-body, three-quarter full-body, side full-body, large face portrait. Consistent proportions, colors, facial features and clothing across all four views. Quiet standing poses, rounded friendly forms, small gentle dark eyes, muted colors, delicate paper grain, hand-painted soft edges and low contrast. No scene, furniture, other characters, letters, numbers, labels, text, grid lines, borders or watermark. Not 3D, not photorealistic, not a toy photograph. Subject: Lili, a small woodland HEDGEHOG, slightly shorter than the rabbit from the reference. Light brown round face and soft cream belly, tiny black nose, small round ears, short paws. A clearly distinct dark-brown domed mantle of SHORT ROUNDED soft spines across the back, no threatening needles. Stocky compact body. Wearing a simple muted sage-gray-green sleeveless vest that fits around the back spines. No tail plume, no rabbit ears, no cap. Preserve recognizable hedgehog silhouette from every view.",
+  "reference_inputs": [
+    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+  ]
+}

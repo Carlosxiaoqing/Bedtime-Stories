@@ -1,0 +1,255 @@
+{
+  "schema_version": 2,
+  "script_version": "v2",
+  "id": "ep043",
+  "episode": 43,
+  "title": "把一小会儿还给云钟",
+  "cover_title": "云钟慢一拍",
+  "category": "想象",
+  "theme": "朋友需要多一点时间时可以等一等",
+  "setting": "云坡钟楼底层、钟楼外三层云梯",
+  "viewpoint_character": "团团",
+  "guest": "团团、慢慢",
+  "character_names": [
+    "团团",
+    "皮皮",
+    "慢慢"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "按晓晓-35%实际口播、停顿和约8秒尾声确定",
+  "cn_characters": 256,
+  "initial_duration_budget_s": 103.06,
+  "shots": [
+    {
+      "id": 1,
+      "title": "钟楼有三只向不同方向的钟，团团与皮皮在慢慢身旁",
+      "location": "云坡钟楼底层",
+      "character_names": [
+        "团团",
+        "皮皮",
+        "慢慢"
+      ],
+      "narration_lines": [
+        "云坡的钟会提醒大家换云梯。",
+        "团团听见第一声响，就跑到了下一段台阶。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "云坡钟楼底层。竖幅远景交代空间和前后层次。画面：钟楼有三只向不同方向的钟，团团与皮皮在慢慢身旁。入镜角色：团团、皮皮、慢慢。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "慢慢才从下层踏上第一片云阶",
+      "location": "钟楼外三层云梯",
+      "character_names": [
+        "慢慢"
+      ],
+      "narration_lines": [
+        "慢慢还在第一片云上。",
+        "他往前挪一点，第二声又响了，新的云阶已经抬高。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "低视角凸显脚边、地面与人物尺度",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "钟楼外三层云梯。低视角凸显脚边、地面与人物尺度。画面：慢慢才从下层踏上第一片云阶。入镜角色：慢慢。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "团团停在高处朝慢慢伸爪，皮皮在低一层转身",
+      "location": "钟楼外三层云梯",
+      "character_names": [
+        "团团",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "团团想把他抱上来。",
+        "慢慢摇摇触角，说自己走得动，只是还需要一小会儿。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "钟楼外三层云梯。平视中景突出人物姿态和相互位置。画面：团团停在高处朝慢慢伸爪，皮皮在低一层转身。入镜角色：团团、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "钟楼底层放着一枚小沙漏，团团指到旁边的手形拨柄",
+      "location": "云坡钟楼底层",
+      "character_names": [
+        "团团"
+      ],
+      "narration_lines": [
+        "团团下去问管钟的朋友。",
+        "原来拨一拨小柄，就能让下一片云多停一小会儿。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "云坡钟楼底层。近景突出手边动作或道具状态。画面：钟楼底层放着一枚小沙漏，团团指到旁边的手形拨柄。入镜角色：团团。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.04,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "皮皮扶住沙漏，团团拨动小柄后抬头等候",
+      "location": "云坡钟楼底层",
+      "character_names": [
+        "团团",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "皮皮把沙漏转过来。",
+        "团团等到细沙落完，又朝梯子上看了一眼。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "云坡钟楼底层。平视中景突出人物姿态和相互位置。画面：皮皮扶住沙漏，团团拨动小柄后抬头等候。入镜角色：团团、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 9.48,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "慢慢沿稳定的低云阶爬到与第二阶平齐",
+      "location": "钟楼外三层云梯",
+      "character_names": [
+        "慢慢"
+      ],
+      "narration_lines": [
+        "这一次，第一片云等在那里。",
+        "慢慢走到边上，和第二片云正好平平地接起来。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "钟楼外三层云梯。侧面中景展示动作方向与相邻环境。画面：慢慢沿稳定的低云阶爬到与第二阶平齐。入镜角色：慢慢。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.04,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "三个伙伴在云梯转台相会，团团蹲低与慢慢平视",
+      "location": "钟楼外三层云梯",
+      "character_names": [
+        "团团",
+        "皮皮",
+        "慢慢"
+      ],
+      "narration_lines": [
+        "团团没有先跑，蹲在转台等。",
+        "慢慢到了，说下次要自己去拨那只小柄。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "钟楼外三层云梯。平视中景突出人物姿态和相互位置。画面：三个伙伴在云梯转台相会，团团蹲低与慢慢平视。入镜角色：团团、皮皮、慢慢。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.11,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "钟楼内，慢慢靠近低柄，团团和皮皮分站两旁",
+      "location": "云坡钟楼底层",
+      "character_names": [
+        "团团",
+        "皮皮",
+        "慢慢"
+      ],
+      "narration_lines": [
+        "回到钟楼，他们请值守员把柄挪低一点。",
+        "慢慢刚好能用身体轻轻推一下。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "云坡钟楼底层。侧面中景展示动作方向与相邻环境。画面：钟楼内，慢慢靠近低柄，团团和皮皮分站两旁。入镜角色：团团、皮皮、慢慢。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "几片云梯搭成齐平路面，钟楼高处钟面安静",
+      "location": "钟楼外三层云梯",
+      "character_names": [],
+      "narration_lines": [
+        "云钟后来偶尔慢一拍。",
+        "听见的人会多站一会儿，看脚下的云慢慢接好。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "环境留白为主，关键物件或人物位于上部",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "钟楼外三层云梯。环境留白为主，关键物件或人物位于上部。画面：几片云梯搭成齐平路面，钟楼高处钟面安静。入镜角色：无，仅画环境或道具。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 17.47,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v2剧本与九镜已编写，配音、插画、封面、字幕及视频待制作",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/结构化JSON/ep043.json",
+    "scope": "按用户反馈重写人物互动、故事事件、场景及九镜",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始"
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "schema_version": 2,
+  "script_version": "v3",
+  "id": "ep038",
+  "episode": 38,
+  "title": "会漏雨的云伞",
+  "cover_title": "漏雨云伞",
+  "category": "想象",
+  "theme": "事情可以有新的用途",
+  "setting": "云坡借伞亭、云坡苗圃的小石路",
+  "viewpoint_character": "豆豆",
+  "guest": "豆豆、朵朵",
+  "character_names": [
+    "豆豆",
+    "皮皮",
+    "朵朵"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "成片约120秒，配音后实测校时",
+  "cn_characters": 283,
+  "initial_duration_budget_s": 121.4,
+  "shots": [
+    {
+      "id": 1,
+      "title": "豆豆从借伞亭取浅白云伞，皮皮与朵朵在亭边等候",
+      "location": "云坡借伞亭",
+      "character_names": [
+        "豆豆",
+        "皮皮",
+        "朵朵"
+      ],
+      "narration_lines": [
+        "云坡的伞全是云做的。",
+        "豆豆挑了最白的那把，出了亭子却听见滴答一声。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "云坡借伞亭。竖幅远景交代空间和前后层次。画面：豆豆从借伞亭取浅白云伞，皮皮与朵朵在亭边等候。入镜角色：豆豆、皮皮、朵朵。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.67,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "豆豆举起云伞看边缘，一滴水落到脚旁石槽",
+      "location": "云坡借伞亭",
+      "character_names": [
+        "豆豆"
+      ],
+      "narration_lines": [
+        "这把伞自己会落雨。",
+        "豆豆换了个方向，水还是从同一个小角落滴下来。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "云坡借伞亭。近景突出手边动作或道具状态。画面：豆豆举起云伞看边缘，一滴水落到脚旁石槽。入镜角色：豆豆。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.33,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "三个伙伴侧身并到亭檐下，朵朵指向干土苗圃",
+      "location": "云坡借伞亭",
+      "character_names": [
+        "豆豆",
+        "皮皮",
+        "朵朵"
+      ],
+      "narration_lines": [
+        "皮皮想拿回去换。",
+        "朵朵看见亭旁一盆干干的小草，问能不能先借它一小阵雨。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "云坡借伞亭。平视中景突出人物姿态和相互位置。画面：三个伙伴侧身并到亭檐下，朵朵指向干土苗圃。入镜角色：豆豆、皮皮、朵朵。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "云伞边滴水，朵朵指向尚干的泥土",
+      "location": "云坡苗圃的小石路",
+      "character_names": [
+        "豆豆",
+        "朵朵"
+      ],
+      "narration_lines": [
+        "他们把伞送到草盆边。",
+        "豆豆抬低伞柄，那滴雨就落在小草旁的土里。",
+        "朵朵用鼻尖点了点还发白的泥，豆豆把伞往那边移了半步。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "云坡苗圃的小石路。侧面中景展示动作方向与相邻环境。画面：云伞边滴水，朵朵指向尚干的泥土。入镜角色：豆豆、朵朵。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 19.98,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "皮皮用爪指三个盆边湿润处与一盆仍干的土",
+      "location": "云坡苗圃的小石路",
+      "character_names": [
+        "皮皮"
+      ],
+      "narration_lines": [
+        "雨只够浇半排。",
+        "皮皮把干的那盆挪近一点，让最后几滴也落到了泥里。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "云坡苗圃的小石路。近景突出手边动作或道具状态。画面：皮皮用爪指三个盆边湿润处与一盆仍干的土。入镜角色：皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.33,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "豆豆把云伞交回借伞架旁，三位看伞角已无水",
+      "location": "云坡借伞亭",
+      "character_names": [
+        "豆豆",
+        "皮皮",
+        "朵朵"
+      ],
+      "narration_lines": [
+        "等云伞不滴了，豆豆把它送回去。",
+        "亭里的值守员看了看，说这把伞装满水就会重。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "云坡借伞亭。平视中景突出人物姿态和相互位置。画面：豆豆把云伞交回借伞架旁，三位看伞角已无水。入镜角色：豆豆、皮皮、朵朵。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.71,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "借伞桌面有两种伞图，一把挡雨，一把向下滴水",
+      "location": "云坡借伞亭",
+      "character_names": [
+        "豆豆",
+        "皮皮",
+        "朵朵"
+      ],
+      "narration_lines": [
+        "他们给它画了一个小草记号。",
+        "下次有人想给花浇水，就来这里借会落雨的伞。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "俯视呈现平面上的物件和路线",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "云坡借伞亭。俯视呈现平面上的物件和路线。画面：借伞桌面有两种伞图，一把挡雨，一把向下滴水。入镜角色：豆豆、皮皮、朵朵。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "雨停，三位沿干燥小石路从苗圃旁慢慢走远",
+      "location": "云坡苗圃的小石路",
+      "character_names": [
+        "豆豆",
+        "皮皮",
+        "朵朵"
+      ],
+      "narration_lines": [
+        "雨已经停了。",
+        "豆豆没再换伞，和两位朋友沿着石路往回走。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "云坡苗圃的小石路。侧面中景展示动作方向与相邻环境。画面：雨停，三位沿干燥小石路从苗圃旁慢慢走远。入镜角色：豆豆、皮皮、朵朵。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 9.6,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "苗圃几盆湿土在云影下，最矮草尖有一滴水",
+      "location": "云坡苗圃的小石路",
+      "character_names": [],
+      "narration_lines": [
+        "豆豆回头时，小草尖还顶着一滴水。",
+        "那把没挡住雨的伞，刚好做了另一件事。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "云坡苗圃的小石路。竖幅远景交代空间和前后层次。画面：苗圃几盆湿土在云影下，最矮草尖有一滴水。入镜角色：无，仅画环境或道具。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 19.07,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v3剧本和九镜已校时估算，实际配音及后续制作待进行",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/多场景版v2/结构化JSON/ep038.json",
+    "scope": "以约两分钟为目标逐集校时，补充偏短故事的动作、对话或线索，压缩偏长的重复表述",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始",
+    "previous_script_sha256": "89c1ca0a84940fe5d9d6edc75dbdf3836d3b3ddf2f0c0f3b150f0c472c73949f",
+    "edited_shots": [
+      4
+    ]
+  },
+  "duration_plan": {
+    "target_s": 120,
+    "planning_range_s": [
+      115,
+      125
+    ],
+    "estimated_s": 121.4,
+    "v2_estimated_using_same_method_s": 112.4,
+    "reference_narration_hanzi_per_second": 2.899607,
+    "opening_s": 1.0,
+    "tail_in_final_shot_s": 8.0
+  }
+}

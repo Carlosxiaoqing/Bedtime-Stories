@@ -1,0 +1,260 @@
+{
+  "schema_version": 2,
+  "script_version": "v2",
+  "id": "ep061",
+  "episode": 61,
+  "title": "小摊上那句没听清的话",
+  "cover_title": "轻声招呼",
+  "category": "社区",
+  "theme": "找到自己舒服的交流方式",
+  "setting": "长耳街交换集的栗栗小摊、交换集过道",
+  "viewpoint_character": "栗栗",
+  "guest": "栗栗、团团",
+  "character_names": [
+    "栗栗",
+    "皮皮",
+    "团团"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "按晓晓-35%实际口播、停顿和约8秒尾声确定",
+  "cn_characters": 283,
+  "initial_duration_budget_s": 112.23,
+  "shots": [
+    {
+      "id": 1,
+      "title": "集市小摊摆几枚松果夹，栗栗坐在低桌后，皮皮团团路过",
+      "location": "长耳街交换集的栗栗小摊",
+      "character_names": [
+        "栗栗",
+        "皮皮",
+        "团团"
+      ],
+      "narration_lines": [
+        "栗栗做了几只松果夹，想拿来换树叶。",
+        "他说得很轻，第一位朋友经过时没听见。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街交换集的栗栗小摊。竖幅远景交代空间和前后层次。画面：集市小摊摆几枚松果夹，栗栗坐在低桌后，皮皮团团路过。入镜角色：栗栗、皮皮、团团。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "皮皮站到摊旁，栗栗把夹子捏在手心",
+      "location": "长耳街交换集的栗栗小摊",
+      "character_names": [
+        "栗栗",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "皮皮想替他喊一声。",
+        "栗栗摇头，说自己想试着招呼，只想先让大家看见夹子能做什么。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街交换集的栗栗小摊。平视中景突出人物姿态和相互位置。画面：皮皮站到摊旁，栗栗把夹子捏在手心。入镜角色：栗栗、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.29,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "一只松果夹咬住大叶柄，叶面立起来",
+      "location": "长耳街交换集的栗栗小摊",
+      "character_names": [
+        "栗栗"
+      ],
+      "narration_lines": [
+        "栗栗把最大的一片叶子夹起来，立到桌角。",
+        "来往的朋友一下就能看见，它站得很稳。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街交换集的栗栗小摊。近景突出手边动作或道具状态。画面：一只松果夹咬住大叶柄，叶面立起来。入镜角色：栗栗。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.98,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "团团从过道停步看立叶，栗栗把手边夹子朝外放",
+      "location": "交换集过道",
+      "character_names": [
+        "团团",
+        "栗栗"
+      ],
+      "narration_lines": [
+        "团团先停下了。",
+        "他问这片叶子怎么站住的。",
+        "栗栗拿起另一只夹子，给他做了一遍。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "交换集过道。侧面中景展示动作方向与相邻环境。画面：团团从过道停步看立叶，栗栗把手边夹子朝外放。入镜角色：团团、栗栗。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.39,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "栗栗把夹子递给团团，皮皮在桌旁看，摊外留空",
+      "location": "长耳街交换集的栗栗小摊",
+      "character_names": [
+        "栗栗",
+        "团团",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "讲到第二遍，栗栗的声音也清楚些。",
+        "团团找出一片红叶，问能不能换一只。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街交换集的栗栗小摊。平视中景突出人物姿态和相互位置。画面：栗栗把夹子递给团团，皮皮在桌旁看，摊外留空。入镜角色：栗栗、团团、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "桌上红叶与空夹交换位置，另一片叶仍立在桌角",
+      "location": "长耳街交换集的栗栗小摊",
+      "character_names": [
+        "栗栗",
+        "团团",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "两样东西在桌上换了个位置。",
+        "栗栗收好红叶，又把桌角那片叶立得高了一点。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "俯视呈现平面上的物件和路线",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街交换集的栗栗小摊。俯视呈现平面上的物件和路线。画面：桌上红叶与空夹交换位置，另一片叶仍立在桌角。入镜角色：栗栗、团团、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "栗栗从小摊边向离开的皮皮招手，皮皮回头",
+      "location": "交换集过道",
+      "character_names": [
+        "栗栗",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "快收摊时，皮皮从过道走过。",
+        "栗栗自己叫住他，请他来看看新换到的红叶。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "交换集过道。平视中景突出人物姿态和相互位置。画面：栗栗从小摊边向离开的皮皮招手，皮皮回头。入镜角色：栗栗、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "栗栗把红叶夹在最小的夹子里，手边还有两个空夹",
+      "location": "长耳街交换集的栗栗小摊",
+      "character_names": [
+        "栗栗"
+      ],
+      "narration_lines": [
+        "那片红叶正好配最小的夹子。",
+        "栗栗把它放回桌上，准备带回家。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街交换集的栗栗小摊。近景突出手边动作或道具状态。画面：栗栗把红叶夹在最小的夹子里，手边还有两个空夹。入镜角色：栗栗。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 9.48,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "栗栗在低桌后托住空夹，朝画面外来客递出",
+      "location": "长耳街交换集的栗栗小摊",
+      "character_names": [
+        "栗栗"
+      ],
+      "narration_lines": [
+        "还有位朋友停下来看。",
+        "栗栗把空夹递到他面前，问他愿不愿意试一试，让带来的叶子自己站起来。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街交换集的栗栗小摊。平视中景突出人物姿态和相互位置。画面：栗栗在低桌后托住空夹，朝画面外来客递出。入镜角色：栗栗。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 20.91,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v2剧本与九镜已编写，配音、插画、封面、字幕及视频待制作",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/结构化JSON/ep061.json",
+    "scope": "按用户反馈重写人物互动、故事事件、场景及九镜",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始"
+  }
+}

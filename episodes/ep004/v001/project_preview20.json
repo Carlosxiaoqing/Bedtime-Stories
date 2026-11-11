@@ -1,0 +1,143 @@
+{
+  "episode": "ep004",
+  "duration_s": 20.0,
+  "fps": 25,
+  "frames": 500,
+  "preview": true,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "shot_count": 35,
+  "crossfade_s": 0.96,
+  "curve": "linear",
+  "within_shot_motion": "none",
+  "subtitles_after_picture_transitions": true,
+  "clean": "ep004_preview20_clean.mp4",
+  "publish": "ep004_preview20.mp4",
+  "shots": [
+    {
+      "id": 1,
+      "title": "皮皮背上小黄书包",
+      "text": "今天是森林学堂的草地野餐日，也是小兔子皮皮第一次背着自己的小黄书包，",
+      "source_ranges": [
+        {
+          "unit_id": "u001",
+          "paragraph_id": "p001",
+          "start_char": 0,
+          "end_char": 34
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "白天：小木屋后方青草坡，橡树和白桦，坡路向右上延伸，左下远处小溪和红屋顶木屋；皮皮黄书包、蓝背带裤与蓝布鞋，栗栗灰绿背心和米色布包，团团暗赭围巾。",
+      "action": "中景：皮皮站在林间小路起点，肩上小黄书包清晰，期待地看向青草坡。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_01.png",
+      "reference_manifest": "references/shot_01.json",
+      "image_status": "not_generated",
+      "actual_start_s": 0.0,
+      "actual_end_s": 10.96,
+      "speech_start_s": 1.0,
+      "speech_end_s": 10.751707666666668,
+      "visible_start_s": 0.0,
+      "visible_end_s": 11.440000000000001,
+      "visible_duration_s": 11.44
+    },
+    {
+      "id": 2,
+      "title": "跟着老师去青草坡",
+      "text": "跟着山羊老师和朋友们，去小木屋后面的青草坡玩。",
+      "source_ranges": [
+        {
+          "unit_id": "u001",
+          "paragraph_id": "p001",
+          "start_char": 34,
+          "end_char": 57
+        }
+      ],
+      "characters": [
+        "pipi",
+        "lili",
+        "tuantuan",
+        "goat_teacher"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "白天：小木屋后方青草坡，橡树和白桦，坡路向右上延伸，左下远处小溪和红屋顶木屋；皮皮黄书包、蓝背带裤与蓝布鞋，栗栗灰绿背心和米色布包，团团暗赭围巾。",
+      "action": "远景：山羊老师带三位伙伴沿小路向坡走，所有角色按身份参考，队列和比例清楚。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_02.png",
+      "reference_manifest": "references/shot_02.json",
+      "image_status": "not_generated",
+      "actual_start_s": 10.96,
+      "actual_end_s": 18.2,
+      "speech_start_s": 11.143999666666668,
+      "speech_end_s": 17.66324966666667,
+      "visible_start_s": 10.48,
+      "visible_end_s": 18.68,
+      "visible_duration_s": 8.2
+    },
+    {
+      "id": 3,
+      "title": "圆圆的青草坡",
+      "text": "青草坡圆圆的，软软的，像一块铺在阳光下的大绿毯子。",
+      "source_ranges": [
+        {
+          "unit_id": "u002",
+          "paragraph_id": "p002",
+          "start_char": 0,
+          "end_char": 25
+        }
+      ],
+      "characters": [],
+      "outfits": {},
+      "setting": "白天：小木屋后方青草坡，橡树和白桦，坡路向右上延伸，左下远处小溪和红屋顶木屋；皮皮黄书包、蓝背带裤与蓝布鞋，栗栗灰绿背心和米色布包，团团暗赭围巾。",
+      "action": "宽幅感的竖画：柔软圆坡与小溪、三叶草、红屋顶木屋，没人，建立地理。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_03.png",
+      "reference_manifest": "references/shot_03.json",
+      "image_status": "not_generated",
+      "actual_start_s": 18.2,
+      "actual_end_s": 26.96,
+      "speech_start_s": 18.7726875,
+      "speech_end_s": 26.513874666666666,
+      "visible_start_s": 17.72,
+      "visible_end_s": 27.44,
+      "visible_duration_s": 9.72
+    }
+  ],
+  "audio": "mix.wav",
+  "subtitles": "episode.ass",
+  "character_registry": "references/",
+  "fonts": [
+    {
+      "path": "fonts/NotoSans-Regular.ttf",
+      "sha256": "89c3c497f618fdaa0b2d1e98fef93582f28c71debd2c4a8cdf41f190ced2909d"
+    },
+    {
+      "path": "fonts/Noto-CJK-copyright.txt",
+      "sha256": "849f4ea9c214fa4ac3593b770c699f387534b11ce671264c1b10d85bdcb5997b"
+    },
+    {
+      "path": "fonts/NotoSansCJKsc-Bold.otf",
+      "sha256": "85c969dbb2f927c8dbbe440d5755b7c9a714f13a7a58339459df43cfff3583b3"
+    },
+    {
+      "path": "fonts/NotoSansCJKsc-Regular.otf",
+      "sha256": "82e9bdfd176ce68c51f6ff89ca7e2abae7fdb82b4591aa7338638598ae3c91c8"
+    },
+    {
+      "path": "fonts/Noto-Sans-copyright.txt",
+      "sha256": "075f91382875da1c4b491f1facf2586f55448705133264d98ce15cab6211b125"
+    }
+  ]
+}

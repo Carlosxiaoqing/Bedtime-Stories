@@ -1,0 +1,209 @@
+{
+  "text": "今天是森林学堂的草地野餐日，也是小兔子皮皮第一次背着自己的小黄书包，跟着山羊老师和朋友们，去小木屋后面的青草坡玩。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "b635f7a4031981443de316e98ee2897d8c9f58242e2872ade98a8a1bb57cd577",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 6730830,
+      "text": "今天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8384580,
+      "duration": 2307500,
+      "text": "是"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11077080,
+      "duration": 5192500,
+      "text": "森林"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16461660,
+      "duration": 5576660,
+      "text": "学堂"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22038330,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23769160,
+      "duration": 5384580,
+      "text": "草地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 29346250,
+      "duration": 6730830,
+      "text": "野餐"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36077080,
+      "duration": 3846250,
+      "text": "日"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 44346250,
+      "duration": 2115410,
+      "text": "也"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 46461660,
+      "duration": 1922910,
+      "text": "是"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 48577080,
+      "duration": 3076660,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 51653750,
+      "duration": 4230830,
+      "text": "兔子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 56077080,
+      "duration": 8653750,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 66461660,
+      "duration": 5192080,
+      "text": "第一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 71653750,
+      "duration": 3461660,
+      "text": "次"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 75307500,
+      "duration": 4230830,
+      "text": "背着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 79922910,
+      "duration": 4038330,
+      "text": "自己"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 83961660,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 85692500,
+      "duration": 5961660,
+      "text": "小黄"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 91846250,
+      "duration": 7115410,
+      "text": "书包"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 102884580,
+      "duration": 4422910,
+      "text": "跟着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 107500000,
+      "duration": 5577080,
+      "text": "山羊"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 113269160,
+      "duration": 5384580,
+      "text": "老师"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 119038330,
+      "duration": 1730830,
+      "text": "和"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 120961660,
+      "duration": 6345830,
+      "text": "朋友"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 127307500,
+      "duration": 3653750,
+      "text": "们"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 135000000,
+      "duration": 2692500,
+      "text": "去"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 137884580,
+      "duration": 3461660,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 141346250,
+      "duration": 4615410,
+      "text": "木屋"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 146153750,
+      "duration": 5384580,
+      "text": "后面"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 151538330,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 153269160,
+      "duration": 9807500,
+      "text": "青草坡"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 163077080,
+      "duration": 5000000,
+      "text": "玩"
+    }
+  ]
+}

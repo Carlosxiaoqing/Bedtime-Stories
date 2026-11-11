@@ -1,0 +1,192 @@
+{
+  "schema_version": 2,
+  "id": "ep012",
+  "episode": 12,
+  "title": "小松鼠的空篮子",
+  "theme": "今天不必装得满满的",
+  "setting": "门廊与小木屋",
+  "guest": "小松鼠团团",
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "约90–120秒；以实际配音为准",
+  "cn_characters": 237,
+  "initial_duration_budget_s": 97.7,
+  "shots": [
+    {
+      "id": 1,
+      "title": "松鼠与两枚松果",
+      "narration_lines": [
+        "小松鼠团团拎着一只小篮子，来皮皮家做客。",
+        "篮子里，只放着两枚松果。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "中景建立环境，主体位置清楚",
+      "image": "images/shot_01.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：松鼠与两枚松果。镜位：中景建立环境，主体位置清楚。",
+      "initial_budget_s": 11.42,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "松鼠望向篮中空处",
+      "narration_lines": [
+        "他看看空着的地方，又看看林子，想再去捡一些，把小篮子装满。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "主体或物件近景，保留地点线索",
+      "image": "images/shot_02.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：松鼠望向篮中空处。镜位：主体或物件近景，保留地点线索。",
+      "initial_budget_s": 8.76,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "软布固定两枚松果",
+      "narration_lines": [
+        "皮皮把一块软布铺到篮底。",
+        "两枚松果靠在一起，不再滚来滚去了。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "中近景呈现动作后的稳定姿态",
+      "image": "images/shot_03.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：软布固定两枚松果。镜位：中近景呈现动作后的稳定姿态。",
+      "initial_budget_s": 9.79,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "叶子放在篮子空处",
+      "narration_lines": [
+        "空出来的一半，刚好容得下一片叶子。",
+        "团团把叶子轻轻放进去。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "细节特写，避免裁掉必要的爪子或道具",
+      "image": "images/shot_04.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：叶子放在篮子空处。镜位：细节特写，避免裁掉必要的爪子或道具。",
+      "initial_budget_s": 9.48,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "叶尖在篮中轻晃",
+      "narration_lines": [
+        "风从门廊经过，叶尖晃了一下。",
+        "篮子不满，却已经有了自己的风景。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "中景呈现情境变化，留低细节空间",
+      "image": "images/shot_05.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：叶尖在篮中轻晃。镜位：中景呈现情境变化，留低细节空间。",
+      "initial_budget_s": 9.79,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "松鼠提篮走向近处家",
+      "narration_lines": [
+        "团团笑着合上小布盖，沿熟悉的小路回家，脚步一点也不着急。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "主体近景，暖光方向延续",
+      "image": "images/shot_06.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：松鼠提篮走向近处家。镜位：主体近景，暖光方向延续。",
+      "initial_budget_s": 8.76,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "皮皮轻关木门",
+      "narration_lines": [
+        "皮皮把门关轻，回到床边。",
+        "今天没装进篮子的松果，还好好留在森林里。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "安顿动作中景或安静环境近景",
+      "image": "images/shot_07.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：皮皮轻关木门。镜位：安顿动作中景或安静环境近景。",
+      "initial_budget_s": 10.42,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "毛毯上放松的爪子",
+      "narration_lines": [
+        "他盖好毛毯，把小爪子松开。",
+        "窗边的月光，也留着一大块安静的空白。"
+      ],
+      "pause_after_s": [
+        1.1,
+        1.1
+      ],
+      "camera": "放松姿态近景，光线略柔暗",
+      "image": "images/shot_08.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：毛毯上放松的爪子。镜位：放松姿态近景，光线略柔暗。",
+      "initial_budget_s": 10.64,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "留白宽阔的卧室夜景",
+      "narration_lines": [
+        "小朋友，今天不用满满当当。",
+        "给休息留一点地方。",
+        "晚安，愿你睡得舒服。"
+      ],
+      "pause_after_s": [
+        1.1,
+        1.1,
+        8.0
+      ],
+      "camera": "木屋卧室或可见卧室的中远景收束，主体安睡",
+      "image": "images/shot_09.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：留白宽阔的卧室夜景。镜位：木屋卧室或可见卧室的中远景收束，主体安睡。",
+      "initial_budget_s": 18.64,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "需按本集提示词生成图片并合成配音；不含尚未制作的图片或音频",
+  "shared_config": "03_素材与参数/共用画风与提示词.json",
+  "character_names": [
+    "皮皮",
+    "小松鼠团团"
+  ]
+}

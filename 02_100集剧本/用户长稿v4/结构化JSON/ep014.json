@@ -1,0 +1,95 @@
+{
+  "schema_version": 3,
+  "script_version": "v4",
+  "id": "ep014",
+  "episode": 14,
+  "title": "小鼹鼠画的窗户",
+  "theme": "把喜欢的景色带回心里",
+  "language": "zh-CN",
+  "production_scope": "adopted_user_long_script",
+  "status": "copyedited_media_not_started",
+  "narration_paragraphs": [
+    {
+      "id": "p001",
+      "text": "今天下午的美术课，山羊老师带着大家来到皮皮家附近的开阔草地上，画一幅“傍晚的风景”。\n小鼹鼠点点最喜欢皮皮家那扇挂着叶子花窗帘的小木窗了。下课后，点点还舍不得走，坐在皮皮家窗边的矮桌旁，拿着小画板，想画一扇有月亮升起来的窗户。"
+    },
+    {
+      "id": "p002",
+      "text": "点点平时在地下通道里住习惯了，眼神没有那么好，但他画画的时候总是特别认真。\n他先用棕色的蜡笔，一笔一划地画了两根直直的窗框，又用绿色蜡笔在窗角添上一片探进来的树叶。"
+    },
+    {
+      "id": "p003",
+      "text": "最后，到了画月亮的时候。点点屏住呼吸，想在窗户正中间画一个圆圆满满的月亮，可是小爪子抖了一下，画出来的月亮一边胖、一边瘦，歪歪地斜向了窗户边角。\n点点看着那个歪月亮，失落地叹了口气，拿起橡皮想要把它使劲擦掉重画。"
+    },
+    {
+      "id": "p004",
+      "text": "皮皮坐在旁边，轻轻按住了点点的小爪子。\n皮皮没有擦掉那个月亮，而是把点点面前的画纸，顺着桌角轻轻转了一点点方向，指着画纸说：“点点，你看，你不用擦掉它。这样看过去，那枚歪月亮，不就正好像累了一样，轻轻靠在窗外的树梢上歇息吗？”"
+    },
+    {
+      "id": "p005",
+      "text": "点点凑近画纸眨了眨眼睛。呀，真的呢！歪歪的月亮正好挨着那片绿树叶，比孤零零悬在半空中的圆月亮，还要温柔好多倍。\n点点开心极了，他又拿起浅蓝色的蜡笔，在窗框边画了一条垂下来的窗帘，还特地留出一大块没有涂色的白纸地方，好让晚上的月光能慢慢落下来。"
+    },
+    {
+      "id": "p006",
+      "text": "画里的窗户虽然不算最整齐，却装满了今晚微凉的树叶、靠在树梢的月亮，还有两位好朋友并肩安静坐过的美好时光。\n点点小心翼翼地把画放进小画夹里，开心地对皮皮说：“我要把它带回我的地洞小屋，放在我的枕头旁边，这样我闭上眼睛也能看到月亮啦。”"
+    },
+    {
+      "id": "p007",
+      "text": "皮皮把点点送到门廊，挥手道别后，才回到自己的小床边。\n真正的木头窗户，还稳稳地留在熟悉的墙上。皮皮望了一眼窗外那轮真正的弯月，慢慢躺下闭上了眼睛。那些喜欢的美丽景色，已经装进心里，不用一直睁着眼睛看着了。"
+    },
+    {
+      "id": "p008",
+      "text": "小朋友，今天你看到的喜欢画面，也可以轻轻收进心里啦。它们会变成温柔的梦，陪你度过安静的夜晚。晚安。"
+    }
+  ],
+  "cn_characters": 714,
+  "narration_sha256": "8d6c33f8ac9c8f5666cfa787956330258035fa4d7e6eb2ce5f38ea5ebfa95cf8",
+  "source": {
+    "path": "/Users/ww/Downloads/100集睡前故事合集.md",
+    "sha256": "3feafa137e94824baccf8b6e3f3f24bac3e97714b2e201fcc48d461d8969c302",
+    "original_narration_sha256": "8d6c33f8ac9c8f5666cfa787956330258035fa4d7e6eb2ce5f38ea5ebfa95cf8",
+    "original_paragraph_count": 8
+  },
+  "revision_record": [],
+  "duration_policy": {
+    "basis": "complete_narration_at_current_voice_settings",
+    "limit_s": null,
+    "delete_for_duration": false,
+    "time_stretch": false
+  },
+  "voice": {
+    "config": "03_素材与参数/配音与声音参数.json",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000
+  },
+  "actual_duration_s": null,
+  "character_registry": "03_素材与参数/用户长稿v4角色图库.json",
+  "storyboard": {
+    "status": "not_started",
+    "shots": [],
+    "timing_basis": "actual_audio",
+    "preferred_hold_s": [
+      8,
+      10
+    ],
+    "review_above_s": 15,
+    "short_action_hold_s": [
+      3,
+      5
+    ]
+  },
+  "material_state": {
+    "voice": "not_started",
+    "character_references": "not_generated",
+    "illustrations": "not_started",
+    "cover": "not_started",
+    "pinyin_review": "not_started",
+    "render": "not_started",
+    "technical_check": "not_started",
+    "human_watch": "not_started",
+    "user_acceptance": "not_recorded"
+  }
+}

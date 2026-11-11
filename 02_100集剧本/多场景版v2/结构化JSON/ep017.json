@@ -1,0 +1,257 @@
+{
+  "schema_version": 2,
+  "script_version": "v2",
+  "id": "ep017",
+  "episode": 17,
+  "title": "树洞外的等候线",
+  "cover_title": "树洞等一等",
+  "category": "自然",
+  "theme": "游戏里也可以照顾自己的感受",
+  "setting": "松林游戏空地、松林中空倒木外",
+  "viewpoint_character": "梨梨",
+  "guest": "梨梨、栗栗、团团",
+  "character_names": [
+    "梨梨",
+    "皮皮",
+    "栗栗",
+    "团团"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "按晓晓-35%实际口播、停顿和约8秒尾声确定",
+  "cn_characters": 236,
+  "initial_duration_budget_s": 95.37,
+  "shots": [
+    {
+      "id": 1,
+      "title": "四位伙伴在空地玩捉迷藏，树干上有几处浅色树纹",
+      "location": "松林游戏空地",
+      "character_names": [
+        "梨梨",
+        "皮皮",
+        "栗栗",
+        "团团"
+      ],
+      "narration_lines": [
+        "松林里玩捉迷藏。",
+        "梨梨平常躲得最好，今天却一会儿就从倒木旁走了出来。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "松林游戏空地。竖幅远景交代空间和前后层次。画面：四位伙伴在空地玩捉迷藏，树干上有几处浅色树纹。入镜角色：梨梨、皮皮、栗栗、团团。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.04,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "梨梨扶着倒木外沿，皮皮在几步外停下",
+      "location": "松林中空倒木外",
+      "character_names": [
+        "梨梨",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "皮皮差点喊找到啦，见梨梨没有笑，就先停了下来。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "松林中空倒木外。平视中景突出人物姿态和相互位置。画面：梨梨扶着倒木外沿，皮皮在几步外停下。入镜角色：梨梨、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 7.2,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "梨梨用爪背碰倒木边缘，洞口在画面上方",
+      "location": "松林中空倒木外",
+      "character_names": [
+        "梨梨"
+      ],
+      "narration_lines": [
+        "梨梨说，洞里有回声，她听不清伙伴往哪边走，想换个地方。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "松林中空倒木外。近景突出手边动作或道具状态。画面：梨梨用爪背碰倒木边缘，洞口在画面上方。入镜角色：梨梨。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 8.14,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "皮皮在空地边用短枝围出一道弧，朋友聚在弧内外",
+      "location": "松林游戏空地",
+      "character_names": [
+        "皮皮",
+        "栗栗",
+        "团团",
+        "梨梨"
+      ],
+      "narration_lines": [
+        "皮皮在空地上摆了一道树枝线。",
+        "想先歇一歇，就站到线里面来。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "松林游戏空地。侧面中景展示动作方向与相邻环境。画面：皮皮在空地边用短枝围出一道弧，朋友聚在弧内外。入镜角色：皮皮、栗栗、团团、梨梨。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 9.48,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "栗栗和团团从石头、灌木旁走回，梨梨坐在线旁",
+      "location": "松林游戏空地",
+      "character_names": [
+        "栗栗",
+        "团团",
+        "梨梨"
+      ],
+      "narration_lines": [
+        "栗栗和团团都跑回来看。",
+        "原来团团也怕躲太久，一直不敢换地方。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "松林游戏空地。平视中景突出人物姿态和相互位置。画面：栗栗和团团从石头、灌木旁走回，梨梨坐在线旁。入镜角色：栗栗、团团、梨梨。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 9.79,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "从梨梨肩后看见倒木外侧一片干燥落叶和可见空地",
+      "location": "松林中空倒木外",
+      "character_names": [
+        "梨梨",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "他们重新选地方。",
+        "梨梨留在倒木外侧，能听见说话，也能看见叶子动。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "越肩构图同时看见观察者与目标",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "松林中空倒木外。越肩构图同时看见观察者与目标。画面：从梨梨肩后看见倒木外侧一片干燥落叶和可见空地。入镜角色：梨梨、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.11,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "团团躲在矮灌木后，蓬松尾巴露出一点",
+      "location": "松林游戏空地",
+      "character_names": [
+        "团团"
+      ],
+      "narration_lines": [
+        "这回团团躲在矮树后面，尾巴露出一点。",
+        "他被找到时，自己先笑了。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "低视角凸显脚边、地面与人物尺度",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "松林游戏空地。低视角凸显脚边、地面与人物尺度。画面：团团躲在矮灌木后，蓬松尾巴露出一点。入镜角色：团团。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 9.79,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "四位伙伴坐在树枝线里侧，梨梨手里握一片松针",
+      "location": "松林游戏空地",
+      "character_names": [
+        "梨梨",
+        "皮皮",
+        "栗栗",
+        "团团"
+      ],
+      "narration_lines": [
+        "玩够了，朋友们一起坐在线里面。",
+        "梨梨给他们看，哪一头的松针摸起来更软。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "松林游戏空地。平视中景突出人物姿态和相互位置。画面：四位伙伴坐在树枝线里侧，梨梨手里握一片松针。入镜角色：梨梨、皮皮、栗栗、团团。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.04,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "空地边树枝弧线未收，落叶散在弧里",
+      "location": "松林游戏空地",
+      "character_names": [],
+      "narration_lines": [
+        "傍晚起了一点风。",
+        "树枝线还在，下一次来玩，谁都知道可以在哪里停一停。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "环境留白为主，关键物件或人物位于上部",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "松林游戏空地。环境留白为主，关键物件或人物位于上部。画面：空地边树枝弧线未收，落叶散在弧里。入镜角色：无，仅画环境或道具。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 17.78,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v2剧本与九镜已编写，配音、插画、封面、字幕及视频待制作",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/结构化JSON/ep017.json",
+    "scope": "按用户反馈重写人物互动、故事事件、场景及九镜",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始"
+  }
+}

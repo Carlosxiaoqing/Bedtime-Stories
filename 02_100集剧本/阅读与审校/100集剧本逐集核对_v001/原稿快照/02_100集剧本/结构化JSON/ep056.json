@@ -1,0 +1,187 @@
+{
+  "schema_version": 2,
+  "id": "ep056",
+  "episode": 56,
+  "title": "小雨靴的泥点",
+  "theme": "不必恢复到毫无痕迹才算做好",
+  "setting": "门廊与卧室",
+  "guest": "无",
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "约90–120秒；以实际配音为准",
+  "cn_characters": 236,
+  "initial_duration_budget_s": 96.0,
+  "shots": [
+    {
+      "id": 1,
+      "title": "雨靴上的细小泥点",
+      "narration_lines": [
+        "皮皮的小雨靴上，沾了几颗泥点，圆圆的，记着他今天，在花园走过的路。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "中景建立环境，主体位置清楚",
+      "image": "images/shot_01.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：雨靴上的细小泥点。镜位：中景建立环境，主体位置清楚。",
+      "initial_budget_s": 10.7,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "湿布轻擦雨靴鞋尖",
+      "narration_lines": [
+        "他把雨靴放到门廊的垫子上，用湿布，慢慢擦掉鞋尖，厚一点的泥。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "主体或物件近景，保留地点线索",
+      "image": "images/shot_02.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：湿布轻擦雨靴鞋尖。镜位：主体或物件近景，保留地点线索。",
+      "initial_budget_s": 9.07,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "雨靴底浅淡小印子",
+      "narration_lines": [
+        "一颗泥点擦掉了，鞋底还有一点浅浅的印子。",
+        "皮皮看了看，没有一直使劲擦。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "中近景呈现动作后的稳定姿态",
+      "image": "images/shot_03.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：雨靴底浅淡小印子。镜位：中近景呈现动作后的稳定姿态。",
+      "initial_budget_s": 11.04,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "整齐摆好的小雨靴",
+      "narration_lines": [
+        "雨靴已经干净到，可以稳稳收好了。",
+        "那一点旧痕迹，不妨碍明天再出门。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "细节特写，避免裁掉必要的爪子或道具",
+      "image": "images/shot_04.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：整齐摆好的小雨靴。镜位：细节特写，避免裁掉必要的爪子或道具。",
+      "initial_budget_s": 10.42,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "架上布巾与旁边雨靴",
+      "narration_lines": [
+        "他把布巾洗好，晾在小架子上，让雨靴和布巾，都有自己的位置。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "中景呈现情境变化，留低细节空间",
+      "image": "images/shot_05.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：架上布巾与旁边雨靴。镜位：中景呈现情境变化，留低细节空间。",
+      "initial_budget_s": 8.76,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "穿软拖鞋走回屋内",
+      "narration_lines": [
+        "回到屋里，皮皮换上软拖鞋，脚步轻了，肩膀也跟着，松下来一点。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "主体近景，暖光方向延续",
+      "image": "images/shot_06.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：穿软拖鞋走回屋内。镜位：主体近景，暖光方向延续。",
+      "initial_budget_s": 8.76,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "毛毯盖脚与怀中玩偶",
+      "narration_lines": [
+        "毛毯盖住小脚，玩偶靠着臂弯。",
+        "今天的花园，就慢慢留在了门外。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "安顿动作中景或安静环境近景",
+      "image": "images/shot_07.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：毛毯盖脚与怀中玩偶。镜位：安顿动作中景或安静环境近景。",
+      "initial_budget_s": 9.48,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "轻松闭眼的皮皮",
+      "narration_lines": [
+        "皮皮闭上眼睛。",
+        "今晚，不需要把每一个小印子，都认真擦掉。"
+      ],
+      "pause_after_s": [
+        1.1,
+        1.1
+      ],
+      "camera": "放松姿态近景，光线略柔暗",
+      "image": "images/shot_08.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：轻松闭眼的皮皮。镜位：放松姿态近景，光线略柔暗。",
+      "initial_budget_s": 9.39,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "门廊雨靴与安睡卧室",
+      "narration_lines": [
+        "小朋友，今天已经做得够好啦。",
+        "让小小的不整齐，也歇一会儿。",
+        "晚安。"
+      ],
+      "pause_after_s": [
+        1.1,
+        1.1,
+        8.0
+      ],
+      "camera": "木屋卧室或可见卧室的中远景收束，主体安睡",
+      "image": "images/shot_09.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：门廊雨靴与安睡卧室。镜位：木屋卧室或可见卧室的中远景收束，主体安睡。",
+      "initial_budget_s": 18.32,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "需按本集提示词生成图片并合成配音；不含尚未制作的图片或音频",
+  "shared_config": "03_素材与参数/共用画风与提示词.json",
+  "character_names": [
+    "皮皮"
+  ]
+}

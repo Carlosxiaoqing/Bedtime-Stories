@@ -1,0 +1,271 @@
+{
+  "schema_version": 2,
+  "script_version": "v3",
+  "id": "ep027",
+  "episode": 27,
+  "title": "被弄皱的借书票",
+  "cover_title": "皱皱借书票",
+  "category": "学校",
+  "theme": "道歉之后一起想怎么补救",
+  "setting": "榆树学校课桌区、榆树学校还书角",
+  "viewpoint_character": "斑斑",
+  "guest": "斑斑",
+  "character_names": [
+    "斑斑",
+    "皮皮"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "成片约120秒，配音后实测校时",
+  "cn_characters": 277,
+  "initial_duration_budget_s": 119.33,
+  "shots": [
+    {
+      "id": 1,
+      "title": "课桌边蓝书包拉链半开，斑斑伸手取一本书",
+      "location": "榆树学校课桌区",
+      "character_names": [
+        "斑斑",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "斑斑借了皮皮的书。",
+        "往书包里一放，夹在中间的借书票被拉链拽住了。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校课桌区。平视中景突出人物姿态和相互位置。画面：课桌边蓝书包拉链半开，斑斑伸手取一本书。入镜角色：斑斑、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.33,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "折皱票角翘起，斑斑的爪停在纸边",
+      "location": "榆树学校课桌区",
+      "character_names": [
+        "斑斑"
+      ],
+      "narration_lines": [
+        "他拉了两下才取出来。",
+        "票皱成了一团，皮皮画的小叶子折到了背面。",
+        "他试着用爪把票按平，可手一松，票角又翘起来。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校课桌区。近景突出手边动作或道具状态。画面：折皱票角翘起，斑斑的爪停在纸边。入镜角色：斑斑。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 18.25,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "斑斑把书先递出去，皮皮一手接书一手等待",
+      "location": "榆树学校课桌区",
+      "character_names": [
+        "斑斑",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "还书时，斑斑差点把票藏在口袋里。",
+        "他看见皮皮在找，还是把皱票拿了出来。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校课桌区。侧面中景展示动作方向与相邻环境。画面：斑斑把书先递出去，皮皮一手接书一手等待。入镜角色：斑斑、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.02,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "皮皮摊开皱票，斑斑站在同一张桌旁低头",
+      "location": "榆树学校课桌区",
+      "character_names": [
+        "斑斑",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "“我没看见它夹住了，对不起。”",
+        "皮皮把纸摊开，说这片叶子是他昨天才画的。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校课桌区。平视中景突出人物姿态和相互位置。画面：皮皮摊开皱票，斑斑站在同一张桌旁低头。入镜角色：斑斑、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.67,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "两本厚书压在纸票上下，桌旁还有一张废纸试片",
+      "location": "榆树学校还书角",
+      "character_names": [
+        "斑斑",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "他们先拿废纸试过，再把皱票夹进两本厚书中间。",
+        "斑斑去还别的书，等了一会儿。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "俯视呈现平面上的物件和路线",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校还书角。俯视呈现平面上的物件和路线。画面：两本厚书压在纸票上下，桌旁还有一张废纸试片。入镜角色：斑斑、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.71,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "掀开的书中露出平展纸票与白色折痕",
+      "location": "榆树学校还书角",
+      "character_names": [
+        "斑斑",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "纸平了一些，可白白的折痕还在。",
+        "皮皮看了看，那道线正好连到叶柄上。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校还书角。近景突出手边动作或道具状态。画面：掀开的书中露出平展纸票与白色折痕。入镜角色：斑斑、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.33,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "斑斑在折痕旁描叶脉，皮皮扶着票边",
+      "location": "榆树学校还书角",
+      "character_names": [
+        "斑斑",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "他请斑斑沿折痕添一条细线。",
+        "斑斑画得很轻，叶子就多了一条叶脉。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校还书角。平视中景突出人物姿态和相互位置。画面：斑斑在折痕旁描叶脉，皮皮扶着票边。入镜角色：斑斑、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.98,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "皮皮把修好的票递给斑斑，斑斑将票单独插入袋",
+      "location": "榆树学校课桌区",
+      "character_names": [
+        "斑斑",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "下回借书，斑斑给票腾了一个小袋。",
+        "皮皮看着他放稳，才把书也递过去。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校课桌区。侧面中景展示动作方向与相邻环境。画面：皮皮把修好的票递给斑斑，斑斑将票单独插入袋。入镜角色：斑斑、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.33,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "还书角篮中，票的一小截叶柄从书边露出",
+      "location": "榆树学校还书角",
+      "character_names": [],
+      "narration_lines": [
+        "那张票后来一直用着。",
+        "每次翻到它，皮皮都会认出他们一起补的那条线。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "环境留白为主，关键物件或人物位于上部",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校还书角。环境留白为主，关键物件或人物位于上部。画面：还书角篮中，票的一小截叶柄从书边露出。入镜角色：无，仅画环境或道具。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 18.72,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v3剧本和九镜已校时估算，实际配音及后续制作待进行",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/多场景版v2/结构化JSON/ep027.json",
+    "scope": "以约两分钟为目标逐集校时，补充偏短故事的动作、对话或线索，压缩偏长的重复表述",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始",
+    "previous_script_sha256": "271f82eea48ac9ebc9d6ab5f8ebcb98ffb8cf5595fcda2f09e84066124099617",
+    "edited_shots": [
+      2
+    ]
+  },
+  "duration_plan": {
+    "target_s": 120,
+    "planning_range_s": [
+      115,
+      125
+    ],
+    "estimated_s": 119.33,
+    "v2_estimated_using_same_method_s": 112.06,
+    "reference_narration_hanzi_per_second": 2.899607,
+    "opening_s": 1.0,
+    "tail_in_final_shot_s": 8.0
+  }
+}

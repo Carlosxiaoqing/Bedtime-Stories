@@ -1,0 +1,107 @@
+{
+  "text": "吃过晚饭，洗干净毛茸茸的小脚丫，皮皮钻进了熟悉的暖黄色被窝里。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "770f4b70172fff8d6ce88f438dc10771dbcbc5cd1cea0d4d5c3a5eb626a3366b",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 3461660,
+      "text": "吃"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4730830,
+      "duration": 2115410,
+      "text": "过"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7038330,
+      "duration": 7692500,
+      "text": "晚饭"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19346250,
+      "duration": 3269160,
+      "text": "洗"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22615410,
+      "duration": 5769160,
+      "text": "干净"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 28769160,
+      "duration": 7500000,
+      "text": "毛茸茸"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36269160,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 37615410,
+      "duration": 10192500,
+      "text": "小脚丫"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 52807500,
+      "duration": 5961660,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 58961660,
+      "duration": 5384580,
+      "text": "钻进"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 64346250,
+      "duration": 1538330,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 66269160,
+      "duration": 6153750,
+      "text": "熟悉"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 72422910,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 74153750,
+      "duration": 9230830,
+      "text": "暖黄色"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 83577080,
+      "duration": 6730410,
+      "text": "被窝"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 90307500,
+      "duration": 3846250,
+      "text": "里"
+    }
+  ]
+}

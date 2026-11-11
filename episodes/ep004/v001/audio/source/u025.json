@@ -1,0 +1,113 @@
+{
+  "text": "皮皮放好长耳朵，抱住胡萝卜玩偶，深深地吸了一口气，又轻轻地呼出来。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "1684cfee46ef9bb47a7ba71a79e085b6856f0d9249d2f0be297064fda4285466",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5384580,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6846250,
+      "duration": 2307500,
+      "text": "放"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9153750,
+      "duration": 6153750,
+      "text": "好长"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15500000,
+      "duration": 7500000,
+      "text": "耳朵"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27038330,
+      "duration": 5577080,
+      "text": "抱住"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32807500,
+      "duration": 6538330,
+      "text": "胡萝卜"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 39538330,
+      "duration": 7692500,
+      "text": "玩偶"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 51461660,
+      "duration": 5961250,
+      "text": "深深"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 57422910,
+      "duration": 1538330,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 59346250,
+      "duration": 2692080,
+      "text": "吸"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 62038330,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 63384580,
+      "duration": 10577080,
+      "text": "一口气"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 77615410,
+      "duration": 2115410,
+      "text": "又"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 79922910,
+      "duration": 5961660,
+      "text": "轻轻"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 85884580,
+      "duration": 1538330,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 87615410,
+      "duration": 3269160,
+      "text": "呼"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 90884580,
+      "duration": 5961660,
+      "text": "出来"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "schema_version": 3,
+  "script_version": "v4",
+  "id": "ep040",
+  "episode": 40,
+  "title": "秋天的声音盒",
+  "theme": "回忆可以轻轻收藏而不用重演",
+  "language": "zh-CN",
+  "production_scope": "adopted_user_long_script",
+  "status": "copyedited_media_not_started",
+  "narration_paragraphs": [
+    {
+      "id": "p001",
+      "text": "秋天快要过去的时候，山羊老师在森林学堂里问大家：“你们最喜欢秋天的什么声音呀？”\n小松鼠团团说喜欢啃坚果的“咔嚓”声，小鹿芽芽说喜欢秋风吹过芦苇的“呼呼”声。"
+    },
+    {
+      "id": "p002",
+      "text": "皮皮听着大家的回答，觉得秋天的每一种声音都好听极了。\n傍晚放学回到家，皮皮从柜子里翻出了一只空空的、带盖子的小松木盒。他突发奇想，想把今天在森林里听过的所有好听的秋天声音，全都装进这只小木盒里收藏起来。"
+    },
+    {
+      "id": "p003",
+      "text": "他捧着打开的小木盒走到门廊下，心里默念着：我要装进脚踩落叶的“沙沙”声，装进熟透的松果掉在泥土上的“噗通”声，还要装进好朋友小熊绒绒走到门前时、慢慢停住的温柔脚步声。\n装了一会儿，皮皮赶紧把木盒盖子合上，抱回安静的卧室里。"
+    },
+    {
+      "id": "p004",
+      "text": "他满怀期待地把小耳朵贴在木盒盖子上，打开一条小缝仔细地听——咦？木盒里空空荡荡的，什么声音也没有传出来。皮皮贴近了再听一听，只能听见卧室里安安静静的夜色，和自己轻轻的呼吸声。\n原来，声音是没法像栗子一样被抓进盒子里的。"
+    },
+    {
+      "id": "p005",
+      "text": "皮皮摸着下巴想了想，一点儿也没有觉得失望。他走到桌边，拿来一片今天和绒绒一起散步时捡到的红叶，轻轻地平放在了小木盒的底部。\n当他看着这片红叶时，耳边好像自然而然就响起了白天踩在落叶上的“沙沙”声，还有朋友们开心的笑声。"
+    },
+    {
+      "id": "p006",
+      "text": "原来，那些好听的声音，根本不需要锁在木头盒子里，它们早就变成了温暖的记忆，稳稳地住在自己的小脑袋和心里啦；只要看见这片小叶子，随时都能想起来。\n皮皮笑着把小木盒盖好，端端正正地放回书架上。今晚，他不用再为了留住秋天的声音，把白天走过的每一段路重新走一遍了。"
+    },
+    {
+      "id": "p007",
+      "text": "窗外的秋夜，也像合上了盖子的木盒一样，慢慢放轻了所有的声响。\n皮皮钻进被窝，盖好暖黄色的毛毯，把胡萝卜玩偶抱在胸前。书架上的小木盒歇着，他的小爪子和长耳朵也歇着。"
+    },
+    {
+      "id": "p008",
+      "text": "皮皮闭上眼睛，嘴角轻轻弯着。今天度过的好时光，已经永远不怕忘记了。\n小朋友，把今天开心的回忆轻轻留在心里吧。现在，不去想白天的热闹，静静听一听夜晚的安静，慢慢睡吧。晚安。"
+    }
+  ],
+  "cn_characters": 711,
+  "narration_sha256": "ff48643288b59cd31b67697ce2494b64c72d0c6ef4547a723b2c044ae666d8dc",
+  "source": {
+    "path": "/Users/ww/Downloads/100集睡前故事合集.md",
+    "sha256": "3feafa137e94824baccf8b6e3f3f24bac3e97714b2e201fcc48d461d8969c302",
+    "original_narration_sha256": "ff48643288b59cd31b67697ce2494b64c72d0c6ef4547a723b2c044ae666d8dc",
+    "original_paragraph_count": 8
+  },
+  "revision_record": [],
+  "duration_policy": {
+    "basis": "complete_narration_at_current_voice_settings",
+    "limit_s": null,
+    "delete_for_duration": false,
+    "time_stretch": false
+  },
+  "voice": {
+    "config": "03_素材与参数/配音与声音参数.json",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000
+  },
+  "actual_duration_s": null,
+  "character_registry": "03_素材与参数/用户长稿v4角色图库.json",
+  "storyboard": {
+    "status": "not_started",
+    "shots": [],
+    "timing_basis": "actual_audio",
+    "preferred_hold_s": [
+      8,
+      10
+    ],
+    "review_above_s": 15,
+    "short_action_hold_s": [
+      3,
+      5
+    ]
+  },
+  "material_state": {
+    "voice": "not_started",
+    "character_references": "not_generated",
+    "illustrations": "not_started",
+    "cover": "not_started",
+    "pinyin_review": "not_started",
+    "render": "not_started",
+    "technical_check": "not_started",
+    "human_watch": "not_started",
+    "user_acceptance": "not_recorded"
+  }
+}

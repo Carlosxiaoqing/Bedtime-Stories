@@ -1,0 +1,108 @@
+{
+  "schema_version": 3,
+  "script_version": "v4",
+  "id": "ep004",
+  "episode": 4,
+  "title": "被角的小山坡",
+  "theme": "让小小的不平整安顿下来",
+  "language": "zh-CN",
+  "production_scope": "adopted_user_long_script",
+  "status": "copyedited_media_not_started",
+  "narration_paragraphs": [
+    {
+      "id": "p001",
+      "text": "今天是森林学堂的草地野餐日，也是小兔子皮皮第一次背着自己的小黄书包，跟着山羊老师和朋友们，去小木屋后面的青草坡玩。"
+    },
+    {
+      "id": "p002",
+      "text": "青草坡圆圆的，软软的，像一块铺在阳光下的大绿毯子。\n小松鼠团团跑得最快，一下子就爬到了坡顶，摇着蓬松的大尾巴喊：“皮皮，快上来呀，这儿能看见你家的屋顶呢！”"
+    },
+    {
+      "id": "p003",
+      "text": "皮皮迈着小短腿，一步，两步，认真地往上爬。\n可是爬到一半，他发现小刺猬栗栗停在了半山腰。栗栗背着装满小饼干的布包，圆滚滚的身子有点儿喘气，小脚也不知道该踩在哪儿。"
+    },
+    {
+      "id": "p004",
+      "text": "皮皮没有急着去追团团。他停下来，走到栗栗身边，指了指旁边一块平平的、长满三叶草的地方，轻声说：“栗栗，我们在这儿坐一会儿吧，半山腰的风景也很漂亮呀。”"
+    },
+    {
+      "id": "p005",
+      "text": "栗栗松了一口气，挨着皮皮坐了下来。\n他们打开小布包，一人分了一块散发着奶香的燕麦小饼干。微风吹过来，青草叶轻轻晃动，远处的小溪一闪一闪地发着光。"
+    },
+    {
+      "id": "p006",
+      "text": "原来，不一定非要爬到最高的地方，和好朋友在半山腰歇一歇，也是一件特别开心的事。\n山羊老师走过来，温柔地摸了摸皮皮的长耳朵，夸他是个懂得照顾朋友的好孩子。"
+    },
+    {
+      "id": "p007",
+      "text": "太阳慢慢落山了，天边染上了一层浅浅的橘黄色。\n皮皮跟团团、栗栗挥挥小爪子道别，背着空空的小书包，沿着熟悉的小路回到了自己的小木屋。"
+    },
+    {
+      "id": "p008",
+      "text": "吃过晚饭，洗干净毛茸茸的小脚丫，皮皮钻进了熟悉的暖黄色被窝里。\n他轻轻一伸腿，咦？小脚边的毛毯拱了起来，变成了一座圆圆的小山坡，就跟白天去过的青草坡一模一样。"
+    },
+    {
+      "id": "p009",
+      "text": "皮皮笑了。他把胡萝卜玩偶抱过来，放在小山坡的半山腰上，就像白天他和栗栗并排坐着那样。\n随后，皮皮把小脚丫慢慢伸平，被角的小山坡便轻轻落了下去，变成了一片软软的草地。"
+    },
+    {
+      "id": "p010",
+      "text": "还有一个小被角折在床边，皮皮用爪子把它一点一点展开。\n屋里的灯光很轻，窗外的树影很慢。白天爬过的小山坡已经留在了森林里，今晚，没有哪座小山需要皮皮再去翻越了。"
+    },
+    {
+      "id": "p011",
+      "text": "皮皮放好长耳朵，抱住胡萝卜玩偶，深深地吸了一口气，又轻轻地呼出来。\n小朋友，今天你也像皮皮一样，度过了充实又美好的一天吧。\n现在，把小脚伸平，把身体交给软软的小床。今天的小山坡已经歇下来了，晚安。"
+    }
+  ],
+  "cn_characters": 742,
+  "narration_sha256": "3ee59a09aef621bed816cbbf8214455b28ac36c7e0bd8af92071ee850cd50624",
+  "source": {
+    "path": "/Users/ww/Downloads/100集睡前故事合集.md",
+    "sha256": "3feafa137e94824baccf8b6e3f3f24bac3e97714b2e201fcc48d461d8969c302",
+    "original_narration_sha256": "3ee59a09aef621bed816cbbf8214455b28ac36c7e0bd8af92071ee850cd50624",
+    "original_paragraph_count": 11
+  },
+  "revision_record": [],
+  "duration_policy": {
+    "basis": "complete_narration_at_current_voice_settings",
+    "limit_s": null,
+    "delete_for_duration": false,
+    "time_stretch": false
+  },
+  "voice": {
+    "config": "03_素材与参数/配音与声音参数.json",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000
+  },
+  "actual_duration_s": null,
+  "character_registry": "03_素材与参数/用户长稿v4角色图库.json",
+  "storyboard": {
+    "status": "not_started",
+    "shots": [],
+    "timing_basis": "actual_audio",
+    "preferred_hold_s": [
+      8,
+      10
+    ],
+    "review_above_s": 15,
+    "short_action_hold_s": [
+      3,
+      5
+    ]
+  },
+  "material_state": {
+    "voice": "not_started",
+    "character_references": "required_cast_ready_assistant_reviewed",
+    "illustrations": "not_started",
+    "cover": "not_started",
+    "pinyin_review": "not_started",
+    "render": "not_started",
+    "technical_check": "not_started",
+    "human_watch": "not_started",
+    "user_acceptance": "not_recorded"
+  },
+  "character_reference_preflight": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/第四集角色加载预检.json"
+}

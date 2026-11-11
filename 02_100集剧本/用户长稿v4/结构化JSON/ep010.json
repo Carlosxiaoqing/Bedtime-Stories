@@ -1,0 +1,99 @@
+{
+  "schema_version": 3,
+  "script_version": "v4",
+  "id": "ep010",
+  "episode": 10,
+  "title": "晚安小书签",
+  "theme": "故事可以安心留待明天",
+  "language": "zh-CN",
+  "production_scope": "adopted_user_long_script",
+  "status": "copyedited_media_not_started",
+  "narration_paragraphs": [
+    {
+      "id": "p001",
+      "text": "每个星期五的下午，猫头鹰阿姨都会推着她的“叮当图书大篷车”来到森林学堂门口。\n车上装满了厚厚的立体书、会发出香味的花朵画册，还有长长的森林冒险故事。"
+    },
+    {
+      "id": "p002",
+      "text": "今天，皮皮从大篷车上借到了一本他期待了好久的绘本，名字叫《月光下的秘密花园》。\n一回到家，吃过晚饭，皮皮就迫不及待地坐在床头的小灯下翻开了它。"
+    },
+    {
+      "id": "p003",
+      "text": "绘本里的图画真美呀！第一页是一道爬满牵牛花的木栅栏，第二页是一条铺着彩色鹅卵石的小溪。皮皮伸出小爪子，顺着鹅卵石小路一页一页往下翻。\n翻到正好一半的时候，画上出现了一扇半掩着的藤蔓小门，门后面就是那座从来没人去过的秘密花园。"
+    },
+    {
+      "id": "p004",
+      "text": "皮皮好想翻开下一页看看里面有什么呀，可是这时，他打了一个长长的哈欠，眼皮有点发沉了。抬头一看，窗外已经升起了弯弯的月亮，到了该睡觉的时间。\n皮皮摸了摸那页厚厚的画纸，心里有点舍不得马上合上，他怕今天不看完，明天就找不到这扇藤蔓小门了。"
+    },
+    {
+      "id": "p005",
+      "text": "就在这时，皮皮想起了猫头鹰阿姨借书给他时，随书送给他的一条柔软的棉布书签。\n书签是浅绿色的，一端还用绒线绣着一片小小的叶子。"
+    },
+    {
+      "id": "p006",
+      "text": "皮皮拿起布书签，轻轻地把它夹在画着藤蔓小门的那一页，让那片绣花小叶子，刚好停在花园的门口。\n这样一来，小叶子就会替他守着这扇门。秘密花园不用赶在今晚急匆匆地逛完，鹅卵石小路也不会在夜里走丢，明天一早翻开书，就能稳稳地找到这里。"
+    },
+    {
+      "id": "p007",
+      "text": "皮皮放心地合上绘本，把它轻轻平放在床头柜上。绿色的布书签从书页间露出一小截，像在安静地对他招手说“明天见”。\n皮皮把床头灯调暗，拉好暖黄色的毛毯。书里的秘密花园留在了书里，而他自己温暖的小床，就在身边。"
+    },
+    {
+      "id": "p008",
+      "text": "窗外的月光溜进来，轻轻碰了碰绘本的封面，没有再翻开下一页。胡萝卜玩偶也乖乖地靠住了小枕头。\n皮皮闭上眼睛，心里还留着那条通往花园的小路，不过它已经不着急往前走了。"
+    },
+    {
+      "id": "p009",
+      "text": "小朋友，今天还没玩够的游戏、还没听完的故事，都可以交给明天继续。现在，夹好你心里的晚安小书签，先把自己轻轻安顿好。晚安。"
+    }
+  ],
+  "cn_characters": 708,
+  "narration_sha256": "7cae2f31c4a542613ce5ff2c01aa13a6a5035107990dd4b5a754fb3056d9dc93",
+  "source": {
+    "path": "/Users/ww/Downloads/100集睡前故事合集.md",
+    "sha256": "3feafa137e94824baccf8b6e3f3f24bac3e97714b2e201fcc48d461d8969c302",
+    "original_narration_sha256": "7cae2f31c4a542613ce5ff2c01aa13a6a5035107990dd4b5a754fb3056d9dc93",
+    "original_paragraph_count": 9
+  },
+  "revision_record": [],
+  "duration_policy": {
+    "basis": "complete_narration_at_current_voice_settings",
+    "limit_s": null,
+    "delete_for_duration": false,
+    "time_stretch": false
+  },
+  "voice": {
+    "config": "03_素材与参数/配音与声音参数.json",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000
+  },
+  "actual_duration_s": null,
+  "character_registry": "03_素材与参数/用户长稿v4角色图库.json",
+  "storyboard": {
+    "status": "not_started",
+    "shots": [],
+    "timing_basis": "actual_audio",
+    "preferred_hold_s": [
+      8,
+      10
+    ],
+    "review_above_s": 15,
+    "short_action_hold_s": [
+      3,
+      5
+    ]
+  },
+  "material_state": {
+    "voice": "not_started",
+    "character_references": "not_generated",
+    "illustrations": "not_started",
+    "cover": "not_started",
+    "pinyin_review": "not_started",
+    "render": "not_started",
+    "technical_check": "not_started",
+    "human_watch": "not_started",
+    "user_acceptance": "not_recorded"
+  }
+}

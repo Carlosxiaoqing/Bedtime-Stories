@@ -1,0 +1,185 @@
+{
+  "schema_version": 2,
+  "id": "ep083",
+  "episode": 83,
+  "title": "星星的慢火车",
+  "theme": "把期待留在安静的画面里",
+  "setting": "卧室与纸上星星列车",
+  "guest": "无",
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "约90–120秒；以实际配音为准",
+  "cn_characters": 240,
+  "initial_duration_budget_s": 96.1,
+  "shots": [
+    {
+      "id": 1,
+      "title": "绘本里蓝色车站与星车",
+      "narration_lines": [
+        "皮皮翻开绘本，看见一列，小小的星星火车，停在画里的，蓝色小站旁。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "中景建立环境，主体位置清楚",
+      "image": "images/shot_01.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：绘本里蓝色车站与星车。镜位：中景建立环境，主体位置清楚。",
+      "initial_budget_s": 10.39,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "云影月光装在小车厢",
+      "narration_lines": [
+        "车厢像几只浅浅的小盒子，装着云影和月光，没有装满，热热闹闹的声音。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "主体或物件近景，保留地点线索",
+      "image": "images/shot_02.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：云影月光装在小车厢。镜位：主体或物件近景，保留地点线索。",
+      "initial_budget_s": 10.01,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "书中弯轨与毛毯褶子",
+      "narration_lines": [
+        "皮皮用眼睛，沿着画里的轨道，慢慢看过去，轨道弯得像，小毛毯的褶子。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "中近景呈现动作后的稳定姿态",
+      "image": "images/shot_03.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：书中弯轨与毛毯褶子。镜位：中近景呈现动作后的稳定姿态。",
+      "initial_budget_s": 9.7,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "静止列车暖色圆窗",
+      "narration_lines": [
+        "到了小站，火车没有再向前。",
+        "几扇圆圆的窗，正安静亮着，一点点暖色。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "细节特写，避免裁掉必要的爪子或道具",
+      "image": "images/shot_04.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：静止列车暖色圆窗。镜位：细节特写，避免裁掉必要的爪子或道具。",
+      "initial_budget_s": 10.11,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "安静小站远景插画",
+      "narration_lines": [
+        "皮皮想，小火车也找到，今晚适合停的地方，不用再开到，很远的星星上。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "中景呈现情境变化，留低细节空间",
+      "image": "images/shot_05.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：安静小站远景插画。镜位：中景呈现情境变化，留低细节空间。",
+      "initial_budget_s": 9.7,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "书签与合上的绘本",
+      "narration_lines": [
+        "他放好书签，轻轻合上绘本。",
+        "星星火车留在书里，自己的小床，就在身边。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "主体近景，暖光方向延续",
+      "image": "images/shot_06.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：书签与合上的绘本。镜位：主体近景，暖光方向延续。",
+      "initial_budget_s": 10.42,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "被窝里放松的皮皮",
+      "narration_lines": [
+        "毛毯盖好了，玩偶抱好了。",
+        "皮皮没有等到汽笛声，反而听见，熟悉的安静。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "安顿动作中景或安静环境近景",
+      "image": "images/shot_07.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：被窝里放松的皮皮。镜位：安顿动作中景或安静环境近景。",
+      "initial_budget_s": 10.42,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "皮皮闭眼温柔近景",
+      "narration_lines": [
+        "眼睛慢慢闭合，心里的小车轮，也一圈一圈，轻轻停住了。"
+      ],
+      "pause_after_s": [
+        1.1
+      ],
+      "camera": "放松姿态近景，光线略柔暗",
+      "image": "images/shot_08.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：皮皮闭眼温柔近景。镜位：放松姿态近景，光线略柔暗。",
+      "initial_budget_s": 7.97,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "床头绘本与睡眠远景",
+      "narration_lines": [
+        "小朋友，今天的旅程，到这里就好。",
+        "让小床稳稳接住你。",
+        "晚安。"
+      ],
+      "pause_after_s": [
+        1.1,
+        1.1,
+        8.0
+      ],
+      "camera": "木屋卧室或可见卧室的中远景收束，主体安睡",
+      "image": "images/shot_09.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：床头绘本与睡眠远景。镜位：木屋卧室或可见卧室的中远景收束，主体安睡。",
+      "initial_budget_s": 17.39,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "需按本集提示词生成图片并合成配音；不含尚未制作的图片或音频",
+  "shared_config": "03_素材与参数/共用画风与提示词.json",
+  "character_names": [
+    "皮皮"
+  ]
+}

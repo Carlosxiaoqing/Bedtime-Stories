@@ -1,0 +1,274 @@
+{
+  "schema_version": 2,
+  "script_version": "v3",
+  "id": "ep094",
+  "episode": 94,
+  "title": "皮皮的书包借到明天",
+  "cover_title": "借一只包",
+  "category": "社区",
+  "theme": "借用之前把彼此在意的事说清楚",
+  "setting": "长耳街纸艺铺门口、纸艺铺打包长桌",
+  "viewpoint_character": "皮皮",
+  "guest": "斑斑、桃桃",
+  "character_names": [
+    "皮皮",
+    "斑斑",
+    "桃桃"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "成片约120秒，配音后实测校时",
+  "cn_characters": 276,
+  "initial_duration_budget_s": 116.11,
+  "shots": [
+    {
+      "id": 1,
+      "title": "纸艺铺外桃桃抱一叠画纸，皮皮斑斑背着各自书包",
+      "location": "长耳街纸艺铺门口",
+      "character_names": [
+        "皮皮",
+        "斑斑",
+        "桃桃"
+      ],
+      "narration_lines": [
+        "桃桃要把大画带回去，自己的袋子太小。",
+        "皮皮解下书包，却想起里面还有斑斑送他的半片叶。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街纸艺铺门口。竖幅远景交代空间和前后层次。画面：纸艺铺外桃桃抱一叠画纸，皮皮斑斑背着各自书包。入镜角色：皮皮、斑斑、桃桃。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 15.43,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "皮皮从内袋取出半张叶形纸牌，手边仍握书包拉链",
+      "location": "长耳街纸艺铺门口",
+      "character_names": [
+        "皮皮"
+      ],
+      "narration_lines": [
+        "皮皮拿出小叶。桃桃问明早送回行不行，他想起自己早上还要上学。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街纸艺铺门口。近景突出手边动作或道具状态。画面：皮皮从内袋取出半张叶形纸牌，手边仍握书包拉链。入镜角色：皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.26,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "三位站打包桌前，皮皮手指向书包与学校图案",
+      "location": "纸艺铺打包长桌",
+      "character_names": [
+        "皮皮",
+        "斑斑",
+        "桃桃"
+      ],
+      "narration_lines": [
+        "皮皮说，上课前要用书包。",
+        "桃桃说自己会早一点来，但家门口那段路有时走得慢。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "纸艺铺打包长桌。平视中景突出人物姿态和相互位置。画面：三位站打包桌前，皮皮手指向书包与学校图案。入镜角色：皮皮、斑斑、桃桃。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.71,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "桌上两块硬纸板包住画，三位合上布层，宽带做成手提环",
+      "location": "纸艺铺打包长桌",
+      "character_names": [
+        "皮皮",
+        "斑斑",
+        "桃桃"
+      ],
+      "narration_lines": [
+        "斑斑找来两块硬纸板。",
+        "画夹在中间，外面包好旧布，再系两条宽布带，就能提着走。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "俯视呈现平面上的物件和路线",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "纸艺铺打包长桌。俯视呈现平面上的物件和路线。画面：桌上两块硬纸板包住画，三位合上布层，宽带做成手提环。入镜角色：皮皮、斑斑、桃桃。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.71,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "桃桃用宽布环提画过门，画角与门框留有距离",
+      "location": "纸艺铺打包长桌",
+      "character_names": [
+        "桃桃",
+        "皮皮",
+        "斑斑"
+      ],
+      "narration_lines": [
+        "桃桃提着包好的画试走几步。",
+        "她把手稍微抬高，画角就离开了门框，走起来也不晃。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "纸艺铺打包长桌。侧面中景展示动作方向与相邻环境。画面：桃桃用宽布环提画过门，画角与门框留有距离。入镜角色：桃桃、皮皮、斑斑。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 13.05,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "皮皮背原书包，桃桃与斑斑分别试扶画板两侧宽布环",
+      "location": "纸艺铺打包长桌",
+      "character_names": [
+        "皮皮",
+        "斑斑",
+        "桃桃"
+      ],
+      "narration_lines": [
+        "皮皮背好书包，试了试另一只提环。画要是重，他也能帮忙提一头。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "纸艺铺打包长桌。平视中景突出人物姿态和相互位置。画面：皮皮背原书包，桃桃与斑斑分别试扶画板两侧宽布环。入镜角色：皮皮、斑斑、桃桃。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 9.92,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "桃桃提着包好的画，回头给朋友指留在桌边的余布",
+      "location": "长耳街纸艺铺门口",
+      "character_names": [
+        "桃桃"
+      ],
+      "narration_lines": [
+        "桃桃说，回去会把纸板留好。",
+        "下回要借东西，她想先问什么时候还最方便。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街纸艺铺门口。近景突出手边动作或道具状态。画面：桃桃提着包好的画，回头给朋友指留在桌边的余布。入镜角色：桃桃。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.67,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "皮皮将半叶放回内袋，斑斑一只爪在半叶旁比出另一半",
+      "location": "长耳街纸艺铺门口",
+      "character_names": [
+        "皮皮",
+        "斑斑"
+      ],
+      "narration_lines": [
+        "走出铺子，皮皮把半片叶放回夹层。",
+        "斑斑一看，认出那是他们第一天拼桌牌时互送的半片叶。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街纸艺铺门口。平视中景突出人物姿态和相互位置。画面：皮皮将半叶放回内袋，斑斑一只爪在半叶旁比出另一半。入镜角色：皮皮、斑斑。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 14.43,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "斑斑与桃桃各提一端布环，皮皮背书包并肩走过店前",
+      "location": "长耳街纸艺铺门口",
+      "character_names": [
+        "皮皮",
+        "斑斑",
+        "桃桃"
+      ],
+      "narration_lines": [
+        "到了拐角，斑斑扶住另一边，两位把大画平平地送过街口。"
+      ],
+      "pause_after_s": [
+        8.0
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街纸艺铺门口。侧面中景展示动作方向与相邻环境。画面：斑斑与桃桃各提一端布环，皮皮背书包并肩走过店前。入镜角色：皮皮、斑斑、桃桃。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 15.93,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v3剧本和九镜已校时估算，实际配音及后续制作待进行",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/多场景版v2/结构化JSON/ep094.json",
+    "scope": "以约两分钟为目标逐集校时，补充偏短故事的动作、对话或线索，压缩偏长的重复表述",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始",
+    "previous_script_sha256": "f36394036254d93ab1ee4c7118d7605ec982ca5fbc42c23f2c7a1739d3b6c1c8",
+    "edited_shots": [
+      2,
+      6,
+      9
+    ]
+  },
+  "duration_plan": {
+    "target_s": 120,
+    "planning_range_s": [
+      115,
+      125
+    ],
+    "estimated_s": 116.11,
+    "v2_estimated_using_same_method_s": 130.34,
+    "reference_narration_hanzi_per_second": 2.899607,
+    "opening_s": 1.0,
+    "tail_in_final_shot_s": 8.0
+  }
+}

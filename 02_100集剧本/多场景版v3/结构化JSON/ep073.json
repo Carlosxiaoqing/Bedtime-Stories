@@ -1,0 +1,277 @@
+{
+  "schema_version": 2,
+  "script_version": "v3",
+  "id": "ep073",
+  "episode": 73,
+  "title": "点点讲到一半停住了",
+  "cover_title": "半个故事",
+  "category": "学校",
+  "theme": "讲故事时可以请朋友接一段",
+  "setting": "榆树学校分享角的小毯席、分享角纸路桌",
+  "viewpoint_character": "点点",
+  "guest": "点点、斑斑、桃桃",
+  "character_names": [
+    "点点",
+    "皮皮",
+    "斑斑",
+    "桃桃"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "成片约120秒，配音后实测校时",
+  "cn_characters": 278,
+  "initial_duration_budget_s": 118.96,
+  "shots": [
+    {
+      "id": 1,
+      "title": "分享角铺圆毯，点点坐在纸盒旁，三位同学围坐",
+      "location": "榆树学校分享角的小毯席",
+      "character_names": [
+        "点点",
+        "皮皮",
+        "斑斑",
+        "桃桃"
+      ],
+      "narration_lines": [
+        "轮到点点讲故事。",
+        "他说一只鼹鼠出门找风，讲到第三个弯，突然忘了后面的事。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校分享角的小毯席。竖幅远景交代空间和前后层次。画面：分享角铺圆毯，点点坐在纸盒旁，三位同学围坐。入镜角色：点点、皮皮、斑斑、桃桃。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 13.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "点点嘴停在半张，皮皮放下举起的爪等待",
+      "location": "榆树学校分享角的小毯席",
+      "character_names": [
+        "点点",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "皮皮差点替他说下去，又把手放回膝头。",
+        "点点看了一眼纸盒，问能不能先给大家看个东西。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校分享角的小毯席。平视中景突出人物姿态和相互位置。画面：点点嘴停在半张，皮皮放下举起的爪等待。入镜角色：点点、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 14.09,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "点点从盒里取出一片会打卷的细叶",
+      "location": "榆树学校分享角的小毯席",
+      "character_names": [
+        "点点"
+      ],
+      "narration_lines": [
+        "他拿出一片卷叶。",
+        "“我记得故事里有这个。可我不记得它是怎么到路边的。”"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校分享角的小毯席。近景突出手边动作或道具状态。画面：点点从盒里取出一片会打卷的细叶。入镜角色：点点。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.67,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "桌面铺三段纸路，卷叶放在第三弯处，朋友们各指一处",
+      "location": "分享角纸路桌",
+      "character_names": [
+        "点点",
+        "皮皮",
+        "斑斑",
+        "桃桃"
+      ],
+      "narration_lines": [
+        "大家把叶放到第三个弯。",
+        "斑斑说，叶子可能被风卷来，桃桃说，也可能在等什么。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "俯视呈现平面上的物件和路线",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "分享角纸路桌。俯视呈现平面上的物件和路线。画面：桌面铺三段纸路，卷叶放在第三弯处，朋友们各指一处。入镜角色：点点、皮皮、斑斑、桃桃。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "点点将卷叶架在纸路拐角，桃桃把纸路另一端抬高",
+      "location": "分享角纸路桌",
+      "character_names": [
+        "点点",
+        "桃桃",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "点点忽然有了想法。",
+        "那只鼹鼠把卷叶放到高处，先听它往哪个方向响。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "分享角纸路桌。平视中景突出人物姿态和相互位置。画面：点点将卷叶架在纸路拐角，桃桃把纸路另一端抬高。入镜角色：点点、桃桃、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.33,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "点点扶卷叶，三位同学从另一侧轻轻扇纸，纸路不动",
+      "location": "分享角纸路桌",
+      "character_names": [
+        "点点",
+        "皮皮",
+        "斑斑",
+        "桃桃"
+      ],
+      "narration_lines": [
+        "朋友们拿纸扇了点风。",
+        "卷叶嗒地碰到桌面，点点说：“对，风就是这样来的。”"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "分享角纸路桌。侧面中景展示动作方向与相邻环境。画面：点点扶卷叶，三位同学从另一侧轻轻扇纸，纸路不动。入镜角色：点点、皮皮、斑斑、桃桃。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.33,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "点点回到分享毯中央继续讲，卷叶已经平放在盒盖",
+      "location": "榆树学校分享角的小毯席",
+      "character_names": [
+        "点点",
+        "皮皮",
+        "斑斑",
+        "桃桃"
+      ],
+      "narration_lines": [
+        "他回去把故事讲完。",
+        "鼹鼠顺着响声找到一段有风的坡，还带朋友去那里晒了太阳。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校分享角的小毯席。平视中景突出人物姿态和相互位置。画面：点点回到分享毯中央继续讲，卷叶已经平放在盒盖。入镜角色：点点、皮皮、斑斑、桃桃。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 13.05,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "点点合上纸盒，将一截备用叶柄夹在盒边",
+      "location": "榆树学校分享角的小毯席",
+      "character_names": [
+        "点点"
+      ],
+      "narration_lines": [
+        "讲完后，他把卷叶收进盒里。",
+        "第三个弯这回接得很好，下次换个接法也可以。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校分享角的小毯席。近景突出手边动作或道具状态。画面：点点合上纸盒，将一截备用叶柄夹在盒边。入镜角色：点点。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.02,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "纸路桌上空着一个弯，卷叶投下细小阴影",
+      "location": "分享角纸路桌",
+      "character_names": [],
+      "narration_lines": [
+        "其他同学还没散。",
+        "斑斑拿起那段纸路，说自己也想从第三个弯开始，讲一件小事。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "分享角纸路桌。近景突出手边动作或道具状态。画面：纸路桌上空着一个弯，卷叶投下细小阴影。入镜角色：无，仅画环境或道具。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 19.76,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v3剧本和九镜已校时估算，实际配音及后续制作待进行",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/多场景版v2/结构化JSON/ep073.json",
+    "scope": "以约两分钟为目标逐集校时，补充偏短故事的动作、对话或线索，压缩偏长的重复表述",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始",
+    "previous_script_sha256": "4b391c4ccbb5ad6b572ddf439f8d88c17a629308cd6c8c9914893cd38681cf32",
+    "edited_shots": []
+  },
+  "duration_plan": {
+    "target_s": 120,
+    "planning_range_s": [
+      115,
+      125
+    ],
+    "estimated_s": 118.96,
+    "v2_estimated_using_same_method_s": 118.96,
+    "reference_narration_hanzi_per_second": 2.899607,
+    "opening_s": 1.0,
+    "tail_in_final_shot_s": 8.0
+  }
+}

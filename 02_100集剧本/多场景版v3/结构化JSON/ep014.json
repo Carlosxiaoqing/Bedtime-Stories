@@ -1,0 +1,276 @@
+{
+  "schema_version": 2,
+  "script_version": "v3",
+  "id": "ep014",
+  "episode": 14,
+  "title": "一张纸上的两条河",
+  "cover_title": "两条纸河",
+  "category": "学校",
+  "theme": "意见不同可以先试着接起来",
+  "setting": "榆树学校美术长桌、榆树学校走廊展板",
+  "viewpoint_character": "点点",
+  "guest": "点点、桃桃",
+  "character_names": [
+    "点点",
+    "桃桃",
+    "皮皮"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "成片约120秒，配音后实测校时",
+  "cn_characters": 293,
+  "initial_duration_budget_s": 124.85,
+  "shots": [
+    {
+      "id": 1,
+      "title": "长桌上铺宽纸，点点和桃桃分别拿蓝色蜡笔",
+      "location": "榆树学校美术长桌",
+      "character_names": [
+        "点点",
+        "桃桃",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "美术课要画一张大家的地图。",
+        "点点先画一条细河，桃桃也从另一端画了过来。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校美术长桌。竖幅远景交代空间和前后层次。画面：长桌上铺宽纸，点点和桃桃分别拿蓝色蜡笔。入镜角色：点点、桃桃、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 13.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "两支画笔分别停在不同方向的河线尽头",
+      "location": "榆树学校美术长桌",
+      "character_names": [
+        "点点",
+        "桃桃"
+      ],
+      "narration_lines": [
+        "两条河到了中间，一个往上，一个往下。",
+        "点点想擦掉自己的那一段。",
+        "桃桃把笔尖停在纸上，等着看点点那一头要往哪里去。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.72,
+        0.95
+      ],
+      "camera": "俯视呈现平面上的物件和路线",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校美术长桌。俯视呈现平面上的物件和路线。画面：两支画笔分别停在不同方向的河线尽头。入镜角色：点点、桃桃。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 18.94,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "皮皮把两只蓝笔并排放下，点点看纸的空处",
+      "location": "榆树学校美术长桌",
+      "character_names": [
+        "点点",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "皮皮问：“先停一下，看看它们中间像什么？”",
+        "点点把纸转了转。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校美术长桌。平视中景突出人物姿态和相互位置。画面：皮皮把两只蓝笔并排放下，点点看纸的空处。入镜角色：点点、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 9.6,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "桃桃指着岛形空白的一侧，点点留出另一边",
+      "location": "榆树学校美术长桌",
+      "character_names": [
+        "点点",
+        "桃桃"
+      ],
+      "narration_lines": [
+        "桃桃先看出来了。",
+        "那块空地方像一座小岛，岸边还能加两丛芦苇。",
+        "她顺着空白绕了一圈，请点点给岛的另一头也留一点边。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校美术长桌。近景突出手边动作或道具状态。画面：桃桃指着岛形空白的一侧，点点留出另一边。入镜角色：点点、桃桃。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 19.29,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "三双爪分别画芦苇、木桥与河湾，中间保持岛形",
+      "location": "榆树学校美术长桌",
+      "character_names": [
+        "点点",
+        "桃桃",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "他们把两条河接成了两道水湾，又画了两座桥，让两边都能上岛。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "俯视呈现平面上的物件和路线",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校美术长桌。俯视呈现平面上的物件和路线。画面：三双爪分别画芦苇、木桥与河湾，中间保持岛形。入镜角色：点点、桃桃、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 9.92,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "从点点肩后看见岛上留出的低矮土丘",
+      "location": "榆树学校美术长桌",
+      "character_names": [
+        "点点"
+      ],
+      "narration_lines": [
+        "点点在岛中间添了一座小土丘。",
+        "他说，住在地洞里的朋友也有地方去了。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "越肩构图同时看见观察者与目标",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校美术长桌。越肩构图同时看见观察者与目标。画面：从点点肩后看见岛上留出的低矮土丘。入镜角色：点点。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.67,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "三位伙伴扶着画纸三个边，把地图贴在低展板",
+      "location": "榆树学校走廊展板",
+      "character_names": [
+        "点点",
+        "桃桃",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "课后，他们一起把纸抬到走廊。",
+        "最先画错的那个弯，刚好绕过展板一角。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校走廊展板。侧面中景展示动作方向与相邻环境。画面：三位伙伴扶着画纸三个边，把地图贴在低展板。入镜角色：点点、桃桃、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.33,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "桃桃指一座桥，点点从另一侧沿路线看过去",
+      "location": "榆树学校走廊展板",
+      "character_names": [
+        "点点",
+        "桃桃"
+      ],
+      "narration_lines": [
+        "桃桃从左边找到桥，点点从右边找到桥。",
+        "两条路都通到岛上的草地。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校走廊展板。平视中景突出人物姿态和相互位置。画面：桃桃指一座桥，点点从另一侧沿路线看过去。入镜角色：点点、桃桃。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.98,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "展板上的地图有双弯水道和两座桥，走廊光线柔和",
+      "location": "榆树学校走廊展板",
+      "character_names": [],
+      "narration_lines": [
+        "地图挂在那里，经过的朋友总能发现一条新路。",
+        "那块空白也有了名字，叫双河岛。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校走廊展板。近景突出手边动作或道具状态。画面：展板上的地图有双弯水道和两座桥，走廊光线柔和。入镜角色：无，仅画环境或道具。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 19.76,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v3剧本和九镜已校时估算，实际配音及后续制作待进行",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/多场景版v2/结构化JSON/ep014.json",
+    "scope": "以约两分钟为目标逐集校时，补充偏短故事的动作、对话或线索，压缩偏长的重复表述",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始",
+    "previous_script_sha256": "0661ae57fef11fedd2c78f755c48b72f46cac539e7d64c26b23a1a4e290ae04d",
+    "edited_shots": [
+      2,
+      4
+    ]
+  },
+  "duration_plan": {
+    "target_s": 120,
+    "planning_range_s": [
+      115,
+      125
+    ],
+    "estimated_s": 124.85,
+    "v2_estimated_using_same_method_s": 107.89,
+    "reference_narration_hanzi_per_second": 2.899607,
+    "opening_s": 1.0,
+    "tail_in_final_shot_s": 8.0
+  }
+}

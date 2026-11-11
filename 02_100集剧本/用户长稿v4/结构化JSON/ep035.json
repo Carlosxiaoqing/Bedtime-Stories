@@ -1,0 +1,95 @@
+{
+  "schema_version": 3,
+  "script_version": "v4",
+  "id": "ep035",
+  "episode": 35,
+  "title": "栗子的小布袋",
+  "theme": "把白天的收获轻轻放下",
+  "language": "zh-CN",
+  "production_scope": "adopted_user_long_script",
+  "status": "copyedited_media_not_started",
+  "narration_paragraphs": [
+    {
+      "id": "p001",
+      "text": "今天森林学堂组织大家去后山的板栗林里秋游。\n板栗树下掉满了裂开嘴的刺球壳，小刺猬栗栗和小熊绒绒用小木夹拨开刺球，皮皮则负责把里面滚出来的油亮亮的褐红色板栗，一颗一颗捡进篮子里。"
+    },
+    {
+      "id": "p002",
+      "text": "分果子的时候，皮皮分到了满满两捧圆滚滚的大栗子。\n一路上，皮皮都舍不得把栗子放进书包里，而是用两只小爪子捧在胸前。栗子壳滑溜溜、沉甸甸的，带着太阳晒过的果木香气，皮皮走一路、看一路，喜欢得不得了。"
+    },
+    {
+      "id": "p003",
+      "text": "回到小木屋，吃过晚饭，皮皮把白天捡来的栗子全都倒在了卧室的小矮桌上，想在睡觉前再一颗颗数一数、摸一摸。\n栗子太多太圆了，皮皮刚数到第五颗，最边上的一枚胖栗子就顺着桌面轻轻滑动起来，“骨碌碌”往桌沿滚去。"
+    },
+    {
+      "id": "p004",
+      "text": "皮皮眼疾手快，伸出小爪子在桌边稳稳地接住了它。\n他看了看满桌滚动的栗子，又摸了摸自己因为捧了一路而有些发酸的手腕，心想：再好看的宝贝，也不能一整晚都捧在爪心里睡觉呀。"
+    },
+    {
+      "id": "p005",
+      "text": "于是，皮皮从抽屉里找来了一只妈妈缝的粗棉小布袋。\n他用一只爪子把布袋口大大地撑开，另一只爪子把桌上的栗子一枚一枚地请进去。栗子落进柔软厚实的布袋底，发出“噗、噗”的轻响，再也不会到处乱滚了。"
+    },
+    {
+      "id": "p006",
+      "text": "当最后一枚胖栗子也放进去后，小布袋鼓起了一个圆滚滚的小肚子，看起来就像一只吃饱了饭、正安静坐着打盹的小动物。\n皮皮把袋口的抽绳轻轻收拢，打了个松松的结，然后把小布袋放进了床边的矮柜里。白天的满满收获，终于可以不用一直抓在手上了。"
+    },
+    {
+      "id": "p007",
+      "text": "小矮桌的桌面重新空出了一大片位置。床头灯的暖光落下来，连桌面上那小块干干净净的空白，看起来都显得格外舒服。\n皮皮坐到床边，彻底松开忙碌了一天的小爪子，再把软绵绵的胡萝卜玩偶轻轻抱进怀里。"
+    },
+    {
+      "id": "p008",
+      "text": "暖黄色的毛毯盖好后，皮皮慢慢闭上了眼睛。圆滚滚的栗子有了自己的棉布小袋子，而皮皮也有了自己温暖的小被窝。\n小朋友，今天你学到的新本领、得到的好东西，都已经好好地收起来啦。现在，松开小手，让双手也舒舒服服地歇一歇吧。晚安。"
+    }
+  ],
+  "cn_characters": 702,
+  "narration_sha256": "112ce99dd808e22a982cdde5b47f76fcda49a25050ccd5f37bd7cfd91da12b5c",
+  "source": {
+    "path": "/Users/ww/Downloads/100集睡前故事合集.md",
+    "sha256": "3feafa137e94824baccf8b6e3f3f24bac3e97714b2e201fcc48d461d8969c302",
+    "original_narration_sha256": "112ce99dd808e22a982cdde5b47f76fcda49a25050ccd5f37bd7cfd91da12b5c",
+    "original_paragraph_count": 8
+  },
+  "revision_record": [],
+  "duration_policy": {
+    "basis": "complete_narration_at_current_voice_settings",
+    "limit_s": null,
+    "delete_for_duration": false,
+    "time_stretch": false
+  },
+  "voice": {
+    "config": "03_素材与参数/配音与声音参数.json",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000
+  },
+  "actual_duration_s": null,
+  "character_registry": "03_素材与参数/用户长稿v4角色图库.json",
+  "storyboard": {
+    "status": "not_started",
+    "shots": [],
+    "timing_basis": "actual_audio",
+    "preferred_hold_s": [
+      8,
+      10
+    ],
+    "review_above_s": 15,
+    "short_action_hold_s": [
+      3,
+      5
+    ]
+  },
+  "material_state": {
+    "voice": "not_started",
+    "character_references": "not_generated",
+    "illustrations": "not_started",
+    "cover": "not_started",
+    "pinyin_review": "not_started",
+    "render": "not_started",
+    "technical_check": "not_started",
+    "human_watch": "not_started",
+    "user_acceptance": "not_recorded"
+  }
+}

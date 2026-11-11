@@ -1,0 +1,271 @@
+{
+  "schema_version": 2,
+  "script_version": "v2",
+  "id": "ep050",
+  "episode": 50,
+  "title": "双河岛开张啦",
+  "cover_title": "双河岛开张",
+  "category": "学校",
+  "theme": "一起把纸上的想法做出来",
+  "setting": "榆树学校展板前、榆树学校操场草坪",
+  "viewpoint_character": "点点",
+  "guest": "点点、桃桃、朵朵、斑斑",
+  "character_names": [
+    "点点",
+    "桃桃",
+    "皮皮",
+    "朵朵",
+    "斑斑"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "按晓晓-35%实际口播、停顿和约8秒尾声确定",
+  "cn_characters": 274,
+  "initial_duration_budget_s": 108.69,
+  "shots": [
+    {
+      "id": 1,
+      "title": "几位伙伴仰看双河岛图，手上拿布条、纸屋和矮桥",
+      "location": "榆树学校展板前",
+      "character_names": [
+        "点点",
+        "桃桃",
+        "皮皮",
+        "朵朵"
+      ],
+      "narration_lines": [
+        "点点在走廊画过双河岛。",
+        "学校开放日，他想让朋友们真的走到图上的岛里。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校展板前。竖幅远景交代空间和前后层次。画面：几位伙伴仰看双河岛图，手上拿布条、纸屋和矮桥。入镜角色：点点、桃桃、皮皮、朵朵。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.04,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "点点把展板地图拓在桌面，桃桃摆两条蓝布当河",
+      "location": "榆树学校展板前",
+      "character_names": [
+        "点点",
+        "桃桃",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "他们带地图去操场，铺了两条蓝布当河。",
+        "第一条直，第二条转个弯，岛就出来了。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "俯视呈现平面上的物件和路线",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校展板前。俯视呈现平面上的物件和路线。画面：点点把展板地图拓在桌面，桃桃摆两条蓝布当河。入镜角色：点点、桃桃、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "朵朵抱矮桥站在河前，皮皮试着从近桥绕到岛边",
+      "location": "榆树学校操场草坪",
+      "character_names": [
+        "朵朵",
+        "皮皮",
+        "点点"
+      ],
+      "narration_lines": [
+        "皮皮把桥放上去才发现，桥离入口太近。",
+        "朋友们一走过来，就挤到一起了。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校操场草坪。侧面中景展示动作方向与相邻环境。画面：朵朵抱矮桥站在河前，皮皮试着从近桥绕到岛边。入镜角色：朵朵、皮皮、点点。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "点点指远端岛岸，桃桃和皮皮各扶桥一端",
+      "location": "榆树学校操场草坪",
+      "character_names": [
+        "点点",
+        "桃桃",
+        "朵朵",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "点点想起纸上有两座桥。",
+        "他请朵朵帮着移一座，到离操场门最远的一头。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校操场草坪。平视中景突出人物姿态和相互位置。画面：点点指远端岛岸，桃桃和皮皮各扶桥一端。入镜角色：点点、桃桃、朵朵、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "两座矮桥跨不同蓝布河，三只纸屋摆在岛上三角",
+      "location": "榆树学校操场草坪",
+      "character_names": [
+        "点点",
+        "桃桃",
+        "皮皮",
+        "朵朵"
+      ],
+      "narration_lines": [
+        "桥移好以后，两边都能进岛。",
+        "桃桃把纸屋摆在离路远一点的地方，留出中间的草。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "俯视呈现平面上的物件和路线",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校操场草坪。俯视呈现平面上的物件和路线。画面：两座矮桥跨不同蓝布河，三只纸屋摆在岛上三角。入镜角色：点点、桃桃、皮皮、朵朵。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.67,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "斑斑从远桥走入，点点正要迎他，皮皮留在岛中",
+      "location": "榆树学校操场草坪",
+      "character_names": [
+        "点点",
+        "斑斑",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "第一个来玩的斑斑从远处进来。",
+        "点点想给他指路，斑斑却说自己想先试着找一找。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校操场草坪。平视中景突出人物姿态和相互位置。画面：斑斑从远桥走入，点点正要迎他，皮皮留在岛中。入镜角色：点点、斑斑、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.98,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "越过点点肩背看斑斑走到最小纸屋旁",
+      "location": "榆树学校操场草坪",
+      "character_names": [
+        "点点",
+        "斑斑"
+      ],
+      "narration_lines": [
+        "斑斑走过第二座桥，在最小的纸屋前停住。",
+        "“我找到你的地洞门啦。”"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "越肩构图同时看见观察者与目标",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校操场草坪。越肩构图同时看见观察者与目标。画面：越过点点肩背看斑斑走到最小纸屋旁。入镜角色：点点、斑斑。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 9.79,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "伙伴沿两条布河分别进出，岛中间有一片草地",
+      "location": "榆树学校操场草坪",
+      "character_names": [
+        "点点",
+        "桃桃",
+        "朵朵",
+        "斑斑",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "到了下午，岛上有好几种走法。",
+        "有的朋友逛两座桥，有的只在草地上坐一会儿。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校操场草坪。竖幅远景交代空间和前后层次。画面：伙伴沿两条布河分别进出，岛中间有一片草地。入镜角色：点点、桃桃、朵朵、斑斑、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "点点踏出低布桥，抬起沾着细草叶的一只脚",
+      "location": "榆树学校操场草坪",
+      "character_names": [
+        "点点"
+      ],
+      "narration_lines": [
+        "收场前，点点又走了一遍。",
+        "他从地图右边进去，从左边出来，鞋上带回了一片真草叶。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "低视角凸显脚边、地面与人物尺度",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校操场草坪。低视角凸显脚边、地面与人物尺度。画面：点点踏出低布桥，抬起沾着细草叶的一只脚。入镜角色：点点。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 19.03,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v2剧本与九镜已编写，配音、插画、封面、字幕及视频待制作",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/结构化JSON/ep050.json",
+    "scope": "按用户反馈重写人物互动、故事事件、场景及九镜",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始"
+  }
+}

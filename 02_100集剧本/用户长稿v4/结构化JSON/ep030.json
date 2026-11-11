@@ -1,0 +1,91 @@
+{
+  "schema_version": 3,
+  "script_version": "v4",
+  "id": "ep030",
+  "episode": 30,
+  "title": "雨珠回到花园",
+  "theme": "细小的声音也会自然结束",
+  "language": "zh-CN",
+  "production_scope": "adopted_user_long_script",
+  "status": "copyedited_media_not_started",
+  "narration_paragraphs": [
+    {
+      "id": "p001",
+      "text": "夜色深了，傍晚那场洗刷了整座森林的秋雨，已经彻底停了下来。\n皮皮洗漱完毕，坐在床边整理自己的睡衣。屋里很安静，可就在这时，他竖起长长的兔耳朵，听见窗外传来一声很轻的：“滴答。”"
+    },
+    {
+      "id": "p002",
+      "text": "过了一小会儿，又是轻轻的一声：“滴答。”\n皮皮好奇地走到窗边，隔着擦得干干净净的玻璃往上看。原来，虽然天上的雨停了，但小木屋倾斜的木头屋檐边上，还挂着一排亮晶晶的小雨珠呢。它们正一颗接一颗，在屋檐尖上慢慢变圆、变大。"
+    },
+    {
+      "id": "p003",
+      "text": "就在皮皮看的时候，一颗攒够了力气的小雨珠落了下来，“啪嗒”一声，正好敲在窗外花盆的陶土边沿上，发出一声清脆又短促的小响声。\n如果是平时，这断断续续的滴水声可能会让皮皮一直分心去数。但今天，皮皮仔细观察了一下，发现是花盆里的一片大叶子歪向了盆沿，接住了屋檐落下的水滴才发出响声的。"
+    },
+    {
+      "id": "p004",
+      "text": "皮皮轻轻推开一点点窗户，伸出小爪子，把盆沿旁边那片歪斜的大叶子温柔地往旁边扶开了一点，让出一个小小的空当；这样一来，后面再落下来的小水珠，就可以直接落进花盆里松软的泥土上了。\n果然，当下一颗雨珠顺着屋檐滑落下来时，它直接钻进了湿润的黑泥土里，只发出一声几乎听不见的“噗”，就像倦鸟归巢一样。"
+    },
+    {
+      "id": "p005",
+      "text": "窗外的小花园没有说话，只是敞开松软的泥土怀抱，把这一颗颗晚归的小雨珠全都轻轻接住了。\n屋檐上挂着的雨珠越来越少，两滴水珠落下来的间隔也越来越长，窗外那细微的小响声，慢慢地隔得远了，最终彻底融进了夜色里。"
+    },
+    {
+      "id": "p006",
+      "text": "皮皮把木窗重新关严实，拍拍手回到温暖的床边。窗外的小花园已经收到了今晚所有的雨水礼物，再也不用添些什么了。\n他把暖黄色的毛毯拉到肩头，让胡萝卜玩偶紧紧靠着自己温暖的小手臂。"
+    },
+    {
+      "id": "p007",
+      "text": "最后一点零星的雨滴声也留在了窗外，屋里只剩下安静与温暖。皮皮的眼睛，慢慢地合上了。\n小朋友，今天耳朵听到的所有细小声音，都已经像小雨珠回到泥土里一样，找到自己的去处啦。你也舒舒服服地歇着吧，晚安。"
+    }
+  ],
+  "cn_characters": 681,
+  "narration_sha256": "23ba84c2e91d5e8ac62ec4f5a4c18600c26afe5554ec054bf71dc7335144134d",
+  "source": {
+    "path": "/Users/ww/Downloads/100集睡前故事合集.md",
+    "sha256": "3feafa137e94824baccf8b6e3f3f24bac3e97714b2e201fcc48d461d8969c302",
+    "original_narration_sha256": "23ba84c2e91d5e8ac62ec4f5a4c18600c26afe5554ec054bf71dc7335144134d",
+    "original_paragraph_count": 7
+  },
+  "revision_record": [],
+  "duration_policy": {
+    "basis": "complete_narration_at_current_voice_settings",
+    "limit_s": null,
+    "delete_for_duration": false,
+    "time_stretch": false
+  },
+  "voice": {
+    "config": "03_素材与参数/配音与声音参数.json",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000
+  },
+  "actual_duration_s": null,
+  "character_registry": "03_素材与参数/用户长稿v4角色图库.json",
+  "storyboard": {
+    "status": "not_started",
+    "shots": [],
+    "timing_basis": "actual_audio",
+    "preferred_hold_s": [
+      8,
+      10
+    ],
+    "review_above_s": 15,
+    "short_action_hold_s": [
+      3,
+      5
+    ]
+  },
+  "material_state": {
+    "voice": "not_started",
+    "character_references": "not_generated",
+    "illustrations": "not_started",
+    "cover": "not_started",
+    "pinyin_review": "not_started",
+    "render": "not_started",
+    "technical_check": "not_started",
+    "human_watch": "not_started",
+    "user_acceptance": "not_recorded"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "text": "他轻轻一伸腿，咦？",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "98789e4470863e7d4e63d8c19ad8b99373868759794d28efa07a9cda40adcaaf",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2307500,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3577080,
+      "duration": 5769160,
+      "text": "轻轻"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9538330,
+      "duration": 1922910,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11461660,
+      "duration": 8653750,
+      "text": "伸腿"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24153750,
+      "duration": 5000000,
+      "text": "咦"
+    }
+  ]
+}

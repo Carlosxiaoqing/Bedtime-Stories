@@ -1,0 +1,149 @@
+{
+  "text": "皮皮跟团团、栗栗挥挥小爪子道别，背着空空的小书包，沿着熟悉的小路回到了自己的小木屋。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "f76c8eaa32f83a474381a5a97b6d56dc45c96a7d2b293b457bd06d4e884c9d46",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5384580,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7038330,
+      "duration": 2115410,
+      "text": "跟"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9346250,
+      "duration": 9615410,
+      "text": "团团"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22422910,
+      "duration": 5769160,
+      "text": "栗栗"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 28577080,
+      "duration": 5192080,
+      "text": "挥挥"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33769160,
+      "duration": 3077080,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36846250,
+      "duration": 5000000,
+      "text": "爪子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 42038330,
+      "duration": 7692500,
+      "text": "道别"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 54730830,
+      "duration": 4038330,
+      "text": "背着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 59153750,
+      "duration": 5769160,
+      "text": "空空"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 64922910,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 66269160,
+      "duration": 3077080,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 69346250,
+      "duration": 7307500,
+      "text": "书包"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 80577080,
+      "duration": 5000000,
+      "text": "沿着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 85961660,
+      "duration": 5576660,
+      "text": "熟悉"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 91538330,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 93269160,
+      "duration": 8461660,
+      "text": "小路"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 103269160,
+      "duration": 5769160,
+      "text": "回到"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 109038330,
+      "duration": 1346250,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 110769160,
+      "duration": 3846250,
+      "text": "自己"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 114615410,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 116153750,
+      "duration": 3653750,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 119807500,
+      "duration": 8077080,
+      "text": "木屋"
+    }
+  ]
+}

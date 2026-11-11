@@ -1,0 +1,262 @@
+{
+  "schema_version": 2,
+  "script_version": "v2",
+  "id": "ep019",
+  "episode": 19,
+  "title": "山坡上两种脚步",
+  "cover_title": "缓坡走走",
+  "category": "出行",
+  "theme": "同伴可以选择走得舒服的路",
+  "setting": "松岭步道岔口、松岭缓坡栈道、松岭观景台",
+  "viewpoint_character": "朵朵",
+  "guest": "朵朵、栗栗、芽芽",
+  "character_names": [
+    "朵朵",
+    "皮皮",
+    "栗栗",
+    "芽芽"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "按晓晓-35%实际口播、停顿和约8秒尾声确定",
+  "cn_characters": 264,
+  "initial_duration_budget_s": 104.85,
+  "shots": [
+    {
+      "id": 1,
+      "title": "岔路一侧是窄石阶，一侧是宽木栈道，四个伙伴停步",
+      "location": "松岭步道岔口",
+      "character_names": [
+        "朵朵",
+        "皮皮",
+        "栗栗",
+        "芽芽"
+      ],
+      "narration_lines": [
+        "去看松岭的云，有两条路。",
+        "皮皮和栗栗想走石阶，朵朵看了一眼，放慢了脚步。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "松岭步道岔口。竖幅远景交代空间和前后层次。画面：岔路一侧是窄石阶，一侧是宽木栈道，四个伙伴停步。入镜角色：朵朵、皮皮、栗栗、芽芽。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.04,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "朵朵脚掌对比窄窄两阶石面",
+      "location": "松岭步道岔口",
+      "character_names": [
+        "朵朵"
+      ],
+      "narration_lines": [
+        "石阶比朵朵的脚掌还窄。",
+        "她踩上第一层就退下来，说自己想走宽一点的路。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "低视角凸显脚边、地面与人物尺度",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "松岭步道岔口。低视角凸显脚边、地面与人物尺度。画面：朵朵脚掌对比窄窄两阶石面。入镜角色：朵朵。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.04,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "芽芽把爪指向岔口的松树图案与远处平台",
+      "location": "松岭步道岔口",
+      "character_names": [
+        "芽芽",
+        "朵朵",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "芽芽看见两条路旁都画着一棵松树。",
+        "原来它们最后能到同一个观景台。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "松岭步道岔口。平视中景突出人物姿态和相互位置。画面：芽芽把爪指向岔口的松树图案与远处平台。入镜角色：芽芽、朵朵、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "四位伙伴在岔口互相挥手，分站两条路入口",
+      "location": "松岭步道岔口",
+      "character_names": [
+        "朵朵",
+        "皮皮",
+        "栗栗",
+        "芽芽"
+      ],
+      "narration_lines": [
+        "大家约好在松树旁见。",
+        "朵朵和芽芽走缓坡，皮皮和栗栗沿石阶上去。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "松岭步道岔口。侧面中景展示动作方向与相邻环境。画面：四位伙伴在岔口互相挥手，分站两条路入口。入镜角色：朵朵、皮皮、栗栗、芽芽。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.11,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "缓坡转弯处有护栏和蕨叶，朵朵与芽芽看山坳",
+      "location": "松岭缓坡栈道",
+      "character_names": [
+        "朵朵",
+        "芽芽"
+      ],
+      "narration_lines": [
+        "缓坡拐了三个弯。",
+        "朵朵从栏边看见石阶下面有一片蕨叶，像铺了好几层小扇子。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "松岭缓坡栈道。竖幅远景交代空间和前后层次。画面：缓坡转弯处有护栏和蕨叶，朵朵与芽芽看山坳。入镜角色：朵朵、芽芽。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.67,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "皮皮和栗栗先到观景台，两人并排扶栏望远",
+      "location": "松岭观景台",
+      "character_names": [
+        "皮皮",
+        "栗栗"
+      ],
+      "narration_lines": [
+        "皮皮和栗栗先到了。",
+        "他们没有往回催，找了块平石坐下，等那两个熟悉的身影。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "松岭观景台。侧面中景展示动作方向与相邻环境。画面：皮皮和栗栗先到观景台，两人并排扶栏望远。入镜角色：皮皮、栗栗。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "四个伙伴在大松树旁聚拢，朵朵指向刚走的缓坡",
+      "location": "松岭观景台",
+      "character_names": [
+        "朵朵",
+        "皮皮",
+        "栗栗",
+        "芽芽"
+      ],
+      "narration_lines": [
+        "朵朵来了，给朋友说起蕨叶。",
+        "栗栗也说，石阶上有一道灰白色的石纹。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "松岭观景台。平视中景突出人物姿态和相互位置。画面：四个伙伴在大松树旁聚拢，朵朵指向刚走的缓坡。入镜角色：朵朵、皮皮、栗栗、芽芽。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.11,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "从四位伙伴背后看远处云和两条分开的路",
+      "location": "松岭观景台",
+      "character_names": [
+        "朵朵",
+        "芽芽",
+        "皮皮",
+        "栗栗"
+      ],
+      "narration_lines": [
+        "他们从上面望下去，两条路一高一低，弯到一起的时候，谁也没有走错。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "越肩构图同时看见观察者与目标",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "松岭观景台。越肩构图同时看见观察者与目标。画面：从四位伙伴背后看远处云和两条分开的路。入镜角色：朵朵、芽芽、皮皮、栗栗。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 9.7,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "观景台边平石上留下四枚松针，低云铺在山腰",
+      "location": "松岭观景台",
+      "character_names": [],
+      "narration_lines": [
+        "他们在台边歇了一会儿。",
+        "云慢慢飘过松岭，山上留着两条都能到达的小路。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "松岭观景台。竖幅远景交代空间和前后层次。画面：观景台边平石上留下四枚松针，低云铺在山腰。入镜角色：无，仅画环境或道具。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 18.09,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v2剧本与九镜已编写，配音、插画、封面、字幕及视频待制作",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/结构化JSON/ep019.json",
+    "scope": "按用户反馈重写人物互动、故事事件、场景及九镜",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始"
+  }
+}

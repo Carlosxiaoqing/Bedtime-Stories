@@ -1,0 +1,95 @@
+{
+  "schema_version": 3,
+  "script_version": "v4",
+  "id": "ep023",
+  "episode": 23,
+  "title": "云朵的慢邮差",
+  "theme": "等待不需要一直盯着",
+  "language": "zh-CN",
+  "production_scope": "adopted_user_long_script",
+  "status": "copyedited_media_not_started",
+  "narration_paragraphs": [
+    {
+      "id": "p001",
+      "text": "今天在森林学堂，皮皮学会了写自己的名字，还画了一张漂亮的明信片，投进了森林邮局的绿色邮筒里，寄给住在远方山谷里的外婆。\n喜鹊邮差叔叔告诉皮皮：“信件要坐着风和云朵的慢车，翻过两座大山，过几天才能送到外婆手里哦。”"
+    },
+    {
+      "id": "p002",
+      "text": "因为心里惦记着那封信，这天晚上到了睡觉的时间，皮皮坐在床边，还一直仰着小脑袋望着窗外的夜空。\n正好有一朵浅浅的、软绵绵的白云，慢吞吞地飘过来，停在了弯弯的月亮前面。"
+    },
+    {
+      "id": "p003",
+      "text": "皮皮托着腮帮子想：这朵云走得这么慢、这么稳，它会不会也是天上的慢邮差呀？\n你看，它背上镶着一圈淡淡的银色月光边，正一点一点地往前挪动，好像在把温柔的夜色和晚安的信件，挨家挨户地送到每一片树叶、每一座小木屋的屋顶上。"
+    },
+    {
+      "id": "p004",
+      "text": "皮皮很想亲眼看着这位“云朵慢邮差”走过整片窗户，看看它会把信送到哪一棵树上。\n可是，云朵走得实在是太慢太慢了。皮皮盯了好一会儿，小眼睛已经有一点点发酸，撑着床沿的小爪子也有一点点发困了。"
+    },
+    {
+      "id": "p005",
+      "text": "皮皮打了个小哈欠，想起白天喜鹊邮差叔叔说的话：“好邮件是不需要一直盯着邮筒看的，你去安心做自己的事，它自然就会送到啦。”\n于是，皮皮不再勉强自己抬着头。他顺从地靠回软软的枕头上，只把叶子花窗帘留开一个小小的三角缝隙，不再一直睁大眼睛盯着窗外等。"
+    },
+    {
+      "id": "p006",
+      "text": "他把胡萝卜玩偶抱到身边，替玩偶拉好暖黄色的毛毯，也给自己严严实实地盖住了肩膀。\n皮皮闭着眼睛歇了一小会儿，等他迷迷糊糊地再轻轻睁开一条眼缝看过去时——哇，那朵慢吞吞的云朵邮差，不知什么时候已经悄悄挪开了！"
+    },
+    {
+      "id": "p007",
+      "text": "皎洁的月光没有了遮挡，正大大方方地穿过窗户，落在床边的木地板上，像一封已经稳稳送达的银色回信。\n原来，就算不一直盯着看，云朵邮差也会按照自己的步调慢慢往前走；夜晚的一切，一直都有着自己从容的速度。"
+    },
+    {
+      "id": "p008",
+      "text": "皮皮放心地彻底闭上了眼睛，不再追着云朵走了。软软的枕头，已经像云朵一样把他稳稳地接住了。\n小朋友，生活里有很多美好的事情，都是可以慢慢等的。现在，把你的期待和等待都放到窗外，安心躺好，进入甜甜的梦乡吧。晚安。"
+    }
+  ],
+  "cn_characters": 726,
+  "narration_sha256": "1cd3013ef655e9d7615d54deee65192f01d9f8714cdf7d7828ddc3f089b2bf2d",
+  "source": {
+    "path": "/Users/ww/Downloads/100集睡前故事合集.md",
+    "sha256": "3feafa137e94824baccf8b6e3f3f24bac3e97714b2e201fcc48d461d8969c302",
+    "original_narration_sha256": "1cd3013ef655e9d7615d54deee65192f01d9f8714cdf7d7828ddc3f089b2bf2d",
+    "original_paragraph_count": 8
+  },
+  "revision_record": [],
+  "duration_policy": {
+    "basis": "complete_narration_at_current_voice_settings",
+    "limit_s": null,
+    "delete_for_duration": false,
+    "time_stretch": false
+  },
+  "voice": {
+    "config": "03_素材与参数/配音与声音参数.json",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000
+  },
+  "actual_duration_s": null,
+  "character_registry": "03_素材与参数/用户长稿v4角色图库.json",
+  "storyboard": {
+    "status": "not_started",
+    "shots": [],
+    "timing_basis": "actual_audio",
+    "preferred_hold_s": [
+      8,
+      10
+    ],
+    "review_above_s": 15,
+    "short_action_hold_s": [
+      3,
+      5
+    ]
+  },
+  "material_state": {
+    "voice": "not_started",
+    "character_references": "not_generated",
+    "illustrations": "not_started",
+    "cover": "not_started",
+    "pinyin_review": "not_started",
+    "render": "not_started",
+    "technical_check": "not_started",
+    "human_watch": "not_started",
+    "user_acceptance": "not_recorded"
+  }
+}

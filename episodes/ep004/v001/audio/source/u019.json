@@ -1,0 +1,29 @@
+{
+  "text": "皮皮笑了。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "ca4c50e34696f29773a1f264b97ad12b4a8fcf2822f24908465c561cbfa1ac02",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5192500,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6653750,
+      "duration": 4615410,
+      "text": "笑"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11269160,
+      "duration": 3461660,
+      "text": "了"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "version": "static-crossfade-v1",
+  "updated_on": "2026-11-11",
+  "default": {
+    "type": "crossfade",
+    "duration_s": 0.96,
+    "frames": 24,
+    "fps": 25,
+    "curve": "linear",
+    "within_image_motion": "none",
+    "subtitles_crossfade": false
+  },
+  "candidate_not_adopted": {
+    "curve": "smoothstep",
+    "formula": "3*u*u-2*u*u*u",
+    "duration_s": 0.96,
+    "reason": "起止变化较柔，整体改善有限，中点仍可能有双影"
+  },
+  "evaluation": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/转场评估/转场评估.md"
+}

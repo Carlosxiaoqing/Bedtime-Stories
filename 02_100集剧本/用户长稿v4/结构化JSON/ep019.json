@@ -1,0 +1,95 @@
+{
+  "schema_version": 3,
+  "script_version": "v4",
+  "id": "ep019",
+  "episode": 19,
+  "title": "猫头鹰的安静书页",
+  "theme": "不同作息也能温柔相处",
+  "language": "zh-CN",
+  "production_scope": "adopted_user_long_script",
+  "status": "copyedited_media_not_started",
+  "narration_paragraphs": [
+    {
+      "id": "p001",
+      "text": "今天在森林学堂的科学课上，山羊老师给小朋友们讲了一个有趣的秘密：原来森林里并不是所有的小动物都在晚上睡觉的。\n比如住在高高橡树顶上的小猫头鹰圆圆，就是到了太阳落山才刚刚睡醒呢。"
+    },
+    {
+      "id": "p002",
+      "text": "皮皮听得入迷极了。因为小猫头鹰圆圆的树洞，就在皮皮家小木屋窗外的那棵大树上，平时白天皮皮去上学的时候，圆圆总是闭着眼睛在打呼噜，他们很少有机会一起玩。\n傍晚放学回到家，吃过晚饭，洗完暖水澡，皮皮穿好了软软的睡衣。就在他准备爬上床的时候，窗外升起了弯弯的月亮，皮皮惊喜地看见，小猫头鹰圆圆正端端正正地坐在窗外的粗树枝上，捧着一本小小的图画书在看呢！"
+    },
+    {
+      "id": "p003",
+      "text": "皮皮趴在窗台上，隔着玻璃轻轻敲了敲。\n圆圆转过圆乎乎的脑袋，眨了眨像铜铃一样亮的大眼睛。一个准备钻进被窝睡觉，一个才刚刚吃过早饭翻开书的第一页。他们隔着窗户，默契地向对方轻轻点了点头。"
+    },
+    {
+      "id": "p004",
+      "text": "圆圆知道皮皮到了该休息的时间，所以他把小书本稳稳地放在膝盖上，翻页的时候小爪子特别轻，一点儿也不拍打翅膀，更没有像白天的小麻雀那样把故事大声念出来。\n皮皮看着外面的夜色有点暗，担心圆圆看书费眼睛。于是，皮皮没有把窗帘严严实实地拉死，而是把床头那盏暖黄色的小灯，轻轻往窗户的方向转了一个小角度。"
+    },
+    {
+      "id": "p005",
+      "text": "一缕淡淡的、柔和的暖光穿透玻璃，刚好落在了圆圆手里的书角上。\n圆圆感激地晃了晃小脑袋。就这样，窗外的猫头鹰安安静静地看书，屋里的小兔子慢吞吞地铺平毛毯、盖好被子。虽然他们做着完全不一样的事情，但谁也不用强迫谁跟着自己的步调走。"
+    },
+    {
+      "id": "p006",
+      "text": "过了一会儿，圆圆看完了那一页，轻轻合上书，望着温暖的小木屋，用翅膀尖给皮皮比了一个很轻很轻的“晚安”手势。\n皮皮也挥了挥小爪子，把叶子花窗帘拉近，只留下一道窄窄的、透着月光的缝隙。"
+    },
+    {
+      "id": "p007",
+      "text": "窗外的树枝没有摇晃，书页也没有急着往后翻。\n皮皮舒舒服服地靠在枕头上，眼睛慢慢闭好。他觉得真奇妙呀，窗外有圆圆热闹又安静的夜晚，屋里有自己温暖又香甜的睡眠，大家都在最适合自己的时间里被温柔对待着。"
+    },
+    {
+      "id": "p008",
+      "text": "小朋友，每个人都有自己的节奏，按照你自己最舒服的样子，慢慢躺好吧。今晚不必和谁一样，闭上眼睛，晚安。"
+    }
+  ],
+  "cn_characters": 768,
+  "narration_sha256": "6fc234e3b654379bdd91f0ffc1cd5910b012a28a36b2f26051da29ce769708a1",
+  "source": {
+    "path": "/Users/ww/Downloads/100集睡前故事合集.md",
+    "sha256": "3feafa137e94824baccf8b6e3f3f24bac3e97714b2e201fcc48d461d8969c302",
+    "original_narration_sha256": "6fc234e3b654379bdd91f0ffc1cd5910b012a28a36b2f26051da29ce769708a1",
+    "original_paragraph_count": 8
+  },
+  "revision_record": [],
+  "duration_policy": {
+    "basis": "complete_narration_at_current_voice_settings",
+    "limit_s": null,
+    "delete_for_duration": false,
+    "time_stretch": false
+  },
+  "voice": {
+    "config": "03_素材与参数/配音与声音参数.json",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000
+  },
+  "actual_duration_s": null,
+  "character_registry": "03_素材与参数/用户长稿v4角色图库.json",
+  "storyboard": {
+    "status": "not_started",
+    "shots": [],
+    "timing_basis": "actual_audio",
+    "preferred_hold_s": [
+      8,
+      10
+    ],
+    "review_above_s": 15,
+    "short_action_hold_s": [
+      3,
+      5
+    ]
+  },
+  "material_state": {
+    "voice": "not_started",
+    "character_references": "not_generated",
+    "illustrations": "not_started",
+    "cover": "not_started",
+    "pinyin_review": "not_started",
+    "render": "not_started",
+    "technical_check": "not_started",
+    "human_watch": "not_started",
+    "user_acceptance": "not_recorded"
+  }
+}

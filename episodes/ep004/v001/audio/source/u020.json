@@ -1,0 +1,149 @@
+{
+  "text": "他把胡萝卜玩偶抱过来，放在小山坡的半山腰上，就像白天他和栗栗并排坐着那样。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "26351ed8713faba10e8687a704caf44147303e7af49d8560d52b3d4c2443537b",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2307500,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3577080,
+      "duration": 1922910,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 5692500,
+      "duration": 7692500,
+      "text": "胡萝卜"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13577080,
+      "duration": 5384580,
+      "text": "玩偶"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19346250,
+      "duration": 3269160,
+      "text": "抱"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22615410,
+      "duration": 5961660,
+      "text": "过来"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33192500,
+      "duration": 2692080,
+      "text": "放"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 35884580,
+      "duration": 2115410,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 38384580,
+      "duration": 3077080,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 41461660,
+      "duration": 5769160,
+      "text": "山坡"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 47230830,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 48961660,
+      "duration": 8845830,
+      "text": "半山腰"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 57807500,
+      "duration": 4615410,
+      "text": "上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 66461660,
+      "duration": 2307500,
+      "text": "就"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 68769160,
+      "duration": 3077080,
+      "text": "像"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 72038330,
+      "duration": 6538330,
+      "text": "白天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 78577080,
+      "duration": 2307500,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 81077080,
+      "duration": 2692500,
+      "text": "和"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 83961660,
+      "duration": 5384580,
+      "text": "栗栗"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 89730830,
+      "duration": 6538330,
+      "text": "并排"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 96461660,
+      "duration": 3269160,
+      "text": "坐"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 99730830,
+      "duration": 1346250,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 101269160,
+      "duration": 6538330,
+      "text": "那样"
+    }
+  ]
+}

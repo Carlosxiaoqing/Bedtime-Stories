@@ -1,0 +1,274 @@
+{
+  "schema_version": 2,
+  "script_version": "v3",
+  "id": "ep015",
+  "episode": 15,
+  "title": "雪团寄来的暖地方",
+  "cover_title": "雪地来信",
+  "category": "出行",
+  "theme": "朋友可以喜欢不同的季节",
+  "setting": "白湾港站的栈桥、白湾木亭、白湾港邮筒",
+  "viewpoint_character": "雪团",
+  "guest": "雪团、沐沐",
+  "character_names": [
+    "雪团",
+    "皮皮",
+    "沐沐"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "成片约120秒，配音后实测校时",
+  "cn_characters": 282,
+  "initial_duration_budget_s": 120.33,
+  "shots": [
+    {
+      "id": 1,
+      "title": "浅雪栈桥上，雪团挥着深蓝手套，皮皮和沐沐下车",
+      "location": "白湾港站的栈桥",
+      "character_names": [
+        "雪团",
+        "皮皮",
+        "沐沐"
+      ],
+      "narration_lines": [
+        "小企鹅雪团在白湾等皮皮和沐沐。",
+        "皮皮一落地，就被雪地的亮光照得眯起眼。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "白湾港站的栈桥。竖幅远景交代空间和前后层次。画面：浅雪栈桥上，雪团挥着深蓝手套，皮皮和沐沐下车。入镜角色：雪团、皮皮、沐沐。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 13.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "雪团指着雪丘，皮皮把耳朵往风背处偏",
+      "location": "白湾港站的栈桥",
+      "character_names": [
+        "雪团",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "雪团最喜欢海风吹过雪丘的样子。",
+        "皮皮却觉得风太凉，想找一个暖和的地方。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "白湾港站的栈桥。平视中景突出人物姿态和相互位置。画面：雪团指着雪丘，皮皮把耳朵往风背处偏。入镜角色：雪团、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "木亭外是雪坡，雪团把两张椅移到亭内向阳处",
+      "location": "白湾木亭",
+      "character_names": [
+        "雪团",
+        "皮皮",
+        "沐沐"
+      ],
+      "narration_lines": [
+        "雪团想了想，领他们到背风的亭子。",
+        "亭外看得到雪，亭里有一小块日头。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "白湾木亭。侧面中景展示动作方向与相邻环境。画面：木亭外是雪坡，雪团把两张椅移到亭内向阳处。入镜角色：雪团、皮皮、沐沐。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.33,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "小桌摊开三张空画片，雪团画雪坡，皮皮画阳光",
+      "location": "白湾木亭",
+      "character_names": [
+        "雪团",
+        "皮皮",
+        "沐沐"
+      ],
+      "narration_lines": [
+        "他们给没来的朋友画明信片。",
+        "雪团画雪丘，皮皮画亭里的日头。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "俯视呈现平面上的物件和路线",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "白湾木亭。俯视呈现平面上的物件和路线。画面：小桌摊开三张空画片，雪团画雪坡，皮皮画阳光。入镜角色：雪团、皮皮、沐沐。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.29,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "沐沐爪下画出浪线和木亭一角",
+      "location": "白湾木亭",
+      "character_names": [
+        "沐沐"
+      ],
+      "narration_lines": [
+        "沐沐添了一条海边的线，说：“这儿的海是冷的，可我们坐的地方是暖的。”"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "白湾木亭。近景突出手边动作或道具状态。画面：沐沐爪下画出浪线和木亭一角。入镜角色：沐沐。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.61,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "两张明信片边缘对齐，雪坡连到亭子",
+      "location": "白湾木亭",
+      "character_names": [
+        "雪团",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "皮皮把自己的画和雪团的拼在一起。",
+        "雪坡边刚好露出一小段暖暖的木地板。",
+        "雪团用指尖把两张画轻轻推齐，雪坡和亭子就接上了。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "白湾木亭。平视中景突出人物姿态和相互位置。画面：两张明信片边缘对齐，雪坡连到亭子。入镜角色：雪团、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 20.67,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "三位朋友在邮筒前把画片依次送入投信口",
+      "location": "白湾港邮筒",
+      "character_names": [
+        "雪团",
+        "皮皮",
+        "沐沐"
+      ],
+      "narration_lines": [
+        "回程前，他们一起寄出画片。",
+        "雪团托着邮筒的小盖子，让大家一张一张放。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "白湾港邮筒。侧面中景展示动作方向与相邻环境。画面：三位朋友在邮筒前把画片依次送入投信口。入镜角色：雪团、皮皮、沐沐。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.67,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "雪团站在栈桥送行，皮皮在车门旁举起手",
+      "location": "白湾港站的栈桥",
+      "character_names": [
+        "雪团",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "皮皮说，下回也想请雪团到树荫里坐坐。",
+        "雪团问，那儿的风是不是带点草香。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "白湾港站的栈桥。平视中景突出人物姿态和相互位置。画面：雪团站在栈桥送行，皮皮在车门旁举起手。入镜角色：雪团、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.02,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "雪地脚印在亭子拐角合拢，光落在栈桥木纹上",
+      "location": "白湾港站的栈桥",
+      "character_names": [],
+      "narration_lines": [
+        "皮皮记下了这句话。",
+        "车走远时，雪团还站在有阳光的那一小块地方。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "环境留白为主，关键物件或人物位于上部",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "白湾港站的栈桥。环境留白为主，关键物件或人物位于上部。画面：雪地脚印在亭子拐角合拢，光落在栈桥木纹上。入镜角色：无，仅画环境或道具。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 18.03,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v3剧本和九镜已校时估算，实际配音及后续制作待进行",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/多场景版v2/结构化JSON/ep015.json",
+    "scope": "以约两分钟为目标逐集校时，补充偏短故事的动作、对话或线索，压缩偏长的重复表述",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始",
+    "previous_script_sha256": "12ca40d3d2670b0a501539e3713e539a5090369160360882a60bbb7cdf0e0c57",
+    "edited_shots": [
+      6
+    ]
+  },
+  "duration_plan": {
+    "target_s": 120,
+    "planning_range_s": [
+      115,
+      125
+    ],
+    "estimated_s": 120.33,
+    "v2_estimated_using_same_method_s": 112.03,
+    "reference_narration_hanzi_per_second": 2.899607,
+    "opening_s": 1.0,
+    "tail_in_final_shot_s": 8.0
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "text": "小朋友，今天你也像皮皮一样，度过了充实又美好的一天吧。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "b091d34dbd8bc53a08a277365f410d6dab3dcc976444229bef0e8c879997fddd",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 10961660,
+      "text": "小朋友"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16653750,
+      "duration": 6538330,
+      "text": "今天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23384580,
+      "duration": 3269160,
+      "text": "你"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 28000000,
+      "duration": 2115410,
+      "text": "也"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30115410,
+      "duration": 3077080,
+      "text": "像"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33577080,
+      "duration": 5769160,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 39538330,
+      "duration": 5192500,
+      "text": "一样"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 49153750,
+      "duration": 4807500,
+      "text": "度过"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 53961660,
+      "duration": 1730830,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 56077080,
+      "duration": 5192500,
+      "text": "充实"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 61653750,
+      "duration": 1730830,
+      "text": "又"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 63577080,
+      "duration": 12115410,
+      "text": "美好的一天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 75692500,
+      "duration": 3269160,
+      "text": "吧"
+    }
+  ]
+}

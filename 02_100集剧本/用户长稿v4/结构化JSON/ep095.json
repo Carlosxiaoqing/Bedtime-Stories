@@ -1,0 +1,95 @@
+{
+  "schema_version": 3,
+  "script_version": "v4",
+  "id": "ep095",
+  "episode": 95,
+  "title": "床头留一块空地方",
+  "theme": "让身边的空间安静下来",
+  "language": "zh-CN",
+  "production_scope": "adopted_user_long_script",
+  "status": "copyedited_media_not_started",
+  "narration_paragraphs": [
+    {
+      "id": "p001",
+      "text": "这一个星期以来，皮皮收获了好多自己特别喜欢的小宝贝。\n因为每一件都舍不得离身，每天晚上睡觉前，皮皮都会把它们一样接一样地搬到自己的床头柜和枕头边上。"
+    },
+    {
+      "id": "p002",
+      "text": "到了今天晚上，当皮皮洗完澡抱着胡萝卜玩偶走到床边时，他低头一看——哎呀，自己的床头简直变成了一个满满当当的小集市！\n那里放着还没看完的厚绘本、昨天刚画好的水彩小画、小松鼠团团送的油松果、小鹿芽芽送的贝壳，还有一只浅浅的原木小碟子，所有东西都挤挤挨挨地靠在一起，离枕头特别近。"
+    },
+    {
+      "id": "p003",
+      "text": "皮皮想把手里的胡萝卜玩偶放到枕头边老位置上，却发现根本放不下；他的小爪子要小心翼翼地绕过绘本硬邦邦的书角、避开画纸的边缘，折腾了好半天，才能勉强挤出一点点小地方。\n躺下来的时候，皮皮也觉得脑袋旁边热热闹闹、满满当当的，连翻个身都怕把哪件宝贝碰掉到地上去。"
+    },
+    {
+      "id": "p004",
+      "text": "皮皮重新坐起身，看着眼前这一大堆心爱的小物件想了想：虽然我都很喜欢它们，可是如果把所有喜欢的东西全都堆在脑袋旁边，连呼吸和放手的地方都没有了，那怎么能睡得踏实呢？\n于是，皮皮开始动手给床头“减负”了。"
+    },
+    {
+      "id": "p005",
+      "text": "他先把那本厚厚的绘本双手捧起来，走两步放回了旁边的书架上；接着，他把那张水彩小画平整地夹进书桌的画夹里；最后，他把散落的油松果和小贝壳，轻轻收进那只浅木碟里，端到了窗台内侧的角落放稳。\n不过短短两分钟的工夫，原本拥挤不堪的床头柜和枕头边，一下子空了出来，留出了一大块干干净净、平平整整的原木空地方！床头灯暖黄色的光芒落下来，好像也终于有了地方可以舒舒服服地坐下了。"
+    },
+    {
+      "id": "p006",
+      "text": "这回，胡萝卜玩偶宽宽敞敞地靠在了枕边，皮皮的小爪子也能随心所欲地轻轻放着，再也不用提心吊胆地去绕开每一件东西的边角了。\n而且皮皮看了一眼卧室，那些他喜欢的小物件，其实哪一件都没有走远呀，它们只是各自回到了房间里更合适、更体面的位置上。"
+    },
+    {
+      "id": "p007",
+      "text": "皮皮舒舒服服地躺下来，在被窝里也给自己的身体留出了一点不拥挤的宽松空间，暖黄色的毛毯松松软软地盖在身上。\n他闭上眼睛。床头空出来的那块地方，一点儿也没有让房间少掉温柔，反而让今晚的安静和舒服，离自己更近了一点。"
+    },
+    {
+      "id": "p008",
+      "text": "小朋友，睡前的时候，给你的枕头边和心里，也都留出一块干干净净的空地方吧。不用装满玩具和心事，轻轻靠好，在宽敞的安静里慢慢睡去吧，晚安。"
+    }
+  ],
+  "cn_characters": 824,
+  "narration_sha256": "63fbf475adfc9a1755616d77bf2918f16f125920108949685032595ab6e76fc8",
+  "source": {
+    "path": "/Users/ww/Downloads/100集睡前故事合集.md",
+    "sha256": "3feafa137e94824baccf8b6e3f3f24bac3e97714b2e201fcc48d461d8969c302",
+    "original_narration_sha256": "63fbf475adfc9a1755616d77bf2918f16f125920108949685032595ab6e76fc8",
+    "original_paragraph_count": 8
+  },
+  "revision_record": [],
+  "duration_policy": {
+    "basis": "complete_narration_at_current_voice_settings",
+    "limit_s": null,
+    "delete_for_duration": false,
+    "time_stretch": false
+  },
+  "voice": {
+    "config": "03_素材与参数/配音与声音参数.json",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000
+  },
+  "actual_duration_s": null,
+  "character_registry": "03_素材与参数/用户长稿v4角色图库.json",
+  "storyboard": {
+    "status": "not_started",
+    "shots": [],
+    "timing_basis": "actual_audio",
+    "preferred_hold_s": [
+      8,
+      10
+    ],
+    "review_above_s": 15,
+    "short_action_hold_s": [
+      3,
+      5
+    ]
+  },
+  "material_state": {
+    "voice": "not_started",
+    "character_references": "not_generated",
+    "illustrations": "not_started",
+    "cover": "not_started",
+    "pinyin_review": "not_started",
+    "render": "not_started",
+    "technical_check": "not_started",
+    "human_watch": "not_started",
+    "user_acceptance": "not_recorded"
+  }
+}

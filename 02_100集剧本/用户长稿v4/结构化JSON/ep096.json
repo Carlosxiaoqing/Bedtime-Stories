@@ -1,0 +1,91 @@
+{
+  "schema_version": 3,
+  "script_version": "v4",
+  "id": "ep096",
+  "episode": 96,
+  "title": "把四季放在窗边",
+  "theme": "看过的风景可以安静留存",
+  "language": "zh-CN",
+  "production_scope": "adopted_user_long_script",
+  "status": "copyedited_media_not_started",
+  "narration_paragraphs": [
+    {
+      "id": "p001",
+      "text": "不知不觉，皮皮在森林学堂已经度过了好几个春夏秋冬，他的书架上，也攒下了厚厚的一本《四季写生小画册》。\n今天晚上睡觉前，外面吹着温和的夜风，皮皮坐在床头温暖的灯光下，把这本画册放在膝盖上，一页一页地轻轻翻看。"
+    },
+    {
+      "id": "p002",
+      "text": "翻开第一部分，画纸上满是春天的气息：有刚刚从红陶花盆里探出头来的两片嫩绿小叶，还有海棠树下飘落的淡粉色花瓣；\n接着往后翻，是夏天的图画：有落在明黄色小雨伞上的细密雨丝，还有哗啦啦小溪旁圆润的鹅卵石。"
+    },
+    {
+      "id": "p003",
+      "text": "再轻轻翻过一页，金灿灿的秋天就跳了出来：画纸上贴着一把小扇子似的银杏叶，旁边还特意留着一小块没有涂满颜色的干净空白；\n而翻到画册的最后一页，上面用银灰和浅蓝色的彩铅，画着一层薄薄的冬雪，那座熟悉的小木屋，正安安静静地坐在洁白的雪地里亮着暖灯。"
+    },
+    {
+      "id": "p004",
+      "text": "皮皮摸着厚实的画纸，心里觉得奇妙极了：在真实的大自然里，春天、夏天、秋天和冬天，是绝对不可能在同一天挤进同一扇窗户里的；可是在这本小小的画册里，在皮皮的记忆里，这四个美丽的季节却能够平平安安、和和气气地待在一起。\n看完最后一页，皮皮抬起头，望向卧室真正的木窗户。"
+    },
+    {
+      "id": "p005",
+      "text": "此刻的窗外，是属于今天晚上的安静树影。窗外没有在一夜之间突然开出满树的海棠花，也没有毫无预兆地下起一场鹅毛大雪，更没有哗啦啦的夏雨，只有今晚温柔的月光和微风。\n皮皮微笑着把《四季写生小画册》轻轻合拢，平平地放到床头柜上。过去的四季已经妥帖地收藏在画册里，未来的四季还会慢慢到来；而今天晚上的小兔子，只要专心致志、舒舒服服地过好眼前这一个安静的小夜晚，就已经足够了。"
+    },
+    {
+      "id": "p006",
+      "text": "他钻进被窝，盖好暖黄色的毛毯，抱住胡萝卜玩偶。头顶那两只长长的兔耳朵，就像画册里夹着的两条柔软小书签一样，在枕头上慢慢地放平、舒展。\n皮皮的眼睛轻轻闭上。那些他走过的美丽季节、看过的热闹风景，全都留在各自最安稳的地方，陪着他进入梦乡。"
+    },
+    {
+      "id": "p007",
+      "text": "小朋友，你成长路上看过的漂亮风景、经历过的开心日子，也都好好地留在你的心里啦。现在，回到属于今晚的这份温暖与舒服里，安心睡觉吧，晚安。"
+    }
+  ],
+  "cn_characters": 736,
+  "narration_sha256": "4c78fdd53439c8f9abe359093c17cf7cabf63a6877f90944ad37f87d599013b8",
+  "source": {
+    "path": "/Users/ww/Downloads/100集睡前故事合集.md",
+    "sha256": "3feafa137e94824baccf8b6e3f3f24bac3e97714b2e201fcc48d461d8969c302",
+    "original_narration_sha256": "4c78fdd53439c8f9abe359093c17cf7cabf63a6877f90944ad37f87d599013b8",
+    "original_paragraph_count": 7
+  },
+  "revision_record": [],
+  "duration_policy": {
+    "basis": "complete_narration_at_current_voice_settings",
+    "limit_s": null,
+    "delete_for_duration": false,
+    "time_stretch": false
+  },
+  "voice": {
+    "config": "03_素材与参数/配音与声音参数.json",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000
+  },
+  "actual_duration_s": null,
+  "character_registry": "03_素材与参数/用户长稿v4角色图库.json",
+  "storyboard": {
+    "status": "not_started",
+    "shots": [],
+    "timing_basis": "actual_audio",
+    "preferred_hold_s": [
+      8,
+      10
+    ],
+    "review_above_s": 15,
+    "short_action_hold_s": [
+      3,
+      5
+    ]
+  },
+  "material_state": {
+    "voice": "not_started",
+    "character_references": "not_generated",
+    "illustrations": "not_started",
+    "cover": "not_started",
+    "pinyin_review": "not_started",
+    "render": "not_started",
+    "technical_check": "not_started",
+    "human_watch": "not_started",
+    "user_acceptance": "not_recorded"
+  }
+}

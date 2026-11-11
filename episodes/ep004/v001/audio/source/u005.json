@@ -1,0 +1,83 @@
+{
+  "text": "可是爬到一半，他发现小刺猬栗栗停在了半山腰。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "bee000efa7f2ab414987ca9499a83a2172dcc9cfd56e511ed95f647d96871a69",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 4230830,
+      "text": "可是"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 5884580,
+      "duration": 4422910,
+      "text": "爬到"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10500000,
+      "duration": 6730830,
+      "text": "一半"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22422910,
+      "duration": 2115410,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24730830,
+      "duration": 5384580,
+      "text": "发现"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30500000,
+      "duration": 3077080,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33577080,
+      "duration": 5192500,
+      "text": "刺猬"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 38961660,
+      "duration": 7884580,
+      "text": "栗栗"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 48384580,
+      "duration": 3846250,
+      "text": "停"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 52230830,
+      "duration": 2692080,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 54922910,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 56461660,
+      "duration": 10577080,
+      "text": "半山腰"
+    }
+  ]
+}

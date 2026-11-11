@@ -1,0 +1,87 @@
+{
+  "schema_version": 3,
+  "script_version": "v4",
+  "id": "ep029",
+  "episode": 29,
+  "title": "雾抱了抱小篱笆",
+  "theme": "熟悉的事物在朦胧中仍在",
+  "language": "zh-CN",
+  "production_scope": "adopted_user_long_script",
+  "status": "copyedited_media_not_started",
+  "narration_paragraphs": [
+    {
+      "id": "p001",
+      "text": "深秋的傍晚，森林里下过一阵小雨后，空气变得湿润又微凉。\n皮皮刚帮妈妈把门廊下的小花盆收好，一抬头，发现窗外的森林里，不知什么时候升起了一层白茫茫、薄薄的夜雾。"
+    },
+    {
+      "id": "p002",
+      "text": "那层薄雾慢悠悠地飘过来，把皮皮家院子外面的小木头篱笆轻轻围住了，远远看去，小篱笆就像披上了一条浅灰色的蓬松羊毛围巾。\n皮皮回到屋里，趴在卧室的窗台上往外看。平时站在窗前，他能一直望见远处的小木桥和小松鼠团团家的大橡树；可是今天，近处窗台边的绿叶子还清清楚楚的，远处的小路和小桥，却全都藏进了乳白色的雾气里，只剩下柔柔的、模糊的轮廓。"
+    },
+    {
+      "id": "p003",
+      "text": "皮皮心里冒出了一点点小小的担心：外面的路看不清了，小篱笆和远处的森林，会不会在雾里迷路不见了呀？\n他刚想走到门口去打开门看个究竟，却停住了脚步。他看了看窗台内侧，自己刚放好的那盆小绿植还稳稳地待在熟悉的角落里，床边的小木椅也还坐在原来的位置上。"
+    },
+    {
+      "id": "p004",
+      "text": "皮皮明白了：花盆在这里，小椅子在这里，院子外面的小篱笆和小木桥当然也还在原来的地方呀，它们哪里也没去，只是在夜晚暂时躲进了软绵绵的雾气被子里休息呢。\n于是，皮皮没有再打开门出去找。他伸出小爪子，把叶子花窗帘往中间拉近了一点，让小木屋里暖融融的灯光，严严实实地留在自己和胡萝卜玩偶的身边。"
+    },
+    {
+      "id": "p005",
+      "text": "窗外的薄雾像一个温柔的大拥抱，轻轻抱了抱小篱笆，没有敲门，也没有催促屋里的谁跟着它一起往看不清的远处走。\n皮皮安心地钻进被窝，把小爪子彻底放松下来。今晚那些在雾里看不清楚的远方，等明天早上太阳升起来、雾气散去的时候，随时都可以再看个够。"
+    },
+    {
+      "id": "p006",
+      "text": "他靠住柔软的枕头，慢慢闭上眼睛。小木屋里熟悉的原木香气和毛毯的暖意，离他这么近，这么真实。\n小朋友，到了晚上，看不清外面的大世界也没关系，因为所有美好的事物都还好好地待在原处。现在，先安心待在你熟悉的被窝里吧，有些风景留给明天的阳光。晚安。"
+    }
+  ],
+  "cn_characters": 676,
+  "narration_sha256": "5bdebe220c86e02ac964c2040b626290cb97369fbd565467a4c8773868f38cc9",
+  "source": {
+    "path": "/Users/ww/Downloads/100集睡前故事合集.md",
+    "sha256": "3feafa137e94824baccf8b6e3f3f24bac3e97714b2e201fcc48d461d8969c302",
+    "original_narration_sha256": "5bdebe220c86e02ac964c2040b626290cb97369fbd565467a4c8773868f38cc9",
+    "original_paragraph_count": 6
+  },
+  "revision_record": [],
+  "duration_policy": {
+    "basis": "complete_narration_at_current_voice_settings",
+    "limit_s": null,
+    "delete_for_duration": false,
+    "time_stretch": false
+  },
+  "voice": {
+    "config": "03_素材与参数/配音与声音参数.json",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000
+  },
+  "actual_duration_s": null,
+  "character_registry": "03_素材与参数/用户长稿v4角色图库.json",
+  "storyboard": {
+    "status": "not_started",
+    "shots": [],
+    "timing_basis": "actual_audio",
+    "preferred_hold_s": [
+      8,
+      10
+    ],
+    "review_above_s": 15,
+    "short_action_hold_s": [
+      3,
+      5
+    ]
+  },
+  "material_state": {
+    "voice": "not_started",
+    "character_references": "not_generated",
+    "illustrations": "not_started",
+    "cover": "not_started",
+    "pinyin_review": "not_started",
+    "render": "not_started",
+    "technical_check": "not_started",
+    "human_watch": "not_started",
+    "user_acceptance": "not_recorded"
+  }
+}

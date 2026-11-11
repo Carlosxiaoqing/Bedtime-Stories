@@ -209,6 +209,6 @@
   "character_names": [
     "皮皮"
   ],
-  "latest_delivery": "Outputs/2026-11-10/ep002-v001/output",
-  "production_record": "Outputs/2026-11-10/ep002-v001/RECORD.md"
+  "latest_delivery": "episodes/ep002/v001/output",
+  "production_record": "episodes/ep002/v001/RECORD.md"
 }

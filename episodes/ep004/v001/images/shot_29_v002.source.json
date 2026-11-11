@@ -1,0 +1,9 @@
+{
+  "provider": "built-in image_gen",
+  "source_generated_path": "/Users/ww/.codex/generated_images/01a1c779-b2c5-7591-8e26-7f019d36a778/exec-feca5b50-2ea1-45b4-a5c2-e88825808326.png",
+  "prompt": "Edit this watercolor illustration into a tightly framed environmental detail for the SAME bedroom. Preserve the existing warm lamp design, leaf-pattern curtains, wooden window and blue nighttime trees. Frame ONLY the warm table lamp at lower left and the window/curtains above and right; completely exclude the bed, mattress, pillow and blanket from the picture, so there is no empty bed implying the rabbit disappeared. No rabbit or other animal in this detail shot. No moon; muted tree shadows outside. Warm hand-painted watercolor, vertical 9:16, full bleed, lower 32% low detail warm wooden tabletop/wall for later captions, no text, no extra objects. This is a new close environmental framing, not a whole-room view.",
+  "reference_inputs": [
+    "/Users/ww/视频/Bedtime-Stories/episodes/ep004/v001/images/shot_29.png"
+  ],
+  "sha256": "ef0465ac536512fe62529904fc2cd61a1e8bd6433afb95d26a85bff2d8d2198d"
+}

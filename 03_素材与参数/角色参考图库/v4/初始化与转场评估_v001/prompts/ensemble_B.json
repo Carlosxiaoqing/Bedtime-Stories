@@ -1,0 +1,13 @@
+{
+  "id": "ensemble_B",
+  "source": "/Users/ww/.codex/generated_images/01a1c779-b2c5-7591-8e26-7f019d36a778/exec-a50d7445-d1bf-490d-a356-17cc1a1f5224.png",
+  "dest": "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/ensemble_B_scale_v001.png",
+  "prompt": "Use case: identity-preserve / illustration-story. Asset type: wide landscape ENSEMBLE SCALE REFERENCE, not an episode scene. The FIVE input model sheets are authoritative character identities in their order. Show EXACTLY those FIVE individuals ONCE EACH side by side, full body, feet on one shared level baseline, left to right in exact input order. Preserve EACH identity's exact face, fur/feather colors, markings, ear and tail shape and default clothes. Standing body-height ratios relative to Pipi (exclude tail/ear tips from ratios): 1 Pipi rabbit 1.0, no hat or clothes; 2 Yaya fawn 1.15, quadruped body and green scarf; 3 Huihui badger 0.95, cream central face stripe, soft gray cheek bands and navy vest; 4 Mimi field mouse 0.50, lavender apron, round ears and fine long tail; 5 Yuanyuan small owl 0.70, no clothes. Plain ivory watercolor paper background, calm poses, soft low-contrast watercolor texture matching the source sheets, clear gaps between characters. No scenery, props, labels, numbers, letters, borders, panels or watermark. Do not include head close-ups. Do not duplicate or merge animals. Scale reference only; NEVER redesign any face. Leave enough margin that all feet, tails and ears are visible.",
+  "reference_inputs": [
+    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/yaya_identity_v001.png",
+    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/huihui_identity_v001.png",
+    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/mimi_identity_v001.png",
+    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/yuanyuan_identity_v001.png"
+  ]
+}

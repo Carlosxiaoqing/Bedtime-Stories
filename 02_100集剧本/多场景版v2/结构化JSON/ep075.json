@@ -1,0 +1,259 @@
+{
+  "schema_version": 2,
+  "script_version": "v2",
+  "id": "ep075",
+  "episode": 75,
+  "title": "站台上亮着半张凳",
+  "cover_title": "站台半格灯",
+  "category": "出行",
+  "theme": "告别时可以约好下一次见面",
+  "setting": "白湾末班小车的站台、小车开出后的港边木亭",
+  "viewpoint_character": "雪团",
+  "guest": "雪团、沐沐",
+  "character_names": [
+    "雪团",
+    "沐沐",
+    "皮皮"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "按晓晓-35%实际口播、停顿和约8秒尾声确定",
+  "cn_characters": 278,
+  "initial_duration_budget_s": 110.68,
+  "shots": [
+    {
+      "id": 1,
+      "title": "傍晚站台亮一盏低灯，雪团送沐沐和皮皮等车",
+      "location": "白湾末班小车的站台",
+      "character_names": [
+        "雪团",
+        "沐沐",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "雪团送朋友坐最后一班小车。",
+        "他们已经说过一次再见，车却还没有到。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "白湾末班小车的站台。竖幅远景交代空间和前后层次。画面：傍晚站台亮一盏低灯，雪团送沐沐和皮皮等车。入镜角色：雪团、沐沐、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.42,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "雪团手仍扶着车票图夹，皮皮两爪托小纸包",
+      "location": "白湾末班小车的站台",
+      "character_names": [
+        "雪团",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "皮皮觉得还有话没说完，问雪团下次想去哪里。",
+        "雪团抬头看了看站台外面的风。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "白湾末班小车的站台。平视中景突出人物姿态和相互位置。画面：雪团手仍扶着车票图夹，皮皮两爪托小纸包。入镜角色：雪团、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.67,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "从沐沐肩后望不远处港边木亭，雪团指背风侧",
+      "location": "白湾末班小车的站台",
+      "character_names": [
+        "雪团",
+        "沐沐"
+      ],
+      "narration_lines": [
+        "他说想去一处看得见树、风又没那么凉的地方。",
+        "沐沐立刻想起榛子坡的木亭。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "越肩构图同时看见观察者与目标",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "白湾末班小车的站台。越肩构图同时看见观察者与目标。画面：从沐沐肩后望不远处港边木亭，雪团指背风侧。入镜角色：雪团、沐沐。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "三位把车票背面转过来，画上一棵树和一座亭",
+      "location": "白湾末班小车的站台",
+      "character_names": [
+        "雪团",
+        "沐沐",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "他们把亭子画到车票背面。",
+        "雪团给屋檐补了一笔，说那里得留够三个人坐。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "俯视呈现平面上的物件和路线",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "白湾末班小车的站台。俯视呈现平面上的物件和路线。画面：三位把车票背面转过来，画上一棵树和一座亭。入镜角色：雪团、沐沐、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.04,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "小车已靠站，皮皮与沐沐在车门前向雪团挥手",
+      "location": "白湾末班小车的站台",
+      "character_names": [
+        "雪团",
+        "沐沐",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "小车到了。",
+        "雪团说，这一回可以真的再见啦。",
+        "他把画交给皮皮，自己记住了亭子的样子。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "白湾末班小车的站台。侧面中景展示动作方向与相邻环境。画面：小车已靠站，皮皮与沐沐在车门前向雪团挥手。入镜角色：雪团、沐沐、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 13.02,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "雪团站在灯下，另一侧已空，手指点着台面一角",
+      "location": "白湾末班小车的站台",
+      "character_names": [
+        "雪团"
+      ],
+      "narration_lines": [
+        "站台空出半格。",
+        "雪团没有立刻走，先在灯下坐一会儿，听小车的声音渐渐变轻。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "白湾末班小车的站台。平视中景突出人物姿态和相互位置。画面：雪团站在灯下，另一侧已空，手指点着台面一角。入镜角色：雪团。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "雪团沿安全木道走到港亭，回望站台灯",
+      "location": "小车开出后的港边木亭",
+      "character_names": [
+        "雪团"
+      ],
+      "narration_lines": [
+        "过了一会儿，他回到港亭。",
+        "从这里看过去，站台那盏灯小了一点，还亮着。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "小车开出后的港边木亭。侧面中景展示动作方向与相邻环境。画面：雪团沿安全木道走到港亭，回望站台灯。入镜角色：雪团。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.42,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "雪团在亭桌画一枚榛子形图案，小纸夹压住边缘",
+      "location": "小车开出后的港边木亭",
+      "character_names": [
+        "雪团"
+      ],
+      "narration_lines": [
+        "雪团画了一颗榛子，夹在自己的小本上。",
+        "下次见面，他就能把这张也带去。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "小车开出后的港边木亭。近景突出手边动作或道具状态。画面：雪团在亭桌画一枚榛子形图案，小纸夹压住边缘。入镜角色：雪团。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "雪团在港亭门边望回车站，站灯光落在半张长凳",
+      "location": "小车开出后的港边木亭",
+      "character_names": [
+        "雪团"
+      ],
+      "narration_lines": [
+        "港风过来，雪团才从亭子里起身。",
+        "站台上亮着半张长凳，他记住了另外半张空着的样子。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "越肩构图同时看见观察者与目标",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "小车开出后的港边木亭。越肩构图同时看见观察者与目标。画面：雪团在港亭门边望回车站，站灯光落在半张长凳。入镜角色：雪团。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 19.66,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v2剧本与九镜已编写，配音、插画、封面、字幕及视频待制作",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/结构化JSON/ep075.json",
+    "scope": "按用户反馈重写人物互动、故事事件、场景及九镜",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始"
+  }
+}

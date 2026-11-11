@@ -1,0 +1,260 @@
+{
+  "schema_version": 2,
+  "script_version": "v2",
+  "id": "ep087",
+  "episode": 87,
+  "title": "一张桌上画到哪里",
+  "cover_title": "共用大桌",
+  "category": "家庭",
+  "theme": "一起使用一处地方时说清各自需要",
+  "setting": "米米家的大圆桌、米米家靠墙的晾纸架",
+  "viewpoint_character": "米米",
+  "guest": "米米、桃桃",
+  "character_names": [
+    "米米",
+    "桃桃",
+    "皮皮"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "按晓晓-35%实际口播、停顿和约8秒尾声确定",
+  "cn_characters": 272,
+  "initial_duration_budget_s": 108.07,
+  "shots": [
+    {
+      "id": 1,
+      "title": "圆桌上米米铺长布，桃桃皮皮托还湿的画纸",
+      "location": "米米家的大圆桌",
+      "character_names": [
+        "米米",
+        "桃桃",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "米米要在大桌上量一块长布。",
+        "桃桃和皮皮也想把画平铺晾干，三样东西合在一起，桌面就满了。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "米米家的大圆桌。竖幅远景交代空间和前后层次。画面：圆桌上米米铺长布，桃桃皮皮托还湿的画纸。入镜角色：米米、桃桃、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 13.54,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "长布边靠近画纸湿角，米米用指尖把布提住",
+      "location": "米米家的大圆桌",
+      "character_names": [
+        "米米"
+      ],
+      "narration_lines": [
+        "米米把布提起来，画角险些沾到上面。",
+        "桃桃赶紧扶住纸，说她这张一折就会蹭色。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "米米家的大圆桌。近景突出手边动作或道具状态。画面：长布边靠近画纸湿角，米米用指尖把布提住。入镜角色：米米。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.67,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "三人各扶一处边缘，在圆桌旁暂时停下",
+      "location": "米米家的大圆桌",
+      "character_names": [
+        "米米",
+        "桃桃",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "他们先停一停。",
+        "皮皮问哪样要整个桌面，哪样只需要等一会儿。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "米米家的大圆桌。平视中景突出人物姿态和相互位置。画面：三人各扶一处边缘，在圆桌旁暂时停下。入镜角色：米米、桃桃、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 9.48,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "米米摊开一段长布，另外两位将湿画移到托板",
+      "location": "米米家的大圆桌",
+      "character_names": [
+        "米米",
+        "桃桃",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "米米量布只要一小会儿。",
+        "画可以连托板搬到晾纸架去，晾好再拿回来描边。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "俯视呈现平面上的物件和路线",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "米米家的大圆桌。俯视呈现平面上的物件和路线。画面：米米摊开一段长布，另外两位将湿画移到托板。入镜角色：米米、桃桃、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.04,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "皮皮托板底，桃桃扶两角，米米在晾架旁腾空一层",
+      "location": "米米家靠墙的晾纸架",
+      "character_names": [
+        "米米",
+        "桃桃",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "桃桃和皮皮把画送过去。",
+        "米米先腾好一层，他们把托板平平推了进去。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "米米家靠墙的晾纸架。侧面中景展示动作方向与相邻环境。画面：皮皮托板底，桃桃扶两角，米米在晾架旁腾空一层。入镜角色：米米、桃桃、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.42,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "米米在空桌量好长布，两个伙伴在旁捧短纸条",
+      "location": "米米家的大圆桌",
+      "character_names": [
+        "米米",
+        "桃桃",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "大桌空出来了。",
+        "米米量完布，还留了几根纸条，给他们等画的时候剪小边。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "米米家的大圆桌。平视中景突出人物姿态和相互位置。画面：米米在空桌量好长布，两个伙伴在旁捧短纸条。入镜角色：米米、桃桃、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "晾架画角已干，两位用纸条试搭一段新边",
+      "location": "米米家靠墙的晾纸架",
+      "character_names": [
+        "桃桃",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "一会儿后，画不蹭色了。",
+        "桃桃把纸条靠在旁边，发现浅的那条刚好给远路做边。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "米米家靠墙的晾纸架。近景突出手边动作或道具状态。画面：晾架画角已干，两位用纸条试搭一段新边。入镜角色：桃桃、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "三人重新围圆桌，量好的布已叠在桌边",
+      "location": "米米家的大圆桌",
+      "character_names": [
+        "米米",
+        "桃桃",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "他们把画拿回桌面。",
+        "米米的布折成一摞，留下半个圆桌给两位小画家。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "米米家的大圆桌。平视中景突出人物姿态和相互位置。画面：三人重新围圆桌，量好的布已叠在桌边。入镜角色：米米、桃桃、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.42,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "圆桌上一叠平布与两张完整画面，中间留开宽缝",
+      "location": "米米家的大圆桌",
+      "character_names": [],
+      "narration_lines": [
+        "傍晚桌面收好了。",
+        "纸是平的，布也是干的，三件东西都等到了自己的那一会儿。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "米米家的大圆桌。近景突出手边动作或道具状态。画面：圆桌上一叠平布与两张完整画面，中间留开宽缝。入镜角色：无，仅画环境或道具。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 18.41,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v2剧本与九镜已编写，配音、插画、封面、字幕及视频待制作",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/结构化JSON/ep087.json",
+    "scope": "按用户反馈重写人物互动、故事事件、场景及九镜",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始"
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "schema_version": 2,
+  "id": "ep008",
+  "episode": 8,
+  "title": "胡萝卜玩偶的小床",
+  "theme": "照顾别人时也照顾自己",
+  "setting": "小木屋卧室",
+  "guest": "无",
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "约90–120秒；以实际配音为准",
+  "cn_characters": 238,
+  "initial_duration_budget_s": 96.6,
+  "shots": [
+    {
+      "id": 1,
+      "title": "玩偶与干净小方巾",
+      "narration_lines": [
+        "皮皮给胡萝卜玩偶，找来一块干净的小方巾，想替它铺一张小床。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "中景建立环境，主体位置清楚",
+      "image": "images/shot_01.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：玩偶与干净小方巾。镜位：中景建立环境，主体位置清楚。",
+      "initial_budget_s": 10.07,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "折好的方巾小床",
+      "narration_lines": [
+        "他把方巾折好，放在枕头旁边，再用爪子，轻轻压平两个角。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "主体或物件近景，保留地点线索",
+      "image": "images/shot_02.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：折好的方巾小床。镜位：主体或物件近景，保留地点线索。",
+      "initial_budget_s": 8.14,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "枕旁玩偶舒展躺好",
+      "narration_lines": [
+        "玩偶躺上去，绿叶子朝着窗户，圆圆的身体刚好，靠住柔软的枕边。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "中近景呈现动作后的稳定姿态",
+      "image": "images/shot_03.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：枕旁玩偶舒展躺好。镜位：中近景呈现动作后的稳定姿态。",
+      "initial_budget_s": 9.07,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "毛毯盖住玩偶下端",
+      "narration_lines": [
+        "皮皮看了又看，觉得还差一点。",
+        "他拉过自己的毛毯，给它盖住一小截。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "细节特写，避免裁掉必要的爪子或道具",
+      "image": "images/shot_04.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：毛毯盖住玩偶下端。镜位：细节特写，避免裁掉必要的爪子或道具。",
+      "initial_budget_s": 10.11,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "皮皮看向半边毛毯",
+      "narration_lines": [
+        "这下好了。",
+        "玩偶有了小床，皮皮却发现，自己的半边被子溜走了。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "中景呈现情境变化，留低细节空间",
+      "image": "images/shot_05.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：皮皮看向半边毛毯。镜位：中景呈现情境变化，留低细节空间。",
+      "initial_budget_s": 9.48,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "玩偶挪近共享毛毯",
+      "narration_lines": [
+        "他没有再找新毯子，只把玩偶挪近一点，让暖暖的被子，盖住他们两个。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "主体近景，暖光方向延续",
+      "image": "images/shot_06.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：玩偶挪近共享毛毯。镜位：主体近景，暖光方向延续。",
+      "initial_budget_s": 9.7,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "爪心与方巾小枕",
+      "narration_lines": [
+        "小方巾成了小枕头。",
+        "胡萝卜贴着皮皮的爪心，谁也不用躺得远远的。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "安顿动作中景或安静环境近景",
+      "image": "images/shot_07.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：爪心与方巾小枕。镜位：安顿动作中景或安静环境近景。",
+      "initial_budget_s": 10.11,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "带浅笑的闭眼睡姿",
+      "narration_lines": [
+        "皮皮安稳地靠好，嘴角轻轻弯着。",
+        "照顾玩偶的爪子，也可以休息了。"
+      ],
+      "pause_after_s": [
+        1.1,
+        1.1
+      ],
+      "camera": "放松姿态近景，光线略柔暗",
+      "image": "images/shot_08.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：带浅笑的闭眼睡姿。镜位：放松姿态近景，光线略柔暗。",
+      "initial_budget_s": 10.32,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "同盖毛毯的安睡远景",
+      "narration_lines": [
+        "小朋友，给自己也留一份舒服吧。",
+        "你和喜欢的小伙伴，都可以好好歇着。",
+        "晚安。"
+      ],
+      "pause_after_s": [
+        1.1,
+        1.1,
+        8.0
+      ],
+      "camera": "木屋卧室或可见卧室的中远景收束，主体安睡",
+      "image": "images/shot_09.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：同盖毛毯的安睡远景。镜位：木屋卧室或可见卧室的中远景收束，主体安睡。",
+      "initial_budget_s": 19.57,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "需按本集提示词生成图片并合成配音；不含尚未制作的图片或音频",
+  "shared_config": "03_素材与参数/共用画风与提示词.json",
+  "character_names": [
+    "皮皮"
+  ]
+}

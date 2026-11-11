@@ -1,0 +1,286 @@
+{
+  "schema_version": 2,
+  "script_version": "v3",
+  "id": "ep002",
+  "episode": 2,
+  "title": "桃桃的条纹去哪儿了",
+  "cover_title": "条纹围裙",
+  "category": "社区",
+  "theme": "用自己的办法辨认线索",
+  "setting": "长耳街洗衣铺门口、洗衣铺晾晒长廊",
+  "viewpoint_character": "桃桃",
+  "guest": "桃桃",
+  "character_names": [
+    "皮皮",
+    "桃桃"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "成片约120秒，配音后实测校时",
+  "cn_characters": 274,
+  "initial_duration_budget_s": 121.18,
+  "shots": [
+    {
+      "id": 1,
+      "title": "皮皮在晾衣绳前拎布袋，桃桃打量三条围裙",
+      "location": "长耳街洗衣铺门口",
+      "character_names": [
+        "皮皮",
+        "桃桃"
+      ],
+      "narration_lines": [
+        "小猫桃桃来取围裙。",
+        "她记得自己的围裙有条纹，可绳上挂了三条。",
+        "皮皮替她提着布袋。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街洗衣铺门口。竖幅远景交代空间和前后层次。画面：皮皮在晾衣绳前拎布袋，桃桃打量三条围裙。入镜角色：皮皮、桃桃。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 15.12,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "三条围裙蓝色接近，第三条仅见下角",
+      "location": "洗衣铺晾晒长廊",
+      "character_names": [
+        "皮皮",
+        "桃桃"
+      ],
+      "narration_lines": [
+        "最左边是蓝条纹，中间也是蓝条纹。",
+        "第三条只露出小小的一角。",
+        "她没看见哪条有记号。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.72,
+        0.95
+      ],
+      "camera": "越肩构图同时看见观察者与目标",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "洗衣铺晾晒长廊。越肩构图同时看见观察者与目标。画面：三条围裙蓝色接近，第三条仅见下角。入镜角色：皮皮、桃桃。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 14.12,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "撑开的围裙口袋平平，手指沿袋边辨认",
+      "location": "洗衣铺晾晒长廊",
+      "character_names": [
+        "桃桃"
+      ],
+      "narration_lines": [
+        "桃桃摸摸第一条的口袋。",
+        "“这条太平，我缝过一枚软软的布鱼。”",
+        "她摸过口袋两边。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "洗衣铺晾晒长廊。近景突出手边动作或道具状态。画面：撑开的围裙口袋平平，手指沿袋边辨认。入镜角色：桃桃。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 13.08,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "皮皮掀开中间围裙一角，桃桃指向一处圆纽扣",
+      "location": "洗衣铺晾晒长廊",
+      "character_names": [
+        "皮皮",
+        "桃桃"
+      ],
+      "narration_lines": [
+        "中间那条也有补丁，可补丁圆圆的，像一个饼。",
+        "桃桃摸遍边沿，没找到尖尖的鱼尾。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "洗衣铺晾晒长廊。平视中景突出人物姿态和相互位置。画面：皮皮掀开中间围裙一角，桃桃指向一处圆纽扣。入镜角色：皮皮、桃桃。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.71,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "桃桃绕到晾衣绳另一面，皮皮留在原处",
+      "location": "洗衣铺晾晒长廊",
+      "character_names": [
+        "皮皮",
+        "桃桃"
+      ],
+      "narration_lines": [
+        "一阵风掀开了第三条。",
+        "桃桃忽然想起，布鱼缝在围裙的里面。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "洗衣铺晾晒长廊。侧面中景展示动作方向与相邻环境。画面：桃桃绕到晾衣绳另一面，皮皮留在原处。入镜角色：皮皮、桃桃。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 9.95,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "特写布鱼尾尖上稍深的一针",
+      "location": "洗衣铺晾晒长廊",
+      "character_names": [
+        "桃桃"
+      ],
+      "narration_lines": [
+        "她绕过去翻开口袋。",
+        "一条黄布鱼正贴着布边，尾巴翘得高高的。",
+        "她认出尾尖那一针。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "洗衣铺晾晒长廊。近景突出手边动作或道具状态。画面：特写布鱼尾尖上稍深的一针。入镜角色：桃桃。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 13.77,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "叠好的围裙露出布鱼尾，桃桃用爪轻轻拂平袋边",
+      "location": "洗衣铺晾晒长廊",
+      "character_names": [
+        "皮皮",
+        "桃桃"
+      ],
+      "narration_lines": [
+        "皮皮帮忙叠好围裙。",
+        "桃桃说：“让小鱼露在外面，我一眼就认得。”",
+        "黄鱼尾正好翘在外头。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.72,
+        0.95
+      ],
+      "camera": "俯视呈现平面上的物件和路线",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "洗衣铺晾晒长廊。俯视呈现平面上的物件和路线。画面：叠好的围裙露出布鱼尾，桃桃用爪轻轻拂平袋边。入镜角色：皮皮、桃桃。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 13.77,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "桃桃从布袋夹层取出小块鱼形布，递给皮皮",
+      "location": "长耳街洗衣铺门口",
+      "character_names": [
+        "皮皮",
+        "桃桃"
+      ],
+      "narration_lines": [
+        "临走前，桃桃从布袋里找出一小块同色布，问皮皮想给书包缝什么。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街洗衣铺门口。平视中景突出人物姿态和相互位置。画面：桃桃从布袋夹层取出小块鱼形布，递给皮皮。入镜角色：皮皮、桃桃。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.26,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "洗衣铺外台阶，两位朋友端详一块可做叶子的布",
+      "location": "长耳街洗衣铺门口",
+      "character_names": [
+        "皮皮",
+        "桃桃"
+      ],
+      "narration_lines": [
+        "皮皮把布转了半圈。",
+        "像叶子。",
+        "他和桃桃约好，下次一起把叶脉缝上。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.72,
+        8.0
+      ],
+      "camera": "环境留白为主，关键物件或人物位于上部",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街洗衣铺门口。环境留白为主，关键物件或人物位于上部。画面：洗衣铺外台阶，两位朋友端详一块可做叶子的布。入镜角色：皮皮、桃桃。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 18.41,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v3剧本和九镜已校时估算，实际配音及后续制作待进行",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/多场景版v2/结构化JSON/ep002.json",
+    "scope": "以约两分钟为目标逐集校时，补充偏短故事的动作、对话或线索，压缩偏长的重复表述",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始",
+    "previous_script_sha256": "20d288db3941f344ecac70a57f7792a05d472915d813c853a6eec25921d53ef3",
+    "edited_shots": [
+      1,
+      2,
+      3,
+      4,
+      6,
+      7
+    ]
+  },
+  "duration_plan": {
+    "target_s": 120,
+    "planning_range_s": [
+      115,
+      125
+    ],
+    "estimated_s": 121.18,
+    "v2_estimated_using_same_method_s": 101.02,
+    "reference_narration_hanzi_per_second": 2.899607,
+    "opening_s": 1.0,
+    "tail_in_final_shot_s": 8.0
+  }
+}

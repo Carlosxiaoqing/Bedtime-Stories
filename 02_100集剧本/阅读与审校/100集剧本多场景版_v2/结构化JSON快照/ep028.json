@@ -1,0 +1,263 @@
+{
+  "schema_version": 2,
+  "script_version": "v2",
+  "id": "ep028",
+  "episode": 28,
+  "title": "花市的一捧三种香",
+  "cover_title": "三种花香",
+  "category": "社区",
+  "theme": "在不同喜好里找到可以分享的部分",
+  "setting": "长耳街花市挑花摊、花市送花长桌、榆树学校门厅",
+  "viewpoint_character": "芽芽",
+  "guest": "芽芽、桃桃、梨梨",
+  "character_names": [
+    "芽芽",
+    "桃桃",
+    "皮皮",
+    "梨梨"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "按晓晓-35%实际口播、停顿和约8秒尾声确定",
+  "cn_characters": 250,
+  "initial_duration_budget_s": 100.48,
+  "shots": [
+    {
+      "id": 1,
+      "title": "花市上高低三桶花，芽芽站在桶间托着纸套",
+      "location": "长耳街花市挑花摊",
+      "character_names": [
+        "芽芽",
+        "桃桃",
+        "皮皮",
+        "梨梨"
+      ],
+      "narration_lines": [
+        "芽芽想给学校带一束花。",
+        "桃桃喜欢香的，皮皮喜欢有叶子的，梨梨怕味道太浓。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街花市挑花摊。竖幅远景交代空间和前后层次。画面：花市上高低三桶花，芽芽站在桶间托着纸套。入镜角色：芽芽、桃桃、皮皮、梨梨。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "桃桃指向最左花桶，梨梨站远一些",
+      "location": "长耳街花市挑花摊",
+      "character_names": [
+        "芽芽",
+        "桃桃",
+        "梨梨"
+      ],
+      "narration_lines": [
+        "芽芽拿了一大把香花。",
+        "梨梨连退两步，站到了卖纸套的地方。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街花市挑花摊。平视中景突出人物姿态和相互位置。画面：桃桃指向最左花桶，梨梨站远一些。入镜角色：芽芽、桃桃、梨梨。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 9.17,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "芽芽把大束花拆成三小束，叶尖方向分开",
+      "location": "长耳街花市挑花摊",
+      "character_names": [
+        "芽芽"
+      ],
+      "narration_lines": [
+        "芽芽把花放回去，留一枝闻起来淡淡的。",
+        "她问大家，最想留哪一点。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街花市挑花摊。近景突出手边动作或道具状态。画面：芽芽把大束花拆成三小束，叶尖方向分开。入镜角色：芽芽。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 9.79,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "四个朋友从三只桶中各选一枝，姿态各异",
+      "location": "长耳街花市挑花摊",
+      "character_names": [
+        "芽芽",
+        "桃桃",
+        "梨梨",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "桃桃挑了香花，皮皮挑了圆叶，梨梨挑了一枝没有香味的小白花。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街花市挑花摊。侧面中景展示动作方向与相邻环境。画面：四个朋友从三只桶中各选一枝，姿态各异。入镜角色：芽芽、桃桃、梨梨、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 9.07,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "桌面三枝植物错开排，花香那枝在最外侧",
+      "location": "花市送花长桌",
+      "character_names": [
+        "芽芽",
+        "桃桃",
+        "梨梨",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "他们先把三枝合在一起。",
+        "香味那枝放在最外面，想闻时，凑近一点就好。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "俯视呈现平面上的物件和路线",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "花市送花长桌。俯视呈现平面上的物件和路线。画面：桌面三枝植物错开排，花香那枝在最外侧。入镜角色：芽芽、桃桃、梨梨、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.42,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "芽芽把白花举到梨梨面前，梨梨把细带绕到花梗旁",
+      "location": "花市送花长桌",
+      "character_names": [
+        "芽芽",
+        "梨梨"
+      ],
+      "narration_lines": [
+        "梨梨终于走近了，还给白花系上细带。",
+        "芽芽说，那就让白花坐在最高的地方。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "花市送花长桌。平视中景突出人物姿态和相互位置。画面：芽芽把白花举到梨梨面前，梨梨把细带绕到花梗旁。入镜角色：芽芽、梨梨。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.04,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "纸套包住花梗，皮皮把圆叶翻到可见的一面",
+      "location": "花市送花长桌",
+      "character_names": [
+        "芽芽",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "包好以后，皮皮把叶子拨到前面。",
+        "三个人喜欢的东西，一眼就能找到。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "花市送花长桌。近景突出手边动作或道具状态。画面：纸套包住花梗，皮皮把圆叶翻到可见的一面。入镜角色：芽芽、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.11,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "芽芽托花束离开花摊，桃桃与皮皮一左一右避开花尖",
+      "location": "长耳街花市挑花摊",
+      "character_names": [
+        "芽芽",
+        "桃桃",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "走出花市，桃桃轻轻闻了一下。",
+        "她说，刚才没注意到白花也这么好看。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街花市挑花摊。侧面中景展示动作方向与相邻环境。画面：芽芽托花束离开花摊，桃桃与皮皮一左一右避开花尖。入镜角色：芽芽、桃桃、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.11,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "榆树学校门厅矮桌上，芽芽将三枝花放入稳稳的花瓶",
+      "location": "榆树学校门厅",
+      "character_names": [
+        "芽芽"
+      ],
+      "narration_lines": [
+        "到了学校，他们把花摆在门口。",
+        "有人先看见叶子，也有人先闻见一点淡淡的香。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校门厅。侧面中景展示动作方向与相邻环境。画面：榆树学校门厅矮桌上，芽芽将三枝花放入稳稳的花瓶。入镜角色：芽芽。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 18.41,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v2剧本与九镜已编写，配音、插画、封面、字幕及视频待制作",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/结构化JSON/ep028.json",
+    "scope": "按用户反馈重写人物互动、故事事件、场景及九镜",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始"
+  }
+}

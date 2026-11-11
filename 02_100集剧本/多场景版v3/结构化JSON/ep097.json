@@ -1,0 +1,281 @@
+{
+  "schema_version": 2,
+  "script_version": "v3",
+  "id": "ep097",
+  "episode": 97,
+  "title": "班册上的空白一页",
+  "cover_title": "空白一页",
+  "category": "学校",
+  "theme": "朋友可以用各自喜欢的方式留下记号",
+  "setting": "榆树学校期末班册桌、教室外的长廊",
+  "viewpoint_character": "皮皮",
+  "guest": "斑斑、桃桃、朵朵、点点",
+  "character_names": [
+    "皮皮",
+    "斑斑",
+    "桃桃",
+    "朵朵",
+    "点点"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "成片约120秒，配音后实测校时",
+  "cn_characters": 291,
+  "initial_duration_budget_s": 123.44,
+  "shots": [
+    {
+      "id": 1,
+      "title": "班册在桌上翻到末页，皮皮斑斑桃桃朵朵点点围着看",
+      "location": "榆树学校期末班册桌",
+      "character_names": [
+        "皮皮",
+        "斑斑",
+        "桃桃",
+        "朵朵",
+        "点点"
+      ],
+      "narration_lines": [
+        "班册快做完了，最后一页还空着。",
+        "皮皮想让大家都画一张脸，点点却一直没拿笔。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校期末班册桌。竖幅远景交代空间和前后层次。画面：班册在桌上翻到末页，皮皮斑斑桃桃朵朵点点围着看。入镜角色：皮皮、斑斑、桃桃、朵朵、点点。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 13.71,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "点点低头看空格，皮皮把笔放在两人中间",
+      "location": "榆树学校期末班册桌",
+      "character_names": [
+        "皮皮",
+        "点点"
+      ],
+      "narration_lines": [
+        "点点说，他想画的是每天从低处进教室那段路。",
+        "他画不出那么大的脸，也不想只留一只耳朵。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校期末班册桌。平视中景突出人物姿态和相互位置。画面：点点低头看空格，皮皮把笔放在两人中间。入镜角色：皮皮、点点。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 14.43,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "册页上低门、脚印、水壶和耳朵分布在不同空格",
+      "location": "榆树学校期末班册桌",
+      "character_names": [
+        "皮皮",
+        "斑斑",
+        "桃桃",
+        "朵朵",
+        "点点"
+      ],
+      "narration_lines": [
+        "皮皮翻开一张空纸试给他看。",
+        "点点画低门，斑斑画水壶，朵朵画她最喜欢的一枚叶形棋。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "俯视呈现平面上的物件和路线",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校期末班册桌。俯视呈现平面上的物件和路线。画面：册页上低门、脚印、水壶和耳朵分布在不同空格。入镜角色：皮皮、斑斑、桃桃、朵朵、点点。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 13.74,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "桃桃画下短短一段紫树旁小路，笔尖向另一格",
+      "location": "榆树学校期末班册桌",
+      "character_names": [
+        "桃桃"
+      ],
+      "narration_lines": [
+        "桃桃也画了一截小路。",
+        "她说那是画里的紫树旁边，愿意和点点的低门连在一起。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校期末班册桌。近景突出手边动作或道具状态。画面：桃桃画下短短一段紫树旁小路，笔尖向另一格。入镜角色：桃桃。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.71,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "伙伴合看拼好的页面，几段路在册页中央相会",
+      "location": "榆树学校期末班册桌",
+      "character_names": [
+        "皮皮",
+        "斑斑",
+        "桃桃",
+        "朵朵",
+        "点点"
+      ],
+      "narration_lines": [
+        "他们把这些小画放进班册。",
+        "小路过了水壶，绕过叶形棋，刚好从点点的门边出来。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校期末班册桌。平视中景突出人物姿态和相互位置。画面：伙伴合看拼好的页面，几段路在册页中央相会。入镜角色：皮皮、斑斑、桃桃、朵朵、点点。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.71,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "皮皮在中间画半片叶，留半边未填",
+      "location": "榆树学校期末班册桌",
+      "character_names": [
+        "皮皮"
+      ],
+      "narration_lines": [
+        "皮皮给自己留一片叶，只画了一半。",
+        "斑斑看懂了，把另一半接到班册另一侧。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校期末班册桌。近景突出手边动作或道具状态。画面：皮皮在中间画半片叶，留半边未填。入镜角色：皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.02,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "五位从教室走到长廊，将班册放到矮阅读架",
+      "location": "教室外的长廊",
+      "character_names": [
+        "皮皮",
+        "斑斑",
+        "桃桃",
+        "朵朵",
+        "点点"
+      ],
+      "narration_lines": [
+        "他们把班册放到长廊的低架。",
+        "经过的人可以打开最后一页，顺着每一段路走一遍。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "教室外的长廊。侧面中景展示动作方向与相邻环境。画面：五位从教室走到长廊，将班册放到矮阅读架。入镜角色：皮皮、斑斑、桃桃、朵朵、点点。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 13.05,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "点点从低架边翻到最后一页，皮皮蹲在身旁",
+      "location": "教室外的长廊",
+      "character_names": [
+        "皮皮",
+        "点点"
+      ],
+      "narration_lines": [
+        "点点最后又来翻了一次。",
+        "他找到自己的低门，也找到大家从不同地方走过来的路。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "教室外的长廊。平视中景突出人物姿态和相互位置。画面：点点从低架边翻到最后一页，皮皮蹲在身旁。入镜角色：皮皮、点点。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 13.05,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "班册敞在低架上，最后一页纸边被木夹轻夹",
+      "location": "教室外的长廊",
+      "character_names": [],
+      "narration_lines": [
+        "教室慢慢空了。",
+        "班册最后一页还是留了一块白，等下一次见面再画。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "教室外的长廊。近景突出手边动作或道具状态。画面：班册敞在低架上，最后一页纸边被木夹轻夹。入镜角色：无，仅画环境或道具。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 18.03,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v3剧本和九镜已校时估算，实际配音及后续制作待进行",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/多场景版v2/结构化JSON/ep097.json",
+    "scope": "以约两分钟为目标逐集校时，补充偏短故事的动作、对话或线索，压缩偏长的重复表述",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始",
+    "previous_script_sha256": "f1ee0a6c2f450db10aea408a0545da7ffa29d688eff0c5d02899c420e5ddd4e1",
+    "edited_shots": []
+  },
+  "duration_plan": {
+    "target_s": 120,
+    "planning_range_s": [
+      115,
+      125
+    ],
+    "estimated_s": 123.44,
+    "v2_estimated_using_same_method_s": 123.44,
+    "reference_narration_hanzi_per_second": 2.899607,
+    "opening_s": 1.0,
+    "tail_in_final_shot_s": 8.0
+  }
+}

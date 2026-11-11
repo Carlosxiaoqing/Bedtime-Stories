@@ -1,0 +1,14 @@
+{
+  "id": 14,
+  "prompt": "Use case: illustration-story. Create a NEW low-angle CLOSE-UP composition in the same watercolor woodland world as reference image 1, not a copy of that wide valley view. Foreground, in the UPPER and MIDDLE part of a vertical 9:16 image: a few large soft green grass blades and clover leaves catching gentle sunlight, tiny white clover blossoms at their roots. Behind the grass, in the upper-middle distance, show a small winding section of the woodland STREAM glinting softly, with round stones and soft green banks, gently out of focus. It is the view the two resting friends notice from their grassy patch. NO animals or people, NO cottage in this close framing, NO repeated large tree framing the top corners. Change viewpoint completely while keeping muted hand-painted watercolor, fine paper grain and the same midday light and greens. Lower 32% stays simple diffuse green paper washes, no important objects behind later subtitles. The image is still; no motion trails, magic sparkles, text, letters, numbers, border or watermark. Emphasize an intimate study of grass and distant sparkling water rather than another establishing shot of the whole hill.",
+  "reference_inputs": [
+    "/Users/ww/视频/Bedtime-Stories/episodes/ep004/v001/images/shot_03.png"
+  ],
+  "source_generated_path": "/Users/ww/.codex/generated_images/01a1c779-b2c5-7591-8e26-7f019d36a778/exec-2cabd23a-8298-4151-a6f4-366735cd0442.png",
+  "destination": "/Users/ww/视频/Bedtime-Stories/episodes/ep004/v001/images/shot_14_v002.png",
+  "revision": 2,
+  "reason": "distinct low-angle grass and stream composition instead of repeating wide establishing shot",
+  "sha256": "cdf376fc9e48fb0cd3f8cfc144e7b08ecdfbf4b988bd202cd17560ffb9c8efa0",
+  "provider": "built-in image_gen",
+  "status": "generated_pending_visual_review"
+}

@@ -1,0 +1,11 @@
+{
+  "migrated_markdown_links_checked": 41,
+  "broken_migrated_links": [],
+  "actual_episode_reference_files": 5,
+  "reference_files_exist": true,
+  "video_and_cover_sha256_unchanged": true,
+  "python_compile": "passed",
+  "shared_export_output_guard": "passed",
+  "outputs_deliverables_only": true,
+  "known_missing_spec_links_fixed": 2
+}

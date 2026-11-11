@@ -1,0 +1,17 @@
+{
+  "text": "他把枕头往里挪一点，让长耳朵自然垂下，小脑袋也稳稳地靠住。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "edge_tts": "7.3.1",
+  "fingerprint": "2fe9912b9843188bb8abc087cb5f032206aab2cd3dc924021904103a050d10a1",
+  "boundaries": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 1000000,
+      "duration": 95653840,
+      "text": "他把枕头往里挪一点，让长耳朵自然垂下，小脑袋也稳稳地靠住。"
+    }
+  ]
+}

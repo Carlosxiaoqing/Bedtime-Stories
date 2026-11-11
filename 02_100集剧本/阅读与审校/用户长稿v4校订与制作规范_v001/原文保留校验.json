@@ -1,0 +1,823 @@
+{
+  "source_sha256": "3feafa137e94824baccf8b6e3f3f24bac3e97714b2e201fcc48d461d8969c302",
+  "source_unchanged": true,
+  "episode_count": 100,
+  "adopted_long_episode_count": 97,
+  "changed_episodes": [
+    44,
+    46,
+    68,
+    77,
+    87,
+    91,
+    100
+  ],
+  "change_count": 9,
+  "unchanged_episode_count": 93,
+  "all_paragraphs_preserved": true,
+  "all_original_text_recoverable": true,
+  "json_markdown_equal": true,
+  "role_references_status": "not_generated",
+  "episodes": [
+    {
+      "episode": "ep001",
+      "original_paragraphs": 9,
+      "current_paragraphs": 9,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep002",
+      "original_paragraphs": 9,
+      "current_paragraphs": 9,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep003",
+      "original_paragraphs": 9,
+      "current_paragraphs": 9,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep004",
+      "original_paragraphs": 11,
+      "current_paragraphs": 11,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep005",
+      "original_paragraphs": 11,
+      "current_paragraphs": 11,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep006",
+      "original_paragraphs": 10,
+      "current_paragraphs": 10,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep007",
+      "original_paragraphs": 10,
+      "current_paragraphs": 10,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep008",
+      "original_paragraphs": 9,
+      "current_paragraphs": 9,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep009",
+      "original_paragraphs": 8,
+      "current_paragraphs": 8,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep010",
+      "original_paragraphs": 9,
+      "current_paragraphs": 9,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep011",
+      "original_paragraphs": 9,
+      "current_paragraphs": 9,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep012",
+      "original_paragraphs": 9,
+      "current_paragraphs": 9,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep013",
+      "original_paragraphs": 8,
+      "current_paragraphs": 8,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep014",
+      "original_paragraphs": 8,
+      "current_paragraphs": 8,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep015",
+      "original_paragraphs": 8,
+      "current_paragraphs": 8,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep016",
+      "original_paragraphs": 9,
+      "current_paragraphs": 9,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep017",
+      "original_paragraphs": 9,
+      "current_paragraphs": 9,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep018",
+      "original_paragraphs": 8,
+      "current_paragraphs": 8,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep019",
+      "original_paragraphs": 8,
+      "current_paragraphs": 8,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep020",
+      "original_paragraphs": 8,
+      "current_paragraphs": 8,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep021",
+      "original_paragraphs": 7,
+      "current_paragraphs": 7,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep022",
+      "original_paragraphs": 8,
+      "current_paragraphs": 8,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep023",
+      "original_paragraphs": 8,
+      "current_paragraphs": 8,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep024",
+      "original_paragraphs": 9,
+      "current_paragraphs": 9,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep025",
+      "original_paragraphs": 8,
+      "current_paragraphs": 8,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep026",
+      "original_paragraphs": 8,
+      "current_paragraphs": 8,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep027",
+      "original_paragraphs": 7,
+      "current_paragraphs": 7,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep028",
+      "original_paragraphs": 8,
+      "current_paragraphs": 8,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep029",
+      "original_paragraphs": 6,
+      "current_paragraphs": 6,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep030",
+      "original_paragraphs": 7,
+      "current_paragraphs": 7,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep031",
+      "original_paragraphs": 7,
+      "current_paragraphs": 7,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep032",
+      "original_paragraphs": 7,
+      "current_paragraphs": 7,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep033",
+      "original_paragraphs": 7,
+      "current_paragraphs": 7,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep034",
+      "original_paragraphs": 9,
+      "current_paragraphs": 9,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep035",
+      "original_paragraphs": 8,
+      "current_paragraphs": 8,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep036",
+      "original_paragraphs": 7,
+      "current_paragraphs": 7,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep037",
+      "original_paragraphs": 7,
+      "current_paragraphs": 7,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep038",
+      "original_paragraphs": 8,
+      "current_paragraphs": 8,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep039",
+      "original_paragraphs": 8,
+      "current_paragraphs": 8,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep040",
+      "original_paragraphs": 8,
+      "current_paragraphs": 8,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep041",
+      "original_paragraphs": 8,
+      "current_paragraphs": 8,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep042",
+      "original_paragraphs": 7,
+      "current_paragraphs": 7,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep043",
+      "original_paragraphs": 6,
+      "current_paragraphs": 6,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep044",
+      "original_paragraphs": 7,
+      "current_paragraphs": 7,
+      "reversible_changes": 2,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep045",
+      "original_paragraphs": 7,
+      "current_paragraphs": 7,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep046",
+      "original_paragraphs": 7,
+      "current_paragraphs": 7,
+      "reversible_changes": 1,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep047",
+      "original_paragraphs": 7,
+      "current_paragraphs": 7,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep048",
+      "original_paragraphs": 6,
+      "current_paragraphs": 6,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep049",
+      "original_paragraphs": 8,
+      "current_paragraphs": 8,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep050",
+      "original_paragraphs": 7,
+      "current_paragraphs": 7,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep051",
+      "original_paragraphs": 8,
+      "current_paragraphs": 8,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep052",
+      "original_paragraphs": 7,
+      "current_paragraphs": 7,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep053",
+      "original_paragraphs": 8,
+      "current_paragraphs": 8,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep054",
+      "original_paragraphs": 8,
+      "current_paragraphs": 8,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep055",
+      "original_paragraphs": 8,
+      "current_paragraphs": 8,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep056",
+      "original_paragraphs": 8,
+      "current_paragraphs": 8,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep057",
+      "original_paragraphs": 7,
+      "current_paragraphs": 7,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep058",
+      "original_paragraphs": 8,
+      "current_paragraphs": 8,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep059",
+      "original_paragraphs": 7,
+      "current_paragraphs": 7,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep060",
+      "original_paragraphs": 7,
+      "current_paragraphs": 7,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep061",
+      "original_paragraphs": 7,
+      "current_paragraphs": 7,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep062",
+      "original_paragraphs": 8,
+      "current_paragraphs": 8,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep063",
+      "original_paragraphs": 7,
+      "current_paragraphs": 7,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep064",
+      "original_paragraphs": 9,
+      "current_paragraphs": 9,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep065",
+      "original_paragraphs": 7,
+      "current_paragraphs": 7,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep066",
+      "original_paragraphs": 7,
+      "current_paragraphs": 7,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep067",
+      "original_paragraphs": 7,
+      "current_paragraphs": 7,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep068",
+      "original_paragraphs": 8,
+      "current_paragraphs": 8,
+      "reversible_changes": 1,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep069",
+      "original_paragraphs": 8,
+      "current_paragraphs": 8,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep070",
+      "original_paragraphs": 7,
+      "current_paragraphs": 7,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep071",
+      "original_paragraphs": 7,
+      "current_paragraphs": 7,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep072",
+      "original_paragraphs": 9,
+      "current_paragraphs": 9,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep073",
+      "original_paragraphs": 8,
+      "current_paragraphs": 8,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep074",
+      "original_paragraphs": 8,
+      "current_paragraphs": 8,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep075",
+      "original_paragraphs": 8,
+      "current_paragraphs": 8,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep076",
+      "original_paragraphs": 7,
+      "current_paragraphs": 7,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep077",
+      "original_paragraphs": 7,
+      "current_paragraphs": 7,
+      "reversible_changes": 1,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep078",
+      "original_paragraphs": 8,
+      "current_paragraphs": 8,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep079",
+      "original_paragraphs": 7,
+      "current_paragraphs": 7,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep080",
+      "original_paragraphs": 8,
+      "current_paragraphs": 8,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep081",
+      "original_paragraphs": 7,
+      "current_paragraphs": 7,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep082",
+      "original_paragraphs": 8,
+      "current_paragraphs": 8,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep083",
+      "original_paragraphs": 7,
+      "current_paragraphs": 7,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep084",
+      "original_paragraphs": 8,
+      "current_paragraphs": 8,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep085",
+      "original_paragraphs": 8,
+      "current_paragraphs": 8,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep086",
+      "original_paragraphs": 7,
+      "current_paragraphs": 7,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep087",
+      "original_paragraphs": 8,
+      "current_paragraphs": 8,
+      "reversible_changes": 1,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep088",
+      "original_paragraphs": 7,
+      "current_paragraphs": 7,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep089",
+      "original_paragraphs": 8,
+      "current_paragraphs": 8,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep090",
+      "original_paragraphs": 6,
+      "current_paragraphs": 6,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep091",
+      "original_paragraphs": 7,
+      "current_paragraphs": 7,
+      "reversible_changes": 2,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep092",
+      "original_paragraphs": 7,
+      "current_paragraphs": 7,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep093",
+      "original_paragraphs": 8,
+      "current_paragraphs": 8,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep094",
+      "original_paragraphs": 8,
+      "current_paragraphs": 8,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep095",
+      "original_paragraphs": 8,
+      "current_paragraphs": 8,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep096",
+      "original_paragraphs": 7,
+      "current_paragraphs": 7,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep097",
+      "original_paragraphs": 8,
+      "current_paragraphs": 8,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep098",
+      "original_paragraphs": 7,
+      "current_paragraphs": 7,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep099",
+      "original_paragraphs": 7,
+      "current_paragraphs": 7,
+      "reversible_changes": 0,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    },
+    {
+      "episode": "ep100",
+      "original_paragraphs": 8,
+      "current_paragraphs": 8,
+      "reversible_changes": 1,
+      "original_recovered_exactly": true,
+      "reading_equals_json": true
+    }
+  ]
+}

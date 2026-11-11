@@ -1,0 +1,91 @@
+{
+  "schema_version": 3,
+  "script_version": "v4",
+  "id": "ep070",
+  "episode": 70,
+  "title": "小布包的夜晚",
+  "theme": "放下已经背过的东西",
+  "language": "zh-CN",
+  "production_scope": "adopted_user_long_script",
+  "status": "copyedited_media_not_started",
+  "narration_paragraphs": [
+    {
+      "id": "p001",
+      "text": "今天是森林学堂的“图书与自然交换日”，皮皮一整天都背着他那只结实的浅绿色帆布小背包。\n上午去森林图书角的时候，他在包里装了一本厚厚的《蘑菇图鉴》去和朋友们分享；下午去后山写生的时候，他又在包里塞进了水壶、画板和一张刚刚画好的小画。"
+    },
+    {
+      "id": "p002",
+      "text": "这只浅绿色的小布包，今天跟着皮皮走过小木桥、爬过青草坡，在皮皮的肩膀上稳稳地待了一整天。\n傍晚回到小木屋，吃过晚饭后，皮皮开始整理自己的小布包，为明天的休息日做准备。"
+    },
+    {
+      "id": "p003",
+      "text": "他打开帆布包的搭扣，先把那本厚厚的《蘑菇图鉴》双手捧出来，放回了床头小书架最熟悉的位置；接着，他又把那张画着松树的写生小画取出来，平平地压在书桌的玻璃板下。\n包里的东西一样接一样地拿出来，全都找到了各自的归宿。"
+    },
+    {
+      "id": "p004",
+      "text": "转眼间，原本鼓鼓囊囊的小布包彻底空了下来，变得扁扁的、轻飘飘的。\n可是，皮皮低头一看，发现帆布包那两条长长的棉布肩带，因为白天背着跑来跑去，还拧着劲儿绕在一起，弯弯曲曲地堆在地上，看起来就像两条走了很远、还没有歇过来的小路。"
+    },
+    {
+      "id": "p005",
+      "text": "皮皮没有随手把空布包往墙角一丢。他拿起小布包，用小爪子顺着肩带的纹理，把拧在一起的地方轻轻解开、理顺，然后把小布包平平展展地靠在门边专门放包包的矮木架上，让两条长肩带自然地垂在架子边。\n看着空空如也的小布包，皮皮摸了摸它柔软的帆布面，心想：白天的布包要装满书和画才算能干，可是到了晚上，空着肚子的小布包也已经圆满完成了今天的任务，根本不必再往里面塞满东西，才算有用呀。"
+    },
+    {
+      "id": "p006",
+      "text": "安置好小布包后，皮皮转了转自己的小肩膀，觉得肩头也变得轻快极了，慢悠悠地走到了小木床边。今天肩膀背过的所有重量，都已经完完全全地放下了。\n暖黄色的毛毯盖住身体，胡萝卜玩偶轻轻靠着他的小爪子。床上的大枕头软绵绵的，主动替皮皮接住了小脑袋和全身的重量。"
+    },
+    {
+      "id": "p007",
+      "text": "皮皮闭上眼睛，软软的睡帽尖自然地垂落在枕边。门边矮木架上的小布包静静地靠着，小床上的小兔子也静静地躺着。\n小朋友，今天你背过的小书包、记在心里的小任务，都已经圆满完成啦。现在，把所有背过的东西都放下来，让小肩膀彻底放松，舒舒服服地休息吧。晚安。"
+    }
+  ],
+  "cn_characters": 759,
+  "narration_sha256": "a20eeb0d2a27457a8d7c4856831976f2cc93d80780df5ccf7f60a9a07ab8a5d7",
+  "source": {
+    "path": "/Users/ww/Downloads/100集睡前故事合集.md",
+    "sha256": "3feafa137e94824baccf8b6e3f3f24bac3e97714b2e201fcc48d461d8969c302",
+    "original_narration_sha256": "a20eeb0d2a27457a8d7c4856831976f2cc93d80780df5ccf7f60a9a07ab8a5d7",
+    "original_paragraph_count": 7
+  },
+  "revision_record": [],
+  "duration_policy": {
+    "basis": "complete_narration_at_current_voice_settings",
+    "limit_s": null,
+    "delete_for_duration": false,
+    "time_stretch": false
+  },
+  "voice": {
+    "config": "03_素材与参数/配音与声音参数.json",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000
+  },
+  "actual_duration_s": null,
+  "character_registry": "03_素材与参数/用户长稿v4角色图库.json",
+  "storyboard": {
+    "status": "not_started",
+    "shots": [],
+    "timing_basis": "actual_audio",
+    "preferred_hold_s": [
+      8,
+      10
+    ],
+    "review_above_s": 15,
+    "short_action_hold_s": [
+      3,
+      5
+    ]
+  },
+  "material_state": {
+    "voice": "not_started",
+    "character_references": "not_generated",
+    "illustrations": "not_started",
+    "cover": "not_started",
+    "pinyin_review": "not_started",
+    "render": "not_started",
+    "technical_check": "not_started",
+    "human_watch": "not_started",
+    "user_acceptance": "not_recorded"
+  }
+}

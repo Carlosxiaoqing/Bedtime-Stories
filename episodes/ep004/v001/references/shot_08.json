@@ -1,0 +1,20 @@
+{
+  "registry": "/Users/ww/视频/Bedtime-Stories/03_素材与参数/用户长稿v4角色图库.json",
+  "referenced_image_paths": [
+    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+  ],
+  "characters": [
+    {
+      "id": "lili",
+      "name": "栗栗",
+      "identity_version": "v001",
+      "identity_paths": [
+        "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+      ],
+      "identity_anchors": "浅棕圆脸、深棕短而圆润背刺、小黑鼻。",
+      "outfit": null
+    }
+  ],
+  "instructions": "将referenced_image_paths原样传入图像工具；引用图只作身份或服装依据。只画本镜入镜角色，勿复制参考表里的多个人物或背景。",
+  "user_visual_acceptance": "not_recorded"
+}

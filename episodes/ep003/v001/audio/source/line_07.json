@@ -1,0 +1,17 @@
+{
+  "text": "原来，小云朵也会慢慢找，一个合适的地方。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "edge_tts": "7.3.1",
+  "fingerprint": "0ec20940ccef60bc9d33591d5a3012eb5de7089324d2ed9e6956bf91a0ce6ad9",
+  "boundaries": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 1000000,
+      "duration": 67769227,
+      "text": "原来，小云朵也会慢慢找，一个合适的地方。"
+    }
+  ]
+}

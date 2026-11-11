@@ -1,0 +1,91 @@
+{
+  "schema_version": 3,
+  "script_version": "v4",
+  "id": "ep092",
+  "episode": 92,
+  "title": "小门听见晚安",
+  "theme": "通过熟悉的收尾动作安心休息",
+  "language": "zh-CN",
+  "production_scope": "adopted_user_long_script",
+  "status": "copyedited_media_not_started",
+  "narration_paragraphs": [
+    {
+      "id": "p001",
+      "text": "在皮皮的卧室门口，有一扇漆成温和原木色的小木门，门上安着一枚圆滚滚、光滑的木头把手。\n白天的时候，这扇小木门可忙啦：早上皮皮背着书包推开它去上学，下午放学推开它抱进画板，傍晚妈妈推开它送来洗好的干净衣服……小木门一开一合，迎接又送走了白天的许多热闹。"
+    },
+    {
+      "id": "p002",
+      "text": "现在，夜深了，皮皮洗漱完毕，准备关好卧室的小门上床睡觉了。\n他走到小门旁边，没有随手“砰”的一下把门甩上，而是先低头看了一眼门边的地面。他发现，门口铺着的那块半圆形棉布小地垫，因为白天进进出出踩得多了，右边有一个小布角微微向上卷了起来；而刚刚脱下来的两只毛绒小拖鞋，有一只摆得稍微靠门缝太近了一点。"
+    },
+    {
+      "id": "p003",
+      "text": "皮皮耐心地蹲下身子，先用小爪子把地垫那个卷起来的小布角轻轻按平、理顺，让地垫稳稳地贴住木地板；接着，他又把那只靠得太近的小拖鞋往床边挪了挪，摆在完全不会挡着门扇的地方。\n做完这两个小小的准备动作后，皮皮这才站起身，握住小木门，慢吞吞地把它往门框这边合过来。"
+    },
+    {
+      "id": "p004",
+      "text": "因为地垫铺平了、拖鞋让开了，小木门滑过来的时候顺畅极了，没有挤到一丁点儿布角，也没有碰到鞋尖，最后“咔哒”一声极轻的微响，刚好严丝合缝地停在了熟悉的门框里。\n皮皮伸出毛茸茸的小爪子，轻轻摸了摸门上那枚被摸得温润光滑的圆木把手，像对一位老朋友说话一样，轻声说：“晚安，小门。谢谢你守了一整天，今天晚上不用再来回忙活啦。”"
+    },
+    {
+      "id": "p005",
+      "text": "小门稳稳地立在那里。门外，是走廊和院子里慢悠悠摇晃的树影；门内，是亮着柔和床头灯的温暖小屋。门里门外两边，都变得安安静静的。\n皮皮转过身回到小木床边，给胡萝卜玩偶留好枕头旁的位置，把暖黄色的毛毯也慢慢地盖了过来。"
+    },
+    {
+      "id": "p006",
+      "text": "躺好之后，皮皮没有再一次次地抬起头，去查看那扇小门有没有锁好、有没有听见自己的话。因为他知道，门口所有熟悉的东西，刚才都已经被自己亲手、妥帖地安顿好了。\n两只长耳朵舒舒服服地靠住大枕头，皮皮的眼睛慢慢闭上。白天那一开一合的忙碌小脚步，到了这一刻，也终于彻底歇下来了。"
+    },
+    {
+      "id": "p007",
+      "text": "小朋友，你房间的小门是不是也已经轻轻关好了呢？把白天的喧闹留在门外，让满满的安全感和舒服留在房间里面，安心睡吧，晚安。"
+    }
+  ],
+  "cn_characters": 767,
+  "narration_sha256": "ccce4877b91f8c5fc43290906fccd051cf7689eea90e2198e3c6eb457aec3b1b",
+  "source": {
+    "path": "/Users/ww/Downloads/100集睡前故事合集.md",
+    "sha256": "3feafa137e94824baccf8b6e3f3f24bac3e97714b2e201fcc48d461d8969c302",
+    "original_narration_sha256": "ccce4877b91f8c5fc43290906fccd051cf7689eea90e2198e3c6eb457aec3b1b",
+    "original_paragraph_count": 7
+  },
+  "revision_record": [],
+  "duration_policy": {
+    "basis": "complete_narration_at_current_voice_settings",
+    "limit_s": null,
+    "delete_for_duration": false,
+    "time_stretch": false
+  },
+  "voice": {
+    "config": "03_素材与参数/配音与声音参数.json",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000
+  },
+  "actual_duration_s": null,
+  "character_registry": "03_素材与参数/用户长稿v4角色图库.json",
+  "storyboard": {
+    "status": "not_started",
+    "shots": [],
+    "timing_basis": "actual_audio",
+    "preferred_hold_s": [
+      8,
+      10
+    ],
+    "review_above_s": 15,
+    "short_action_hold_s": [
+      3,
+      5
+    ]
+  },
+  "material_state": {
+    "voice": "not_started",
+    "character_references": "not_generated",
+    "illustrations": "not_started",
+    "cover": "not_started",
+    "pinyin_review": "not_started",
+    "render": "not_started",
+    "technical_check": "not_started",
+    "human_watch": "not_started",
+    "user_acceptance": "not_recorded"
+  }
+}

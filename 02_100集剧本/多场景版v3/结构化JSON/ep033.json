@@ -1,0 +1,275 @@
+{
+  "schema_version": 2,
+  "script_version": "v3",
+  "id": "ep033",
+  "episode": 33,
+  "title": "桃桃不爱看的那一页",
+  "cover_title": "换一本书",
+  "category": "社区",
+  "theme": "知道彼此兴趣也能一起阅读",
+  "setting": "老榆图书馆阅览窗台、图书馆双人读书席",
+  "viewpoint_character": "桃桃",
+  "guest": "桃桃、圆圆",
+  "character_names": [
+    "桃桃",
+    "圆圆",
+    "皮皮"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "成片约120秒，配音后实测校时",
+  "cn_characters": 287,
+  "initial_duration_budget_s": 122.78,
+  "shots": [
+    {
+      "id": 1,
+      "title": "阅读席上有船图书和种子图书，桃桃靠近圆圆与皮皮",
+      "location": "老榆图书馆阅览窗台",
+      "character_names": [
+        "桃桃",
+        "圆圆",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "皮皮借了一本画船的书，想和桃桃一起看。",
+        "桃桃翻到第三页就把书轻轻合上了。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "老榆图书馆阅览窗台。竖幅远景交代空间和前后层次。画面：阅读席上有船图书和种子图书，桃桃靠近圆圆与皮皮。入镜角色：桃桃、圆圆、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 13.71,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "桃桃将船图书推回两人中间，皮皮还捏着页角",
+      "location": "图书馆双人读书席",
+      "character_names": [
+        "桃桃",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "皮皮以为她不想一起读。",
+        "桃桃说：“我想跟你坐一起，可我只看得懂一半的船。”"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "图书馆双人读书席。平视中景突出人物姿态和相互位置。画面：桃桃将船图书推回两人中间，皮皮还捏着页角。入镜角色：桃桃、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.02,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "圆圆从矮架递来一本种子图册，桃桃站在旁边",
+      "location": "老榆图书馆阅览窗台",
+      "character_names": [
+        "桃桃",
+        "圆圆",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "圆圆给她找来一本种子图册。",
+        "桃桃翻开第一页，马上认出一棵会长绒毛的小草。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "老榆图书馆阅览窗台。侧面中景展示动作方向与相邻环境。画面：圆圆从矮架递来一本种子图册，桃桃站在旁边。入镜角色：桃桃、圆圆、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.71,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "桃桃靠近皮皮，两本打开的书角相邻",
+      "location": "图书馆双人读书席",
+      "character_names": [
+        "桃桃",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "他们各读自己的书。",
+        "读到有趣的地方，就把那一页转向朋友。",
+        "桃桃把椅子挪近一点，两本书的书角就挨到了一起。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.72,
+        0.95
+      ],
+      "camera": "俯视呈现平面上的物件和路线",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "图书馆双人读书席。俯视呈现平面上的物件和路线。画面：桃桃靠近皮皮，两本打开的书角相邻。入镜角色：桃桃、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 17.91,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "桃桃指着船货图里一袋有圆籽标记的东西",
+      "location": "图书馆双人读书席",
+      "character_names": [
+        "桃桃"
+      ],
+      "narration_lines": [
+        "皮皮翻到船舱。",
+        "桃桃指着袋子，说那一袋像她书里的种子，图案有三个小圆。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "图书馆双人读书席。近景突出手边动作或道具状态。画面：桃桃指着船货图里一袋有圆籽标记的东西。入镜角色：桃桃。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.02,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "两本书翻到相关页，皮皮顺着桃桃所指看图",
+      "location": "图书馆双人读书席",
+      "character_names": [
+        "桃桃",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "他们把书并在一起。",
+        "船上的袋子能带种子过河，图册里也画了种子落到另一边。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "越肩构图同时看见观察者与目标",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "图书馆双人读书席。越肩构图同时看见观察者与目标。画面：两本书翻到相关页，皮皮顺着桃桃所指看图。入镜角色：桃桃、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.71,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "两个朋友肩并肩，将一张空纸放在两书交界处",
+      "location": "图书馆双人读书席",
+      "character_names": [
+        "桃桃",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "皮皮说，他现在想看看种子去了哪里。",
+        "桃桃也指着船尾，想知道是谁摇桨。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "图书馆双人读书席。平视中景突出人物姿态和相互位置。画面：两个朋友肩并肩，将一张空纸放在两书交界处。入镜角色：桃桃、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.67,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "圆圆在还书台上帮他们各放一枚叶签",
+      "location": "老榆图书馆阅览窗台",
+      "character_names": [
+        "桃桃",
+        "圆圆",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "临走时，圆圆给他们各留一枚书签。",
+        "他们约好，下回交换着读一会儿。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "俯视呈现平面上的物件和路线",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "老榆图书馆阅览窗台。俯视呈现平面上的物件和路线。画面：圆圆在还书台上帮他们各放一枚叶签。入镜角色：桃桃、圆圆、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.98,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "空阅读席靠窗，两本书的边缘各伸出一片书签",
+      "location": "图书馆双人读书席",
+      "character_names": [],
+      "narration_lines": [
+        "两本书合上时，书签一左一右露出尖角。",
+        "两个故事在同一张桌上，挨得很近。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "环境留白为主，关键物件或人物位于上部",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "图书馆双人读书席。环境留白为主，关键物件或人物位于上部。画面：空阅读席靠窗，两本书的边缘各伸出一片书签。入镜角色：无，仅画环境或道具。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 19.07,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v3剧本和九镜已校时估算，实际配音及后续制作待进行",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/多场景版v2/结构化JSON/ep033.json",
+    "scope": "以约两分钟为目标逐集校时，补充偏短故事的动作、对话或线索，压缩偏长的重复表述",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始",
+    "previous_script_sha256": "a26f97899671df0863fb48fcc53bd4da72bd50464bed0c677bfe36672a02ac6b",
+    "edited_shots": [
+      4
+    ]
+  },
+  "duration_plan": {
+    "target_s": 120,
+    "planning_range_s": [
+      115,
+      125
+    ],
+    "estimated_s": 122.78,
+    "v2_estimated_using_same_method_s": 114.82,
+    "reference_narration_hanzi_per_second": 2.899607,
+    "opening_s": 1.0,
+    "tail_in_final_shot_s": 8.0
+  }
+}

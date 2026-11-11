@@ -1,0 +1,95 @@
+{
+  "schema_version": 3,
+  "script_version": "v4",
+  "id": "ep018",
+  "episode": 18,
+  "title": "小田鼠的针线袋",
+  "theme": "东西各有安静的归处",
+  "language": "zh-CN",
+  "production_scope": "adopted_user_long_script",
+  "status": "copyedited_media_not_started",
+  "narration_paragraphs": [
+    {
+      "id": "p001",
+      "text": "皮皮那条最喜欢的暖黄色小毛毯，已经陪了他好久好久了。\n今天中午在学堂午睡的时候，皮皮不小心被小木床的边角勾了一下，毛毯的边边上开了一道小小的线口，露出了一点点白色的棉絮。"
+    },
+    {
+      "id": "p002",
+      "text": "皮皮有点心疼，放学的时候一直把那个小破口捧在手心里。\n住在隔壁橡树根下的小田鼠米米看到了，米米心灵手巧，最擅长做缝补的活儿。她主动背着自己那只鼓鼓囊囊的花布针线袋，跟皮皮一起回到了小木屋。"
+    },
+    {
+      "id": "p003",
+      "text": "在傍晚柔和的灯光下，米米戴上小小顶针，穿好柔和的黄棉线，一针，一线，帮皮皮把毛毯上的小开线细心地缝合好了。\n缝好之后，米米准备收拾针线袋回家。刚才为了找颜色最搭的线，针线袋口的彩色布带散开着，好几个圆圆的小木头线轴靠在桌子边上，像几只随时准备滚下山坡的小木轮。"
+    },
+    {
+      "id": "p004",
+      "text": "皮皮没有袖手旁观，他坐在米米对面，轻声说：“米米，谢谢你帮我修好毛毯，现在让我来帮你送这些小工具回家吧。”\n他们分工合作，一点儿也不慌乱。米米先把尖尖的缝衣针，一根根数好，稳稳地插进厚厚的绒布针包里；皮皮则伸出小爪子，把桌上的小木头线轴，按照从大到小的顺序，一个个放回针线袋里软软的布隔层中。"
+    },
+    {
+      "id": "p005",
+      "text": "红色线轴住进左边的小房间，黄色线轴住进右边的小房间，谁也不会撞到谁。\n接着，他们一起慢慢理好袋口散开的布带，轻轻一拉，打了一个松软又牢靠的蝴蝶结。花布袋子合上了，再也没有小东西会滚出来了。"
+    },
+    {
+      "id": "p006",
+      "text": "米米开心地拎起整理好的小袋子，在门口跟皮皮轻轻道别。\n皮皮回到卧室，摸了摸小毛毯的边角，新缝上的线脚平平整整、密密实实的。那个开线的小地方，并没有变成一条全新的毯子，只是因为被认真地照顾和修补过，又能暖暖和和地好好陪着他了。"
+    },
+    {
+      "id": "p007",
+      "text": "皮皮把毛毯铺上小床，特意让修好的那一角，靠在自己暖暖的小脚丫旁边。\n他抱起胡萝卜玩偶，慢慢闭上眼睛。尖尖的针和长长的线都回到了自己的布袋小窝里，而皮皮忙碌了一天的小爪子，也终于回到了温暖的被窝里。"
+    },
+    {
+      "id": "p008",
+      "text": "小朋友，今天用过的玩具、做过的事，都已经各自找到了安静的归处。现在，让你的小手和小脚也彻底放轻松，好好歇一歇吧。晚安。"
+    }
+  ],
+  "cn_characters": 734,
+  "narration_sha256": "0c8721340b09fb98267a349723927b7915150293996f0d62e8fa4a1bb1d0d777",
+  "source": {
+    "path": "/Users/ww/Downloads/100集睡前故事合集.md",
+    "sha256": "3feafa137e94824baccf8b6e3f3f24bac3e97714b2e201fcc48d461d8969c302",
+    "original_narration_sha256": "0c8721340b09fb98267a349723927b7915150293996f0d62e8fa4a1bb1d0d777",
+    "original_paragraph_count": 8
+  },
+  "revision_record": [],
+  "duration_policy": {
+    "basis": "complete_narration_at_current_voice_settings",
+    "limit_s": null,
+    "delete_for_duration": false,
+    "time_stretch": false
+  },
+  "voice": {
+    "config": "03_素材与参数/配音与声音参数.json",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000
+  },
+  "actual_duration_s": null,
+  "character_registry": "03_素材与参数/用户长稿v4角色图库.json",
+  "storyboard": {
+    "status": "not_started",
+    "shots": [],
+    "timing_basis": "actual_audio",
+    "preferred_hold_s": [
+      8,
+      10
+    ],
+    "review_above_s": 15,
+    "short_action_hold_s": [
+      3,
+      5
+    ]
+  },
+  "material_state": {
+    "voice": "not_started",
+    "character_references": "not_generated",
+    "illustrations": "not_started",
+    "cover": "not_started",
+    "pinyin_review": "not_started",
+    "render": "not_started",
+    "technical_check": "not_started",
+    "human_watch": "not_started",
+    "user_acceptance": "not_recorded"
+  }
+}

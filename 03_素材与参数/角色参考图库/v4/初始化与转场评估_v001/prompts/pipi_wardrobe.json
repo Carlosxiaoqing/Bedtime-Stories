@@ -1,0 +1,9 @@
+{
+  "id": "pipi_wardrobe",
+  "source": "/Users/ww/.codex/generated_images/01a1c779-b2c5-7591-8e26-7f019d36a778/exec-0d0be59c-38bd-480d-9c08-5ede089f2dff.png",
+  "dest": "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+  "prompt": "Use case: identity-preserve. Asset type: wardrobe reference sheet for Pipi, THE EXACT rabbit in input image 1. Preserve identical warm gray/taupe fur, round face, small gentle half-lidded dark eyes, tiny pink triangular nose, pink cheeks, short muzzle, long naturally drooping pink-lined ears, head/body/paw proportions across EVERY outfit. Change ONLY clothing and removable accessories. Plain warm ivory watercolor paper, three full-body three-quarter standing views side by side, clear separated figures, all the SAME rabbit. LEFT: day/outdoor school activity, muted dusty-blue short overalls over a simple oatmeal shirt, blue soft cloth shoes, small yellow school backpack, no hat. CENTER: rainy day, muted pale yellow raincoat worn open at collar, yellow rounded rubber rain boots, ears hanging naturally outside the hood, no hat, no umbrella. RIGHT: bedtime, original deep navy cap with pale yellow stars and a yellow pompom, no added outfit, no backpack, no toy or blanket. Same calm identity and watercolor texture as image 1, gentle low-contrast daylight, no glossy 3D. No scenery, labels, letters, text, numbers, borders or watermark. This is a WARDROBE demonstration, never a character redesign. Do not create any other animals.",
+  "reference_inputs": [
+    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+  ]
+}

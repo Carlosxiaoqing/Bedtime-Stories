@@ -1,0 +1,95 @@
+{
+  "schema_version": 3,
+  "script_version": "v4",
+  "id": "ep015",
+  "episode": 15,
+  "title": "蜗牛的露珠小路",
+  "theme": "慢慢走也能到达",
+  "language": "zh-CN",
+  "production_scope": "adopted_user_long_script",
+  "status": "copyedited_media_not_started",
+  "narration_paragraphs": [
+    {
+      "id": "p001",
+      "text": "皮皮在森林学堂里领到了一个新任务——照顾班级自然角里的一盆大叶万年青。\n这个周末，皮皮把这盆万年青抱回了自己的小木屋门廊上照看。"
+    },
+    {
+      "id": "p002",
+      "text": "傍晚时分，太阳落到了远山后面，皮皮提着他的小喷水壶，来到门廊给花盆添水。\n细细的水雾落在宽宽的绿叶子上，凝结成了几颗圆滚滚的小水珠。就在皮皮放下水壶的时候，他惊喜地发现，有一只背着浅棕色螺旋壳的小蜗牛，正停在最下面那片宽叶子的边缘。"
+    },
+    {
+      "id": "p003",
+      "text": "小蜗牛大概也是刚放学回家吧。叶面上有几颗晶莹的小露珠，小蜗牛慢慢地伸出两根小小的触角，左探探，右探探，像是在认真地看，走哪一边才不会滑倒。\n皮皮是个很有耐心的孩子，他没有好奇地用手指去推小蜗牛的壳，也没有催它快点爬。"
+    },
+    {
+      "id": "p004",
+      "text": "皮皮安安静静地蹲在花盆旁边，屏住呼吸，不去打扰它。\n他仔细观察，发现前面有一截卷起来的叶尖挡住了小蜗牛的去路，像一道陡峭的小坎。皮皮便伸出小爪子，极轻极轻地把那截卷起的叶尖往下扶了扶，让它变成了一条平缓的绿色小斜坡。"
+    },
+    {
+      "id": "p005",
+      "text": "小蜗牛用触角碰了碰平缓的叶面，放心地往前挪了一点，再挪了一点。它背上的圆房子也稳稳当当地跟着晃动。\n叶片上的一颗小露珠，映着皮皮屋里透出来的暖黄色窗灯，在小蜗牛身后闪出很淡很淡的暖光，就像一盏为它照明的小路灯。"
+    },
+    {
+      "id": "p006",
+      "text": "没有谁催它快一些，晚风也吹得很慢。\n过了一会儿，小蜗牛终于顺着露珠小路，爬到了宽叶子的背面，找到了一个既挡风又湿润的阴凉角落，安安静静地把触角收了回去，准备睡觉了。"
+    },
+    {
+      "id": "p007",
+      "text": "皮皮看小蜗牛安顿好了，这才轻轻站起身，把花盆往屋檐下放稳。当他推开门走回小屋时，他发现自己的脚步，也不由自主地比平时慢了一点、稳了一点。\n洗漱完爬上小床，皮皮的长耳朵舒舒服服地躺好了。他抱好胡萝卜玩偶，脑海里不再想着明天还要赶去哪里。"
+    },
+    {
+      "id": "p008",
+      "text": "小朋友，你看，小蜗牛走得那么慢，也稳稳地到家了。今晚我们也不必赶路，因为你已经到达自己温暖的小床啦。慢慢呼吸，安心休息，晚安。"
+    }
+  ],
+  "cn_characters": 686,
+  "narration_sha256": "a1d21f30d74d62aebcb838316b3dec251de1e344ffbf8aa6f75822817723a274",
+  "source": {
+    "path": "/Users/ww/Downloads/100集睡前故事合集.md",
+    "sha256": "3feafa137e94824baccf8b6e3f3f24bac3e97714b2e201fcc48d461d8969c302",
+    "original_narration_sha256": "a1d21f30d74d62aebcb838316b3dec251de1e344ffbf8aa6f75822817723a274",
+    "original_paragraph_count": 8
+  },
+  "revision_record": [],
+  "duration_policy": {
+    "basis": "complete_narration_at_current_voice_settings",
+    "limit_s": null,
+    "delete_for_duration": false,
+    "time_stretch": false
+  },
+  "voice": {
+    "config": "03_素材与参数/配音与声音参数.json",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000
+  },
+  "actual_duration_s": null,
+  "character_registry": "03_素材与参数/用户长稿v4角色图库.json",
+  "storyboard": {
+    "status": "not_started",
+    "shots": [],
+    "timing_basis": "actual_audio",
+    "preferred_hold_s": [
+      8,
+      10
+    ],
+    "review_above_s": 15,
+    "short_action_hold_s": [
+      3,
+      5
+    ]
+  },
+  "material_state": {
+    "voice": "not_started",
+    "character_references": "not_generated",
+    "illustrations": "not_started",
+    "cover": "not_started",
+    "pinyin_review": "not_started",
+    "render": "not_started",
+    "technical_check": "not_started",
+    "human_watch": "not_started",
+    "user_acceptance": "not_recorded"
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "schema_version": 2,
+  "script_version": "v2",
+  "id": "ep083",
+  "episode": 83,
+  "title": "雨棚里的一局棋",
+  "cover_title": "雨棚棋局",
+  "category": "社区",
+  "theme": "同一块地方可以商量着用",
+  "setting": "长耳街公园棋桌雨棚、雨棚外一截干步道",
+  "viewpoint_character": "团团",
+  "guest": "团团、斑斑、栗栗、米米",
+  "character_names": [
+    "团团",
+    "斑斑",
+    "栗栗",
+    "米米"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "按晓晓-35%实际口播、停顿和约8秒尾声确定",
+  "cn_characters": 275,
+  "initial_duration_budget_s": 109.01,
+  "shots": [
+    {
+      "id": 1,
+      "title": "团团斑斑围棋桌，栗栗与米米带湿外套站在雨棚口",
+      "location": "长耳街公园棋桌雨棚",
+      "character_names": [
+        "团团",
+        "斑斑",
+        "栗栗",
+        "米米"
+      ],
+      "narration_lines": [
+        "雨忽然落下来，团团和斑斑把棋盘搬进雨棚。",
+        "栗栗与米米也跑来，可长凳放满了棋盒。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街公园棋桌雨棚。竖幅远景交代空间和前后层次。画面：团团斑斑围棋桌，栗栗与米米带湿外套站在雨棚口。入镜角色：团团、斑斑、栗栗、米米。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.29,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "栗栗站在雨棚边抖掉袖口水，团团两手守棋盘",
+      "location": "长耳街公园棋桌雨棚",
+      "character_names": [
+        "团团",
+        "栗栗"
+      ],
+      "narration_lines": [
+        "团团不想碰乱走到一半的棋。",
+        "栗栗也不想把水滴到棋上，只好站在檐边。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街公园棋桌雨棚。平视中景突出人物姿态和相互位置。画面：栗栗站在雨棚边抖掉袖口水，团团两手守棋盘。入镜角色：团团、栗栗。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "米米指向棋盘下面结实的托板，空布在手",
+      "location": "长耳街公园棋桌雨棚",
+      "character_names": [
+        "米米"
+      ],
+      "narration_lines": [
+        "米米看见棋盘底下有块托板。",
+        "她问，可不可以连托板一起，把整局棋抬到桌的一头。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街公园棋桌雨棚。近景突出手边动作或道具状态。画面：米米指向棋盘下面结实的托板，空布在手。入镜角色：米米。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.98,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "两位抬托板两端，两位收棋盒，未动棋子仍在原格",
+      "location": "长耳街公园棋桌雨棚",
+      "character_names": [
+        "团团",
+        "斑斑",
+        "栗栗",
+        "米米"
+      ],
+      "narration_lines": [
+        "团团和斑斑一人扶一边。",
+        "栗栗收棋盒，米米拿布擦干长凳，棋子一个都没挪位。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "俯视呈现平面上的物件和路线",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街公园棋桌雨棚。俯视呈现平面上的物件和路线。画面：两位抬托板两端，两位收棋盒，未动棋子仍在原格。入镜角色：团团、斑斑、栗栗、米米。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "两位坐干凳，另外两位在桌端继续局面",
+      "location": "长耳街公园棋桌雨棚",
+      "character_names": [
+        "团团",
+        "斑斑",
+        "栗栗",
+        "米米"
+      ],
+      "narration_lines": [
+        "这下能坐了。",
+        "栗栗挨着米米看了一会儿，发现团团还没走过他最喜欢的那一格。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街公园棋桌雨棚。平视中景突出人物姿态和相互位置。画面：两位坐干凳，另外两位在桌端继续局面。入镜角色：团团、斑斑、栗栗、米米。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.67,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "团团指棋盘边的弯格，米米手持备用松果棋",
+      "location": "长耳街公园棋桌雨棚",
+      "character_names": [
+        "团团"
+      ],
+      "narration_lines": [
+        "团团请他们帮忙看下一步。",
+        "米米拿备用棋在桌上演了一遍，没有碰原来的棋。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街公园棋桌雨棚。近景突出手边动作或道具状态。画面：团团指棋盘边的弯格，米米手持备用松果棋。入镜角色：团团。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "雨停后四位站在干步道，米米把托板交还给团团",
+      "location": "雨棚外一截干步道",
+      "character_names": [
+        "团团",
+        "斑斑",
+        "栗栗",
+        "米米"
+      ],
+      "narration_lines": [
+        "雨小了，四位朋友一起走出雨棚。",
+        "团团说，下次还想请两位新观众看一局。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "雨棚外一截干步道。侧面中景展示动作方向与相邻环境。画面：雨停后四位站在干步道，米米把托板交还给团团。入镜角色：团团、斑斑、栗栗、米米。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "团团和斑斑把盒子搁到桌下的干处，长凳已清空",
+      "location": "长耳街公园棋桌雨棚",
+      "character_names": [
+        "团团",
+        "斑斑"
+      ],
+      "narration_lines": [
+        "走之前，他们把棋盒放到桌下。",
+        "再有朋友进来避雨，长凳不必等谁来搬。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街公园棋桌雨棚。平视中景突出人物姿态和相互位置。画面：团团和斑斑把盒子搁到桌下的干处，长凳已清空。入镜角色：团团、斑斑。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.42,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "空雨棚棋桌一端干燥，外缘仍滴水",
+      "location": "长耳街公园棋桌雨棚",
+      "character_names": [],
+      "narration_lines": [
+        "最后几滴雨从檐边落下来。",
+        "棋局留到了下次，雨棚的座位今天就能用。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "环境留白为主，关键物件或人物位于上部",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街公园棋桌雨棚。环境留白为主，关键物件或人物位于上部。画面：空雨棚棋桌一端干燥，外缘仍滴水。入镜角色：无，仅画环境或道具。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 17.47,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v2剧本与九镜已编写，配音、插画、封面、字幕及视频待制作",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/结构化JSON/ep083.json",
+    "scope": "按用户反馈重写人物互动、故事事件、场景及九镜",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始"
+  }
+}

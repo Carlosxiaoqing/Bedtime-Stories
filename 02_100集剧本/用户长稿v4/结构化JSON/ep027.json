@@ -1,0 +1,91 @@
+{
+  "schema_version": 3,
+  "script_version": "v4",
+  "id": "ep027",
+  "episode": 27,
+  "title": "雨后的干袜子",
+  "theme": "让身体感到被照顾",
+  "language": "zh-CN",
+  "production_scope": "adopted_user_long_script",
+  "status": "copyedited_media_not_started",
+  "narration_paragraphs": [
+    {
+      "id": "p001",
+      "text": "今天下午放学的时候，森林里刚下过一场阵雨，草地和小路上还有些湿漉漉的。\n皮皮走在回家的路上，为了帮小鼹鼠点点捡起被风吹进湿草丛里的画纸，皮皮跨进草丛，鞋尖和里面的棉布小袜子，不小心沾上了一点冰凉的雨水。"
+    },
+    {
+      "id": "p002",
+      "text": "现在的皮皮已经知道怎么好好照顾自己的身体了。一推开小木屋的门，他没有急着跑去玩玩具，而是先坐在玄关的矮木凳上，把两只小脚慢慢放稳，脱下了潮湿的鞋袜。"
+    },
+    {
+      "id": "p003",
+      "text": "门边的小竹篮里，早就准备好了妈妈晒得干爽蓬松的备用软袜子，一双双叠得平平整整的，正等着他呢。\n皮皮先把脱下来的那双湿袜子，仔细地展开，搭在门廊通风的小木架子上，没有把它们乱七八糟地挤成一团；接着，他用温热的毛巾擦干脚丫，换上了那双干净的米白色软棉袜。"
+    },
+    {
+      "id": "p004",
+      "text": "哇，干爽的软袜子一裹住脚丫，那种软绵绵、暖融融的感觉，一下子就从脚底板传到了心窝里！\n皮皮踩在屋里的软地垫上，轻轻地活动了一下五个小脚趾头，刚才那一点点潮湿和微凉，全都消失得无影无踪了。"
+    },
+    {
+      "id": "p005",
+      "text": "吃过晚饭，窗外淅淅沥沥地又落下了几滴小夜雨。不过，厚实的小木门已经关好了，屋里的木地板干爽又整洁，一点儿也不受外面湿气的影响。\n皮皮把玄关的矮木凳推回墙角的原处，迈着轻柔的步子走到了床边。今晚，屋里没有任何一样东西需要湿漉漉地等着了。"
+    },
+    {
+      "id": "p006",
+      "text": "皮皮爬上床，把穿着干爽软袜子的小脚丫伸进被窝里。暖黄色的毛毯轻轻落下来，给软袜子外面，又添上了一层厚实的温暖与舒服。\n胡萝卜玩偶乖乖地靠住他的手臂。皮皮满足地闭上眼睛，听着外面的雨声慢慢退到很远的地方。"
+    },
+    {
+      "id": "p007",
+      "text": "小朋友，今晚睡觉前，你的小手和小脚是不是也洗得干干净净、盖得暖暖和和的呢？好好感受这份被照顾的舒服吧，暖暖地躺着，就已经很好了。晚安。"
+    }
+  ],
+  "cn_characters": 613,
+  "narration_sha256": "ca8cd201a6f8157bf856914e85b34ce7e5a6df04c9295875357a5d1d38bef168",
+  "source": {
+    "path": "/Users/ww/Downloads/100集睡前故事合集.md",
+    "sha256": "3feafa137e94824baccf8b6e3f3f24bac3e97714b2e201fcc48d461d8969c302",
+    "original_narration_sha256": "ca8cd201a6f8157bf856914e85b34ce7e5a6df04c9295875357a5d1d38bef168",
+    "original_paragraph_count": 7
+  },
+  "revision_record": [],
+  "duration_policy": {
+    "basis": "complete_narration_at_current_voice_settings",
+    "limit_s": null,
+    "delete_for_duration": false,
+    "time_stretch": false
+  },
+  "voice": {
+    "config": "03_素材与参数/配音与声音参数.json",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000
+  },
+  "actual_duration_s": null,
+  "character_registry": "03_素材与参数/用户长稿v4角色图库.json",
+  "storyboard": {
+    "status": "not_started",
+    "shots": [],
+    "timing_basis": "actual_audio",
+    "preferred_hold_s": [
+      8,
+      10
+    ],
+    "review_above_s": 15,
+    "short_action_hold_s": [
+      3,
+      5
+    ]
+  },
+  "material_state": {
+    "voice": "not_started",
+    "character_references": "not_generated",
+    "illustrations": "not_started",
+    "cover": "not_started",
+    "pinyin_review": "not_started",
+    "render": "not_started",
+    "technical_check": "not_started",
+    "human_watch": "not_started",
+    "user_acceptance": "not_recorded"
+  }
+}

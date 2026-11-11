@@ -1,0 +1,99 @@
+{
+  "schema_version": 3,
+  "script_version": "v4",
+  "id": "ep034",
+  "episode": 34,
+  "title": "南瓜小灯的窗户",
+  "theme": "一点暖光已经足够",
+  "language": "zh-CN",
+  "production_scope": "adopted_user_long_script",
+  "status": "copyedited_media_not_started",
+  "narration_paragraphs": [
+    {
+      "id": "p001",
+      "text": "秋天的森林里，天黑得比夏天早了许多。\n今天下午在森林学堂的手工课上，山羊老师带着大家一起做“秋日南瓜小灯”。每个小朋友都分到了一个圆滚滚、金灿灿的小南瓜。"
+    },
+    {
+      "id": "p002",
+      "text": "小松鼠团团想让自己的南瓜灯最亮，他在南瓜肚子上挖了七八个大大的圆洞；而皮皮捧着自己的小南瓜，仔细地想了想，用安全小木刀在南瓜圆鼓鼓的肚皮上，轻轻刻出了两扇小小的、像树叶形状一样的窗户。"
+    },
+    {
+      "id": "p003",
+      "text": "傍晚放学回到家，皮皮把这盏南瓜小灯摆在了小木屋门廊的木栏杆上，点亮了里面的暖光小蜡烛。\n瞬间，圆圆的南瓜灯罩透出了柔和的橘黄色光芒，那两扇小小的叶子窗，就像两只温柔的眼睛，静静地望着门前的小路。"
+    },
+    {
+      "id": "p004",
+      "text": "皮皮站在门廊下看了一会儿，发现有一缕光从正面直直地照过来，稍微有一点点晃眼睛。\n于是，他伸出小爪子，把南瓜小灯轻轻转了一个小角度，让那两扇叶子窗朝着门廊的台阶。这样一来，暖光刚好铺在木头门槛和台阶上，既能照亮回家的路，又不会直直地刺痛眼睛。"
+    },
+    {
+      "id": "p005",
+      "text": "这时，一片金黄的落叶被晚风吹过来，刚好停在了南瓜小灯的旁边。\n柔和的灯光照在落叶上，把叶子上每一根细细的叶脉都照得清清楚楚，好像这片秋叶也在夜晚借到了一小块温暖的阳光。"
+    },
+    {
+      "id": "p006",
+      "text": "皮皮原本还想把门廊顶上的大吊灯也打开，但看了看这盏安静的南瓜小灯，他就打消了这个念头。\n门槛看得见，台阶看得见，门前小路的近处也已经亮得刚刚好，根本不需要再点亮别的灯，把黑漆漆的森林照得像白天一样亮了。"
+    },
+    {
+      "id": "p007",
+      "text": "皮皮把门廊下的小木凳摆稳，让晚归的脚步可以在这里慢慢停下来。\n推门走进屋里后，皮皮隔着窗户回头看了一眼。门廊上的南瓜小灯正安安静静地亮着，没有喧闹，也没有催促谁赶紧来做客，只是温柔地守着小木屋的入口。"
+    },
+    {
+      "id": "p008",
+      "text": "洗漱完毕，皮皮爬上小床，把床头那盏熟悉的台灯也调暗了一点。暖融融的颜色留在毛毯上，整个房间慢慢变得像南瓜灯一样柔和。\n皮皮放松长耳朵，闭上眼睛。原来在夜晚，一点点舒服的亮光，就已经足够陪伴一个好梦了。"
+    },
+    {
+      "id": "p009",
+      "text": "小朋友，今晚也把舒服的暖意留在身边吧。不用让每个角落都亮堂堂地忙起来，轻轻闭上眼睛，晚安。"
+    }
+  ],
+  "cn_characters": 738,
+  "narration_sha256": "c6d2d05c1a5c2bf8dd22f27c9628dd33503fd155d2cde367c50ef01911e532b9",
+  "source": {
+    "path": "/Users/ww/Downloads/100集睡前故事合集.md",
+    "sha256": "3feafa137e94824baccf8b6e3f3f24bac3e97714b2e201fcc48d461d8969c302",
+    "original_narration_sha256": "c6d2d05c1a5c2bf8dd22f27c9628dd33503fd155d2cde367c50ef01911e532b9",
+    "original_paragraph_count": 9
+  },
+  "revision_record": [],
+  "duration_policy": {
+    "basis": "complete_narration_at_current_voice_settings",
+    "limit_s": null,
+    "delete_for_duration": false,
+    "time_stretch": false
+  },
+  "voice": {
+    "config": "03_素材与参数/配音与声音参数.json",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000
+  },
+  "actual_duration_s": null,
+  "character_registry": "03_素材与参数/用户长稿v4角色图库.json",
+  "storyboard": {
+    "status": "not_started",
+    "shots": [],
+    "timing_basis": "actual_audio",
+    "preferred_hold_s": [
+      8,
+      10
+    ],
+    "review_above_s": 15,
+    "short_action_hold_s": [
+      3,
+      5
+    ]
+  },
+  "material_state": {
+    "voice": "not_started",
+    "character_references": "not_generated",
+    "illustrations": "not_started",
+    "cover": "not_started",
+    "pinyin_review": "not_started",
+    "render": "not_started",
+    "technical_check": "not_started",
+    "human_watch": "not_started",
+    "user_acceptance": "not_recorded"
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "schema_version": 2,
+  "script_version": "v2",
+  "id": "ep031",
+  "episode": 31,
+  "title": "陶盘上的雨点",
+  "cover_title": "雨点陶盘",
+  "category": "社区",
+  "theme": "接受意外也可以主动把它做完",
+  "setting": "陶土工坊的露台、陶土工坊的晾盘架",
+  "viewpoint_character": "米米",
+  "guest": "米米、绒绒、桃桃",
+  "character_names": [
+    "米米",
+    "绒绒",
+    "桃桃"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "按晓晓-35%实际口播、停顿和约8秒尾声确定",
+  "cn_characters": 252,
+  "initial_duration_budget_s": 101.83,
+  "shots": [
+    {
+      "id": 1,
+      "title": "工坊露台木板上有三只湿陶盘，米米正抚平盘沿",
+      "location": "陶土工坊的露台",
+      "character_names": [
+        "米米",
+        "绒绒",
+        "桃桃"
+      ],
+      "narration_lines": [
+        "米米和绒绒捏了几个小盘子。",
+        "桃桃来帮忙拿木板，刚走出棚，落下几滴雨。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "陶土工坊的露台。竖幅远景交代空间和前后层次。画面：工坊露台木板上有三只湿陶盘，米米正抚平盘沿。入镜角色：米米、绒绒、桃桃。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "米米手边盘面出现五个圆坑，最边一处微湿",
+      "location": "陶土工坊的露台",
+      "character_names": [
+        "米米"
+      ],
+      "narration_lines": [
+        "米米赶紧把盘子收回来。",
+        "最前面那只已经有五个小坑，看起来有点可惜。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "陶土工坊的露台。近景突出手边动作或道具状态。画面：米米手边盘面出现五个圆坑，最边一处微湿。入镜角色：米米。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "桃桃拿海绵靠近盘子，米米挡住盘沿",
+      "location": "陶土工坊的晾盘架",
+      "character_names": [
+        "米米",
+        "绒绒",
+        "桃桃"
+      ],
+      "narration_lines": [
+        "桃桃找了块海绵想抹平。",
+        "米米说先等等，她想看清楚雨点落在了哪里。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "陶土工坊的晾盘架。平视中景突出人物姿态和相互位置。画面：桃桃拿海绵靠近盘子，米米挡住盘沿。入镜角色：米米、绒绒、桃桃。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.42,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "盘面五个圆坑由外往内排列，米米拿一片小叶子",
+      "location": "陶土工坊的晾盘架",
+      "character_names": [
+        "米米"
+      ],
+      "narration_lines": [
+        "最里面的两个挨得很近。",
+        "米米把叶尖摆进去比了比，像小鸟在沙地踩的脚印。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "俯视呈现平面上的物件和路线",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "陶土工坊的晾盘架。俯视呈现平面上的物件和路线。画面：盘面五个圆坑由外往内排列，米米拿一片小叶子。入镜角色：米米。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "米米用软木点出两枚小圆印，避开原来的水坑",
+      "location": "陶土工坊的晾盘架",
+      "character_names": [
+        "米米"
+      ],
+      "narration_lines": [
+        "她在旁边又按下两点，把这些小脚印连到盘边。",
+        "绒绒替她稳稳扶着板。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "陶土工坊的晾盘架。近景突出手边动作或道具状态。画面：米米用软木点出两枚小圆印，避开原来的水坑。入镜角色：米米。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.42,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "三只盘放在晾架上，各有不同装饰，雨点盘居中",
+      "location": "陶土工坊的晾盘架",
+      "character_names": [
+        "米米",
+        "绒绒",
+        "桃桃"
+      ],
+      "narration_lines": [
+        "放上晾架时，三只盘里只有这只会走路。",
+        "桃桃顺着脚印看，绕到了架子背后。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "陶土工坊的晾盘架。平视中景突出人物姿态和相互位置。画面：三只盘放在晾架上，各有不同装饰，雨点盘居中。入镜角色：米米、绒绒、桃桃。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.04,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "雨停后伙伴在露台收板，角落有一片落叶",
+      "location": "陶土工坊的露台",
+      "character_names": [
+        "米米",
+        "绒绒",
+        "桃桃"
+      ],
+      "narration_lines": [
+        "雨停了。",
+        "他们把木板擦干，换到棚里继续做盘子。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "陶土工坊的露台。侧面中景展示动作方向与相邻环境。画面：雨停后伙伴在露台收板，角落有一片落叶。入镜角色：米米、绒绒、桃桃。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 7.61,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "过几天烧好的雨点盘放在垫布上，米米轻触盘沿",
+      "location": "陶土工坊的晾盘架",
+      "character_names": [
+        "米米"
+      ],
+      "narration_lines": [
+        "过了几天，盘子烧好了。",
+        "米米摸到那几个浅浅的印，还是记得当天落雨的声音。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "陶土工坊的晾盘架。近景突出手边动作或道具状态。画面：过几天烧好的雨点盘放在垫布上，米米轻触盘沿。入镜角色：米米。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "陶盘上躺着一片叶子，小脚印通到盘沿",
+      "location": "陶土工坊的晾盘架",
+      "character_names": [],
+      "narration_lines": [
+        "她留它来盛叶子。",
+        "每次放进去，总像有只没露面的鸟，正从盘里走过。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "陶土工坊的晾盘架。近景突出手边动作或道具状态。画面：陶盘上躺着一片叶子，小脚印通到盘沿。入镜角色：无，仅画环境或道具。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 17.16,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v2剧本与九镜已编写，配音、插画、封面、字幕及视频待制作",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/结构化JSON/ep031.json",
+    "scope": "按用户反馈重写人物互动、故事事件、场景及九镜",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始"
+  }
+}

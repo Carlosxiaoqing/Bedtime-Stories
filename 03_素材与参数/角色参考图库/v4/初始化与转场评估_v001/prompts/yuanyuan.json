@@ -1,0 +1,9 @@
+{
+  "id": "yuanyuan",
+  "source": "/Users/ww/.codex/generated_images/01a1c779-b2c5-7591-8e26-7f019d36a778/exec-6a129b26-7a22-4d5f-ba68-8d4b3158a5b7.png",
+  "dest": "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/yuanyuan_identity_v001.png",
+  "prompt": "Use case: illustration-story. Asset type: production CHARACTER IDENTITY MODEL SHEET for a watercolor children's story. Input image 1 is ONLY the watercolor STYLE reference: do NOT copy its rabbit species, face, ears or cap. Plain warm ivory watercolor paper backdrop, four well-separated studies of ONE identical character: front full-body, three-quarter full-body, side full-body, large face portrait. Consistent anatomy, proportions, colors, facial features and clothing across all four views. Quiet friendly poses, rounded forms, small soft dark eyes, muted colors, delicate paper grain, hand-painted soft edges and low contrast. No scenery, furniture, other characters, letters, numbers, labels, text, grid lines, borders or watermark. Not 3D, not photorealistic. Subject: Yuanyuan, a SMALL WOODLAND OWL. Round compact beige-brown feathered body, soft dark-brown wing edges, cream facial disk with two small warm dark eyes, small short muted ochre beak, short rounded wings resting against body, tiny rounded brown feet planted firmly. NO clothes, hat or scarf. Soft simple feather markings, no sharp talons, no huge glowing eyes, not a bird with rabbit ears. Quiet curious friendly expression, clearly a young small owl, distinct from an adult owl librarian.",
+  "reference_inputs": [
+    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+  ]
+}

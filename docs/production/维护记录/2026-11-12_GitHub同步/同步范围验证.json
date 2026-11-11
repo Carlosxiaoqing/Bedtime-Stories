@@ -1,0 +1,27 @@
+{
+  "tracked_files": 2205,
+  "working_bytes": 874685982,
+  "extensions": {
+    "": 1,
+    ".md": 717,
+    ".json": 1049,
+    ".html": 4,
+    ".py": 44,
+    ".jpg": 3,
+    ".txt": 26,
+    ".whl": 16,
+    ".png": 159,
+    ".log": 7,
+    ".svg": 9,
+    ".sha256": 1,
+    ".mp3": 112,
+    ".wav": 35,
+    ".ass": 8,
+    ".srt": 7,
+    ".ttf": 2,
+    ".otf": 4,
+    ".sh": 1
+  },
+  "files_above_github_100MiB_limit": [],
+  "potential_secrets_or_missing_files": []
+}

@@ -1,0 +1,95 @@
+{
+  "schema_version": 3,
+  "script_version": "v4",
+  "id": "ep069",
+  "episode": 69,
+  "title": "灯罩上的纸月牙",
+  "theme": "让一点温柔装点熟悉的地方",
+  "language": "zh-CN",
+  "production_scope": "adopted_user_long_script",
+  "status": "copyedited_media_not_started",
+  "narration_paragraphs": [
+    {
+      "id": "p001",
+      "text": "今天在森林学堂的美术角，大家用浅黄色的透光硫酸纸剪了许多夜晚的图案。\n小松鼠团团剪了一大把碎星星，打算回家把整扇玻璃窗都贴满；而皮皮只精心剪了一枚弯弯的、边缘光滑的小纸月牙，用小纸袋装好带回了家。"
+    },
+    {
+      "id": "p002",
+      "text": "吃过晚饭，皮皮来到卧室的床头柜前。他没有把这枚小纸月牙贴在冰凉的玻璃窗上，而是用一点点无痕的米糊胶，把它轻轻贴在了床头台灯的米白色布艺外罩上。\n到了晚上准备睡觉的时候，皮皮关掉了房间顶上的大灯，只打开了这盏熟悉的床头小台灯。"
+    },
+    {
+      "id": "p003",
+      "text": "温暖的橘黄色灯光从灯罩里面透出来，经过那枚半透明的浅黄纸月牙时，奇妙的景象出现了——纸月牙的轮廓变得柔柔的、亮亮的，而在旁边的墙面和枕头边上，还投下了一道很淡很淡的弯月影子。\n皮皮凑近看了一眼，发现纸月牙下面的那个小尖角，因为布灯罩有点弧度，稍微往上翘起来了一点点。"
+    },
+    {
+      "id": "p004",
+      "text": "皮皮用一只手先把台灯底座扶稳，另一只小爪子伸出指腹，极其轻柔地把那个翘起来的小角按平、理好。\n理好之后，皮皮看着旁边抽屉里剩下的彩色纸条，心想：灯罩上还有这么多空地方，我要不要再剪十几个小星星、小云朵，把整个灯罩贴得满满当当的呢？"
+    },
+    {
+      "id": "p005",
+      "text": "皮皮退后一步看了看。如果贴满了纸片，床头灯透出来的光就会被挡住，变得斑斑驳驳、乱糟糟的；而现在，仅仅只有这一枚小小的纸月牙，就已经让这盏陪伴了自己好几年的旧台灯，像多了一句安安静静的“晚安”问候一样，既新鲜又亲切。\n一枚小月牙，就已经足够了。"
+    },
+    {
+      "id": "p006",
+      "text": "皮皮望了望窗外，真正的银色月亮正远远地挂在夜空中；而灯罩上的这枚小纸月牙，则坐在离他脸颊很近很近的地方。\n皮皮把剩下的彩纸和剪刀统统收回书桌抽屉里，让今天的小装饰就停在这里，不再忙着往上面增加新的东西了。"
+    },
+    {
+      "id": "p007",
+      "text": "他钻进被窝，盖好暖黄色的毛毯，抱住胡萝卜玩偶，伸手把床头灯的光线调到最舒服、最柔和的那一档。\n当皮皮闭上眼睛后，他知道那枚温柔的小纸月牙还稳稳地留在灯罩上，正安安静静地陪着他，根本不需要他一直睁着眼睛去确认。"
+    },
+    {
+      "id": "p008",
+      "text": "小朋友，生活里只要有一点点温暖的小美好留在身边，就已经足够装点我们的夜晚了。现在，安心地闭上眼，慢慢睡吧。晚安。"
+    }
+  ],
+  "cn_characters": 759,
+  "narration_sha256": "79ea971327efe938490e8557429d35a222ce99fa9f9a7541632bd4305a83f816",
+  "source": {
+    "path": "/Users/ww/Downloads/100集睡前故事合集.md",
+    "sha256": "3feafa137e94824baccf8b6e3f3f24bac3e97714b2e201fcc48d461d8969c302",
+    "original_narration_sha256": "79ea971327efe938490e8557429d35a222ce99fa9f9a7541632bd4305a83f816",
+    "original_paragraph_count": 8
+  },
+  "revision_record": [],
+  "duration_policy": {
+    "basis": "complete_narration_at_current_voice_settings",
+    "limit_s": null,
+    "delete_for_duration": false,
+    "time_stretch": false
+  },
+  "voice": {
+    "config": "03_素材与参数/配音与声音参数.json",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000
+  },
+  "actual_duration_s": null,
+  "character_registry": "03_素材与参数/用户长稿v4角色图库.json",
+  "storyboard": {
+    "status": "not_started",
+    "shots": [],
+    "timing_basis": "actual_audio",
+    "preferred_hold_s": [
+      8,
+      10
+    ],
+    "review_above_s": 15,
+    "short_action_hold_s": [
+      3,
+      5
+    ]
+  },
+  "material_state": {
+    "voice": "not_started",
+    "character_references": "not_generated",
+    "illustrations": "not_started",
+    "cover": "not_started",
+    "pinyin_review": "not_started",
+    "render": "not_started",
+    "technical_check": "not_started",
+    "human_watch": "not_started",
+    "user_acceptance": "not_recorded"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "target_font_px": {
+    "hanzi": 76,
+    "pinyin": 48
+  },
+  "libass_fontsize": {
+    "hanzi": 114,
+    "pinyin": 66
+  },
+  "sample_visible_ink_bounds": {
+    "pinyin": {
+      "ink_y_start": 1515,
+      "ink_y_end": 1562,
+      "visible_ink_height_px": 48
+    },
+    "hanzi": {
+      "ink_y_start": 1591,
+      "ink_y_end": 1662,
+      "visible_ink_height_px": 72
+    }
+  },
+  "phone_preview": "preview_phone_calibrated.png"
+}

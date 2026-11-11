@@ -1,0 +1,26 @@
+{
+  "id": 4,
+  "title": "团团先到了坡顶",
+  "destination": "/Users/ww/视频/Bedtime-Stories/episodes/ep004/v001/images/shot_04.png",
+  "prompt": "Use case: illustration-story. Asset type: ONE original full-bleed vertical 9:16 watercolor story illustration for one locked narration shot. Use every input according to its explicitly labelled role; preserve the existing named identities, not just their species. Input 1: identity for 团团 (tuantuan), preserve exactly: 暖棕圆脸、蓬松弯尾、奶油色胸前、小耳朵。 Input 2: environment layout / watercolor style ONLY. Keep the geography and furnishings, but draw ONLY the requested people and props for this shot, never copy unwanted actors. This is not an image to reuse as the output.\nVisible characters: 团团 (tuantuan). Do not draw extra background animals. Standing body-height ratios (not ear or tail tips): 团团 0.9. Other established outfits: Lili sage-gray vest and pale oatmeal cloth snack satchel; Tuantuan short dark ochre/rust scarf; goat teacher sage cardigan, oatmeal shirt and brown trousers. Only use these if that character is requested. Scene continuity: 白天：小木屋后方青草坡，橡树和白桦，坡路向右上延伸，左下远处小溪和红屋顶木屋；皮皮黄书包、蓝背带裤与蓝布鞋，栗栗灰绿背心和米色布包，团团暗赭围巾。\nThe SINGLE visual moment and framing: 低视角中远景：团团站在圆坡顶部，尾巴高高弯起，小路在脚下延伸。\nStyle: hand-painted gentle watercolor on fine warm paper, muted natural hues, soft edges and rounded shapes, quiet storybook mood, no glossy 3D or photorealism. Daylight scenes use soft greens and warm daylight, not bedroom amber tint. Night scenes use soft warm lamplight and muted gray-blue windows. Composition: full-bleed vertical 9:16. Keep all important faces, hands, feet, biscuits, fabric folds and other story actions in the upper 68% of the image. Bottom 32% is low-detail negative space for later subtitles, with no crucial objects there. Make the specified story state visually understandable. Text: NONE. No words, labels, subtitles, numbers, logos, watermark, speech bubbles, panels, frames or collage. Do not reproduce model sheets, multiple versions of a character, or wardrobe lineups. Each named character appears exactly once. This is a new single coherent scene, not a copy of the references. No motion streaks or implied camera zoom. Never turn a metaphor into a real transformation: yellow blankets remain fabric, imagined grassy softness is not actual grass growing in bed. No new story events. ",
+  "reference_inputs": [
+    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/tuantuan_identity_v001.png",
+    "/Users/ww/视频/Bedtime-Stories/episodes/ep004/v001/images/shot_03.png"
+  ],
+  "characters": [
+    "tuantuan"
+  ],
+  "outfits": {},
+  "source_ranges": [
+    {
+      "unit_id": "u003",
+      "paragraph_id": "p002",
+      "start_char": 0,
+      "end_char": 20
+    }
+  ],
+  "timing": {
+    "start_s": 26.96,
+    "end_s": 33.28
+  }
+}

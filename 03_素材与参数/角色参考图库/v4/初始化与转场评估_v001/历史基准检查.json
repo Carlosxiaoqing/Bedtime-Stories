@@ -1,0 +1,11 @@
+{
+  "legacy_doctor": "failed_due_to_mutable_record_document",
+  "matched_source_files": 72,
+  "differences": [
+    {
+      "file": "RECORD.md",
+      "status": "hash_changed"
+    }
+  ],
+  "source_media_integrity": true
+}

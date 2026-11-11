@@ -1,0 +1,273 @@
+{
+  "schema_version": 2,
+  "script_version": "v3",
+  "id": "ep093",
+  "episode": 93,
+  "title": "河湾里绕回来的叶子",
+  "cover_title": "河湾绕叶",
+  "category": "自然",
+  "theme": "结果不同可以再看看周围发生了什么",
+  "setting": "芦苇河湾栏内小台、河湾上游的木桥",
+  "viewpoint_character": "豆豆",
+  "guest": "豆豆、沐沐",
+  "character_names": [
+    "豆豆",
+    "沐沐",
+    "皮皮"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "成片约120秒，配音后实测校时",
+  "cn_characters": 295,
+  "initial_duration_budget_s": 124.82,
+  "shots": [
+    {
+      "id": 1,
+      "title": "豆豆皮皮和沐沐站在河湾台内，水面有几片自然漂叶",
+      "location": "芦苇河湾栏内小台",
+      "character_names": [
+        "豆豆",
+        "沐沐",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "豆豆看水里的叶子往下游走。",
+        "只有最靠近石头那片，转了半圈，又回到她眼前。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "芦苇河湾栏内小台。竖幅远景交代空间和前后层次。画面：豆豆皮皮和沐沐站在河湾台内，水面有几片自然漂叶。入镜角色：豆豆、沐沐、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 13.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "豆豆用翅尖沿栏外的叶行方向比一小弧",
+      "location": "芦苇河湾栏内小台",
+      "character_names": [
+        "豆豆"
+      ],
+      "narration_lines": [
+        "她以为是风把叶子吹回来了。",
+        "沐沐指指岸边，草尖却都朝水流的方向偏。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "芦苇河湾栏内小台。近景突出手边动作或道具状态。画面：豆豆用翅尖沿栏外的叶行方向比一小弧。入镜角色：豆豆。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.67,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "从沐沐肩后看大石挡水，石后有一圈浅水纹",
+      "location": "芦苇河湾栏内小台",
+      "character_names": [
+        "沐沐",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "皮皮发现大石头后有一圈水纹。",
+        "那片叶一进入圈里，先往边上转，然后才绕回去。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "越肩构图同时看见观察者与目标",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "芦苇河湾栏内小台。越肩构图同时看见观察者与目标。画面：从沐沐肩后看大石挡水，石后有一圈浅水纹。入镜角色：沐沐、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.71,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "三位从木桥上对照上游直水纹，人物站在护栏内",
+      "location": "河湾上游的木桥",
+      "character_names": [
+        "豆豆",
+        "沐沐",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "他们从桥上看上游。",
+        "这里的叶子直直过去，一片都没绕回来。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "河湾上游的木桥。侧面中景展示动作方向与相邻环境。画面：三位从木桥上对照上游直水纹，人物站在护栏内。入镜角色：豆豆、沐沐、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 9.95,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "豆豆和沐沐分站栏内两端，皮皮立在中间看河湾",
+      "location": "芦苇河湾栏内小台",
+      "character_names": [
+        "豆豆",
+        "沐沐",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "回到台上，豆豆沿着栏边往左挪一点，好一直看着石头后面。",
+        "沐沐站在右边，等另一片从外侧过去。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "芦苇河湾栏内小台。竖幅远景交代空间和前后层次。画面：豆豆和沐沐分站栏内两端，皮皮立在中间看河湾。入镜角色：豆豆、沐沐、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 15.12,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "三个伙伴并排守栏，视线追另一片路过大石的淡叶",
+      "location": "芦苇河湾栏内小台",
+      "character_names": [
+        "豆豆",
+        "沐沐",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "他们等第二片叶来。",
+        "它离石头远一点，沿着那条直路，很快就走出河湾了。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "芦苇河湾栏内小台。平视中景突出人物姿态和相互位置。画面：三个伙伴并排守栏，视线追另一片路过大石的淡叶。入镜角色：豆豆、沐沐、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.67,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "豆豆到沐沐站过的位置，从栏内望两片相距较远的漂叶",
+      "location": "芦苇河湾栏内小台",
+      "character_names": [
+        "豆豆",
+        "沐沐"
+      ],
+      "narration_lines": [
+        "外侧那片先离开，靠近石头这片还在绕。",
+        "豆豆换到沐沐的位置，从那里看，两片叶之间隔了一长段水。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "越肩构图同时看见观察者与目标",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "芦苇河湾栏内小台。越肩构图同时看见观察者与目标。画面：豆豆到沐沐站过的位置，从栏内望两片相距较远的漂叶。入镜角色：豆豆、沐沐。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 15.46,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "三位收纸离台，最早一片叶刚从旋水边缘离开",
+      "location": "芦苇河湾栏内小台",
+      "character_names": [
+        "豆豆",
+        "沐沐",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "走前，最早那片叶也绕出来了。",
+        "豆豆没看到它什么时候离开的，只看见它已经跟上远处的水。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "芦苇河湾栏内小台。侧面中景展示动作方向与相邻环境。画面：三位收纸离台，最早一片叶刚从旋水边缘离开。入镜角色：豆豆、沐沐、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 14.43,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "河湾大石后小圈水纹仍在，远处两枚叶随流离开",
+      "location": "芦苇河湾栏内小台",
+      "character_names": [],
+      "narration_lines": [
+        "水从石头两边走，一边快一点，一边多绕半圈。",
+        "河湾还在慢慢把它们送往同一个方向。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "芦苇河湾栏内小台。竖幅远景交代空间和前后层次。画面：河湾大石后小圈水纹仍在，远处两枚叶随流离开。入镜角色：无，仅画环境或道具。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 20.45,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v3剧本和九镜已校时估算，实际配音及后续制作待进行",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/多场景版v2/结构化JSON/ep093.json",
+    "scope": "以约两分钟为目标逐集校时，补充偏短故事的动作、对话或线索，压缩偏长的重复表述",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始",
+    "previous_script_sha256": "4a13eb5129ac9239910d92ddb1e9691d6b804baf4159d5894fd9932d910740f9",
+    "edited_shots": []
+  },
+  "duration_plan": {
+    "target_s": 120,
+    "planning_range_s": [
+      115,
+      125
+    ],
+    "estimated_s": 124.82,
+    "v2_estimated_using_same_method_s": 124.82,
+    "reference_narration_hanzi_per_second": 2.899607,
+    "opening_s": 1.0,
+    "tail_in_final_shot_s": 8.0
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "schema_version": 2,
+  "script_version": "v2",
+  "id": "ep022",
+  "episode": 22,
+  "title": "林间邮筒里的回声",
+  "cover_title": "林间回声",
+  "category": "自然",
+  "theme": "一起分清听见的声音从哪儿来",
+  "setting": "石壁林道、石壁旁开阔草台",
+  "viewpoint_character": "圆圆",
+  "guest": "圆圆、灰灰",
+  "character_names": [
+    "圆圆",
+    "皮皮",
+    "灰灰"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "按晓晓-35%实际口播、停顿和约8秒尾声确定",
+  "cn_characters": 246,
+  "initial_duration_budget_s": 99.23,
+  "shots": [
+    {
+      "id": 1,
+      "title": "圆圆与皮皮、灰灰站在石壁林道入口，林间有木邮筒",
+      "location": "石壁林道",
+      "character_names": [
+        "圆圆",
+        "皮皮",
+        "灰灰"
+      ],
+      "narration_lines": [
+        "圆圆要给树林画一张声音地图。",
+        "他刚说了一句到啦，石壁那边也说了一句。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "石壁林道。竖幅远景交代空间和前后层次。画面：圆圆与皮皮、灰灰站在石壁林道入口，林间有木邮筒。入镜角色：圆圆、皮皮、灰灰。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.04,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "皮皮朝木邮筒转头，圆圆看向更远的石壁",
+      "location": "石壁林道",
+      "character_names": [
+        "圆圆",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "皮皮以为邮筒后面有人，绕过去找了一圈。",
+        "那里只有几片松针。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "石壁林道。平视中景突出人物姿态和相互位置。画面：皮皮朝木邮筒转头，圆圆看向更远的石壁。入镜角色：圆圆、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 9.48,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "灰灰一只爪搭邮筒，另一只爪朝石壁比画",
+      "location": "石壁林道",
+      "character_names": [
+        "灰灰"
+      ],
+      "narration_lines": [
+        "灰灰朝着邮筒轻轻拍手，声音很快没了。",
+        "朝着石壁拍，远处又回来一下。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "石壁林道。近景突出手边动作或道具状态。画面：灰灰一只爪搭邮筒，另一只爪朝石壁比画。入镜角色：灰灰。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.42,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "三个伙伴站成一排，分别朝两边听",
+      "location": "石壁林道",
+      "character_names": [
+        "圆圆",
+        "皮皮",
+        "灰灰"
+      ],
+      "narration_lines": [
+        "圆圆请他们换个位置再试。",
+        "离石壁远一些，那一下回来得慢了一点。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "石壁林道。侧面中景展示动作方向与相邻环境。画面：三个伙伴站成一排，分别朝两边听。入镜角色：圆圆、皮皮、灰灰。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.11,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "圆圆在草台听，皮皮面向开阔的草地",
+      "location": "石壁旁开阔草台",
+      "character_names": [
+        "圆圆",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "他们走到草台，皮皮再说一次到啦。",
+        "草地上只有树叶的声音，没人接话。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "石壁旁开阔草台。平视中景突出人物姿态和相互位置。画面：圆圆在草台听，皮皮面向开阔的草地。入镜角色：圆圆、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.42,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "纸面画着石壁与草地两处图案，旁有一对短弧",
+      "location": "石壁旁开阔草台",
+      "character_names": [
+        "圆圆",
+        "皮皮",
+        "灰灰"
+      ],
+      "narration_lines": [
+        "圆圆把石壁画在纸上，添了两条弯线。",
+        "草台那一栏，只放一片细草。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "俯视呈现平面上的物件和路线",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "石壁旁开阔草台。俯视呈现平面上的物件和路线。画面：纸面画着石壁与草地两处图案，旁有一对短弧。入镜角色：圆圆、皮皮、灰灰。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 9.79,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "灰灰在木邮筒边投进画片，圆圆展开手里的地图",
+      "location": "石壁林道",
+      "character_names": [
+        "圆圆",
+        "皮皮",
+        "灰灰"
+      ],
+      "narration_lines": [
+        "灰灰把信投进邮筒。",
+        "信落下去的咚，和石壁送回来的咚，听起来真不一样。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "石壁林道。侧面中景展示动作方向与相邻环境。画面：灰灰在木邮筒边投进画片，圆圆展开手里的地图。入镜角色：圆圆、皮皮、灰灰。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "圆圆指地图上一段折返的弧线，石壁在远景",
+      "location": "石壁林道",
+      "character_names": [
+        "圆圆"
+      ],
+      "narration_lines": [
+        "圆圆这才知道，画路用眼睛，画这张图，还得用两只耳朵。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "石壁林道。近景突出手边动作或道具状态。画面：圆圆指地图上一段折返的弧线，石壁在远景。入镜角色：圆圆。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 7.83,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "林道由石壁转向草台，树梢最后一块淡光",
+      "location": "石壁旁开阔草台",
+      "character_names": [],
+      "narration_lines": [
+        "回程经过草台，他们一句话也没说。",
+        "风吹动松枝，给这张地图补上了最后一笔。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "环境留白为主，关键物件或人物位于上部",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "石壁旁开阔草台。环境留白为主，关键物件或人物位于上部。画面：林道由石壁转向草台，树梢最后一块淡光。入镜角色：无，仅画环境或道具。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 18.41,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v2剧本与九镜已编写，配音、插画、封面、字幕及视频待制作",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/结构化JSON/ep022.json",
+    "scope": "按用户反馈重写人物互动、故事事件、场景及九镜",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始"
+  }
+}

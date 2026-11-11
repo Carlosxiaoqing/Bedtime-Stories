@@ -1,0 +1,9 @@
+{
+  "id": "diandian",
+  "source": "/Users/ww/.codex/generated_images/01a1c779-b2c5-7591-8e26-7f019d36a778/exec-ee7f9d2d-5f38-4508-8e93-3276fac4c896.png",
+  "dest": "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/diandian_identity_v001.png",
+  "prompt": "Use case: illustration-story. Asset type: production CHARACTER IDENTITY MODEL SHEET for a watercolor children's story. Input image 1 is ONLY the shared watercolor STYLE reference: do NOT copy its rabbit species, face, ears or cap. Plain warm ivory watercolor paper backdrop, four well-separated studies of ONE identical character: front full-body, three-quarter full-body, side full-body, large face portrait. Identical proportions, colors, facial features and clothing across all four views. Calm standing poses, rounded friendly forms, small gentle dark eyes, muted colors, delicate paper grain, hand-painted soft edges and low contrast. No scene, furniture, other characters, letters, numbers, labels, text, grid lines, borders or watermark. Not 3D, not photorealistic. Subject: Diandian, a small woodland MOLE. Compact rounded gray-brown body, charcoal-taupe soft fur, pale pink tiny rounded nose at the end of a gentle slightly projecting muzzle, VERY SMALL dark eyes, tiny barely visible ears, short broad rounded digging paws without sharp claws. Wearing a simple oatmeal-beige bib apron. Short and compact, standing height about 0.65 of Pipi in the reference, but this sheet contains only the mole. Not a mouse: no big round ears or long thin tail; not a hedgehog: no spines. Keep subtle poor-sighted small eyes identical.",
+  "reference_inputs": [
+    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+  ]
+}

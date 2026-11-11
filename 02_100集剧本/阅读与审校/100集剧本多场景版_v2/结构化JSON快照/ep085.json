@@ -1,0 +1,261 @@
+{
+  "schema_version": 2,
+  "script_version": "v2",
+  "id": "ep085",
+  "episode": 85,
+  "title": "三枚慢慢盖的旅行章",
+  "cover_title": "三枚旅行章",
+  "category": "出行",
+  "theme": "一次经历可以各自选最喜欢的部分",
+  "setting": "松岭游园的入口小亭、游园盖章桌、松岭出口歇脚处",
+  "viewpoint_character": "皮皮",
+  "guest": "桃桃、芽芽",
+  "character_names": [
+    "皮皮",
+    "桃桃",
+    "芽芽"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "按晓晓-35%实际口播、停顿和约8秒尾声确定",
+  "cn_characters": 269,
+  "initial_duration_budget_s": 107.14,
+  "shots": [
+    {
+      "id": 1,
+      "title": "游园小亭有三样不同图案，皮皮桃桃芽芽各拿一张纸",
+      "location": "松岭游园的入口小亭",
+      "character_names": [
+        "皮皮",
+        "桃桃",
+        "芽芽"
+      ],
+      "narration_lines": [
+        "皮皮去松岭游园，想把三枚印章都盖上。",
+        "桃桃先挑花印，芽芽选风印。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "松岭游园的入口小亭。竖幅远景交代空间和前后层次。画面：游园小亭有三样不同图案，皮皮桃桃芽芽各拿一张纸。入镜角色：皮皮、桃桃、芽芽。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.11,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "盖章桌一枚石形印被工作人员拿去整理，皮皮停在空格前",
+      "location": "游园盖章桌",
+      "character_names": [
+        "皮皮",
+        "桃桃",
+        "芽芽"
+      ],
+      "narration_lines": [
+        "盖到第二枚时，石头章拿去擦了。",
+        "皮皮把纸举在空格前，怕今天的图少了一块。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "游园盖章桌。平视中景突出人物姿态和相互位置。画面：盖章桌一枚石形印被工作人员拿去整理，皮皮停在空格前。入镜角色：皮皮、桃桃、芽芽。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "纸上花形与风形印相邻，两个伙伴指着两格之外的空处",
+      "location": "游园盖章桌",
+      "character_names": [
+        "皮皮",
+        "桃桃",
+        "芽芽"
+      ],
+      "narration_lines": [
+        "桃桃问他最想记住哪里。",
+        "皮皮想起，刚才三个人在弯道看了很久一块双层石。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "俯视呈现平面上的物件和路线",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "游园盖章桌。俯视呈现平面上的物件和路线。画面：纸上花形与风形印相邻，两个伙伴指着两格之外的空处。入镜角色：皮皮、桃桃、芽芽。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "出口歇脚石台上，三位把画纸靠平，皮皮指远处双层石",
+      "location": "松岭出口歇脚处",
+      "character_names": [
+        "皮皮",
+        "桃桃",
+        "芽芽"
+      ],
+      "narration_lines": [
+        "他们到出口长台坐下。",
+        "皮皮从纸的空格画起，先画厚一层，再画薄一点的那一层。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "松岭出口歇脚处。侧面中景展示动作方向与相邻环境。画面：出口歇脚石台上，三位把画纸靠平，皮皮指远处双层石。入镜角色：皮皮、桃桃、芽芽。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.67,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "皮皮指画角一处小凹，芽芽用指尖给他看石缝细草",
+      "location": "松岭出口歇脚处",
+      "character_names": [
+        "皮皮"
+      ],
+      "narration_lines": [
+        "他还记得右边有个凹处，那里长一根细草。",
+        "芽芽把草的方向给他指清楚。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "松岭出口歇脚处。近景突出手边动作或道具状态。画面：皮皮指画角一处小凹，芽芽用指尖给他看石缝细草。入镜角色：皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "回到盖章桌，石印已放回，皮皮拿另一张废纸试印",
+      "location": "游园盖章桌",
+      "character_names": [
+        "皮皮",
+        "桃桃",
+        "芽芽"
+      ],
+      "narration_lines": [
+        "石印放回来了。",
+        "皮皮借一张空纸试印，印里的石头只有圆圆一块。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "游园盖章桌。平视中景突出人物姿态和相互位置。画面：回到盖章桌，石印已放回，皮皮拿另一张废纸试印。入镜角色：皮皮、桃桃、芽芽。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 9.79,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "皮皮把试印纸折好，把原本的手绘章朝桃桃举起",
+      "location": "游园盖章桌",
+      "character_names": [
+        "皮皮",
+        "桃桃",
+        "芽芽"
+      ],
+      "narration_lines": [
+        "他喜欢那个圆石，也更喜欢刚画出来的双层石。",
+        "于是，他把自己那一格留在原处。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "游园盖章桌。侧面中景展示动作方向与相邻环境。画面：皮皮把试印纸折好，把原本的手绘章朝桃桃举起。入镜角色：皮皮、桃桃、芽芽。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.67,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "三位互换看各自不同的两印一画，坐在出口石台",
+      "location": "松岭出口歇脚处",
+      "character_names": [
+        "皮皮",
+        "桃桃",
+        "芽芽"
+      ],
+      "narration_lines": [
+        "离开时，三个人把纸放到一起。",
+        "桃桃那张最香，芽芽那张最轻，皮皮那张最像今天走过的路。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "松岭出口歇脚处。平视中景突出人物姿态和相互位置。画面：三位互换看各自不同的两印一画，坐在出口石台。入镜角色：皮皮、桃桃、芽芽。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.92,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "三张旅行纸平放在石台上，其中双层石图清楚可辨",
+      "location": "松岭出口歇脚处",
+      "character_names": [],
+      "narration_lines": [
+        "皮皮把纸收起来。",
+        "下回再经过弯道，他大概还会先认那根细草。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "松岭出口歇脚处。近景突出手边动作或道具状态。画面：三张旅行纸平放在石台上，其中双层石图清楚可辨。入镜角色：无，仅画环境或道具。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 16.53,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v2剧本与九镜已编写，配音、插画、封面、字幕及视频待制作",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/结构化JSON/ep085.json",
+    "scope": "按用户反馈重写人物互动、故事事件、场景及九镜",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "schema_version": 3,
+  "script_version": "v4",
+  "id": "ep003",
+  "episode": 3,
+  "title": "小枕头里的云朵",
+  "theme": "找到适合自己的舒服",
+  "language": "zh-CN",
+  "production_scope": "reference_only",
+  "status": "original_short_reference",
+  "narration_paragraphs": [
+    {
+      "id": "p001",
+      "text": "睡前，皮皮把小枕头拍了拍，枕面鼓起一个软软的小包，像朵小云。"
+    },
+    {
+      "id": "p002",
+      "text": "他把一只耳朵放上去，云朵有点高；换个方向，又有一点点低。"
+    },
+    {
+      "id": "p003",
+      "text": "皮皮没有急着躺好。\n他把枕头转了半圈，慢慢拨松里面的棉絮。"
+    },
+    {
+      "id": "p004",
+      "text": "窗外飘过一朵真正的云，也在月亮旁边，轻轻换了个位置。"
+    },
+    {
+      "id": "p005",
+      "text": "皮皮看着它笑了。\n原来，小云朵也会慢慢找，一个合适的地方。"
+    },
+    {
+      "id": "p006",
+      "text": "他把枕头往里挪一点，让长耳朵自然垂下，小脑袋也稳稳地靠住。"
+    },
+    {
+      "id": "p007",
+      "text": "这回，不高，也不低。\n小枕头轻轻托着他，像接住一片落下的叶子。"
+    },
+    {
+      "id": "p008",
+      "text": "皮皮闭上眼睛，把爪子放松。\n窗外的云走远了，枕边的小云留下来。"
+    },
+    {
+      "id": "p009",
+      "text": "小朋友，你也可以慢慢找到，自己的舒服。\n枕头已经等好了。\n晚安，做个软软的梦。"
+    }
+  ],
+  "cn_characters": 230,
+  "narration_sha256": "fdf03f10834b92093e9d00ac5906357d698e624bcf1e5611c5180b189f14b8db",
+  "source": {
+    "path": "/Users/ww/Downloads/100集睡前故事合集.md",
+    "sha256": "3feafa137e94824baccf8b6e3f3f24bac3e97714b2e201fcc48d461d8969c302",
+    "original_narration_sha256": "fdf03f10834b92093e9d00ac5906357d698e624bcf1e5611c5180b189f14b8db",
+    "original_paragraph_count": 9
+  },
+  "revision_record": [],
+  "duration_policy": {
+    "basis": "complete_narration_at_current_voice_settings",
+    "limit_s": null,
+    "delete_for_duration": false,
+    "time_stretch": false
+  },
+  "voice": {
+    "config": "03_素材与参数/配音与声音参数.json",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000
+  },
+  "actual_duration_s": null,
+  "character_registry": "03_素材与参数/用户长稿v4角色图库.json",
+  "storyboard": {
+    "status": "not_started",
+    "shots": [],
+    "timing_basis": "actual_audio",
+    "preferred_hold_s": [
+      8,
+      10
+    ],
+    "review_above_s": 15,
+    "short_action_hold_s": [
+      3,
+      5
+    ]
+  },
+  "material_state": {
+    "voice": "not_started",
+    "character_references": "not_generated",
+    "illustrations": "not_started",
+    "cover": "not_started",
+    "pinyin_review": "not_started",
+    "render": "not_started",
+    "technical_check": "not_started",
+    "human_watch": "not_started",
+    "user_acceptance": "not_recorded"
+  }
+}

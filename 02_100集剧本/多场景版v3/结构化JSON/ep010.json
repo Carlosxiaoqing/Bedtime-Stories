@@ -1,0 +1,272 @@
+{
+  "schema_version": 2,
+  "script_version": "v3",
+  "id": "ep010",
+  "episode": 10,
+  "title": "青石港的高脚筐",
+  "cover_title": "港口高脚筐",
+  "category": "社区",
+  "theme": "发现伙伴坚持的理由",
+  "setting": "青石港带栏杆的卸货台、青石港干燥验货棚",
+  "viewpoint_character": "沐沐",
+  "guest": "沐沐",
+  "character_names": [
+    "沐沐",
+    "皮皮"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "成片约120秒，配音后实测校时",
+  "cn_characters": 285,
+  "initial_duration_budget_s": 122.81,
+  "shots": [
+    {
+      "id": 1,
+      "title": "沐沐和皮皮站在港口栏杆内，空筐堆在卸货台",
+      "location": "青石港带栏杆的卸货台",
+      "character_names": [
+        "沐沐",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "小水獭沐沐请皮皮帮忙摆筐。",
+        "她挑了一只脚特别高的，皮皮却想用矮筐。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "青石港带栏杆的卸货台。竖幅远景交代空间和前后层次。画面：沐沐和皮皮站在港口栏杆内，空筐堆在卸货台。入镜角色：沐沐、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.67,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "皮皮刚抬起矮筐，筐底有小水滴",
+      "location": "青石港带栏杆的卸货台",
+      "character_names": [
+        "沐沐",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "“矮的好拿。”",
+        "皮皮说。",
+        "他刚放下筐，就看见石面上一条细细的水痕。",
+        "他把筐抬起来一点，筐底沾了几粒亮亮的小水珠。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.72,
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "青石港带栏杆的卸货台。平视中景突出人物姿态和相互位置。画面：皮皮刚抬起矮筐，筐底有小水滴。入镜角色：沐沐、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 18.63,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "沐沐指向湿石面与矮筐底部",
+      "location": "青石港带栏杆的卸货台",
+      "character_names": [
+        "沐沐"
+      ],
+      "narration_lines": [
+        "沐沐指给他看。",
+        "运海带的筐底会滴水，等一会儿，整块石板都会湿。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "低视角凸显脚边、地面与人物尺度",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "青石港带栏杆的卸货台。低视角凸显脚边、地面与人物尺度。画面：沐沐指向湿石面与矮筐底部。入镜角色：沐沐。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.64,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "高脚筐脚下露出通向石槽的小缝",
+      "location": "青石港带栏杆的卸货台",
+      "character_names": [
+        "沐沐",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "他们把矮筐搬进干棚，把高脚筐留在台边，给水留出往下走的空隙。",
+        "沐沐往筐脚下一指，下面正好有一道通向石槽的浅缝。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "青石港带栏杆的卸货台。侧面中景展示动作方向与相邻环境。画面：高脚筐脚下露出通向石槽的小缝。入镜角色：沐沐、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 18.57,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "沐沐掀开筐盖，湿海带下方留空",
+      "location": "青石港带栏杆的卸货台",
+      "character_names": [
+        "沐沐"
+      ],
+      "narration_lines": [
+        "第一筐海带到了。",
+        "水滴穿过筐底，落在石槽里，没泡到筐中的东西。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "青石港带栏杆的卸货台。近景突出手边动作或道具状态。画面：沐沐掀开筐盖，湿海带下方留空。入镜角色：沐沐。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.64,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "皮皮在干棚矮筐内码放圆石样品",
+      "location": "青石港干燥验货棚",
+      "character_names": [
+        "皮皮"
+      ],
+      "narration_lines": [
+        "皮皮在干棚放好一篮圆石样品。",
+        "矮筐很稳，最大的石头也没晃出来。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "俯视呈现平面上的物件和路线",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "青石港干燥验货棚。俯视呈现平面上的物件和路线。画面：皮皮在干棚矮筐内码放圆石样品。入镜角色：皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.98,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "沐沐把一块高脚筐的长木脚举给皮皮看",
+      "location": "青石港干燥验货棚",
+      "character_names": [
+        "沐沐",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "沐沐说，高脚筐是她照着码头长凳做的。",
+        "皮皮这才看见，两样东西真有点像。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "青石港干燥验货棚。平视中景突出人物姿态和相互位置。画面：沐沐把一块高脚筐的长木脚举给皮皮看。入镜角色：沐沐、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.02,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "两人在栏杆内对着两处筐位比划，夕阳照石槽",
+      "location": "青石港带栏杆的卸货台",
+      "character_names": [
+        "沐沐",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "收工前，他们各用一片贝壳给筐位做记号。",
+        "湿的去台边，干的进棚。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "青石港带栏杆的卸货台。侧面中景展示动作方向与相邻环境。画面：两人在栏杆内对着两处筐位比划，夕阳照石槽。入镜角色：沐沐、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.64,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "高脚筐下石槽清清的，远处水面铺淡金光",
+      "location": "青石港带栏杆的卸货台",
+      "character_names": [],
+      "narration_lines": [
+        "港口的水慢慢退下去。",
+        "筐里的海带滴完最后一滴水，石槽也安静了。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "环境留白为主，关键物件或人物位于上部",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "青石港带栏杆的卸货台。环境留白为主，关键物件或人物位于上部。画面：高脚筐下石槽清清的，远处水面铺淡金光。入镜角色：无，仅画环境或道具。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 18.03,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v3剧本和九镜已校时估算，实际配音及后续制作待进行",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/多场景版v2/结构化JSON/ep010.json",
+    "scope": "以约两分钟为目标逐集校时，补充偏短故事的动作、对话或线索，压缩偏长的重复表述",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始",
+    "previous_script_sha256": "59725026dcd7965c8dbef6db684bf0fa0c3479e2adf4a1f475ecb409dae740b1",
+    "edited_shots": [
+      2,
+      4
+    ]
+  },
+  "duration_plan": {
+    "target_s": 120,
+    "planning_range_s": [
+      115,
+      125
+    ],
+    "estimated_s": 122.81,
+    "v2_estimated_using_same_method_s": 106.88,
+    "reference_narration_hanzi_per_second": 2.899607,
+    "opening_s": 1.0,
+    "tail_in_final_shot_s": 8.0
+  }
+}

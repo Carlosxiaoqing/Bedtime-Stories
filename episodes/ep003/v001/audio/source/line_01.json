@@ -1,0 +1,17 @@
+{
+  "text": "睡前，皮皮把小枕头拍了拍，枕面鼓起一个软软的小包，像朵小云。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "edge_tts": "7.3.1",
+  "fingerprint": "af591e08393601bfea6756cc762e22264280c9adb3f72bfc8f3a29e0d79eecaf",
+  "boundaries": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 1000000,
+      "duration": 100653840,
+      "text": "睡前，皮皮把小枕头拍了拍，枕面鼓起一个软软的小包，像朵小云。"
+    }
+  ]
+}

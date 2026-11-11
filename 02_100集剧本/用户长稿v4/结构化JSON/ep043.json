@@ -1,0 +1,87 @@
+{
+  "schema_version": 3,
+  "script_version": "v4",
+  "id": "ep043",
+  "episode": 43,
+  "title": "围巾留一小截",
+  "theme": "舒服不需要包得太紧",
+  "language": "zh-CN",
+  "production_scope": "adopted_user_long_script",
+  "status": "copyedited_media_not_started",
+  "narration_paragraphs": [
+    {
+      "id": "p001",
+      "text": "今天森林里的北风吹得有点儿响，皮皮吃过晚饭后，戴着他长长的毛线小围巾，去门廊下的信箱里取回了今天的《森林晚报》。\n在门廊外的时候，为了让脖子暖和，同时想让自己看起来特别整整齐齐、精精神神的，皮皮特意对着玻璃窗，把围巾在脖子上绕了好几圈，还非要把垂在胸前的两条围巾尾巴，拉得一模一样齐。"
+    },
+    {
+      "id": "p002",
+      "text": "可是，为了把原本一长一短的围巾尾巴拉齐，皮皮不知不觉把脖子上的那一圈毛线拉得太紧了。\n等他捧着报纸走进温暖的屋里，想要低下头看一看报纸上的图画时，却发现脖子被紧绷绷的围巾箍住了，既没法自由地低头，连呼吸都觉得有点儿闷闷的，一点也不舒服。"
+    },
+    {
+      "id": "p003",
+      "text": "皮皮停下了脚步。他摸了摸紧绷的围巾，心想：戴围巾是为了让自己暖和又舒服的，如果为了追求两边绝对一样齐，反而把自己勒得难受，那可太划不来啦。\n于是，皮皮伸出小爪子，先把绕在脖子上的那一圈毛线轻轻往外松开了一大截，让自己的脖子和垂下来的长耳朵，都有了宽松的地方可以轻轻活动。"
+    },
+    {
+      "id": "p004",
+      "text": "接着，他把围巾解下来，挂在衣帽架的横杆上。这一次，他没有再用尺子量着去对齐两端，而是让围巾自然地垂下，左边留出一小截长一点的尾巴，右边短一点，看上去反而显得松软又自然。\n皮皮走到卧室窗边往外看，只见院子里的冬青树枝头上落满了白雪。白雪并没有把树枝的每一个空隙都填得严严实实，而是留着许多透气的缝隙，可小树照样在冬夜里站得安安稳稳的。"
+    },
+    {
+      "id": "p005",
+      "text": "洗漱完坐到床沿上，皮皮戴上柔软的睡帽时，也照着刚才的方法，把帽口放得松松的，没有为了整齐而把两只长耳朵死死压住。\n他钻进被窝，拉好暖黄色的毛毯，特意在肩膀和脖子旁边留出了一点点松软的余地，没有把自己裹成一根动弹不得的木头桩子。这样一来，整个身体就能顺顺当当地陷进柔软的床垫里了。"
+    },
+    {
+      "id": "p006",
+      "text": "胡萝卜玩偶也松松地靠在臂弯里。皮皮闭上眼睛，觉得今晚的温暖，是像云朵一样轻轻围着他的，一点儿压迫感也没有。\n小朋友，睡觉的时候，让被子和衣服松松地陪着你吧。不用事事都追求严丝合缝，不赶时间，也不绷紧身体，舒舒服服地睡吧。晚安。"
+    }
+  ],
+  "cn_characters": 734,
+  "narration_sha256": "1cfbf01f4f01abb18d50f8cdde4e6b5f2740dca4f01f3555d3e338e56c193d30",
+  "source": {
+    "path": "/Users/ww/Downloads/100集睡前故事合集.md",
+    "sha256": "3feafa137e94824baccf8b6e3f3f24bac3e97714b2e201fcc48d461d8969c302",
+    "original_narration_sha256": "1cfbf01f4f01abb18d50f8cdde4e6b5f2740dca4f01f3555d3e338e56c193d30",
+    "original_paragraph_count": 6
+  },
+  "revision_record": [],
+  "duration_policy": {
+    "basis": "complete_narration_at_current_voice_settings",
+    "limit_s": null,
+    "delete_for_duration": false,
+    "time_stretch": false
+  },
+  "voice": {
+    "config": "03_素材与参数/配音与声音参数.json",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000
+  },
+  "actual_duration_s": null,
+  "character_registry": "03_素材与参数/用户长稿v4角色图库.json",
+  "storyboard": {
+    "status": "not_started",
+    "shots": [],
+    "timing_basis": "actual_audio",
+    "preferred_hold_s": [
+      8,
+      10
+    ],
+    "review_above_s": 15,
+    "short_action_hold_s": [
+      3,
+      5
+    ]
+  },
+  "material_state": {
+    "voice": "not_started",
+    "character_references": "not_generated",
+    "illustrations": "not_started",
+    "cover": "not_started",
+    "pinyin_review": "not_started",
+    "render": "not_started",
+    "technical_check": "not_started",
+    "human_watch": "not_started",
+    "user_acceptance": "not_recorded"
+  }
+}

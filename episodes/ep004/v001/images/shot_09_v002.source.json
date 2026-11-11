@@ -1,0 +1,14 @@
+{
+  "id": 9,
+  "prompt": "Use case: precise-object-edit. Image 1 is the EDIT TARGET. Remove the entire unwanted rabbit on the RIGHT (the one wearing a green vest and carrying a pale bag), and seamlessly restore the existing soft grass and woodland path behind it. Keep ONLY the LEFT Pipi rabbit: identical face, long drooping ears, gray-blue overalls, oatmeal shirt, blue shoes and small yellow backpack. Keep that left rabbit's pose, identity, proportions, colors and location completely unchanged. Keep the hill, tiny red-roof cottage, stream, trees, lighting, watercolor paper texture and empty lower subtitle area unchanged. EXACTLY ONE rabbit and no other animals or people anywhere. No added objects, words, text, labels, watermark, borders or split panels. Preserve vertical 9:16 framing.",
+  "reference_inputs": [
+    "/Users/ww/视频/Bedtime-Stories/episodes/ep004/v001/images/shot_09.png"
+  ],
+  "source_generated_path": "/Users/ww/.codex/generated_images/01a1c779-b2c5-7591-8e26-7f019d36a778/exec-3afe4d65-ef68-4508-84c5-02cec4b51ca8.png",
+  "destination": "/Users/ww/视频/Bedtime-Stories/episodes/ep004/v001/images/shot_09_v002.png",
+  "revision": 2,
+  "reason": "remove extra unintended actor",
+  "sha256": "f0551429daa1c02afdb05cdcd685d0d5002179cde0d8495e3322d93938a7e062",
+  "provider": "built-in image_gen",
+  "status": "generated_pending_visual_review"
+}

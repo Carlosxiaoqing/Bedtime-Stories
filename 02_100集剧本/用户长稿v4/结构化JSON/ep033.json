@@ -1,0 +1,91 @@
+{
+  "schema_version": 3,
+  "script_version": "v4",
+  "id": "ep033",
+  "episode": 33,
+  "title": "树梢上的一只苹果",
+  "theme": "把没有完成的事温柔留下",
+  "language": "zh-CN",
+  "production_scope": "adopted_user_long_script",
+  "status": "copyedited_media_not_started",
+  "narration_paragraphs": [
+    {
+      "id": "p001",
+      "text": "秋天是收获的季节，皮皮家小木屋门前的那棵老苹果树，结满了红彤彤、散发着甜香的苹果。\n今天是个晴朗的周末，皮皮约了小熊绒绒和小松鼠团团一起帮忙摘苹果。绒绒力气大，负责在树下扶着竹筐；团团会爬树，负责摘中间树枝上的果子；皮皮则拿着带小网兜的长竹竿，把低处的苹果一个个接进篮子里。"
+    },
+    {
+      "id": "p002",
+      "text": "大家忙活了一个下午，分装了好几篮子苹果，让团团和绒绒带回家去和家人分享。\n到了傍晚，好朋友们都回家了，皮皮独自在院子里收拾最后一只小竹篮。就在他拍拍手准备回屋时，一抬头，忽然看见在最高、最细的那根树梢尖尖上，还留着最后一只红苹果！"
+    },
+    {
+      "id": "p003",
+      "text": "那只小苹果正贴着天边橘红色的晚霞，像一盏挂在树顶的小红灯笼。\n皮皮站在树下仰头看了看，那根树枝太高太细了，竹竿够不着；如果现在再去搬高梯子往上爬，天已经快黑了，既费力气又不安全。"
+    },
+    {
+      "id": "p004",
+      "text": "皮皮摸了摸竹篮里已经装得满满当当的苹果，心想：今天摘的苹果已经足够吃好久好久了，为什么一定要把树上的每一只果子都摘光呢？\n于是，皮皮没有再去搬凳子或梯子往上够。他拎起竹篮走到门廊下放好，顺便沿着老苹果树的树根，捡起了一片被晚风卷过来的金黄树叶。"
+    },
+    {
+      "id": "p005",
+      "text": "皮皮把那片树叶轻轻放在苹果篮的最上面，今天热闹的采摘劳动，就算圆满收尾啦。至于树梢上那最后一只红苹果，就让它在高高的枝头多待一晚，陪陪夜晚的星星和路过的小鸟吧。\n一阵秋日的晚风吹过，树梢上的小苹果慢慢地晃了一下，就像在对着小木屋点头说：“谢谢你呀皮皮，我也找到今晚休息的好地方啦。”"
+    },
+    {
+      "id": "p006",
+      "text": "皮皮站在门口回头望了望，对着陪伴自己长大的老果树轻声道了句“晚安”，然后把小木门合到了熟悉的位置。\n回到卧室里，小枕头不高，暖黄毛毯也不远，不用踮脚也不用爬高，皮皮轻轻松松就钻进了属于自己的舒服被窝里。"
+    },
+    {
+      "id": "p007",
+      "text": "他抱住胡萝卜玩偶，慢慢闭上眼睛。今晚，不用把每一只苹果都带回家，也不用把每一件小事都做完。\n小朋友，明天还有明天的新鲜事和阳光。现在，让今天的一切安安稳稳地结束吧，闭上眼睛，晚安。"
+    }
+  ],
+  "cn_characters": 714,
+  "narration_sha256": "91de698a955930524e39acce18acdc97c202006b2e50feef1ffe739efce9d135",
+  "source": {
+    "path": "/Users/ww/Downloads/100集睡前故事合集.md",
+    "sha256": "3feafa137e94824baccf8b6e3f3f24bac3e97714b2e201fcc48d461d8969c302",
+    "original_narration_sha256": "91de698a955930524e39acce18acdc97c202006b2e50feef1ffe739efce9d135",
+    "original_paragraph_count": 7
+  },
+  "revision_record": [],
+  "duration_policy": {
+    "basis": "complete_narration_at_current_voice_settings",
+    "limit_s": null,
+    "delete_for_duration": false,
+    "time_stretch": false
+  },
+  "voice": {
+    "config": "03_素材与参数/配音与声音参数.json",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000
+  },
+  "actual_duration_s": null,
+  "character_registry": "03_素材与参数/用户长稿v4角色图库.json",
+  "storyboard": {
+    "status": "not_started",
+    "shots": [],
+    "timing_basis": "actual_audio",
+    "preferred_hold_s": [
+      8,
+      10
+    ],
+    "review_above_s": 15,
+    "short_action_hold_s": [
+      3,
+      5
+    ]
+  },
+  "material_state": {
+    "voice": "not_started",
+    "character_references": "not_generated",
+    "illustrations": "not_started",
+    "cover": "not_started",
+    "pinyin_review": "not_started",
+    "render": "not_started",
+    "technical_check": "not_started",
+    "human_watch": "not_started",
+    "user_acceptance": "not_recorded"
+  }
+}

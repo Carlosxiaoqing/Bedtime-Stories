@@ -1,0 +1,77 @@
+{
+  "source_sha256": "3feafa137e94824baccf8b6e3f3f24bac3e97714b2e201fcc48d461d8969c302",
+  "changes": [
+    {
+      "change_id": "C001",
+      "episode": "ep044",
+      "paragraph_id": "p003",
+      "before": "一张白い画纸",
+      "after": "一张白色画纸",
+      "reason": "混入日文假名，恢复中文"
+    },
+    {
+      "change_id": "C002",
+      "episode": "ep044",
+      "paragraph_id": "p003",
+      "before": "它 gracefully 绕过了几片草叶",
+      "after": "它轻巧地绕过了几片草叶",
+      "reason": "混入英文，恢复自然中文"
+    },
+    {
+      "change_id": "C003",
+      "episode": "ep046",
+      "paragraph_id": "p002",
+      "before": "洗净烘乾",
+      "after": "洗净烘干",
+      "reason": "统一简体字形"
+    },
+    {
+      "change_id": "C004",
+      "episode": "ep068",
+      "paragraph_id": "p008",
+      "before": "忙碌徹底放下",
+      "after": "忙碌彻底放下",
+      "reason": "统一简体字形"
+    },
+    {
+      "change_id": "C005",
+      "episode": "ep077",
+      "paragraph_id": "p006",
+      "before": "至始至终都没有再去争论",
+      "after": "自始至终都没有再去争论",
+      "reason": "修正成语错字"
+    },
+    {
+      "change_id": "C006",
+      "episode": "ep087",
+      "paragraph_id": "p006",
+      "before": "是皮皮专门写给留给自己的",
+      "after": "是皮皮专门写给自己的",
+      "reason": "去除叠写，不删情节"
+    },
+    {
+      "change_id": "C007",
+      "episode": "ep091",
+      "paragraph_id": "p004",
+      "before": "接着，皮皮又顺着横向轻轻折了一小边。",
+      "after": "接着，皮皮又顺着横向对折，再耐心地折了两次。",
+      "reason": "补足折叠过程，使四开大纸与掌心大小连续"
+    },
+    {
+      "change_id": "C008",
+      "episode": "ep091",
+      "paragraph_id": "p004",
+      "before": "经过这两下温柔的折叠，一下子变成了一张巴掌大小",
+      "after": "经过这几次温柔的折叠，慢慢变成了一张巴掌大小",
+      "reason": "与前句折叠次数及渐进变化一致"
+    },
+    {
+      "change_id": "C009",
+      "episode": "ep100",
+      "paragraph_id": "p003",
+      "before": "树洞早教班的山羊老师",
+      "after": "森林学堂的山羊老师",
+      "reason": "统一系列学堂称谓，不添加年龄说明"
+    }
+  ]
+}

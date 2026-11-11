@@ -1,0 +1,257 @@
+{
+  "schema_version": 2,
+  "script_version": "v2",
+  "id": "ep048",
+  "episode": 48,
+  "title": "山缆车上靠里的一排",
+  "cover_title": "缆车靠里坐",
+  "category": "出行",
+  "theme": "可以照自己的节奏体验新事物",
+  "setting": "松岭缆车站内、松岭缆车车厢、松岭上站平台",
+  "viewpoint_character": "栗栗",
+  "guest": "栗栗、芽芽",
+  "character_names": [
+    "栗栗",
+    "皮皮",
+    "芽芽"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "按晓晓-35%实际口播、停顿和约8秒尾声确定",
+  "cn_characters": 266,
+  "initial_duration_budget_s": 105.47,
+  "shots": [
+    {
+      "id": 1,
+      "title": "站内缆车停在地标线内，栗栗和皮皮、芽芽排队",
+      "location": "松岭缆车站内",
+      "character_names": [
+        "栗栗",
+        "皮皮",
+        "芽芽"
+      ],
+      "narration_lines": [
+        "栗栗答应陪皮皮坐缆车。",
+        "站在门边看见下面的坡，他把想伸出去的脚收了回来。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "松岭缆车站内。竖幅远景交代空间和前后层次。画面：站内缆车停在地标线内，栗栗和皮皮、芽芽排队。入镜角色：栗栗、皮皮、芽芽。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.67,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "栗栗指向车厢靠内长凳，芽芽站在登车口等候",
+      "location": "松岭缆车站内",
+      "character_names": [
+        "栗栗",
+        "皮皮",
+        "芽芽"
+      ],
+      "narration_lines": [
+        "芽芽问栗栗想坐哪边。",
+        "栗栗说想靠里坐，先看车里的木椅。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "松岭缆车站内。平视中景突出人物姿态和相互位置。画面：栗栗指向车厢靠内长凳，芽芽站在登车口等候。入镜角色：栗栗、皮皮、芽芽。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 8.86,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "栗栗在靠内凳上坐稳，皮皮和芽芽分坐两旁",
+      "location": "松岭缆车车厢",
+      "character_names": [
+        "栗栗",
+        "皮皮",
+        "芽芽"
+      ],
+      "narration_lines": [
+        "他们坐好，车才慢慢离站。",
+        "栗栗数着椅背上的三道木纹，等车身的轻晃过去。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "松岭缆车车厢。侧面中景展示动作方向与相邻环境。画面：栗栗在靠内凳上坐稳，皮皮和芽芽分坐两旁。入镜角色：栗栗、皮皮、芽芽。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.04,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "栗栗一手搭木椅扶边，视线从椅背转向车门边的小画",
+      "location": "松岭缆车车厢",
+      "character_names": [
+        "栗栗"
+      ],
+      "narration_lines": [
+        "过了第一根柱子，他抬头看见门边画着一座松树山。",
+        "芽芽告诉他，那是他们要去的地方。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "松岭缆车车厢。近景突出手边动作或道具状态。画面：栗栗一手搭木椅扶边，视线从椅背转向车门边的小画。入镜角色：栗栗。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.61,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "皮皮把窗外见到的树顶比给栗栗看，栗栗仍在内侧",
+      "location": "松岭缆车车厢",
+      "character_names": [
+        "栗栗",
+        "皮皮",
+        "芽芽"
+      ],
+      "narration_lines": [
+        "皮皮看见一棵很圆的树，没叫栗栗立刻来看，只用两只爪比了一个小圆。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "松岭缆车车厢。平视中景突出人物姿态和相互位置。画面：皮皮把窗外见到的树顶比给栗栗看，栗栗仍在内侧。入镜角色：栗栗、皮皮、芽芽。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.01,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "栗栗隔着座位从内侧斜看近处的一小片树梢",
+      "location": "松岭缆车车厢",
+      "character_names": [
+        "栗栗"
+      ],
+      "narration_lines": [
+        "栗栗从座位里看出去，只瞧见圆树最上面一小截。",
+        "看完，他又把目光收回到木椅上。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "越肩构图同时看见观察者与目标",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "松岭缆车车厢。越肩构图同时看见观察者与目标。画面：栗栗隔着座位从内侧斜看近处的一小片树梢。入镜角色：栗栗。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.98,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "车已停稳，栗栗踏上上站平台，两个朋友站在旁边",
+      "location": "松岭上站平台",
+      "character_names": [
+        "栗栗",
+        "皮皮",
+        "芽芽"
+      ],
+      "narration_lines": [
+        "缆车到了。",
+        "栗栗下车时说：“我看见了一点点，刚好够了。”"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "松岭上站平台。平视中景突出人物姿态和相互位置。画面：车已停稳，栗栗踏上上站平台，两个朋友站在旁边。入镜角色：栗栗、皮皮、芽芽。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 8.23,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "三位在站台外平地望见刚才经过的圆树",
+      "location": "松岭上站平台",
+      "character_names": [
+        "栗栗",
+        "皮皮",
+        "芽芽"
+      ],
+      "narration_lines": [
+        "他们到了平地上，才一起看那棵圆树。",
+        "栗栗发现，树顶还比皮皮比的圆一点。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "松岭上站平台。侧面中景展示动作方向与相邻环境。画面：三位在站台外平地望见刚才经过的圆树。入镜角色：栗栗、皮皮、芽芽。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.04,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "空平台外松树连成缓坡，缆车安静停在站内",
+      "location": "松岭上站平台",
+      "character_names": [],
+      "narration_lines": [
+        "回程的座位还没定。",
+        "栗栗在平台长椅坐下，说等回去时，再选今天最舒服的那一排。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "松岭上站平台。竖幅远景交代空间和前后层次。画面：空平台外松树连成缓坡，缆车安静停在站内。入镜角色：无，仅画环境或道具。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 19.03,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v2剧本与九镜已编写，配音、插画、封面、字幕及视频待制作",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/结构化JSON/ep048.json",
+    "scope": "按用户反馈重写人物互动、故事事件、场景及九镜",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始"
+  }
+}

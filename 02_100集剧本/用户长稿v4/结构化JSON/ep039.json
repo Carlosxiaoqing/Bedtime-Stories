@@ -1,0 +1,95 @@
+{
+  "schema_version": 3,
+  "script_version": "v4",
+  "id": "ep039",
+  "episode": 39,
+  "title": "还在枝头的银杏叶",
+  "theme": "不必等所有变化发生才休息",
+  "language": "zh-CN",
+  "production_scope": "adopted_user_long_script",
+  "status": "copyedited_media_not_started",
+  "narration_paragraphs": [
+    {
+      "id": "p001",
+      "text": "皮皮家小木屋的窗外，长着一棵高大的银杏树。\n一到深秋，银杏树叶就变成了灿烂的金黄色，每一片都像一把精致的小扇子。这几天秋风吹过，成百上千把“小金扇子”纷纷落下来，把院子铺得金灿灿的。"
+    },
+    {
+      "id": "p002",
+      "text": "今天傍晚，皮皮和来做客的小鼹鼠点点趴在窗前看风景。\n点点指着窗外说：“皮皮你看，整棵银杏树的叶子都快掉光了，只剩下靠近窗户的那根细枝上，还留着最后一片小叶子呢！”"
+    },
+    {
+      "id": "p003",
+      "text": "点点回家后，皮皮吃过晚饭，搬来自己的小木椅坐在窗边，双手托着腮帮子，目不转睛地看着枝头那最后一片金黄色的银杏叶。\n晚风吹过来，那片小扇子一样的叶子在枝头慢慢地晃了两下，叶柄动了动。皮皮心里充满了好奇，他特别想知道，这片叶子今晚到底会不会落下来呢？"
+    },
+    {
+      "id": "p004",
+      "text": "一阵稍大一点的风经过了，树枝摇了摇，小银杏叶还在；天上的一朵灰云飘过去了，月亮露出来，小银杏叶也还在，依然稳稳当当地靠着那根细树枝。\n皮皮等了好一会儿，忍不住揉了揉有些发困的眼睛，打了一个小小的哈欠。"
+    },
+    {
+      "id": "p005",
+      "text": "他看了看窗外那片从容的叶子，忽然明白了：每一片叶子什么时候落下，都有它自己的时间，不是我一直瞪大眼睛盯着它，它就会马上掉下来的呀。\n于是，皮皮站起身，把窗边的小木椅轻轻推回原处，不再一直仰着小脑袋傻等了。"
+    },
+    {
+      "id": "p006",
+      "text": "他从自己白天的收集篮里，找出了另一片早就落在草地上的金黄银杏叶，把它平平地放到床头柜的小木碟里，让它隔着玻璃窗，和枝头上的那片叶子遥遥相望。\n一片已经落下来的叶子在温暖的屋里歇息，一片还没落下来的叶子在清爽的枝头看月亮，它们都有自己的节奏，不需要在今晚一起做决定。"
+    },
+    {
+      "id": "p007",
+      "text": "暖黄色的毛毯盖好以后，皮皮舒舒服服地靠住枕头，对着窗外那把金黄色的小扇子，在心里轻声道了句“晚安”。\n他慢慢闭上眼睛。今晚那片叶子落不落下来，都一点儿也不妨碍小兔子睡一个香甜的好觉。"
+    },
+    {
+      "id": "p008",
+      "text": "小朋友，生活里那些还没有等到结果的小事情，就放心地交给明天吧。今晚的你，只需要先让自己好好休息。晚安。"
+    }
+  ],
+  "cn_characters": 690,
+  "narration_sha256": "045b8be6a4de62e837a1c9018d89865f1e850d8d3312d1049c3ed991dd414e5c",
+  "source": {
+    "path": "/Users/ww/Downloads/100集睡前故事合集.md",
+    "sha256": "3feafa137e94824baccf8b6e3f3f24bac3e97714b2e201fcc48d461d8969c302",
+    "original_narration_sha256": "045b8be6a4de62e837a1c9018d89865f1e850d8d3312d1049c3ed991dd414e5c",
+    "original_paragraph_count": 8
+  },
+  "revision_record": [],
+  "duration_policy": {
+    "basis": "complete_narration_at_current_voice_settings",
+    "limit_s": null,
+    "delete_for_duration": false,
+    "time_stretch": false
+  },
+  "voice": {
+    "config": "03_素材与参数/配音与声音参数.json",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000
+  },
+  "actual_duration_s": null,
+  "character_registry": "03_素材与参数/用户长稿v4角色图库.json",
+  "storyboard": {
+    "status": "not_started",
+    "shots": [],
+    "timing_basis": "actual_audio",
+    "preferred_hold_s": [
+      8,
+      10
+    ],
+    "review_above_s": 15,
+    "short_action_hold_s": [
+      3,
+      5
+    ]
+  },
+  "material_state": {
+    "voice": "not_started",
+    "character_references": "not_generated",
+    "illustrations": "not_started",
+    "cover": "not_started",
+    "pinyin_review": "not_started",
+    "render": "not_started",
+    "technical_check": "not_started",
+    "human_watch": "not_started",
+    "user_acceptance": "not_recorded"
+  }
+}

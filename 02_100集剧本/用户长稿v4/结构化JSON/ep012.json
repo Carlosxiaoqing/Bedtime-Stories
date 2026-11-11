@@ -1,0 +1,99 @@
+{
+  "schema_version": 3,
+  "script_version": "v4",
+  "id": "ep012",
+  "episode": 12,
+  "title": "小松鼠的空篮子",
+  "theme": "今天不必装得满满的",
+  "language": "zh-CN",
+  "production_scope": "adopted_user_long_script",
+  "status": "copyedited_media_not_started",
+  "narration_paragraphs": [
+    {
+      "id": "p001",
+      "text": "今天下午，树洞教室上了一节有趣的“森林寻宝课”。山羊老师给每个小朋友发了一只小巧的藤编篮子，让大家去橡树林里捡掉落的果实。\n小松鼠团团最擅长找坚果了，他还在出发前跟皮皮拍着胸脯说：“今天我一定要把篮子装得像小山一样满！”"
+    },
+    {
+      "id": "p002",
+      "text": "可是，前两天森林里刚刮过一阵大风，大部分成熟的松果已经被大松鼠们收进树洞仓库里了。\n皮皮和团团在厚厚的草丛里找呀找，找了整整半个下午，团团的小篮子里也只放着两枚圆圆的松果。"
+    },
+    {
+      "id": "p003",
+      "text": "眼看太阳就要落到山坡后面了，集合的铃声已经轻轻响起。\n回家的路上，团团拎着那只大大的藤篮，低头看着篮底孤零零的两枚松果，它们在空荡荡的篮子里滚来滚去，撞得竹编壁“啪嗒、啪嗒”地响。"
+    },
+    {
+      "id": "p004",
+      "text": "团团停在皮皮家门廊前，扁着嘴巴说：“皮皮，我的篮子还有一大半是空的，我想再回林子里找一找，不装满它，我觉得今天像没完成任务一样。”\n皮皮看了看天边已经变暗的云彩，没有让团团再摸黑跑回森林。他转身进屋，拿出一块折得厚厚的米色软布，垫在了团团的篮子底下。"
+    },
+    {
+      "id": "p005",
+      "text": "软布一铺上去，那两枚松果立刻乖乖地靠在了一起，不再冷清地滚来滚去了。\n接着，皮皮指了指篮子旁边空出来的一半地方，又捡起门廊台阶上一片金黄色的、像小扇子一样的落叶，轻轻放了进去。"
+    },
+    {
+      "id": "p006",
+      "text": "一阵晚风从门廊经过，篮子里的叶尖轻轻晃了一下。\n皮皮温和地说：“团团你看，现在的篮子一点儿也不空呀。这两枚松果今天有软布坐着，还有一片漂亮的叶子陪着，要是装得太满，它们反而要挤得透不过气啦。”"
+    },
+    {
+      "id": "p007",
+      "text": "团团凑过去仔细看了看。真的耶！两枚松果挨着金黄的树叶，在米色软布上像一幅安静的小画，虽然不满，却已经有了专属于自己的漂亮风景。\n团团一下子开心起来，他笑着合上小布盖，跟皮皮道了晚安，沿着熟悉的小路回家去了，脚步轻快，一点儿也不着急。"
+    },
+    {
+      "id": "p008",
+      "text": "皮皮把小木门轻轻关好，回到自己的床边。今天没装进篮子里的那些松果，此时也正好好地留在森林的泥土上休息呢。\n他盖好毛毯，把小爪子松开。看呐，窗边的月光也没有把整个房间填满，而是留着一大块安静又温柔的空白。"
+    },
+    {
+      "id": "p009",
+      "text": "小朋友，今天不用事事都做得满满当当。给心里的篮子留一点空地方，用来盛放休息和美梦吧。晚安，愿你睡得舒服。"
+    }
+  ],
+  "cn_characters": 769,
+  "narration_sha256": "1ce37b22c8b3ca43ef368af1d6121cef91a5962e638081943360763efc370151",
+  "source": {
+    "path": "/Users/ww/Downloads/100集睡前故事合集.md",
+    "sha256": "3feafa137e94824baccf8b6e3f3f24bac3e97714b2e201fcc48d461d8969c302",
+    "original_narration_sha256": "1ce37b22c8b3ca43ef368af1d6121cef91a5962e638081943360763efc370151",
+    "original_paragraph_count": 9
+  },
+  "revision_record": [],
+  "duration_policy": {
+    "basis": "complete_narration_at_current_voice_settings",
+    "limit_s": null,
+    "delete_for_duration": false,
+    "time_stretch": false
+  },
+  "voice": {
+    "config": "03_素材与参数/配音与声音参数.json",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000
+  },
+  "actual_duration_s": null,
+  "character_registry": "03_素材与参数/用户长稿v4角色图库.json",
+  "storyboard": {
+    "status": "not_started",
+    "shots": [],
+    "timing_basis": "actual_audio",
+    "preferred_hold_s": [
+      8,
+      10
+    ],
+    "review_above_s": 15,
+    "short_action_hold_s": [
+      3,
+      5
+    ]
+  },
+  "material_state": {
+    "voice": "not_started",
+    "character_references": "not_generated",
+    "illustrations": "not_started",
+    "cover": "not_started",
+    "pinyin_review": "not_started",
+    "render": "not_started",
+    "technical_check": "not_started",
+    "human_watch": "not_started",
+    "user_acceptance": "not_recorded"
+  }
+}

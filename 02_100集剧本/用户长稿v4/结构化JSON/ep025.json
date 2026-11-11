@@ -1,0 +1,95 @@
+{
+  "schema_version": 3,
+  "script_version": "v4",
+  "id": "ep025",
+  "episode": 25,
+  "title": "小溪把声音放轻",
+  "theme": "把白天的热闹带回安静",
+  "language": "zh-CN",
+  "production_scope": "adopted_user_long_script",
+  "status": "copyedited_media_not_started",
+  "narration_paragraphs": [
+    {
+      "id": "p001",
+      "text": "今天对于皮皮来说，是个特别难忘的日子——森林学堂的全体小朋友，跟着山羊老师去了森林深处的“哗啦啦小溪”，进行了一次开心的小小日间野营。"
+    },
+    {
+      "id": "p002",
+      "text": "白天的溪水可热闹啦！清澈的溪水从圆滚滚的鹅卵石旁边跑过去，发出“哗啦啦、叮咚咚”的欢快响声，摸起来凉丝丝的。\n下午自由活动的时候，小松鼠团团和小熊绒绒在浅水滩边比赛打水漂，欢呼声一阵高过一阵。"
+    },
+    {
+      "id": "p003",
+      "text": "皮皮玩了一会儿水后，觉得有点累了，就独自坐在岸边一块晒得暖洋洋的大石头上，把小爪子放在膝头，安静地看着水面。\n这时，一片细长的柳叶掉进了溪水里。它顺着水流，在“哗啦啦”的浪花间慢慢地漂了过去。"
+    },
+    {
+      "id": "p004",
+      "text": "皮皮用目光护送着那片小柳叶。只见柳叶漂到一块大圆石头的后面时，水流忽然变缓了；小柳叶在平静的水面上打了一个优雅的小转身，便轻轻地停靠在了平缓的岸边水草旁，不再往前跑了。\n集合的哨声响起时，皮皮没有再去追着看小柳叶，他轻轻站起身，拍掉裤子上的草屑，牵着好朋友的手，沿着熟悉的森林小路回了家。"
+    },
+    {
+      "id": "p005",
+      "text": "到了晚上，洗去了一身的疲惫，皮皮躺进了自己卧室的小木床里。\n现在，那条热闹的“哗啦啦小溪”已经留在了窗外很远很远的森林深处；而柔软的小床就在身边，暖黄色的毛毯正暖暖地铺在身上。"
+    },
+    {
+      "id": "p006",
+      "text": "皮皮把胡萝卜玩偶抱近了一点，闭着眼睛在脑海里想象：此时此刻，白天那片停在石头后面的小柳叶，一定也在安静的水湾里睡着了吧？\n他竖起长耳朵仔细听了听，屋里没有白天哗啦啦的水声，也没有伙伴们的欢呼声，只有自己一吸、一呼，轻轻的、均匀的呼吸声。"
+    },
+    {
+      "id": "p007",
+      "text": "就像溪水流到大石头后面会自动把声音放轻一样，皮皮白天那些热闹的记忆和兴奋的心情，也慢慢地淡了下来、缓了下来。\n皮皮的眼皮，也像那片靠岸的小柳叶一样，轻轻地合拢、停住了。"
+    },
+    {
+      "id": "p008",
+      "text": "小朋友，今天看过的热闹风景、玩过的开心游戏，都已经稳稳地留在心里啦。现在，小溪把声音放轻了，你也安心地待在温暖的小床上，慢慢睡去吧。晚安。"
+    }
+  ],
+  "cn_characters": 677,
+  "narration_sha256": "9befda6fe74990808ae3fb057160db0a6277cb0ee7ba09fd8db4d0a9ec5f9a36",
+  "source": {
+    "path": "/Users/ww/Downloads/100集睡前故事合集.md",
+    "sha256": "3feafa137e94824baccf8b6e3f3f24bac3e97714b2e201fcc48d461d8969c302",
+    "original_narration_sha256": "9befda6fe74990808ae3fb057160db0a6277cb0ee7ba09fd8db4d0a9ec5f9a36",
+    "original_paragraph_count": 8
+  },
+  "revision_record": [],
+  "duration_policy": {
+    "basis": "complete_narration_at_current_voice_settings",
+    "limit_s": null,
+    "delete_for_duration": false,
+    "time_stretch": false
+  },
+  "voice": {
+    "config": "03_素材与参数/配音与声音参数.json",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000
+  },
+  "actual_duration_s": null,
+  "character_registry": "03_素材与参数/用户长稿v4角色图库.json",
+  "storyboard": {
+    "status": "not_started",
+    "shots": [],
+    "timing_basis": "actual_audio",
+    "preferred_hold_s": [
+      8,
+      10
+    ],
+    "review_above_s": 15,
+    "short_action_hold_s": [
+      3,
+      5
+    ]
+  },
+  "material_state": {
+    "voice": "not_started",
+    "character_references": "not_generated",
+    "illustrations": "not_started",
+    "cover": "not_started",
+    "pinyin_review": "not_started",
+    "render": "not_started",
+    "technical_check": "not_started",
+    "human_watch": "not_started",
+    "user_acceptance": "not_recorded"
+  }
+}

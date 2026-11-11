@@ -1,0 +1,9 @@
+{
+  "json_source": "02_100集剧本/用户长稿v4/结构化JSON/ep004.json",
+  "delivery_snapshot": "script.production.json",
+  "reading_view": "口播稿.md",
+  "narration_sha256": "3ee59a09aef621bed816cbbf8214455b28ac36c7e0bd8af92071ee850cd50624",
+  "source_snapshot_reading_equal": true,
+  "hanzi": 742,
+  "narration_edited_during_production": false
+}

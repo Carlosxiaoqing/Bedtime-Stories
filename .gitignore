@@ -1,4 +1,28 @@
 .venv/
-Outputs/
 __pycache__/
 *.pyc
+
+# Generated videos stay local; applies to existing and future output locations.
+*.[mM][pP]4
+*.[mM][oO][vV]
+*.[mM][kK][vV]
+*.[wW][eE][bB][mM]
+*.[aA][vV][iI]
+*.[mM]4[vV]
+*.[gG][iI][fF]
+
+# Archives duplicate source assets and may embed videos. Track loose sources.
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+*.rar
+
+.DS_Store
+.render-cache/
+*.f32
+*.partial
+.env
+.env.*
+!.env.example

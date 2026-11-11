@@ -1,0 +1,95 @@
+{
+  "schema_version": 3,
+  "script_version": "v4",
+  "id": "ep097",
+  "episode": 97,
+  "title": "小屋里的轻声晚安",
+  "theme": "用温柔仪式结束一天",
+  "language": "zh-CN",
+  "production_scope": "adopted_user_long_script",
+  "status": "copyedited_media_not_started",
+  "narration_paragraphs": [
+    {
+      "id": "p001",
+      "text": "夜深了，整座森林都进入了梦乡，皮皮的小木屋里也收拾得干干净净、妥妥帖帖。\n今天晚上，洗漱完毕的皮皮坐在自己温暖的小床边，看着房间里这些陪伴了自己一天又一天的熟悉老朋友，心里涌起满满的感激。在钻进被窝之前，他想给今天陪过自己的每一件小东西，都轻轻地说一声温柔的“晚安”。"
+    },
+    {
+      "id": "p002",
+      "text": "皮皮先转过头，望了望挂着叶子花窗帘的木窗户，轻声说：“晚安，小月亮。”\n窗外的银色月光乖乖地停在窗框边上，像是听懂了皮皮的话，安静地洒下一层薄纱，没有急匆匆地闯进屋里来晃他的眼睛。"
+    },
+    {
+      "id": "p003",
+      "text": "接着，皮皮又看了看书桌上整齐排放的笔架，轻声说：“晚安，小画笔，还有小画家。”\n那支洗得干干净净的软毛小画笔，正平平地躺在木头笔架上，柔软的笔尖悬空歇着，今天它已经画出了最美的颜色。"
+    },
+    {
+      "id": "p004",
+      "text": "然后，皮皮低下头，看了看床沿下方的小地毯，轻声说：“晚安，小拖鞋。”\n那两只毛绒小拖鞋正鞋尖朝前，整整齐齐地并排坐在床下。皮皮把光溜溜、暖融融的小脚丫收进被窝里，让辛苦了一天的小拖鞋安心留在原处休息。"
+    },
+    {
+      "id": "p005",
+      "text": "说完这些，皮皮伸出小爪子，轻轻摸了摸身后的大枕头，顺势慢吞吞地靠了下去。\n软绵绵的大枕头虽然不会开口回答，却在皮皮靠上来的第一时间，就用最蓬松的怀抱，稳稳当当地接住了他的小脑袋和脸颊。"
+    },
+    {
+      "id": "p006",
+      "text": "最后，皮皮把一直坐在旁边的胡萝卜玩偶抱回了自己的小臂弯里，替它，也替自己，拉过那条熟悉的暖黄色小毛毯，一直盖到下巴底下。\n你看，小木屋里的每一件东西，从窗台到书桌，从地板到枕边，全都安顿好了。房间里不用再说很多热闹的话，却已经充满了满满当当、让人安心的陪伴。"
+    },
+    {
+      "id": "p007",
+      "text": "皮皮慢慢地闭上眼睛，在心里把今晚最后一句、也是最轻柔的一句“晚安”，留给了这个同样认真生活、认真长大了一整天的自己：“晚安，皮皮。”\n呼吸变得又轻又慢，小屋彻底安静了下来。"
+    },
+    {
+      "id": "p008",
+      "text": "小朋友，现在也请你像皮皮一样，在心里给你的小枕头、小被子，还有今天表现得特别棒的自己，道一句温柔的晚安吧。你的小床已经等好啦，晚安。"
+    }
+  ],
+  "cn_characters": 689,
+  "narration_sha256": "7df08656d524c77aaed5816a86d6230f9b4a3322a59e162be304452656eee687",
+  "source": {
+    "path": "/Users/ww/Downloads/100集睡前故事合集.md",
+    "sha256": "3feafa137e94824baccf8b6e3f3f24bac3e97714b2e201fcc48d461d8969c302",
+    "original_narration_sha256": "7df08656d524c77aaed5816a86d6230f9b4a3322a59e162be304452656eee687",
+    "original_paragraph_count": 8
+  },
+  "revision_record": [],
+  "duration_policy": {
+    "basis": "complete_narration_at_current_voice_settings",
+    "limit_s": null,
+    "delete_for_duration": false,
+    "time_stretch": false
+  },
+  "voice": {
+    "config": "03_素材与参数/配音与声音参数.json",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000
+  },
+  "actual_duration_s": null,
+  "character_registry": "03_素材与参数/用户长稿v4角色图库.json",
+  "storyboard": {
+    "status": "not_started",
+    "shots": [],
+    "timing_basis": "actual_audio",
+    "preferred_hold_s": [
+      8,
+      10
+    ],
+    "review_above_s": 15,
+    "short_action_hold_s": [
+      3,
+      5
+    ]
+  },
+  "material_state": {
+    "voice": "not_started",
+    "character_references": "not_generated",
+    "illustrations": "not_started",
+    "cover": "not_started",
+    "pinyin_review": "not_started",
+    "render": "not_started",
+    "technical_check": "not_started",
+    "human_watch": "not_started",
+    "user_acceptance": "not_recorded"
+  }
+}

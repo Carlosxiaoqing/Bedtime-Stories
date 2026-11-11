@@ -1,0 +1,91 @@
+{
+  "schema_version": 3,
+  "script_version": "v4",
+  "id": "ep057",
+  "episode": 57,
+  "title": "花瓣落在手心",
+  "theme": "温柔接住变化",
+  "language": "zh-CN",
+  "production_scope": "adopted_user_long_script",
+  "status": "copyedited_media_not_started",
+  "narration_paragraphs": [
+    {
+      "id": "p001",
+      "text": "春天到了最繁盛的时候，皮皮家院子里的那棵粉白海棠树，开出了满树云霞一样的花朵。\n今天下午，皮皮邀请小鹿芽芽来树下画画。春风吹过，海棠花枝轻轻摇曳，香气飘满了整个院子。"
+    },
+    {
+      "id": "p002",
+      "text": "傍晚送走芽芽后，皮皮站在海棠树下，正在收拾画板上的夹子。\n就在他摊开一只小爪子，准备去拿盒盖的时候，一阵极轻的晚风拂过树梢——一片淡粉色的海棠花瓣，脱离了花蒂，在空中像一只小蝴蝶似的打了个旋儿，慢悠悠、慢悠悠地落了下来，不偏不倚，正好停在了皮皮摊开的小爪心里！"
+    },
+    {
+      "id": "p003",
+      "text": "那片花瓣实在是太轻了，落下来的时候连一点儿声音都没有，只有手心绒毛感觉到了一丝微凉的、软绸缎一样的触感。\n皮皮低头看去，只见花瓣的边缘微微向上弯着一点，中间盛着夕阳最后一点余晖，看起来就像一艘小小的、安静停靠在他掌心里的粉红小船。"
+    },
+    {
+      "id": "p004",
+      "text": "皮皮仰起头望了望头顶的花枝。那朵少了花瓣的海棠花，在枝头依然很漂亮，而它的花萼后面，已经在悄悄孕育着夏天的小果子了。\n皮皮知道，花朵开够了，花瓣就会自然而然地落下来，这是春天往前走的脚步。所以，他没有笨拙地想把花瓣重新按回高高的花枝上去，而是托着小爪子，让这片花瓣在自己温热的手心里安安静静地停了一会儿。"
+    },
+    {
+      "id": "p005",
+      "text": "走进小木屋后，皮皮从桌角拿来一只浅浅的原木小碟子，在碟子底部铺好了一张干干净净的米白色软纸，然后双手轻轻一倾，把那片淡粉色的花瓣完整地请到了白纸正中间。\n卧室的床头灯亮了起来，暖黄色的光芒照过来，让碟子里的淡粉色花瓣显得更加柔和、温润。你看，虽然它离开了树枝，换了一个新地方，可它被温柔地接住了，看起来依然那么好看。"
+    },
+    {
+      "id": "p006",
+      "text": "皮皮把这只盛着花瓣的小木碟，稳稳地放在床头柜的一角，跟窗台上的小花盆隔着一小段舒服的距离，没有再把它搬来搬去。\n洗漱完毕，皮皮抱好胡萝卜玩偶，舒舒服服地靠进大枕头里。他摊开刚才接住花瓣的那只小爪子看了看，这双小爪子今天已经把最轻柔的东西安顿好了，现在也可以休息了。"
+    },
+    {
+      "id": "p007",
+      "text": "皮皮的眼睛慢慢闭上。木碟里的花瓣没有声音，怀里的玩偶没有声音，整座小木屋都安静下来了。\n小朋友，生活里总会有一些像花瓣落下一样的小变化，别害怕，只要我们温柔地接住它，变化也会变成新的美好。先让自己暖暖地歇着吧，晚安。"
+    }
+  ],
+  "cn_characters": 792,
+  "narration_sha256": "daf1ba319a4d2c1198332cc47df4af4515144427bd4ef5d0328e7f9db40a5edd",
+  "source": {
+    "path": "/Users/ww/Downloads/100集睡前故事合集.md",
+    "sha256": "3feafa137e94824baccf8b6e3f3f24bac3e97714b2e201fcc48d461d8969c302",
+    "original_narration_sha256": "daf1ba319a4d2c1198332cc47df4af4515144427bd4ef5d0328e7f9db40a5edd",
+    "original_paragraph_count": 7
+  },
+  "revision_record": [],
+  "duration_policy": {
+    "basis": "complete_narration_at_current_voice_settings",
+    "limit_s": null,
+    "delete_for_duration": false,
+    "time_stretch": false
+  },
+  "voice": {
+    "config": "03_素材与参数/配音与声音参数.json",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000
+  },
+  "actual_duration_s": null,
+  "character_registry": "03_素材与参数/用户长稿v4角色图库.json",
+  "storyboard": {
+    "status": "not_started",
+    "shots": [],
+    "timing_basis": "actual_audio",
+    "preferred_hold_s": [
+      8,
+      10
+    ],
+    "review_above_s": 15,
+    "short_action_hold_s": [
+      3,
+      5
+    ]
+  },
+  "material_state": {
+    "voice": "not_started",
+    "character_references": "not_generated",
+    "illustrations": "not_started",
+    "cover": "not_started",
+    "pinyin_review": "not_started",
+    "render": "not_started",
+    "technical_check": "not_started",
+    "human_watch": "not_started",
+    "user_acceptance": "not_recorded"
+  }
+}

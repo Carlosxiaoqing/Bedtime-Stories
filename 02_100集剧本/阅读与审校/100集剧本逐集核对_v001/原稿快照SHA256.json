@@ -1,0 +1,874 @@
+{
+  "02_100集剧本/结构化JSON/ep001.json": {
+    "snapshot_sha256": "893ca3833dc6c76b0220ee85825ceba478428d1a69ca411728cac4a2a17a0ed2",
+    "current_sha256": "893ca3833dc6c76b0220ee85825ceba478428d1a69ca411728cac4a2a17a0ed2"
+  },
+  "02_100集剧本/结构化JSON/ep002.json": {
+    "snapshot_sha256": "a7185fca231b23e9a59bcaa426847775024c64a5457bb509316f2ecfe8471012",
+    "current_sha256": "a7185fca231b23e9a59bcaa426847775024c64a5457bb509316f2ecfe8471012"
+  },
+  "02_100集剧本/结构化JSON/ep003.json": {
+    "snapshot_sha256": "afa072c817443d6319e8a9f1a0ed21a6d5350aed03354e1e3b072f43dc561bad",
+    "current_sha256": "afa072c817443d6319e8a9f1a0ed21a6d5350aed03354e1e3b072f43dc561bad"
+  },
+  "02_100集剧本/结构化JSON/ep004.json": {
+    "snapshot_sha256": "109d6bac5ce72858bd364c85f18ebbe8e26cf3fa4976510326cc1a3d43893ee8",
+    "current_sha256": "109d6bac5ce72858bd364c85f18ebbe8e26cf3fa4976510326cc1a3d43893ee8"
+  },
+  "02_100集剧本/结构化JSON/ep005.json": {
+    "snapshot_sha256": "1777a65800ecf3fb8e9168be3d8ed34898fd7859c74692eaa53a701f531d3f08",
+    "current_sha256": "1777a65800ecf3fb8e9168be3d8ed34898fd7859c74692eaa53a701f531d3f08"
+  },
+  "02_100集剧本/结构化JSON/ep006.json": {
+    "snapshot_sha256": "60bfd097e0e0734785e5c38d9a7cac830d2c6040111b111484f6113e3d3f4b36",
+    "current_sha256": "60bfd097e0e0734785e5c38d9a7cac830d2c6040111b111484f6113e3d3f4b36"
+  },
+  "02_100集剧本/结构化JSON/ep007.json": {
+    "snapshot_sha256": "9d99cfc71562c0ffa5f06c9408111ec82da3f112321500de4ece033fad512275",
+    "current_sha256": "9d99cfc71562c0ffa5f06c9408111ec82da3f112321500de4ece033fad512275"
+  },
+  "02_100集剧本/结构化JSON/ep008.json": {
+    "snapshot_sha256": "909c5019074bede151e22b464133ba74354ef25f88593b93c51e5990f6691071",
+    "current_sha256": "909c5019074bede151e22b464133ba74354ef25f88593b93c51e5990f6691071"
+  },
+  "02_100集剧本/结构化JSON/ep009.json": {
+    "snapshot_sha256": "2f53c04dedfcbe72b01c82af2001c7cff1f6f25d55f884dda0695038fd635120",
+    "current_sha256": "2f53c04dedfcbe72b01c82af2001c7cff1f6f25d55f884dda0695038fd635120"
+  },
+  "02_100集剧本/结构化JSON/ep010.json": {
+    "snapshot_sha256": "81102cee325f71fd8c8f416967051578035bd391094373cc25d2138dba7f6102",
+    "current_sha256": "81102cee325f71fd8c8f416967051578035bd391094373cc25d2138dba7f6102"
+  },
+  "02_100集剧本/结构化JSON/ep011.json": {
+    "snapshot_sha256": "050b8c9a9f149b3e1fac9c460a8cf89e8cfe6d8c3270109a9924a9f0eb5d6dc4",
+    "current_sha256": "050b8c9a9f149b3e1fac9c460a8cf89e8cfe6d8c3270109a9924a9f0eb5d6dc4"
+  },
+  "02_100集剧本/结构化JSON/ep012.json": {
+    "snapshot_sha256": "b98a4064c18870990e044c1a8ecbb8f8809b1e947eed17958d04a548e13d00c5",
+    "current_sha256": "b98a4064c18870990e044c1a8ecbb8f8809b1e947eed17958d04a548e13d00c5"
+  },
+  "02_100集剧本/结构化JSON/ep013.json": {
+    "snapshot_sha256": "d2d2782c42d262a6e7f77589511faa680bbe186274c1226cef1d8c8939178650",
+    "current_sha256": "d2d2782c42d262a6e7f77589511faa680bbe186274c1226cef1d8c8939178650"
+  },
+  "02_100集剧本/结构化JSON/ep014.json": {
+    "snapshot_sha256": "deaec0722801284c3821a170f508a824cfe3f631b0c9ded35eaa2f98de941916",
+    "current_sha256": "deaec0722801284c3821a170f508a824cfe3f631b0c9ded35eaa2f98de941916"
+  },
+  "02_100集剧本/结构化JSON/ep015.json": {
+    "snapshot_sha256": "61e5557bda1bc3a7d28b9603f1aa67e8a296d426ee6301f7d2f9b7bd3dd36723",
+    "current_sha256": "61e5557bda1bc3a7d28b9603f1aa67e8a296d426ee6301f7d2f9b7bd3dd36723"
+  },
+  "02_100集剧本/结构化JSON/ep016.json": {
+    "snapshot_sha256": "0218af8ea7c044f9284d3ec80cebd2bb1c5fa294df4c18d121b6174377dd7563",
+    "current_sha256": "0218af8ea7c044f9284d3ec80cebd2bb1c5fa294df4c18d121b6174377dd7563"
+  },
+  "02_100集剧本/结构化JSON/ep017.json": {
+    "snapshot_sha256": "ad48f53c8fdf654291be9d4d824380b67753d799becbd69459e0deaff9bc85aa",
+    "current_sha256": "ad48f53c8fdf654291be9d4d824380b67753d799becbd69459e0deaff9bc85aa"
+  },
+  "02_100集剧本/结构化JSON/ep018.json": {
+    "snapshot_sha256": "ac61568bb6b35ccec2c46688f97bc48620c18878463e59987d90766e9024b3fa",
+    "current_sha256": "ac61568bb6b35ccec2c46688f97bc48620c18878463e59987d90766e9024b3fa"
+  },
+  "02_100集剧本/结构化JSON/ep019.json": {
+    "snapshot_sha256": "123bf948e72d36a3df7e1138d5157e2087efd72db472b5bff63e8bcbc9b24ced",
+    "current_sha256": "123bf948e72d36a3df7e1138d5157e2087efd72db472b5bff63e8bcbc9b24ced"
+  },
+  "02_100集剧本/结构化JSON/ep020.json": {
+    "snapshot_sha256": "94b1100981a39b2b813ea450c26355d1331441288778108046546129422f660c",
+    "current_sha256": "94b1100981a39b2b813ea450c26355d1331441288778108046546129422f660c"
+  },
+  "02_100集剧本/结构化JSON/ep021.json": {
+    "snapshot_sha256": "0dfe9cbec882aa9cde3cc653b9517ca0b6a6f51ba1ea03243e2525b4214bec68",
+    "current_sha256": "0dfe9cbec882aa9cde3cc653b9517ca0b6a6f51ba1ea03243e2525b4214bec68"
+  },
+  "02_100集剧本/结构化JSON/ep022.json": {
+    "snapshot_sha256": "bdd8c10317f15547b2d68f0fe4d847526e1ce8d3f7dfd28aec82f982aa3a36c0",
+    "current_sha256": "bdd8c10317f15547b2d68f0fe4d847526e1ce8d3f7dfd28aec82f982aa3a36c0"
+  },
+  "02_100集剧本/结构化JSON/ep023.json": {
+    "snapshot_sha256": "f1b8f8b12dd518565a718bb06eba4f8ed4549a8e341ce26cd8fc2a94aae80d11",
+    "current_sha256": "f1b8f8b12dd518565a718bb06eba4f8ed4549a8e341ce26cd8fc2a94aae80d11"
+  },
+  "02_100集剧本/结构化JSON/ep024.json": {
+    "snapshot_sha256": "99c3a1a7803420429a59e05c14330dcab51edc1a117307577ba90bab8c7edc43",
+    "current_sha256": "99c3a1a7803420429a59e05c14330dcab51edc1a117307577ba90bab8c7edc43"
+  },
+  "02_100集剧本/结构化JSON/ep025.json": {
+    "snapshot_sha256": "f84704a9bbc9af1ff96aa8cd00c2c8b4b133f467cd1dcbcaa3406b4cdac8bb6c",
+    "current_sha256": "f84704a9bbc9af1ff96aa8cd00c2c8b4b133f467cd1dcbcaa3406b4cdac8bb6c"
+  },
+  "02_100集剧本/结构化JSON/ep026.json": {
+    "snapshot_sha256": "6ef00b272bce2b5df1bd52a509c83163a67c7d94120b6fb09bcd6618dc2695cd",
+    "current_sha256": "6ef00b272bce2b5df1bd52a509c83163a67c7d94120b6fb09bcd6618dc2695cd"
+  },
+  "02_100集剧本/结构化JSON/ep027.json": {
+    "snapshot_sha256": "68bbc1e506d5cdade8b6237ff0516317cc80e9306afb2f275c3eff93874b2d47",
+    "current_sha256": "68bbc1e506d5cdade8b6237ff0516317cc80e9306afb2f275c3eff93874b2d47"
+  },
+  "02_100集剧本/结构化JSON/ep028.json": {
+    "snapshot_sha256": "1f3b26c5a41b99ee52b1f4ffcb986d5a88660c6a4f25823895b6098be2c2afba",
+    "current_sha256": "1f3b26c5a41b99ee52b1f4ffcb986d5a88660c6a4f25823895b6098be2c2afba"
+  },
+  "02_100集剧本/结构化JSON/ep029.json": {
+    "snapshot_sha256": "5cbaa94f437261412dfb217fb93aca3623b25dee23f34b9075f8671a890c6076",
+    "current_sha256": "5cbaa94f437261412dfb217fb93aca3623b25dee23f34b9075f8671a890c6076"
+  },
+  "02_100集剧本/结构化JSON/ep030.json": {
+    "snapshot_sha256": "372883b8d51f0f373f8a2c0f03e9631377e9429072eccd5eb9b3b4e077e3522b",
+    "current_sha256": "372883b8d51f0f373f8a2c0f03e9631377e9429072eccd5eb9b3b4e077e3522b"
+  },
+  "02_100集剧本/结构化JSON/ep031.json": {
+    "snapshot_sha256": "90f850d032638f976cf36c6ff15047faecf0655d6435aeeed535c48a9f05ccdf",
+    "current_sha256": "90f850d032638f976cf36c6ff15047faecf0655d6435aeeed535c48a9f05ccdf"
+  },
+  "02_100集剧本/结构化JSON/ep032.json": {
+    "snapshot_sha256": "cd9290c669fc1782f006f014f3ec7f627bc45d9ce2d32064377de03e360697b7",
+    "current_sha256": "cd9290c669fc1782f006f014f3ec7f627bc45d9ce2d32064377de03e360697b7"
+  },
+  "02_100集剧本/结构化JSON/ep033.json": {
+    "snapshot_sha256": "8b898fb133bd0e00fb31e61bb2e575ca6343818920c83045492223b9b6f68bd8",
+    "current_sha256": "8b898fb133bd0e00fb31e61bb2e575ca6343818920c83045492223b9b6f68bd8"
+  },
+  "02_100集剧本/结构化JSON/ep034.json": {
+    "snapshot_sha256": "bdb443b2e266db436b375c0039572cefabb15210158a5892702f5d3fa681d7bf",
+    "current_sha256": "bdb443b2e266db436b375c0039572cefabb15210158a5892702f5d3fa681d7bf"
+  },
+  "02_100集剧本/结构化JSON/ep035.json": {
+    "snapshot_sha256": "41dfc981641f67405cde9b5abbdafc28a80758f1b2738c196be77dd1acfabf42",
+    "current_sha256": "41dfc981641f67405cde9b5abbdafc28a80758f1b2738c196be77dd1acfabf42"
+  },
+  "02_100集剧本/结构化JSON/ep036.json": {
+    "snapshot_sha256": "244fdc0c11747458faf3f86afa1b9067f984b0589d5057d25269dd3bb66336a9",
+    "current_sha256": "244fdc0c11747458faf3f86afa1b9067f984b0589d5057d25269dd3bb66336a9"
+  },
+  "02_100集剧本/结构化JSON/ep037.json": {
+    "snapshot_sha256": "52340bf223ac1befc8a797b50335d8f3fa37111607b74ec450c1fc19c48269db",
+    "current_sha256": "52340bf223ac1befc8a797b50335d8f3fa37111607b74ec450c1fc19c48269db"
+  },
+  "02_100集剧本/结构化JSON/ep038.json": {
+    "snapshot_sha256": "5263056c0776eb3942acdac9eb5dd97793f0e8cd53a7f3f53499a4c3ba6eb8bd",
+    "current_sha256": "5263056c0776eb3942acdac9eb5dd97793f0e8cd53a7f3f53499a4c3ba6eb8bd"
+  },
+  "02_100集剧本/结构化JSON/ep039.json": {
+    "snapshot_sha256": "11c43f4f864197b4f45edfdcac53d082f996eef88f89fd66634d8e731a116fd1",
+    "current_sha256": "11c43f4f864197b4f45edfdcac53d082f996eef88f89fd66634d8e731a116fd1"
+  },
+  "02_100集剧本/结构化JSON/ep040.json": {
+    "snapshot_sha256": "2a978a13622f20bab86dad316d8344578648f071e937d03cd654cc0d78257b1f",
+    "current_sha256": "2a978a13622f20bab86dad316d8344578648f071e937d03cd654cc0d78257b1f"
+  },
+  "02_100集剧本/结构化JSON/ep041.json": {
+    "snapshot_sha256": "8948eee763c147f74d1757953db694bae5c3c8ceba732be7db7e329f50ff6ddb",
+    "current_sha256": "8948eee763c147f74d1757953db694bae5c3c8ceba732be7db7e329f50ff6ddb"
+  },
+  "02_100集剧本/结构化JSON/ep042.json": {
+    "snapshot_sha256": "ae670e394eab8fcdf063e2bbd2b70d2b1e914aeb61dc5f4f95657dacc9b38598",
+    "current_sha256": "ae670e394eab8fcdf063e2bbd2b70d2b1e914aeb61dc5f4f95657dacc9b38598"
+  },
+  "02_100集剧本/结构化JSON/ep043.json": {
+    "snapshot_sha256": "3a3cebb5140b5daa0f6f01117476fd19178d7d968404e666de1a8ac7f7bafeee",
+    "current_sha256": "3a3cebb5140b5daa0f6f01117476fd19178d7d968404e666de1a8ac7f7bafeee"
+  },
+  "02_100集剧本/结构化JSON/ep044.json": {
+    "snapshot_sha256": "90ab0ef780098d8713d9922d46aae20b254af21b20beb3312fb869ceebe2bd4f",
+    "current_sha256": "90ab0ef780098d8713d9922d46aae20b254af21b20beb3312fb869ceebe2bd4f"
+  },
+  "02_100集剧本/结构化JSON/ep045.json": {
+    "snapshot_sha256": "0021fef3380be61286fa8582ddbed9c495304cca5428ba99e5239bbea7035bbe",
+    "current_sha256": "0021fef3380be61286fa8582ddbed9c495304cca5428ba99e5239bbea7035bbe"
+  },
+  "02_100集剧本/结构化JSON/ep046.json": {
+    "snapshot_sha256": "2a451301c0ee0449072dadf1c4f4f44f85e003038d4401cfaf71f186ff8586bb",
+    "current_sha256": "2a451301c0ee0449072dadf1c4f4f44f85e003038d4401cfaf71f186ff8586bb"
+  },
+  "02_100集剧本/结构化JSON/ep047.json": {
+    "snapshot_sha256": "78a17d16697c534baa064c70f177f2086574bd57f722fcc70aee6bd6ee5e49af",
+    "current_sha256": "78a17d16697c534baa064c70f177f2086574bd57f722fcc70aee6bd6ee5e49af"
+  },
+  "02_100集剧本/结构化JSON/ep048.json": {
+    "snapshot_sha256": "e9e947ddbf55c00d6a941fdb88140c7cade9c287ab22830fe89e25a56fce3557",
+    "current_sha256": "e9e947ddbf55c00d6a941fdb88140c7cade9c287ab22830fe89e25a56fce3557"
+  },
+  "02_100集剧本/结构化JSON/ep049.json": {
+    "snapshot_sha256": "a499ae2d9da51f1c4f1d4a2ddbeba9736b15471f35ee0e2ff95618eb92f3d916",
+    "current_sha256": "a499ae2d9da51f1c4f1d4a2ddbeba9736b15471f35ee0e2ff95618eb92f3d916"
+  },
+  "02_100集剧本/结构化JSON/ep050.json": {
+    "snapshot_sha256": "037a2bed4ff99202f09ffc86147a3548725470b28a81e6751ebd6d96e8ce398d",
+    "current_sha256": "037a2bed4ff99202f09ffc86147a3548725470b28a81e6751ebd6d96e8ce398d"
+  },
+  "02_100集剧本/结构化JSON/ep051.json": {
+    "snapshot_sha256": "4b119ec59b33514937c7ac72e95ca9c053c6897523ad79152980362b7bab37f1",
+    "current_sha256": "4b119ec59b33514937c7ac72e95ca9c053c6897523ad79152980362b7bab37f1"
+  },
+  "02_100集剧本/结构化JSON/ep052.json": {
+    "snapshot_sha256": "c36a382cb55c3226658fcc95d08472dbde05c0509a53ad21bef8b1915e977a1f",
+    "current_sha256": "c36a382cb55c3226658fcc95d08472dbde05c0509a53ad21bef8b1915e977a1f"
+  },
+  "02_100集剧本/结构化JSON/ep053.json": {
+    "snapshot_sha256": "402692e89342b88b21b3f45e7f0a38dcd1f69bce4db003c2e564d07718d3089f",
+    "current_sha256": "402692e89342b88b21b3f45e7f0a38dcd1f69bce4db003c2e564d07718d3089f"
+  },
+  "02_100集剧本/结构化JSON/ep054.json": {
+    "snapshot_sha256": "d6af3128df79bcc79869e3d19a992f541ddc2a035bd7aa338273bdce2af93f3b",
+    "current_sha256": "d6af3128df79bcc79869e3d19a992f541ddc2a035bd7aa338273bdce2af93f3b"
+  },
+  "02_100集剧本/结构化JSON/ep055.json": {
+    "snapshot_sha256": "ba51198a1b47da9e439700324797d319fbc806228663562fafae9934ab8886f2",
+    "current_sha256": "ba51198a1b47da9e439700324797d319fbc806228663562fafae9934ab8886f2"
+  },
+  "02_100集剧本/结构化JSON/ep056.json": {
+    "snapshot_sha256": "1dd86eef28d545f5b5399fd2abcaefde63d1bfe34128b4c153e295bd5d01da07",
+    "current_sha256": "1dd86eef28d545f5b5399fd2abcaefde63d1bfe34128b4c153e295bd5d01da07"
+  },
+  "02_100集剧本/结构化JSON/ep057.json": {
+    "snapshot_sha256": "99b3091cb6816c1bdf54cded31a1c8aec3c04016dcb5acfe1ee462f141f313cf",
+    "current_sha256": "99b3091cb6816c1bdf54cded31a1c8aec3c04016dcb5acfe1ee462f141f313cf"
+  },
+  "02_100集剧本/结构化JSON/ep058.json": {
+    "snapshot_sha256": "5ecb810d2274977c4f545660ddf7de187a0300963e9af5f9a73aa07c7b1f05cf",
+    "current_sha256": "5ecb810d2274977c4f545660ddf7de187a0300963e9af5f9a73aa07c7b1f05cf"
+  },
+  "02_100集剧本/结构化JSON/ep059.json": {
+    "snapshot_sha256": "479581e32651e40b3498202232a5d71e48f02ce296befcf4bc0e1b29f763a281",
+    "current_sha256": "479581e32651e40b3498202232a5d71e48f02ce296befcf4bc0e1b29f763a281"
+  },
+  "02_100集剧本/结构化JSON/ep060.json": {
+    "snapshot_sha256": "2e96046a5ef0f6b13a194e37ee48c98dbbda5cbc8b11a38516f888293fa954ce",
+    "current_sha256": "2e96046a5ef0f6b13a194e37ee48c98dbbda5cbc8b11a38516f888293fa954ce"
+  },
+  "02_100集剧本/结构化JSON/ep061.json": {
+    "snapshot_sha256": "9f0a0fcab59848a1e9f07ea26447d8f20169b0a403eac29fa2094b2a522ea102",
+    "current_sha256": "9f0a0fcab59848a1e9f07ea26447d8f20169b0a403eac29fa2094b2a522ea102"
+  },
+  "02_100集剧本/结构化JSON/ep062.json": {
+    "snapshot_sha256": "4ff44294dce65a39731c70ae75f7dd3afa3fe6e89ba220f9619d6cbe209c13d6",
+    "current_sha256": "4ff44294dce65a39731c70ae75f7dd3afa3fe6e89ba220f9619d6cbe209c13d6"
+  },
+  "02_100集剧本/结构化JSON/ep063.json": {
+    "snapshot_sha256": "67b013ca3c30cd3036df7aef9ee853002b1e1c9f9a05ebe574bb628d84f24471",
+    "current_sha256": "67b013ca3c30cd3036df7aef9ee853002b1e1c9f9a05ebe574bb628d84f24471"
+  },
+  "02_100集剧本/结构化JSON/ep064.json": {
+    "snapshot_sha256": "cc29e5e704ef70b7228756b3722f91e6a3fa8034d87d57103926f7c71b37048d",
+    "current_sha256": "cc29e5e704ef70b7228756b3722f91e6a3fa8034d87d57103926f7c71b37048d"
+  },
+  "02_100集剧本/结构化JSON/ep065.json": {
+    "snapshot_sha256": "d315bbe120453232ebfefff6f5441e893091056809ced9800a627789d6adc337",
+    "current_sha256": "d315bbe120453232ebfefff6f5441e893091056809ced9800a627789d6adc337"
+  },
+  "02_100集剧本/结构化JSON/ep066.json": {
+    "snapshot_sha256": "2a6740f2b68ea1b21c58e1f68f1aa357e0e3f80b2ccde9f947564c661b644647",
+    "current_sha256": "2a6740f2b68ea1b21c58e1f68f1aa357e0e3f80b2ccde9f947564c661b644647"
+  },
+  "02_100集剧本/结构化JSON/ep067.json": {
+    "snapshot_sha256": "69083c6c32004e055faeeb5284b1cdd82145222a4879eceaef87bb970c5f962d",
+    "current_sha256": "69083c6c32004e055faeeb5284b1cdd82145222a4879eceaef87bb970c5f962d"
+  },
+  "02_100集剧本/结构化JSON/ep068.json": {
+    "snapshot_sha256": "854fc4deed68d4aea9ec89f0d1f59b3b668a0e473542b822e57f384406a3e712",
+    "current_sha256": "854fc4deed68d4aea9ec89f0d1f59b3b668a0e473542b822e57f384406a3e712"
+  },
+  "02_100集剧本/结构化JSON/ep069.json": {
+    "snapshot_sha256": "949dce78eae5727a3dcc8993c723c9fc2b86639de5f41c06c9d7e0ba4071938f",
+    "current_sha256": "949dce78eae5727a3dcc8993c723c9fc2b86639de5f41c06c9d7e0ba4071938f"
+  },
+  "02_100集剧本/结构化JSON/ep070.json": {
+    "snapshot_sha256": "9ddbba6d25eb7f4a70c3a8ca1987484c1e944cff2cf87b3a9ba2bbc0011d482e",
+    "current_sha256": "9ddbba6d25eb7f4a70c3a8ca1987484c1e944cff2cf87b3a9ba2bbc0011d482e"
+  },
+  "02_100集剧本/结构化JSON/ep071.json": {
+    "snapshot_sha256": "87406164d7f2fe589fba00ec4f6676cb6a0dd8dfd57f4aedc940ee72983078b6",
+    "current_sha256": "87406164d7f2fe589fba00ec4f6676cb6a0dd8dfd57f4aedc940ee72983078b6"
+  },
+  "02_100集剧本/结构化JSON/ep072.json": {
+    "snapshot_sha256": "f9bbe279b2c0393e57c1093612627b038eef3f7a9648006c175fc1fb81cf5714",
+    "current_sha256": "f9bbe279b2c0393e57c1093612627b038eef3f7a9648006c175fc1fb81cf5714"
+  },
+  "02_100集剧本/结构化JSON/ep073.json": {
+    "snapshot_sha256": "5a65a08008424b16a946c4d541681ce1eb8553c86b296a2f2b73ec60935ba806",
+    "current_sha256": "5a65a08008424b16a946c4d541681ce1eb8553c86b296a2f2b73ec60935ba806"
+  },
+  "02_100集剧本/结构化JSON/ep074.json": {
+    "snapshot_sha256": "e7e37ce805342c2aa2252d840542af1dda9c68ee71de7cb302d3b7f5c0e4e4b8",
+    "current_sha256": "e7e37ce805342c2aa2252d840542af1dda9c68ee71de7cb302d3b7f5c0e4e4b8"
+  },
+  "02_100集剧本/结构化JSON/ep075.json": {
+    "snapshot_sha256": "dc4495dfe49333ee7f6dbb4323e9813f38223d3a81cf7d05d596717e8dfa9083",
+    "current_sha256": "dc4495dfe49333ee7f6dbb4323e9813f38223d3a81cf7d05d596717e8dfa9083"
+  },
+  "02_100集剧本/结构化JSON/ep076.json": {
+    "snapshot_sha256": "ac907e0d95fcafc9f9325b87032e4a97f5dfccd16dd19354f09e5c001c85d2e5",
+    "current_sha256": "ac907e0d95fcafc9f9325b87032e4a97f5dfccd16dd19354f09e5c001c85d2e5"
+  },
+  "02_100集剧本/结构化JSON/ep077.json": {
+    "snapshot_sha256": "f7d5d19a830d42d44646f980474e0f00d1396d2dfd778351d22f29f9606e850d",
+    "current_sha256": "f7d5d19a830d42d44646f980474e0f00d1396d2dfd778351d22f29f9606e850d"
+  },
+  "02_100集剧本/结构化JSON/ep078.json": {
+    "snapshot_sha256": "5279e32f4917a52d82a2c6606f70b76144f6ce86a7c0762b9cc59e22f3317435",
+    "current_sha256": "5279e32f4917a52d82a2c6606f70b76144f6ce86a7c0762b9cc59e22f3317435"
+  },
+  "02_100集剧本/结构化JSON/ep079.json": {
+    "snapshot_sha256": "777cba1d0d7d8e628208c0e038159a16e99cb2e27c6c451a0bda05814d6dc54f",
+    "current_sha256": "777cba1d0d7d8e628208c0e038159a16e99cb2e27c6c451a0bda05814d6dc54f"
+  },
+  "02_100集剧本/结构化JSON/ep080.json": {
+    "snapshot_sha256": "a4e65e2023700e4b52f666fcb25c97c82860367f7faa0cef99662c1f3f2732f6",
+    "current_sha256": "a4e65e2023700e4b52f666fcb25c97c82860367f7faa0cef99662c1f3f2732f6"
+  },
+  "02_100集剧本/结构化JSON/ep081.json": {
+    "snapshot_sha256": "ec1006ee990748e5cc94d8cf39c05b39ebbe299a6f3f55f0d906854b415e5591",
+    "current_sha256": "ec1006ee990748e5cc94d8cf39c05b39ebbe299a6f3f55f0d906854b415e5591"
+  },
+  "02_100集剧本/结构化JSON/ep082.json": {
+    "snapshot_sha256": "bef3bba7fe7dbface38789695502568d351b0e6accd9665df95ced7427fb1fe7",
+    "current_sha256": "bef3bba7fe7dbface38789695502568d351b0e6accd9665df95ced7427fb1fe7"
+  },
+  "02_100集剧本/结构化JSON/ep083.json": {
+    "snapshot_sha256": "ae35bd910b0947f7a436d5ef2a4b2c339c235c3709d901377d886d09169675d6",
+    "current_sha256": "ae35bd910b0947f7a436d5ef2a4b2c339c235c3709d901377d886d09169675d6"
+  },
+  "02_100集剧本/结构化JSON/ep084.json": {
+    "snapshot_sha256": "20731644613062a9102440aea0f75ef7b9d8f6fe6f78e8b8b5b746f8035f9e14",
+    "current_sha256": "20731644613062a9102440aea0f75ef7b9d8f6fe6f78e8b8b5b746f8035f9e14"
+  },
+  "02_100集剧本/结构化JSON/ep085.json": {
+    "snapshot_sha256": "24d34b63f15481f28ea369900f8b27f689f90bbf64535282a2e2907047548197",
+    "current_sha256": "24d34b63f15481f28ea369900f8b27f689f90bbf64535282a2e2907047548197"
+  },
+  "02_100集剧本/结构化JSON/ep086.json": {
+    "snapshot_sha256": "cef83a1482a99f2e48495d1f92b2cc60c2625ad222af2104a50a438bb6d83a54",
+    "current_sha256": "cef83a1482a99f2e48495d1f92b2cc60c2625ad222af2104a50a438bb6d83a54"
+  },
+  "02_100集剧本/结构化JSON/ep087.json": {
+    "snapshot_sha256": "dfca7611e1f3e43ca9f584395307006b4e5baa7a5eb33ad3178f6f5c56480196",
+    "current_sha256": "dfca7611e1f3e43ca9f584395307006b4e5baa7a5eb33ad3178f6f5c56480196"
+  },
+  "02_100集剧本/结构化JSON/ep088.json": {
+    "snapshot_sha256": "218f5a2757b039487a0159f44a19dcf395d968a1b3f39adc241bde1e25a75582",
+    "current_sha256": "218f5a2757b039487a0159f44a19dcf395d968a1b3f39adc241bde1e25a75582"
+  },
+  "02_100集剧本/结构化JSON/ep089.json": {
+    "snapshot_sha256": "315c9a7332ba6f10797572a09fb904f6b69841065155f029fbccbcdae4a682e2",
+    "current_sha256": "315c9a7332ba6f10797572a09fb904f6b69841065155f029fbccbcdae4a682e2"
+  },
+  "02_100集剧本/结构化JSON/ep090.json": {
+    "snapshot_sha256": "5102dde647c1b5392e9e7252cc91e021317017cb1d8796ec2e48372c64837f58",
+    "current_sha256": "5102dde647c1b5392e9e7252cc91e021317017cb1d8796ec2e48372c64837f58"
+  },
+  "02_100集剧本/结构化JSON/ep091.json": {
+    "snapshot_sha256": "6b3c3a3c868984f94d8e2154b5ae0774c4214e8459084efc2280101c73ab3412",
+    "current_sha256": "6b3c3a3c868984f94d8e2154b5ae0774c4214e8459084efc2280101c73ab3412"
+  },
+  "02_100集剧本/结构化JSON/ep092.json": {
+    "snapshot_sha256": "8daf4e90714e625dbef0cc054406b5b2df09465d072b119b189a4cab6f1e5179",
+    "current_sha256": "8daf4e90714e625dbef0cc054406b5b2df09465d072b119b189a4cab6f1e5179"
+  },
+  "02_100集剧本/结构化JSON/ep093.json": {
+    "snapshot_sha256": "d585679db3413c2190f01ed502787c5f2b70c26e46310faddb96fc33a4f8fa69",
+    "current_sha256": "d585679db3413c2190f01ed502787c5f2b70c26e46310faddb96fc33a4f8fa69"
+  },
+  "02_100集剧本/结构化JSON/ep094.json": {
+    "snapshot_sha256": "2570bcea6f44199d39e3438d91fd4ea75247f57d4e7251ec44888864cbeaeac8",
+    "current_sha256": "2570bcea6f44199d39e3438d91fd4ea75247f57d4e7251ec44888864cbeaeac8"
+  },
+  "02_100集剧本/结构化JSON/ep095.json": {
+    "snapshot_sha256": "01e0de1a223a31b6aa8ab71c4996cf13c7079200dba723008aac94d1d4dd6572",
+    "current_sha256": "01e0de1a223a31b6aa8ab71c4996cf13c7079200dba723008aac94d1d4dd6572"
+  },
+  "02_100集剧本/结构化JSON/ep096.json": {
+    "snapshot_sha256": "79faa550c1b775337e91f46faf151de1d9496a66c2c68b214deffcdbc85e1294",
+    "current_sha256": "79faa550c1b775337e91f46faf151de1d9496a66c2c68b214deffcdbc85e1294"
+  },
+  "02_100集剧本/结构化JSON/ep097.json": {
+    "snapshot_sha256": "61c1ac5c5de164c98e2c1667c0722591fe8b4eade0db751a4d2af2d2b6938062",
+    "current_sha256": "61c1ac5c5de164c98e2c1667c0722591fe8b4eade0db751a4d2af2d2b6938062"
+  },
+  "02_100集剧本/结构化JSON/ep098.json": {
+    "snapshot_sha256": "d6930265da312060f1d235d19d73e094248966e88d9099e8cdfa98d854fe4d65",
+    "current_sha256": "d6930265da312060f1d235d19d73e094248966e88d9099e8cdfa98d854fe4d65"
+  },
+  "02_100集剧本/结构化JSON/ep099.json": {
+    "snapshot_sha256": "7cb300724e7c22b55f4ff92d3de87cbbaef59c166b716aa49829a95b2076d147",
+    "current_sha256": "7cb300724e7c22b55f4ff92d3de87cbbaef59c166b716aa49829a95b2076d147"
+  },
+  "02_100集剧本/结构化JSON/ep100.json": {
+    "snapshot_sha256": "febf647f84fda7b4a4d4aa20079a664859ff8c7181854ad41956e9dda3c739ed",
+    "current_sha256": "febf647f84fda7b4a4d4aa20079a664859ff8c7181854ad41956e9dda3c739ed"
+  },
+  "02_100集剧本/00_总目录.md": {
+    "snapshot_sha256": "46d62f1c15015ead92d2679dc4b28e2b3abc0476e6178aafdef563ab618b7309",
+    "current_sha256": "46d62f1c15015ead92d2679dc4b28e2b3abc0476e6178aafdef563ab618b7309"
+  },
+  "02_100集剧本/单集Markdown/第001集_小兔子皮皮的晚安星光.md": {
+    "snapshot_sha256": "dca0fe4ef7f5419900df7774d39af40a41497b8e316ccab711e693f877f664fd",
+    "current_sha256": "dca0fe4ef7f5419900df7774d39af40a41497b8e316ccab711e693f877f664fd"
+  },
+  "02_100集剧本/单集Markdown/第002集_皮皮的月光小口袋.md": {
+    "snapshot_sha256": "65a1b2c2cf6aa87ddbce251c700a5a0acdf972826b916432121795c36f3902e2",
+    "current_sha256": "65a1b2c2cf6aa87ddbce251c700a5a0acdf972826b916432121795c36f3902e2"
+  },
+  "02_100集剧本/单集Markdown/第003集_小枕头里的云朵.md": {
+    "snapshot_sha256": "77028e76a118aeaab69105137ef690a17c345be2d7a17c57a8550096b3ad3e89",
+    "current_sha256": "77028e76a118aeaab69105137ef690a17c345be2d7a17c57a8550096b3ad3e89"
+  },
+  "02_100集剧本/单集Markdown/第004集_被角的小山坡.md": {
+    "snapshot_sha256": "74092453801e2780e0cc5995dc3605b019a5a3ddfac5ca222594ddfd1e04838b",
+    "current_sha256": "74092453801e2780e0cc5995dc3605b019a5a3ddfac5ca222594ddfd1e04838b"
+  },
+  "02_100集剧本/单集Markdown/第005集_小灯也想歇一会儿.md": {
+    "snapshot_sha256": "231e334c3779be067eb6abfee45d0ecbe049840c32f190d7cbb2afb479ca3ab5",
+    "current_sha256": "231e334c3779be067eb6abfee45d0ecbe049840c32f190d7cbb2afb479ca3ab5"
+  },
+  "02_100集剧本/单集Markdown/第006集_毛线团找到了小窝.md": {
+    "snapshot_sha256": "2b6a441e90708f1950412bb75c8047ba3fb59d269ef580d4cca2cfe365e459e6",
+    "current_sha256": "2b6a441e90708f1950412bb75c8047ba3fb59d269ef580d4cca2cfe365e459e6"
+  },
+  "02_100集剧本/单集Markdown/第007集_窗帘的小摇篮.md": {
+    "snapshot_sha256": "7a2bf11bbba6c50d8c15bd0dbe579dd14eed376666be846abea5d0566cad422e",
+    "current_sha256": "7a2bf11bbba6c50d8c15bd0dbe579dd14eed376666be846abea5d0566cad422e"
+  },
+  "02_100集剧本/单集Markdown/第008集_胡萝卜玩偶的小床.md": {
+    "snapshot_sha256": "3041952a35a78d670526593f4d5f67a3e1e53028973fc18a33599a7098669502",
+    "current_sha256": "3041952a35a78d670526593f4d5f67a3e1e53028973fc18a33599a7098669502"
+  },
+  "02_100集剧本/单集Markdown/第009集_拖鞋排排坐.md": {
+    "snapshot_sha256": "639e85bfa8442024de4600319fac68e4bdd839ca187183458c5cf776673645ae",
+    "current_sha256": "639e85bfa8442024de4600319fac68e4bdd839ca187183458c5cf776673645ae"
+  },
+  "02_100集剧本/单集Markdown/第010集_晚安小书签.md": {
+    "snapshot_sha256": "a9d64b956e0f3b443276f3f8794e3c460f38334e51bad79957b1f39452ede31f",
+    "current_sha256": "a9d64b956e0f3b443276f3f8794e3c460f38334e51bad79957b1f39452ede31f"
+  },
+  "02_100集剧本/单集Markdown/第011集_小刺猬的软座位.md": {
+    "snapshot_sha256": "17c0da5f77c87a170e4923a6f9e4e8e7ba10ff3b899d953863c22ed285607899",
+    "current_sha256": "17c0da5f77c87a170e4923a6f9e4e8e7ba10ff3b899d953863c22ed285607899"
+  },
+  "02_100集剧本/单集Markdown/第012集_小松鼠的空篮子.md": {
+    "snapshot_sha256": "0f7e7ce602b6407120d13caccc3b05581c35b93dd3f81f9efb629795328d2e80",
+    "current_sha256": "0f7e7ce602b6407120d13caccc3b05581c35b93dd3f81f9efb629795328d2e80"
+  },
+  "02_100集剧本/单集Markdown/第013集_小熊的轻轻脚步.md": {
+    "snapshot_sha256": "ef98b4c59e910b183e474c238bedd71304bf1f740598cf19dd4e590cac377689",
+    "current_sha256": "ef98b4c59e910b183e474c238bedd71304bf1f740598cf19dd4e590cac377689"
+  },
+  "02_100集剧本/单集Markdown/第014集_小鼹鼠画的窗户.md": {
+    "snapshot_sha256": "279afe9b0102955bd646f79fc3409d7b3f2fc03428feb0d2f0549c74b172f1c3",
+    "current_sha256": "279afe9b0102955bd646f79fc3409d7b3f2fc03428feb0d2f0549c74b172f1c3"
+  },
+  "02_100集剧本/单集Markdown/第015集_蜗牛的露珠小路.md": {
+    "snapshot_sha256": "32c493a05fd2249e3d81945af349dec68c7e5c08b1fd82d1eb6b3aa4b5016508",
+    "current_sha256": "32c493a05fd2249e3d81945af349dec68c7e5c08b1fd82d1eb6b3aa4b5016508"
+  },
+  "02_100集剧本/单集Markdown/第016集_小鹿的风铃结.md": {
+    "snapshot_sha256": "fd9b06e29044a45cbf1fe588bf8893b2b5944ab0f8904664e454d3df16ec1c38",
+    "current_sha256": "fd9b06e29044a45cbf1fe588bf8893b2b5944ab0f8904664e454d3df16ec1c38"
+  },
+  "02_100集剧本/单集Markdown/第017集_小獾送来的叶子信.md": {
+    "snapshot_sha256": "d417ef7f61229c4255a7a0748817b296904e6d8780a2901700b53b8761443453",
+    "current_sha256": "d417ef7f61229c4255a7a0748817b296904e6d8780a2901700b53b8761443453"
+  },
+  "02_100集剧本/单集Markdown/第018集_小田鼠的针线袋.md": {
+    "snapshot_sha256": "65487259e592180edbdaee687c6cea155f9e5ee1bdbf55b2af71c2ee813f8628",
+    "current_sha256": "65487259e592180edbdaee687c6cea155f9e5ee1bdbf55b2af71c2ee813f8628"
+  },
+  "02_100集剧本/单集Markdown/第019集_猫头鹰的安静书页.md": {
+    "snapshot_sha256": "34c3153d95ae69f38e777e82b48ba32b8705f7d75ed26383d100d828b2de2722",
+    "current_sha256": "34c3153d95ae69f38e777e82b48ba32b8705f7d75ed26383d100d828b2de2722"
+  },
+  "02_100集剧本/单集Markdown/第020集_朋友们的晚安地图.md": {
+    "snapshot_sha256": "629b5a1a142fa41b54a19d688426e8c8519e86b2c2c4034b18d68f3187ad7b50",
+    "current_sha256": "629b5a1a142fa41b54a19d688426e8c8519e86b2c2c4034b18d68f3187ad7b50"
+  },
+  "02_100集剧本/单集Markdown/第021集_雨点敲敲小伞.md": {
+    "snapshot_sha256": "893f6b6357615db3953e9b941ec3ab8a591b611bf73ad548216f5fb805a76197",
+    "current_sha256": "893f6b6357615db3953e9b941ec3ab8a591b611bf73ad548216f5fb805a76197"
+  },
+  "02_100集剧本/单集Markdown/第022集_小水洼里的月亮.md": {
+    "snapshot_sha256": "d7849b0d80741a383605bab6c42c617727ec81d71b4e1ba37a017d5afb4333ba",
+    "current_sha256": "d7849b0d80741a383605bab6c42c617727ec81d71b4e1ba37a017d5afb4333ba"
+  },
+  "02_100集剧本/单集Markdown/第023集_云朵的慢邮差.md": {
+    "snapshot_sha256": "c95be622ccb057c2b313bf1f477b1cfec675c2c9ea590e4a44bd593ef69845ea",
+    "current_sha256": "c95be622ccb057c2b313bf1f477b1cfec675c2c9ea590e4a44bd593ef69845ea"
+  },
+  "02_100集剧本/单集Markdown/第024集_露珠的小小座位.md": {
+    "snapshot_sha256": "f09801bf10a5ed24d75ebc05956a3d193e85ae3d093c622bfb6c672f608f9129",
+    "current_sha256": "f09801bf10a5ed24d75ebc05956a3d193e85ae3d093c622bfb6c672f608f9129"
+  },
+  "02_100集剧本/单集Markdown/第025集_小溪把声音放轻.md": {
+    "snapshot_sha256": "c4f2db25f6b08161fef44fabb796ebc11c95f00aee2acb3808490839fff5edc3",
+    "current_sha256": "c4f2db25f6b08161fef44fabb796ebc11c95f00aee2acb3808490839fff5edc3"
+  },
+  "02_100集剧本/单集Markdown/第026集_水壶旁的小云.md": {
+    "snapshot_sha256": "cd0c479d23cbfaf2bbed5cd2abcc082f267ecc0e9807f28c792e6d214e0ed806",
+    "current_sha256": "cd0c479d23cbfaf2bbed5cd2abcc082f267ecc0e9807f28c792e6d214e0ed806"
+  },
+  "02_100集剧本/单集Markdown/第027集_雨后的干袜子.md": {
+    "snapshot_sha256": "b007c9cb0f200001890f737d056bb1df0cf705bba218c3f0309b74388f3df9c7",
+    "current_sha256": "b007c9cb0f200001890f737d056bb1df0cf705bba218c3f0309b74388f3df9c7"
+  },
+  "02_100集剧本/单集Markdown/第028集_叶子小船靠岸了.md": {
+    "snapshot_sha256": "a61891718cc556626771034940027580778279c8f5b9a700e7458d2fccfbcec8",
+    "current_sha256": "a61891718cc556626771034940027580778279c8f5b9a700e7458d2fccfbcec8"
+  },
+  "02_100集剧本/单集Markdown/第029集_雾抱了抱小篱笆.md": {
+    "snapshot_sha256": "0b8484b4267ecd83ca98c7dae2f49aa6d8ecdbe97c5a5b28e6d09b23e06b9dd0",
+    "current_sha256": "0b8484b4267ecd83ca98c7dae2f49aa6d8ecdbe97c5a5b28e6d09b23e06b9dd0"
+  },
+  "02_100集剧本/单集Markdown/第030集_雨珠回到花园.md": {
+    "snapshot_sha256": "9b80eacc8ea83f95fdefcce1379a1a6d811861755e1fbc3eddd52740197517e8",
+    "current_sha256": "9b80eacc8ea83f95fdefcce1379a1a6d811861755e1fbc3eddd52740197517e8"
+  },
+  "02_100集剧本/单集Markdown/第031集_秋叶的软枕头.md": {
+    "snapshot_sha256": "fe3557dcd524cf74ef57ff083fd6cfba0246dee4b5fef2e56a03162436e4c2ec",
+    "current_sha256": "fe3557dcd524cf74ef57ff083fd6cfba0246dee4b5fef2e56a03162436e4c2ec"
+  },
+  "02_100集剧本/单集Markdown/第032集_松果转身坐好了.md": {
+    "snapshot_sha256": "47614bd35785cce78a237badc2850e51c79381af315900a3823b30374f8da938",
+    "current_sha256": "47614bd35785cce78a237badc2850e51c79381af315900a3823b30374f8da938"
+  },
+  "02_100集剧本/单集Markdown/第033集_树梢上的一只苹果.md": {
+    "snapshot_sha256": "b6ff6d9eaba11fc065899bb344d278032f8f55b43ce3e6036ee655b60236406f",
+    "current_sha256": "b6ff6d9eaba11fc065899bb344d278032f8f55b43ce3e6036ee655b60236406f"
+  },
+  "02_100集剧本/单集Markdown/第034集_南瓜小灯的窗户.md": {
+    "snapshot_sha256": "4f365e5bf0f4d69c298991653a1a62406376cb9f36cb8addf79b9552ea0edfc3",
+    "current_sha256": "4f365e5bf0f4d69c298991653a1a62406376cb9f36cb8addf79b9552ea0edfc3"
+  },
+  "02_100集剧本/单集Markdown/第035集_栗子的小布袋.md": {
+    "snapshot_sha256": "754070bd376194505d85af8e5aa13eb987941617658805a70e37ee9a4e390153",
+    "current_sha256": "754070bd376194505d85af8e5aa13eb987941617658805a70e37ee9a4e390153"
+  },
+  "02_100集剧本/单集Markdown/第036集_落叶小路停一停.md": {
+    "snapshot_sha256": "d1de41dbad11b63001d8716bccccd7bd7e727e12d7aefbebe50eb09215040cf9",
+    "current_sha256": "d1de41dbad11b63001d8716bccccd7bd7e727e12d7aefbebe50eb09215040cf9"
+  },
+  "02_100集剧本/单集Markdown/第037集_一根羽毛的休息.md": {
+    "snapshot_sha256": "4b80dbe4a3841f7bd0584bc0f0c9f09d2c9ff340f9274e4fa24315a8e5d40f3b",
+    "current_sha256": "4b80dbe4a3841f7bd0584bc0f0c9f09d2c9ff340f9274e4fa24315a8e5d40f3b"
+  },
+  "02_100集剧本/单集Markdown/第038集_树枝给围巾让个座.md": {
+    "snapshot_sha256": "4ce5ce911d2df9b1a9b805693c7743957cf4df2e44f8d145d59a40fcc1d96a09",
+    "current_sha256": "4ce5ce911d2df9b1a9b805693c7743957cf4df2e44f8d145d59a40fcc1d96a09"
+  },
+  "02_100集剧本/单集Markdown/第039集_还在枝头的银杏叶.md": {
+    "snapshot_sha256": "ca5311e708306cd797f6562a010ff444e636ec41a4785af467ada0131801471a",
+    "current_sha256": "ca5311e708306cd797f6562a010ff444e636ec41a4785af467ada0131801471a"
+  },
+  "02_100集剧本/单集Markdown/第040集_秋天的声音盒.md": {
+    "snapshot_sha256": "6e52d3812bccd45378abb23a6454eb109ec76f4b4a33590a233614f7d6a7acfd",
+    "current_sha256": "6e52d3812bccd45378abb23a6454eb109ec76f4b4a33590a233614f7d6a7acfd"
+  },
+  "02_100集剧本/单集Markdown/第041集_雪花落在窗边.md": {
+    "snapshot_sha256": "a8d148ffa91fdb148c36cfd5805d4900bcc4ae8777029c068fb46952cd952544",
+    "current_sha256": "a8d148ffa91fdb148c36cfd5805d4900bcc4ae8777029c068fb46952cd952544"
+  },
+  "02_100集剧本/单集Markdown/第042集_小手套找到了伴.md": {
+    "snapshot_sha256": "7a0b014910986fefce41ab9193e7c75152147fc7e8a515f9bb8a4c78e4eac8cc",
+    "current_sha256": "7a0b014910986fefce41ab9193e7c75152147fc7e8a515f9bb8a4c78e4eac8cc"
+  },
+  "02_100集剧本/单集Markdown/第043集_围巾留一小截.md": {
+    "snapshot_sha256": "d9536f0781d4c60c0c4579178b32f64479007906dc5405406dbced3357c13a76",
+    "current_sha256": "d9536f0781d4c60c0c4579178b32f64479007906dc5405406dbced3357c13a76"
+  },
+  "02_100集剧本/单集Markdown/第044集_冰窗花的小花园.md": {
+    "snapshot_sha256": "2b584d7e32cc0bedd1404c1611b0e1c5a6c816d37d57e0d2bf032b90704bdb61",
+    "current_sha256": "2b584d7e32cc0bedd1404c1611b0e1c5a6c816d37d57e0d2bf032b90704bdb61"
+  },
+  "02_100集剧本/单集Markdown/第045集_木柴整整齐齐.md": {
+    "snapshot_sha256": "b71828fa1c59eecd4476644464fd80759a1c361da31b0604b22b69587e1e0518",
+    "current_sha256": "b71828fa1c59eecd4476644464fd80759a1c361da31b0604b22b69587e1e0518"
+  },
+  "02_100集剧本/单集Markdown/第046集_小熊借来的绒毯.md": {
+    "snapshot_sha256": "813a29ea6213c82f17f32d733dc0a72a2e7c38194046aef0cdec8e424b802eb7",
+    "current_sha256": "813a29ea6213c82f17f32d733dc0a72a2e7c38194046aef0cdec8e424b802eb7"
+  },
+  "02_100集剧本/单集Markdown/第047集_雪地脚印回到家.md": {
+    "snapshot_sha256": "409a2e82df7dae14660cb4682a3aae2e0646a87404b8595d80956c215379e4ea",
+    "current_sha256": "409a2e82df7dae14660cb4682a3aae2e0646a87404b8595d80956c215379e4ea"
+  },
+  "02_100集剧本/单集Markdown/第048集_晒过太阳的小布袋.md": {
+    "snapshot_sha256": "2da9fadd32b8be93c7d8769a09092c226f402570c361683298198a56ecf3f222",
+    "current_sha256": "2da9fadd32b8be93c7d8769a09092c226f402570c361683298198a56ecf3f222"
+  },
+  "02_100集剧本/单集Markdown/第049集_窗外的第二盏灯.md": {
+    "snapshot_sha256": "c3114f3dc948085d7da11f2c88c03cbd97363977185967fd2ee6f88480afedf2",
+    "current_sha256": "c3114f3dc948085d7da11f2c88c03cbd97363977185967fd2ee6f88480afedf2"
+  },
+  "02_100集剧本/单集Markdown/第050集_小雪人的晚安帽.md": {
+    "snapshot_sha256": "e4495db43e5ddefa25de9bbe01a15b2ee5764348b57fd0da2693ce583aa65458",
+    "current_sha256": "e4495db43e5ddefa25de9bbe01a15b2ee5764348b57fd0da2693ce583aa65458"
+  },
+  "02_100集剧本/单集Markdown/第051集_种子睡在泥土里.md": {
+    "snapshot_sha256": "ee5ffc16053f908747eba181e381f0ee5c88d1864932c20962ddf0f6874eb480",
+    "current_sha256": "ee5ffc16053f908747eba181e381f0ee5c88d1864932c20962ddf0f6874eb480"
+  },
+  "02_100集剧本/单集Markdown/第052集_第一片小叶子.md": {
+    "snapshot_sha256": "dbef66963243a03e66c2492e1fa4a00cfced4ab780734191e425264b0d6210ae",
+    "current_sha256": "dbef66963243a03e66c2492e1fa4a00cfced4ab780734191e425264b0d6210ae"
+  },
+  "02_100集剧本/单集Markdown/第053集_花苞不着急.md": {
+    "snapshot_sha256": "e7f2d353734f4c3cef282f5ab03aeb8705928d6126f48f59d65eeb7511f22c8d",
+    "current_sha256": "e7f2d353734f4c3cef282f5ab03aeb8705928d6126f48f59d65eeb7511f22c8d"
+  },
+  "02_100集剧本/单集Markdown/第054集_小芽换了个位置.md": {
+    "snapshot_sha256": "677cf8e43e4d33f2d05845ba60874152da818425bdb5e3418eafd0ff9ceeb653",
+    "current_sha256": "677cf8e43e4d33f2d05845ba60874152da818425bdb5e3418eafd0ff9ceeb653"
+  },
+  "02_100集剧本/单集Markdown/第055集_蝴蝶停在叶背.md": {
+    "snapshot_sha256": "f74bc92a650d6a09ae6986b90656923d6a2a6dd2dab7e889bad437d4331f0d68",
+    "current_sha256": "f74bc92a650d6a09ae6986b90656923d6a2a6dd2dab7e889bad437d4331f0d68"
+  },
+  "02_100集剧本/单集Markdown/第056集_小雨靴的泥点.md": {
+    "snapshot_sha256": "c4758bbc49a5822dfbda9f61c883544b4c6d4533b5dfce8c6f6e86cbeef2a0e4",
+    "current_sha256": "c4758bbc49a5822dfbda9f61c883544b4c6d4533b5dfce8c6f6e86cbeef2a0e4"
+  },
+  "02_100集剧本/单集Markdown/第057集_花瓣落在手心.md": {
+    "snapshot_sha256": "13101ddaeaad5e57189e3800c0f5810e24dae51387850f7465f0755b2fa3bd19",
+    "current_sha256": "13101ddaeaad5e57189e3800c0f5810e24dae51387850f7465f0755b2fa3bd19"
+  },
+  "02_100集剧本/单集Markdown/第058集_叶子印的小卡片.md": {
+    "snapshot_sha256": "addcc0ed8f52ea563a5647fcabab91f02fafca70aef39e45d0287dc99400ea00",
+    "current_sha256": "addcc0ed8f52ea563a5647fcabab91f02fafca70aef39e45d0287dc99400ea00"
+  },
+  "02_100集剧本/单集Markdown/第059集_屋檐下的小翅膀.md": {
+    "snapshot_sha256": "92add658729026600d01e27f6bd80fba2694f99d137b19216ca42f0dd67f82b9",
+    "current_sha256": "92add658729026600d01e27f6bd80fba2694f99d137b19216ca42f0dd67f82b9"
+  },
+  "02_100集剧本/单集Markdown/第060集_春风把窗合轻.md": {
+    "snapshot_sha256": "4804fa643d1506d338b243a80b74d116e5b7d729a80fb8cb18c9a25a14d04bf3",
+    "current_sha256": "4804fa643d1506d338b243a80b74d116e5b7d729a80fb8cb18c9a25a14d04bf3"
+  },
+  "02_100集剧本/单集Markdown/第061集_小画笔洗好澡.md": {
+    "snapshot_sha256": "543520faab29625939f9811237f3a887ddedcf6bd32bf497cbd9928edf08be09",
+    "current_sha256": "543520faab29625939f9811237f3a887ddedcf6bd32bf497cbd9928edf08be09"
+  },
+  "02_100集剧本/单集Markdown/第062集_拼图留到明天.md": {
+    "snapshot_sha256": "d2882490c2582dce5c8737f1ec2c79d072428d18892ca27369a06247e1c13642",
+    "current_sha256": "d2882490c2582dce5c8737f1ec2c79d072428d18892ca27369a06247e1c13642"
+  },
+  "02_100集剧本/单集Markdown/第063集_圆纽扣的小位置.md": {
+    "snapshot_sha256": "d2e84780dcda0f4f3a1cc1b5dcaaa720c2179a59cfe07a3f1d1a6a8debaed2ae",
+    "current_sha256": "d2e84780dcda0f4f3a1cc1b5dcaaa720c2179a59cfe07a3f1d1a6a8debaed2ae"
+  },
+  "02_100集剧本/单集Markdown/第064集_纸星星不必一样亮.md": {
+    "snapshot_sha256": "d94df51e27a9588490120c9d1573acf9bcfc30d3766de182076d0edea86eb288",
+    "current_sha256": "d94df51e27a9588490120c9d1573acf9bcfc30d3766de182076d0edea86eb288"
+  },
+  "02_100集剧本/单集Markdown/第065集_小鼓也要休息.md": {
+    "snapshot_sha256": "a35cb97a0c4e071a973a860e37dcd2a8cfe83b3ebd875d03b82ea81785ddcf79",
+    "current_sha256": "a35cb97a0c4e071a973a860e37dcd2a8cfe83b3ebd875d03b82ea81785ddcf79"
+  },
+  "02_100集剧本/单集Markdown/第066集_彩带的慢慢结.md": {
+    "snapshot_sha256": "6aef5aca38750a90565babc53e939e966fe8b12c77affe7f0e81bb3179be8180",
+    "current_sha256": "6aef5aca38750a90565babc53e939e966fe8b12c77affe7f0e81bb3179be8180"
+  },
+  "02_100集剧本/单集Markdown/第067集_蜡笔画的回家路.md": {
+    "snapshot_sha256": "c404840f96bbe5afed6a5fb7e0637ae6fa4363c0752e1d47ddbbbbdfaf729528",
+    "current_sha256": "c404840f96bbe5afed6a5fb7e0637ae6fa4363c0752e1d47ddbbbbdfaf729528"
+  },
+  "02_100集剧本/单集Markdown/第068集_积木的小门.md": {
+    "snapshot_sha256": "ffbaa34421bd1110f4c808dddf108f012943ab8c2ebbc8875b8042289eff34db",
+    "current_sha256": "ffbaa34421bd1110f4c808dddf108f012943ab8c2ebbc8875b8042289eff34db"
+  },
+  "02_100集剧本/单集Markdown/第069集_灯罩上的纸月牙.md": {
+    "snapshot_sha256": "68f9a67e551941a0468038a856369b2fe9501770ff5790a78ffb246f6f0369d3",
+    "current_sha256": "68f9a67e551941a0468038a856369b2fe9501770ff5790a78ffb246f6f0369d3"
+  },
+  "02_100集剧本/单集Markdown/第070集_小布包的夜晚.md": {
+    "snapshot_sha256": "aff04d1432b42449dce3b0afd72dc422e5684a2e11b38a354c20cc530259b800",
+    "current_sha256": "aff04d1432b42449dce3b0afd72dc422e5684a2e11b38a354c20cc530259b800"
+  },
+  "02_100集剧本/单集Markdown/第071集_没画完的小圆圈.md": {
+    "snapshot_sha256": "9de2273c8db4b6c67fcf62c037a56cba74402b96921fb165da6cac2673cecd8f",
+    "current_sha256": "9de2273c8db4b6c67fcf62c037a56cba74402b96921fb165da6cac2673cecd8f"
+  },
+  "02_100集剧本/单集Markdown/第072集_不着急的小鞋带.md": {
+    "snapshot_sha256": "52b021f4ecb347e633dfbe8a626d63ad768cae978922681d88ae5c4a41381a69",
+    "current_sha256": "52b021f4ecb347e633dfbe8a626d63ad768cae978922681d88ae5c4a41381a69"
+  },
+  "02_100集剧本/单集Markdown/第073集_想念放在小枕头旁.md": {
+    "snapshot_sha256": "c2e13d1fb5c4b6aba32846e9c50bda5d93bd8030281299f1c16fcd403a9443d0",
+    "current_sha256": "c2e13d1fb5c4b6aba32846e9c50bda5d93bd8030281299f1c16fcd403a9443d0"
+  },
+  "02_100集剧本/单集Markdown/第074集_今天的小小叹气.md": {
+    "snapshot_sha256": "49c874bcf1af9db4588a0bd6c3a59fb5123d04834d9a655d26c0c44b82d1d116",
+    "current_sha256": "49c874bcf1af9db4588a0bd6c3a59fb5123d04834d9a655d26c0c44b82d1d116"
+  },
+  "02_100集剧本/单集Markdown/第075集_轻轻的小招呼.md": {
+    "snapshot_sha256": "91aec31bcdc47dafd61e3a9811be51874be983986603f14444ff3d789fd7e862",
+    "current_sha256": "91aec31bcdc47dafd61e3a9811be51874be983986603f14444ff3d789fd7e862"
+  },
+  "02_100集剧本/单集Markdown/第076集_给明天留的小椅子.md": {
+    "snapshot_sha256": "39981bafcac530ae22681da939b2fe3b09529bbd30e2f5fab63ebc15807108ae",
+    "current_sha256": "39981bafcac530ae22681da939b2fe3b09529bbd30e2f5fab63ebc15807108ae"
+  },
+  "02_100集剧本/单集Markdown/第077集_两片不一样的叶子.md": {
+    "snapshot_sha256": "697566512b798c672427b84ddac65772f746a34f6cbc5c68eba0891b22968f62",
+    "current_sha256": "697566512b798c672427b84ddac65772f746a34f6cbc5c68eba0891b22968f62"
+  },
+  "02_100集剧本/单集Markdown/第078集_把小印子擦轻.md": {
+    "snapshot_sha256": "3174540ef6f5aee401eb9af9a3fb23ee968302588167b2bc892c9adcc93062f0",
+    "current_sha256": "3174540ef6f5aee401eb9af9a3fb23ee968302588167b2bc892c9adcc93062f0"
+  },
+  "02_100集剧本/单集Markdown/第079集_安静也能一起玩.md": {
+    "snapshot_sha256": "b272a44df39c5c52fe02927342c84070682cc28ea37d6c91c2bcd7c218bd07af",
+    "current_sha256": "b272a44df39c5c52fe02927342c84070682cc28ea37d6c91c2bcd7c218bd07af"
+  },
+  "02_100集剧本/单集Markdown/第080集_给自己留个软位置.md": {
+    "snapshot_sha256": "bf2573203ee210c290df334aaa9f4e1c9d1617b3b80e457cd2e23bc0e938921a",
+    "current_sha256": "bf2573203ee210c290df334aaa9f4e1c9d1617b3b80e457cd2e23bc0e938921a"
+  },
+  "02_100集剧本/单集Markdown/第081集_云上有条小路.md": {
+    "snapshot_sha256": "9e163bd8683fb72bb76720f190dc848c0e58eccf3c32b00109ad2d04da1a4349",
+    "current_sha256": "9e163bd8683fb72bb76720f190dc848c0e58eccf3c32b00109ad2d04da1a4349"
+  },
+  "02_100集剧本/单集Markdown/第082集_月亮的小船票.md": {
+    "snapshot_sha256": "6822a24391ab27b5f30efa71a270389866bcbbe46726c6b42242863417fc1f64",
+    "current_sha256": "6822a24391ab27b5f30efa71a270389866bcbbe46726c6b42242863417fc1f64"
+  },
+  "02_100集剧本/单集Markdown/第083集_星星的慢火车.md": {
+    "snapshot_sha256": "3ad3178d00a16401024fa537b1b07269282e36b107b800a78a2b2fa55d10162c",
+    "current_sha256": "3ad3178d00a16401024fa537b1b07269282e36b107b800a78a2b2fa55d10162c"
+  },
+  "02_100集剧本/单集Markdown/第084集_蒲公英的轻信.md": {
+    "snapshot_sha256": "08efb04ade3a1be4971738ca8fa9c68b17368758db893c266e0b269a8e4082ba",
+    "current_sha256": "08efb04ade3a1be4971738ca8fa9c68b17368758db893c266e0b269a8e4082ba"
+  },
+  "02_100集剧本/单集Markdown/第085集_口袋里的小海湾.md": {
+    "snapshot_sha256": "75c26d0f88fdf57b3731cbabaa5c93a025a003d258bf0d00677ba9c0ea108370",
+    "current_sha256": "75c26d0f88fdf57b3731cbabaa5c93a025a003d258bf0d00677ba9c0ea108370"
+  },
+  "02_100集剧本/单集Markdown/第086集_枕边的森林电台.md": {
+    "snapshot_sha256": "57892e2f9c8e400763497092a95db0e161d5695a559c18e9c7ead5bf7d7a8b2c",
+    "current_sha256": "57892e2f9c8e400763497092a95db0e161d5695a559c18e9c7ead5bf7d7a8b2c"
+  },
+  "02_100集剧本/单集Markdown/第087集_小梦邮局的最后一封信.md": {
+    "snapshot_sha256": "bfd05657e65093ecf14cf409ae14a1ed7f9e4b1fb82379e13f85550a91960576",
+    "current_sha256": "bfd05657e65093ecf14cf409ae14a1ed7f9e4b1fb82379e13f85550a91960576"
+  },
+  "02_100集剧本/单集Markdown/第088集_影子坐在脚边.md": {
+    "snapshot_sha256": "6093a74fa2a5e7ef621c1b03736e004ec24b90919e76d4f6e1c4d2dc158485c1",
+    "current_sha256": "6093a74fa2a5e7ef621c1b03736e004ec24b90919e76d4f6e1c4d2dc158485c1"
+  },
+  "02_100集剧本/单集Markdown/第089集_窗上的小小剧场.md": {
+    "snapshot_sha256": "16b2b1a2e04f8e4a7eeca98a5a3b5645d9939c4bd0d8da05ac937028c7308a2e",
+    "current_sha256": "16b2b1a2e04f8e4a7eeca98a5a3b5645d9939c4bd0d8da05ac937028c7308a2e"
+  },
+  "02_100集剧本/单集Markdown/第090集_星光织的小毯子.md": {
+    "snapshot_sha256": "275cca432c8876605f5115d63a566f02f095d6763deac1f4333174a91a67d87d",
+    "current_sha256": "275cca432c8876605f5115d63a566f02f095d6763deac1f4333174a91a67d87d"
+  },
+  "02_100集剧本/单集Markdown/第091集_把今天轻轻折好.md": {
+    "snapshot_sha256": "4d5621138fb14247692e5993a7402fadc7efff93b3f4b9ca54ffc90742cc62bd",
+    "current_sha256": "4d5621138fb14247692e5993a7402fadc7efff93b3f4b9ca54ffc90742cc62bd"
+  },
+  "02_100集剧本/单集Markdown/第092集_小门听见晚安.md": {
+    "snapshot_sha256": "91673d68b243182269d600eefaa133196c06e78ec1298ddb82723ef77ed95ab7",
+    "current_sha256": "91673d68b243182269d600eefaa133196c06e78ec1298ddb82723ef77ed95ab7"
+  },
+  "02_100集剧本/单集Markdown/第093集_小椅子稳稳坐好.md": {
+    "snapshot_sha256": "d2ce6c1d1bc33547c32b690895a63983a912773d22df843c165ca148b0d8611f",
+    "current_sha256": "d2ce6c1d1bc33547c32b690895a63983a912773d22df843c165ca148b0d8611f"
+  },
+  "02_100集剧本/单集Markdown/第094集_小闹钟只管明天.md": {
+    "snapshot_sha256": "e536e79b14d0fd7f2f3fdf2d04fcb7adad1f14f375a94a23868e42f4d6817c76",
+    "current_sha256": "e536e79b14d0fd7f2f3fdf2d04fcb7adad1f14f375a94a23868e42f4d6817c76"
+  },
+  "02_100集剧本/单集Markdown/第095集_床头留一块空地方.md": {
+    "snapshot_sha256": "deacea2b987e26470dde3d9ab330be48af15e90c83fe383beaaca9ea83229b75",
+    "current_sha256": "deacea2b987e26470dde3d9ab330be48af15e90c83fe383beaaca9ea83229b75"
+  },
+  "02_100集剧本/单集Markdown/第096集_把四季放在窗边.md": {
+    "snapshot_sha256": "44aa9ae76c189933481f598f6fef82512e87da9de12a07ea4f6744112fd75a50",
+    "current_sha256": "44aa9ae76c189933481f598f6fef82512e87da9de12a07ea4f6744112fd75a50"
+  },
+  "02_100集剧本/单集Markdown/第097集_小屋里的轻声晚安.md": {
+    "snapshot_sha256": "d05fb4c71309d0d26a4af222dc1407a1ebff28d369c24b84b20d5d16559418cd",
+    "current_sha256": "d05fb4c71309d0d26a4af222dc1407a1ebff28d369c24b84b20d5d16559418cd"
+  },
+  "02_100集剧本/单集Markdown/第098集_皮皮的慢慢收藏.md": {
+    "snapshot_sha256": "dee18cecb66786683164ef81e4e3d74dc244383f38647e84e748cf3198b82658",
+    "current_sha256": "dee18cecb66786683164ef81e4e3d74dc244383f38647e84e748cf3198b82658"
+  },
+  "02_100集剧本/单集Markdown/第099集_明天的小小约定.md": {
+    "snapshot_sha256": "81ec9ae102e15b0223ea3d269c4e16797eb68dd93a96c0db38a6819229c69074",
+    "current_sha256": "81ec9ae102e15b0223ea3d269c4e16797eb68dd93a96c0db38a6819229c69074"
+  },
+  "02_100集剧本/单集Markdown/第100集_森林的晚安灯.md": {
+    "snapshot_sha256": "f67bad5fba4676b173a315e584bc8322b1f5b664c87308a5846c97f6d5f2c6d6",
+    "current_sha256": "f67bad5fba4676b173a315e584bc8322b1f5b664c87308a5846c97f6d5f2c6d6"
+  },
+  "CHANNEL_MASTER.md": {
+    "snapshot_sha256": "0be563d19f060b14a2f7125ba9b70328d5b3e87381b24f39edab326361180f73",
+    "current_sha256": "3c8db9f392707f74e25426de58aef104cc1f5a5667b81730928c0cfab0ae0a4e"
+  },
+  "AGENTS.md": {
+    "snapshot_sha256": "a968ee01db78b3362f927cb86f0828f5fefde4e2aca0eddf24e840ee98005369",
+    "current_sha256": "a968ee01db78b3362f927cb86f0828f5fefde4e2aca0eddf24e840ee98005369"
+  },
+  "01_制作手册/制作总手册.md": {
+    "snapshot_sha256": "952d35e39f96610829e2baa3daaf65944eef03cf129c8a521e770c4e7585301a",
+    "current_sha256": "952d35e39f96610829e2baa3daaf65944eef03cf129c8a521e770c4e7585301a"
+  },
+  "03_素材与参数/共用画风与提示词.json": {
+    "snapshot_sha256": "35456c15d023897a1a97f9400b08ec31c42eff2275ff00c57b835ad330a9ba48",
+    "current_sha256": "35456c15d023897a1a97f9400b08ec31c42eff2275ff00c57b835ad330a9ba48"
+  },
+  "03_素材与参数/封面与字幕参数.json": {
+    "snapshot_sha256": "20e76706543f9b73fc7f0637916a74002f8a3c668d64c1af325d4cd714fe71d7",
+    "current_sha256": "20e76706543f9b73fc7f0637916a74002f8a3c668d64c1af325d4cd714fe71d7"
+  },
+  "03_素材与参数/已验收基准.json": {
+    "snapshot_sha256": "22d7ff2d7b1833d7b49a3c43ea0ef5693a9b3ebfd99593faa341863b477e7c11",
+    "current_sha256": "22d7ff2d7b1833d7b49a3c43ea0ef5693a9b3ebfd99593faa341863b477e7c11"
+  },
+  "03_素材与参数/角色设定.json": {
+    "snapshot_sha256": "26c887eac8a22ad7dd127d4b0168f6b2dd292e2a62e81035a52607411d2b3424",
+    "current_sha256": "26c887eac8a22ad7dd127d4b0168f6b2dd292e2a62e81035a52607411d2b3424"
+  },
+  "03_素材与参数/配音与声音参数.json": {
+    "snapshot_sha256": "5258c5deb15b376122a51e0b0c3a40fc6f8af6dbbf3a0706dc479380339fc993",
+    "current_sha256": "5258c5deb15b376122a51e0b0c3a40fc6f8af6dbbf3a0706dc479380339fc993"
+  },
+  "docs/production/COVER_SPEC.md": {
+    "snapshot_sha256": "b6d75475f27675a98369e0ee96da13e76d606ef731f68b0a37c70a1c333f54c0",
+    "current_sha256": "b6d75475f27675a98369e0ee96da13e76d606ef731f68b0a37c70a1c333f54c0"
+  },
+  "docs/production/EPISODE_STATUS.md": {
+    "snapshot_sha256": "cfb4b54ad8d783c7562da3b9ffc9e6e3bd423c44d48c541482d24182c21afd31",
+    "current_sha256": "c63cc81ca4fe1f40bb750438124df67237dbc669e640a793930343fa5a2c40d1"
+  },
+  "docs/production/EPISODE_WORKFLOW.md": {
+    "snapshot_sha256": "d992567fbf27b396da59d975d829a26ff16de94f041cc269365301ca1f2c6a3f",
+    "current_sha256": "d992567fbf27b396da59d975d829a26ff16de94f041cc269365301ca1f2c6a3f"
+  },
+  "docs/production/PUBLISH_COPY_SPEC.md": {
+    "snapshot_sha256": "4345d4f27c0ef87cd7d09e723fdaaaf4cdb826c276d10cd3fe3b612dc91115f7",
+    "current_sha256": "4345d4f27c0ef87cd7d09e723fdaaaf4cdb826c276d10cd3fe3b612dc91115f7"
+  },
+  "docs/production/README.md": {
+    "snapshot_sha256": "b66b14c868f6e5aa00c11da117b69b060df36c60807c6f2b9ad75cb26e684faa",
+    "current_sha256": "b66b14c868f6e5aa00c11da117b69b060df36c60807c6f2b9ad75cb26e684faa"
+  },
+  "docs/production/SUBTITLE_SPEC.md": {
+    "snapshot_sha256": "95b81b6bb5467e84f7ce677a9d25816cbfc85175a261a922f490266fafbcc344",
+    "current_sha256": "95b81b6bb5467e84f7ce677a9d25816cbfc85175a261a922f490266fafbcc344"
+  },
+  "docs/production/VIDEO_SPEC.md": {
+    "snapshot_sha256": "982a0016a1ed1dd38a5582698d466688e46a2106414c31884af9d10999b13f48",
+    "current_sha256": "982a0016a1ed1dd38a5582698d466688e46a2106414c31884af9d10999b13f48"
+  },
+  "docs/production/VOICE_PROFILE.md": {
+    "snapshot_sha256": "9417c5af26c66ca8c63b6a578dc58e2e4b2f2fab44c045eadea85e81ecd2c29f",
+    "current_sha256": "9417c5af26c66ca8c63b6a578dc58e2e4b2f2fab44c045eadea85e81ecd2c29f"
+  },
+  "docs/production/templates/EPISODE_RECORD.md": {
+    "snapshot_sha256": "5a5cb72fdceb0d3be002ea7da721fc49168cab463decc41acc0368569738c0b9",
+    "current_sha256": "5a5cb72fdceb0d3be002ea7da721fc49168cab463decc41acc0368569738c0b9"
+  }
+}

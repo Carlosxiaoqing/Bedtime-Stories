@@ -1,0 +1,95 @@
+{
+  "schema_version": 3,
+  "script_version": "v4",
+  "id": "ep080",
+  "episode": 80,
+  "title": "给自己留个软位置",
+  "theme": "照顾东西时也记得照顾自己",
+  "language": "zh-CN",
+  "production_scope": "adopted_user_long_script",
+  "status": "copyedited_media_not_started",
+  "narration_paragraphs": [
+    {
+      "id": "p001",
+      "text": "今天傍晚，皮皮用湿抹布和干布巾，把自己卧室里那张心爱的原木小书桌擦拭得一尘不染，木纹在灯光下亮晶晶的，好看极了。\n擦完桌子后，皮皮抱来了他那只装满水彩颜料、画笔和调色盘的大木头画盒，准备坐在桌前画一幅画。"
+    },
+    {
+      "id": "p002",
+      "text": "因为大画盒是硬木头做的，分量沉甸甸的，四个底角又有点硬，皮皮把画盒往刚擦好的桌面上一放时，心里忽然有点心疼：哎呀，这么沉的画盒直接放在桌面上，万一把新擦好的光滑桌面压出印子、或者刮花了怎么办呢？\n于是，皮皮转身把自己平时坐在木椅上的那只最厚、最软的鹅毛小坐垫拿了过来，垫在了大画盒的底下！"
+    },
+    {
+      "id": "p003",
+      "text": "大画盒稳稳地坐在软绵绵的鹅毛坐垫上，桌面被保护得妥妥当当，一点儿也不会被刮到了。\n可是，当皮皮自己坐回那把没有了坐垫的光板小木凳上，拿起画笔准备画画时，问题来了——硬邦邦的木头凳面硌得小屁股有点儿酸，而且因为画盒下面垫了高高的厚坐垫，画盒变得比平时高出了一大截，皮皮只好高高地架着两只小胳膊去蘸颜料。"
+    },
+    {
+      "id": "p004",
+      "text": "画了还没两分钟，皮皮就在木凳上左挪挪、右扭扭，怎么坐都觉得别扭，小肩膀累得直发酸，完全少了一点点平时画画时的舒服劲儿。\n皮皮停下画笔，低头看了看身下硬邦邦的木凳，又看了看画盒底下那只蓬松的高级坐垫，忍不住扑哧一声笑了出来：我这是怎么啦？为了照顾一只木头盒子和一张桌子，居然把我自己弄得这么难受！"
+    },
+    {
+      "id": "p005",
+      "text": "皮皮站起身，动脑筋想了想。保护桌面其实根本用不着那么厚的鹅毛坐垫呀！\n他从手工柜最底下找出来一块平时垫桌子的厚实旧棉布，对折了两下，平平整整地铺在画盒底下；然后把那只原本就属于自己的鹅毛软坐垫，轻轻地抽了出来，重新放回了自己的木椅面上。"
+    },
+    {
+      "id": "p006",
+      "text": "这回，当皮皮慢慢坐回软坐垫上时，全身一下子就放松了下来！你看，有了旧棉布的保护，小书桌和画盒被照顾得好好的；而坐在软垫上的皮皮自己，也终于被照顾得好好的了。\n坐舒服了之后，皮皮并没有因此贪玩又画上个把小时，他只是从容地画完了画纸上最后一小片绿叶子，就干脆利落地收好了画笔。"
+    },
+    {
+      "id": "p007",
+      "text": "窗外的月亮慢慢升到了树梢头，皮皮把椅子上的软垫摆正放稳，洗净手，转身回到了暖灯旁的小木床上。\n床上的大枕头软软的，暖黄色的毛毯暖暖的，胡萝卜玩偶也乖乖地靠在它最喜欢的小臂弯里。"
+    },
+    {
+      "id": "p008",
+      "text": "皮皮闭上眼睛。今天他给屋里的许多东西都找过了合适的位置，最重要的，是他也没有忘记给自己留好一个最柔软、最舒服的位置。\n小朋友，平时你一定也是个懂得爱护玩具、体贴别人的好孩子；到了晚上睡觉的时候，记得也要给自己留一份最棒的温柔哦。你的小床已经等好啦，晚安。"
+    }
+  ],
+  "cn_characters": 917,
+  "narration_sha256": "67d8cffb5731c45f8565fd0cc61f9e358ef5e8a9aa99cf65f2d80b952f04347b",
+  "source": {
+    "path": "/Users/ww/Downloads/100集睡前故事合集.md",
+    "sha256": "3feafa137e94824baccf8b6e3f3f24bac3e97714b2e201fcc48d461d8969c302",
+    "original_narration_sha256": "67d8cffb5731c45f8565fd0cc61f9e358ef5e8a9aa99cf65f2d80b952f04347b",
+    "original_paragraph_count": 8
+  },
+  "revision_record": [],
+  "duration_policy": {
+    "basis": "complete_narration_at_current_voice_settings",
+    "limit_s": null,
+    "delete_for_duration": false,
+    "time_stretch": false
+  },
+  "voice": {
+    "config": "03_素材与参数/配音与声音参数.json",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000
+  },
+  "actual_duration_s": null,
+  "character_registry": "03_素材与参数/用户长稿v4角色图库.json",
+  "storyboard": {
+    "status": "not_started",
+    "shots": [],
+    "timing_basis": "actual_audio",
+    "preferred_hold_s": [
+      8,
+      10
+    ],
+    "review_above_s": 15,
+    "short_action_hold_s": [
+      3,
+      5
+    ]
+  },
+  "material_state": {
+    "voice": "not_started",
+    "character_references": "not_generated",
+    "illustrations": "not_started",
+    "cover": "not_started",
+    "pinyin_review": "not_started",
+    "render": "not_started",
+    "technical_check": "not_started",
+    "human_watch": "not_started",
+    "user_acceptance": "not_recorded"
+  }
+}

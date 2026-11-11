@@ -1,0 +1,280 @@
+{
+  "schema_version": 2,
+  "script_version": "v3",
+  "id": "ep062",
+  "episode": 62,
+  "title": "给学校留一张声音照片",
+  "cover_title": "声音照片",
+  "category": "学校",
+  "theme": "普通的一天也有值得记下的事",
+  "setting": "榆树学校下课走廊、榆树学校露天读书角",
+  "viewpoint_character": "皮皮",
+  "guest": "斑斑、桃桃、圆圆",
+  "character_names": [
+    "皮皮",
+    "斑斑",
+    "桃桃",
+    "圆圆"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "成片约120秒，配音后实测校时",
+  "cn_characters": 284,
+  "initial_duration_budget_s": 121.02,
+  "shots": [
+    {
+      "id": 1,
+      "title": "放学走廊有几张空凳，皮皮托画纸，与斑斑桃桃圆圆停步",
+      "location": "榆树学校下课走廊",
+      "character_names": [
+        "皮皮",
+        "斑斑",
+        "桃桃",
+        "圆圆"
+      ],
+      "narration_lines": [
+        "皮皮想画一张放学的照片。",
+        "可是刚才最好听的那声笑，怎么也画不进纸里。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校下课走廊。竖幅远景交代空间和前后层次。画面：放学走廊有几张空凳，皮皮托画纸，与斑斑桃桃圆圆停步。入镜角色：皮皮、斑斑、桃桃、圆圆。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 13.02,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "斑斑在凳上指自己嘴边，桃桃从走廊另一侧回头",
+      "location": "榆树学校下课走廊",
+      "character_names": [
+        "皮皮",
+        "斑斑",
+        "桃桃"
+      ],
+      "narration_lines": [
+        "斑斑说，是他先笑的。",
+        "桃桃摇头，她听见笑之前，还有木鞋在地上走了两步。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校下课走廊。平视中景突出人物姿态和相互位置。画面：斑斑在凳上指自己嘴边，桃桃从走廊另一侧回头。入镜角色：皮皮、斑斑、桃桃。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.67,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "空卡分散在圆桌上，每张留一个画图位置",
+      "location": "榆树学校下课走廊",
+      "character_names": [
+        "圆圆"
+      ],
+      "narration_lines": [
+        "圆圆拿出几张空卡，提议每人画刚才先听见的那样东西。",
+        "每张卡只放一样东西，这样排错了，也能拿起来重新换。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校下课走廊。近景突出手边动作或道具状态。画面：空卡分散在圆桌上，每张留一个画图位置。入镜角色：圆圆。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 17.19,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "四张小卡画着鞋、叶、凳脚和笑脸图案，几只爪分别摆放",
+      "location": "榆树学校露天读书角",
+      "character_names": [
+        "皮皮",
+        "斑斑",
+        "桃桃",
+        "圆圆"
+      ],
+      "narration_lines": [
+        "皮皮画凳脚，斑斑画笑脸，桃桃画鞋，圆圆画最后才听到的一片叶子。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "俯视呈现平面上的物件和路线",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校露天读书角。俯视呈现平面上的物件和路线。画面：四张小卡画着鞋、叶、凳脚和笑脸图案，几只爪分别摆放。入镜角色：皮皮、斑斑、桃桃、圆圆。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.26,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "三位在读书角按顺序排列卡片，皮皮手停在两张之间",
+      "location": "榆树学校露天读书角",
+      "character_names": [
+        "皮皮",
+        "斑斑",
+        "桃桃"
+      ],
+      "narration_lines": [
+        "他们把卡排在桌上。",
+        "斑斑才想起来，他是等皮皮把凳子让出来，才笑了一声。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校露天读书角。平视中景突出人物姿态和相互位置。画面：三位在读书角按顺序排列卡片，皮皮手停在两张之间。入镜角色：皮皮、斑斑、桃桃。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.02,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "伙伴沿空走廊试走，桃桃鞋踩到有浅木纹的位置",
+      "location": "榆树学校下课走廊",
+      "character_names": [
+        "皮皮",
+        "斑斑",
+        "桃桃",
+        "圆圆"
+      ],
+      "narration_lines": [
+        "大家走回走廊，轻轻做了一遍。",
+        "两步鞋声，一下凳脚，再来一声笑。",
+        "叶子这次没响。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校下课走廊。侧面中景展示动作方向与相邻环境。画面：伙伴沿空走廊试走，桃桃鞋踩到有浅木纹的位置。入镜角色：皮皮、斑斑、桃桃、圆圆。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 13.08,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "圆圆将叶卡挪到最边，另一侧留一个新空格",
+      "location": "榆树学校露天读书角",
+      "character_names": [
+        "圆圆"
+      ],
+      "narration_lines": [
+        "圆圆把叶卡往边上挪，留个空格。",
+        "他说，今天和刚才，本来就可以有一点不一样。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校露天读书角。近景突出手边动作或道具状态。画面：圆圆将叶卡挪到最边，另一侧留一个新空格。入镜角色：圆圆。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "四位把一排声音卡夹到读书角的展示绳上",
+      "location": "榆树学校露天读书角",
+      "character_names": [
+        "皮皮",
+        "斑斑",
+        "桃桃",
+        "圆圆"
+      ],
+      "narration_lines": [
+        "他们把卡挂到读书角。",
+        "谁经过都能试着排一遍，也能添一张自己听见的声音。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校露天读书角。平视中景突出人物姿态和相互位置。画面：四位把一排声音卡夹到读书角的展示绳上。入镜角色：皮皮、斑斑、桃桃、圆圆。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "展示绳末端留一只空木夹，树叶投影落在桌面",
+      "location": "榆树学校露天读书角",
+      "character_names": [],
+      "narration_lines": [
+        "皮皮走时，真的有一片叶子响了。",
+        "他没急着补画，只在空夹旁多站了一会儿。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校露天读书角。近景突出手边动作或道具状态。画面：展示绳末端留一只空木夹，树叶投影落在桌面。入镜角色：无，仅画环境或道具。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 19.07,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v3剧本和九镜已校时估算，实际配音及后续制作待进行",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/多场景版v2/结构化JSON/ep062.json",
+    "scope": "以约两分钟为目标逐集校时，补充偏短故事的动作、对话或线索，压缩偏长的重复表述",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始",
+    "previous_script_sha256": "698e9b126c8e195df947ce56baaf9dea74103141758f9c1b13f8bc53f123a5c6",
+    "edited_shots": [
+      3
+    ]
+  },
+  "duration_plan": {
+    "target_s": 120,
+    "planning_range_s": [
+      115,
+      125
+    ],
+    "estimated_s": 121.02,
+    "v2_estimated_using_same_method_s": 112.72,
+    "reference_narration_hanzi_per_second": 2.899607,
+    "opening_s": 1.0,
+    "tail_in_final_shot_s": 8.0
+  }
+}

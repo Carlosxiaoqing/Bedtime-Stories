@@ -1,0 +1,272 @@
+{
+  "schema_version": 2,
+  "script_version": "v3",
+  "id": "ep088",
+  "episode": 88,
+  "title": "树根下那颗滚走的栗子",
+  "cover_title": "滚走栗子",
+  "category": "自然",
+  "theme": "猜错时可以接着找真相",
+  "setting": "榛子坡栗树下、栗树旁低洼草沟",
+  "viewpoint_character": "团团",
+  "guest": "团团、栗栗",
+  "character_names": [
+    "团团",
+    "栗栗",
+    "皮皮"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "成片约120秒，配音后实测校时",
+  "cn_characters": 277,
+  "initial_duration_budget_s": 117.89,
+  "shots": [
+    {
+      "id": 1,
+      "title": "栗树下团团与栗栗、皮皮各拿小篮，一颗大栗子在树根旁",
+      "location": "榛子坡栗树下",
+      "character_names": [
+        "团团",
+        "栗栗",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "团团找到一颗特别大的栗子。",
+        "他刚去拿篮子，回头就只看见栗栗坐在树根旁。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "榛子坡栗树下。竖幅远景交代空间和前后层次。画面：栗树下团团与栗栗、皮皮各拿小篮，一颗大栗子在树根旁。入镜角色：团团、栗栗、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 13.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "团团伸爪指空树根，栗栗把小篮转给他看",
+      "location": "榛子坡栗树下",
+      "character_names": [
+        "团团",
+        "栗栗"
+      ],
+      "narration_lines": [
+        "团团问栗栗是不是拿走了。",
+        "栗栗把篮转过去，里头只有两片叶子和一根短草。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "榛子坡栗树下。平视中景突出人物姿态和相互位置。画面：团团伸爪指空树根，栗栗把小篮转给他看。入镜角色：团团、栗栗。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "皮皮指树根边一道浅湿滑痕，最窄处通向下坡",
+      "location": "榛子坡栗树下",
+      "character_names": [
+        "皮皮"
+      ],
+      "narration_lines": [
+        "皮皮蹲下来看，在树根边找到一道浅印，朝下坡一直拖到草尖。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "榛子坡栗树下。近景突出手边动作或道具状态。画面：皮皮指树根边一道浅湿滑痕，最窄处通向下坡。入镜角色：皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 9.57,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "三位顺着草地边缘下坡，团团先看见沟里的圆叶",
+      "location": "榛子坡栗树下",
+      "character_names": [
+        "团团",
+        "栗栗",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "他们沿着草沟往下找。",
+        "团团先看到一张圆叶，以为是栗子，走近才看清。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "榛子坡栗树下。侧面中景展示动作方向与相邻环境。画面：三位顺着草地边缘下坡，团团先看见沟里的圆叶。入镜角色：团团、栗栗、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.33,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "栗栗从较低草缝看见卡在两茎之间的栗子",
+      "location": "栗树旁低洼草沟",
+      "character_names": [
+        "栗栗"
+      ],
+      "narration_lines": [
+        "栗栗从低处看，两根草之间卡着一颗褐色的东西。",
+        "他把草轻轻拨开，大栗子露出来了。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "低视角凸显脚边、地面与人物尺度",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "栗树旁低洼草沟。低视角凸显脚边、地面与人物尺度。画面：栗栗从较低草缝看见卡在两茎之间的栗子。入镜角色：栗栗。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 13.4,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "团团接到栗子，皮皮在坡上放一颗小石示意滚动方向",
+      "location": "栗树旁低洼草沟",
+      "character_names": [
+        "团团",
+        "栗栗",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "团团把栗子捧稳。",
+        "皮皮用小石试了一下，圆的东西从树根旁往下走，都会进这条草沟。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "栗树旁低洼草沟。近景突出手边动作或道具状态。画面：团团接到栗子，皮皮在坡上放一颗小石示意滚动方向。入镜角色：团团、栗栗、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 13.4,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "团团在草沟边把栗子递给栗栗看，两人蹲在同一高度",
+      "location": "栗树旁低洼草沟",
+      "character_names": [
+        "团团",
+        "栗栗"
+      ],
+      "narration_lines": [
+        "团团转向栗栗，说刚才问得太急。",
+        "他请栗栗看看，这颗要不要留给下一个来的人。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "栗树旁低洼草沟。平视中景突出人物姿态和相互位置。画面：团团在草沟边把栗子递给栗栗看，两人蹲在同一高度。入镜角色：团团、栗栗。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.71,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "三位用小碟把大栗子放到坡背平地，边上有两片叶",
+      "location": "榛子坡栗树下",
+      "character_names": [
+        "团团",
+        "栗栗",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "他们找一处平地，把大栗子放到小碟上。",
+        "这样谁来看，栗子也不会再滚下去。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "榛子坡栗树下。侧面中景展示动作方向与相邻环境。画面：三位用小碟把大栗子放到坡背平地，边上有两片叶。入镜角色：团团、栗栗、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.02,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "团团和栗栗各托一颗小栗子，大栗子留在平处",
+      "location": "榛子坡栗树下",
+      "character_names": [
+        "团团",
+        "栗栗"
+      ],
+      "narration_lines": [
+        "走时，团团自己捡了一颗小的。",
+        "栗栗也找到一颗，两颗往篮里一放，响得一样清楚。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "榛子坡栗树下。近景突出手边动作或道具状态。画面：团团和栗栗各托一颗小栗子，大栗子留在平处。入镜角色：团团、栗栗。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 19.76,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v3剧本和九镜已校时估算，实际配音及后续制作待进行",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/多场景版v2/结构化JSON/ep088.json",
+    "scope": "以约两分钟为目标逐集校时，补充偏短故事的动作、对话或线索，压缩偏长的重复表述",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始",
+    "previous_script_sha256": "0da20d8102bb95b234271b6b27081cbb4ad092b412e429d3f213c16bd5445068",
+    "edited_shots": []
+  },
+  "duration_plan": {
+    "target_s": 120,
+    "planning_range_s": [
+      115,
+      125
+    ],
+    "estimated_s": 117.89,
+    "v2_estimated_using_same_method_s": 117.89,
+    "reference_narration_hanzi_per_second": 2.899607,
+    "opening_s": 1.0,
+    "tail_in_final_shot_s": 8.0
+  }
+}

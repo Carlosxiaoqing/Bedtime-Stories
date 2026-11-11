@@ -1,0 +1,272 @@
+{
+  "schema_version": 2,
+  "script_version": "v3",
+  "id": "ep072",
+  "episode": 72,
+  "title": "旧围巾要不要交换",
+  "cover_title": "旧围巾交换",
+  "category": "社区",
+  "theme": "可以改变主意也可以保留自己的东西",
+  "setting": "长耳街衣物交换架、交换架旁的改衣小桌",
+  "viewpoint_character": "芽芽",
+  "guest": "芽芽、梨梨、米米",
+  "character_names": [
+    "芽芽",
+    "梨梨",
+    "米米"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "成片约120秒，配音后实测校时",
+  "cn_characters": 271,
+  "initial_duration_budget_s": 116.54,
+  "shots": [
+    {
+      "id": 1,
+      "title": "衣物架挂旧围巾和布袋，芽芽捧自己的细围巾",
+      "location": "长耳街衣物交换架",
+      "character_names": [
+        "芽芽",
+        "梨梨",
+        "米米"
+      ],
+      "narration_lines": [
+        "芽芽带一条旧围巾去交换。",
+        "梨梨选中那条围巾，芽芽交过去时，又觉得有点舍不得。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街衣物交换架。竖幅远景交代空间和前后层次。画面：衣物架挂旧围巾和布袋，芽芽捧自己的细围巾。入镜角色：芽芽、梨梨、米米。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 14.05,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "芽芽两指还捏着围巾末端的一道旧折线",
+      "location": "长耳街衣物交换架",
+      "character_names": [
+        "芽芽"
+      ],
+      "narration_lines": [
+        "她没松手。",
+        "米米问，这条围巾是不是陪她走过很多地方。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街衣物交换架。近景突出手边动作或道具状态。画面：芽芽两指还捏着围巾末端的一道旧折线。入镜角色：芽芽。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 9.26,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "三位围在架边，芽芽将围巾慢慢放回自己的臂弯",
+      "location": "长耳街衣物交换架",
+      "character_names": [
+        "芽芽",
+        "梨梨",
+        "米米"
+      ],
+      "narration_lines": [
+        "芽芽说，她第一次去松岭就是戴这条。",
+        "梨梨把另一头也递回去，让她先留着。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街衣物交换架。平视中景突出人物姿态和相互位置。画面：三位围在架边，芽芽将围巾慢慢放回自己的臂弯。入镜角色：芽芽、梨梨、米米。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.02,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "小桌上摊开两块新布，旧围巾平放在侧边",
+      "location": "交换架旁的改衣小桌",
+      "character_names": [
+        "芽芽",
+        "梨梨",
+        "米米"
+      ],
+      "narration_lines": [
+        "梨梨其实喜欢的是围巾末端的细边。",
+        "米米找来两块可交换的布，让她摸摸哪一块合适。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "俯视呈现平面上的物件和路线",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "交换架旁的改衣小桌。俯视呈现平面上的物件和路线。画面：小桌上摊开两块新布，旧围巾平放在侧边。入镜角色：芽芽、梨梨、米米。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 13.74,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "梨梨把一段绿布卷出边线，芽芽手指旧边走向",
+      "location": "交换架旁的改衣小桌",
+      "character_names": [
+        "梨梨"
+      ],
+      "narration_lines": [
+        "梨梨挑中一段绿布。",
+        "芽芽给她看旧围巾怎么卷边，米米从旁边递来几个圆夹。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "交换架旁的改衣小桌。近景突出手边动作或道具状态。画面：梨梨把一段绿布卷出边线，芽芽手指旧边走向。入镜角色：梨梨。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "三位对着两条围巾比边，芽芽仍把旧围巾搭在膝上",
+      "location": "交换架旁的改衣小桌",
+      "character_names": [
+        "芽芽",
+        "梨梨",
+        "米米"
+      ],
+      "narration_lines": [
+        "等新边整理好，梨梨把它搭到肩上。",
+        "颜色不一样，边却像当时看中的那一条。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "交换架旁的改衣小桌。平视中景突出人物姿态和相互位置。画面：三位对着两条围巾比边，芽芽仍把旧围巾搭在膝上。入镜角色：芽芽、梨梨、米米。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.02,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "芽芽在架边拿出一段可交换余布，米米帮她挂起",
+      "location": "长耳街衣物交换架",
+      "character_names": [
+        "芽芽",
+        "梨梨",
+        "米米"
+      ],
+      "narration_lines": [
+        "临走前，芽芽另外挑了一段布放上架子。",
+        "这一段，她想好了，谁喜欢就可以带走。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街衣物交换架。侧面中景展示动作方向与相邻环境。画面：芽芽在架边拿出一段可交换余布，米米帮她挂起。入镜角色：芽芽、梨梨、米米。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "梨梨和芽芽各理好围巾一端，并排离开交换架",
+      "location": "长耳街衣物交换架",
+      "character_names": [
+        "芽芽",
+        "梨梨"
+      ],
+      "narration_lines": [
+        "两位朋友一起往回走。",
+        "风一吹，两条围巾先后露出了同样细的边。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街衣物交换架。平视中景突出人物姿态和相互位置。画面：梨梨和芽芽各理好围巾一端，并排离开交换架。入镜角色：芽芽、梨梨。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.64,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "改衣桌旁留两块没用的布头和一只空圆夹",
+      "location": "交换架旁的改衣小桌",
+      "character_names": [],
+      "narration_lines": [
+        "小桌收好以后，还留一段新布。",
+        "下次来的朋友，也可以先摸一摸，再决定带什么回去。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "环境留白为主，关键物件或人物位于上部",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "交换架旁的改衣小桌。环境留白为主，关键物件或人物位于上部。画面：改衣桌旁留两块没用的布头和一只空圆夹。入镜角色：无，仅画环境或道具。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 20.1,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v3剧本和九镜已校时估算，实际配音及后续制作待进行",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/多场景版v2/结构化JSON/ep072.json",
+    "scope": "以约两分钟为目标逐集校时，补充偏短故事的动作、对话或线索，压缩偏长的重复表述",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始",
+    "previous_script_sha256": "75d3bcfeecd565adc920296b7fd9a746a527a7f4af3b5e672c3f59a928d9ad4c",
+    "edited_shots": []
+  },
+  "duration_plan": {
+    "target_s": 120,
+    "planning_range_s": [
+      115,
+      125
+    ],
+    "estimated_s": 116.54,
+    "v2_estimated_using_same_method_s": 116.54,
+    "reference_narration_hanzi_per_second": 2.899607,
+    "opening_s": 1.0,
+    "tail_in_final_shot_s": 8.0
+  }
+}

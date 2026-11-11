@@ -1,0 +1,189 @@
+{
+  "schema_version": 2,
+  "id": "ep074",
+  "episode": 74,
+  "title": "今天的小小叹气",
+  "theme": "不急着赶走不舒服的心情",
+  "setting": "小木屋地垫与卧室",
+  "guest": "无",
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "约90–120秒；以实际配音为准",
+  "cn_characters": 245,
+  "initial_duration_budget_s": 99.1,
+  "shots": [
+    {
+      "id": 1,
+      "title": "地垫旁皮皮轻轻叹气",
+      "narration_lines": [
+        "皮皮坐在地垫上，轻轻叹了一口气。",
+        "今天搭的小屋，总和他想的，不太一样。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "中景建立环境，主体位置清楚",
+      "image": "images/shot_01.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：地垫旁皮皮轻轻叹气。镜位：中景建立环境，主体位置清楚。",
+      "initial_budget_s": 11.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "歪小窗与积木小门",
+      "narration_lines": [
+        "窗户有一点歪，小门也没有对齐。",
+        "皮皮把爪子，放在膝头，没有继续忙着改。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "主体或物件近景，保留地点线索",
+      "image": "images/shot_02.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：歪小窗与积木小门。镜位：主体或物件近景，保留地点线索。",
+      "initial_budget_s": 10.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "软垫上安坐的皮皮",
+      "narration_lines": [
+        "他拿来一只软垫，让自己坐得舒服些。",
+        "那一点小小的不高兴，也可以，先坐一会儿。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "中近景呈现动作后的稳定姿态",
+      "image": "images/shot_03.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：软垫上安坐的皮皮。镜位：中近景呈现动作后的稳定姿态。",
+      "initial_budget_s": 11.67,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "木块收盒保留底座",
+      "narration_lines": [
+        "过了一会儿，皮皮把散开的木块，轻轻收进盒子，只留下，稳稳的底座。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "细节特写，避免裁掉必要的爪子或道具",
+      "image": "images/shot_04.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：木块收盒保留底座。镜位：细节特写，避免裁掉必要的爪子或道具。",
+      "initial_budget_s": 9.39,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "稳固底座与真实暖屋",
+      "narration_lines": [
+        "明天，还能从这里开始。",
+        "今天的小屋没有搭好，也不妨碍他，回到真正的家。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "中景呈现情境变化，留低细节空间",
+      "image": "images/shot_05.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：稳固底座与真实暖屋。镜位：中景呈现情境变化，留低细节空间。",
+      "initial_budget_s": 10.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "皮皮在床边抱近玩偶",
+      "narration_lines": [
+        "皮皮走到床边，把胡萝卜玩偶抱近。",
+        "熟悉的柔软，让爪子，慢慢松开了。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "主体近景，暖光方向延续",
+      "image": "images/shot_06.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：皮皮在床边抱近玩偶。镜位：主体近景，暖光方向延续。",
+      "initial_budget_s": 10.11,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "拉好被角安稳侧卧",
+      "narration_lines": [
+        "他不再想着每一扇歪窗，先把被角拉好，找一个，舒服的躺姿。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "安顿动作中景或安静环境近景",
+      "image": "images/shot_07.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：拉好被角安稳侧卧。镜位：安顿动作中景或安静环境近景。",
+      "initial_budget_s": 8.45,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "皮皮平静闭眼睡姿",
+      "narration_lines": [
+        "眼睛慢慢闭上。",
+        "那口小小的叹气，已经不用，一直留在胸口了。"
+      ],
+      "pause_after_s": [
+        1.1,
+        1.1
+      ],
+      "camera": "放松姿态近景，光线略柔暗",
+      "image": "images/shot_08.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：皮皮平静闭眼睡姿。镜位：放松姿态近景，光线略柔暗。",
+      "initial_budget_s": 9.7,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "积木盒与安睡房间",
+      "narration_lines": [
+        "小朋友，今天有一点不顺，也可以先休息。",
+        "让温柔陪着你，晚安。"
+      ],
+      "pause_after_s": [
+        1.1,
+        8.0
+      ],
+      "camera": "木屋卧室或可见卧室的中远景收束，主体安睡",
+      "image": "images/shot_09.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：积木盒与安睡房间。镜位：木屋卧室或可见卧室的中远景收束，主体安睡。",
+      "initial_budget_s": 16.6,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "需按本集提示词生成图片并合成配音；不含尚未制作的图片或音频",
+  "shared_config": "03_素材与参数/共用画风与提示词.json",
+  "character_names": [
+    "皮皮"
+  ]
+}

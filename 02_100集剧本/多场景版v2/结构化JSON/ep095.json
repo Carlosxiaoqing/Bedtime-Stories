@@ -1,0 +1,259 @@
+{
+  "schema_version": 2,
+  "script_version": "v2",
+  "id": "ep095",
+  "episode": 95,
+  "title": "新家门前第一块树影",
+  "cover_title": "新家树影",
+  "category": "家庭",
+  "theme": "用熟悉的小事认识一个新地方",
+  "setting": "梨梨新家的公共门厅、新家门前小树下",
+  "viewpoint_character": "梨梨",
+  "guest": "梨梨、桃桃",
+  "character_names": [
+    "梨梨",
+    "桃桃",
+    "皮皮"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "按晓晓-35%实际口播、停顿和约8秒尾声确定",
+  "cn_characters": 273,
+  "initial_duration_budget_s": 108.38,
+  "shots": [
+    {
+      "id": 1,
+      "title": "新家门厅几个箱已拆开，梨梨举柿树画，皮皮桃桃坐地垫边",
+      "location": "梨梨新家的公共门厅",
+      "character_names": [
+        "梨梨",
+        "桃桃",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "梨梨搬到新家后，最先取出旧柿树的影子画。",
+        "她找了半天，没找到一个同样有影子的地方。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "梨梨新家的公共门厅。竖幅远景交代空间和前后层次。画面：新家门厅几个箱已拆开，梨梨举柿树画，皮皮桃桃坐地垫边。入镜角色：梨梨、桃桃、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.92,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "梨梨试把画靠在两处亮墙，皮皮和桃桃扶纸边",
+      "location": "梨梨新家的公共门厅",
+      "character_names": [
+        "梨梨",
+        "桃桃",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "皮皮帮她试了两面墙，光都太亮。",
+        "桃桃问，她想看画，还是想像从前一样坐会儿。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "梨梨新家的公共门厅。平视中景突出人物姿态和相互位置。画面：梨梨试把画靠在两处亮墙，皮皮和桃桃扶纸边。入镜角色：梨梨、桃桃、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "梨梨手指画上三个旧影洞，纸张没被压折",
+      "location": "梨梨新家的公共门厅",
+      "character_names": [
+        "梨梨"
+      ],
+      "narration_lines": [
+        "梨梨想了想，说想先坐会儿。",
+        "以前有风的时候，她会听树叶，也会看地上那三个小洞。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "梨梨新家的公共门厅。近景突出手边动作或道具状态。画面：梨梨手指画上三个旧影洞，纸张没被压折。入镜角色：梨梨。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.98,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "三位搬矮凳到门前幼树旁，梨梨停在一小片阴影外",
+      "location": "新家门前小树下",
+      "character_names": [
+        "梨梨",
+        "桃桃",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "他们到门前小树下搬了三只凳。",
+        "新树的影子很窄，一开始只遮住梨梨半只脚。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "新家门前小树下。侧面中景展示动作方向与相邻环境。画面：三位搬矮凳到门前幼树旁，梨梨停在一小片阴影外。入镜角色：梨梨、桃桃、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "梨梨把椅往后移些，三位在新树下等影子变长",
+      "location": "新家门前小树下",
+      "character_names": [
+        "梨梨",
+        "桃桃",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "梨梨没把凳搬回去。",
+        "她坐在那里，和朋友讲新门牌是怎么找到的。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "新家门前小树下。平视中景突出人物姿态和相互位置。画面：梨梨把椅往后移些，三位在新树下等影子变长。入镜角色：梨梨、桃桃、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 9.79,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "新树叶影落到梨梨爪背，旁边夹着旧树画",
+      "location": "新家门前小树下",
+      "character_names": [
+        "梨梨"
+      ],
+      "narration_lines": [
+        "说了一会儿，影子走到了她爪背。",
+        "它没有三个小洞，却有一个像小鱼的尖尖。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "新家门前小树下。近景突出手边动作或道具状态。画面：新树叶影落到梨梨爪背，旁边夹着旧树画。入镜角色：梨梨。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.04,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "旧柿影与新叶影两张纸在门厅低架并排",
+      "location": "梨梨新家的公共门厅",
+      "character_names": [
+        "梨梨",
+        "桃桃",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "回去时，她又描了一张新树影。",
+        "两张靠在门厅，一张记以前，一张记今天。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "俯视呈现平面上的物件和路线",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "梨梨新家的公共门厅。俯视呈现平面上的物件和路线。画面：旧柿影与新叶影两张纸在门厅低架并排。入镜角色：梨梨、桃桃、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.42,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "梨梨在树下把第三张凳转向进门路，两个朋友扶凳脚",
+      "location": "新家门前小树下",
+      "character_names": [
+        "梨梨",
+        "桃桃",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "梨梨把凳子留在小树边。",
+        "下次有朋友来，她想请他们先在这里坐一下。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "新家门前小树下。平视中景突出人物姿态和相互位置。画面：梨梨在树下把第三张凳转向进门路，两个朋友扶凳脚。入镜角色：梨梨、桃桃、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.42,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "新树影斜落于空凳，门厅里面两张影子画相邻",
+      "location": "新家门前小树下",
+      "character_names": [],
+      "narration_lines": [
+        "晚风经过新门口。",
+        "梨梨听见树叶响了一下，已经知道那声音是从哪儿来的。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "环境留白为主，关键物件或人物位于上部",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "新家门前小树下。环境留白为主，关键物件或人物位于上部。画面：新树影斜落于空凳，门厅里面两张影子画相邻。入镜角色：无，仅画环境或道具。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 18.09,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v2剧本与九镜已编写，配音、插画、封面、字幕及视频待制作",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/结构化JSON/ep095.json",
+    "scope": "按用户反馈重写人物互动、故事事件、场景及九镜",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始"
+  }
+}

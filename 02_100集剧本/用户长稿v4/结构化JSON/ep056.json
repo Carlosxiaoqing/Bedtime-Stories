@@ -1,0 +1,95 @@
+{
+  "schema_version": 3,
+  "script_version": "v4",
+  "id": "ep056",
+  "episode": 56,
+  "title": "小雨靴的泥点",
+  "theme": "不必恢复到毫无痕迹才算做好",
+  "language": "zh-CN",
+  "production_scope": "adopted_user_long_script",
+  "status": "copyedited_media_not_started",
+  "narration_paragraphs": [
+    {
+      "id": "p001",
+      "text": "昨天夜里下了一场春雨，今天上午森林学堂的劳作课，山羊老师带着大家去学堂后面的小菜园里松土、搭豆角架。\n为了不弄脏鞋子，皮皮特意穿上了他那双明黄色的橡胶小雨靴。"
+    },
+    {
+      "id": "p002",
+      "text": "雨后的小菜园泥土松软湿润，皮皮干起活来可卖力了。他帮小熊绒绒扶稳竹竿，又帮小鼹鼠点点提水桶，一双明黄色的小雨靴踩在泥地里，“吧唧、吧唧”，帮了大忙。\n等到傍晚放学回到家，皮皮在门廊下脱下小雨靴时，低头一看：哇，原本亮黄色的靴子头上和靴筒边，沾了好几颗圆圆的褐色小泥点！那些小泥点就像一枚枚小勋章，记录着他今天在菜园里辛勤走过的每一段路。"
+    },
+    {
+      "id": "p003",
+      "text": "吃过晚饭，皮皮端来一盆清水，拿了一块专门擦鞋的湿布巾，把小雨靴放在门廊的防水垫子上，准备给辛苦了一天的雨靴洗个澡。\n皮皮蹲在垫子旁，用湿布巾耐心地、一点一点地擦掉了靴子尖上那几块比较厚、比较干的泥巴。擦完之后，明黄色的小雨靴重新露出了光洁亮堂的模样。"
+    },
+    {
+      "id": "p004",
+      "text": "不过，当皮皮把雨靴翻过来检查鞋底边缘时，他发现在橡胶鞋底的凹凸花纹缝隙里，还留着一点点浅浅的、洗不掉的褐色泥印子。\n皮皮拿着布巾使劲擦了两下，那道浅印子还是留在那儿。皮皮皱了皱小鼻子，心想：要不要再去拿小刷子和肥皂水，花上半个小时，把鞋底每一道缝隙里的浅印子都刷得像刚买来时一样新呢？"
+    },
+    {
+      "id": "p005",
+      "text": "皮皮看了看已经暗下来的天色，又看了看已经干干净净的靴面，轻轻放下了手里的布巾。\n小雨靴本来就是用来去泥地和雨水里保护小脚丫的呀，现在的它，已经干净到可以稳稳当当地收进鞋架里了；鞋底那一点点浅浅的旧痕迹，说明它今天认真工作过了，而且一丁点儿也不妨碍明天穿着它再出门。"
+    },
+    {
+      "id": "p006",
+      "text": "想通了这一点，皮皮开心地把湿布巾搓洗干净，平平地晾在门廊通风的小木架子上，让小雨靴和布巾都在屋檐下拥有了清爽的位置。\n推门回到屋里，皮皮换上毛茸茸的软拖鞋。没有了橡胶雨靴的分量，他的脚步一下子变得轻盈极了，刚才蹲着擦鞋时微微绷紧的小肩膀，也跟着松快了下来。"
+    },
+    {
+      "id": "p007",
+      "text": "爬上小床，暖黄色的毛毯盖住小脚，胡萝卜玩偶靠着臂弯。白天那个泥泞又热闹的春天小菜园，就稳稳地留在了门外。\n皮皮闭上眼睛。今晚，不需要把每一件东西都擦得毫无痕迹，也不需要把每一件事都做到一百分才允许自己睡觉。"
+    },
+    {
+      "id": "p008",
+      "text": "小朋友，今天你也已经做得足够好、足够棒啦。让那些小小的不完美和旧印子也歇一会儿，安心钻进被窝，晚安。"
+    }
+  ],
+  "cn_characters": 839,
+  "narration_sha256": "fcf40252f37ec58c26244410bd234207efc2d83e72ac46635517ef23275cfe42",
+  "source": {
+    "path": "/Users/ww/Downloads/100集睡前故事合集.md",
+    "sha256": "3feafa137e94824baccf8b6e3f3f24bac3e97714b2e201fcc48d461d8969c302",
+    "original_narration_sha256": "fcf40252f37ec58c26244410bd234207efc2d83e72ac46635517ef23275cfe42",
+    "original_paragraph_count": 8
+  },
+  "revision_record": [],
+  "duration_policy": {
+    "basis": "complete_narration_at_current_voice_settings",
+    "limit_s": null,
+    "delete_for_duration": false,
+    "time_stretch": false
+  },
+  "voice": {
+    "config": "03_素材与参数/配音与声音参数.json",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000
+  },
+  "actual_duration_s": null,
+  "character_registry": "03_素材与参数/用户长稿v4角色图库.json",
+  "storyboard": {
+    "status": "not_started",
+    "shots": [],
+    "timing_basis": "actual_audio",
+    "preferred_hold_s": [
+      8,
+      10
+    ],
+    "review_above_s": 15,
+    "short_action_hold_s": [
+      3,
+      5
+    ]
+  },
+  "material_state": {
+    "voice": "not_started",
+    "character_references": "not_generated",
+    "illustrations": "not_started",
+    "cover": "not_started",
+    "pinyin_review": "not_started",
+    "render": "not_started",
+    "technical_check": "not_started",
+    "human_watch": "not_started",
+    "user_acceptance": "not_recorded"
+  }
+}

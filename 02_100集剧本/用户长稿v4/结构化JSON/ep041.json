@@ -1,0 +1,95 @@
+{
+  "schema_version": 3,
+  "script_version": "v4",
+  "id": "ep041",
+  "episode": 41,
+  "title": "雪花落在窗边",
+  "theme": "有些美好只需安静看一会儿",
+  "language": "zh-CN",
+  "production_scope": "adopted_user_long_script",
+  "status": "copyedited_media_not_started",
+  "narration_paragraphs": [
+    {
+      "id": "p001",
+      "text": "森林里的第一场初雪，是在一个静悄悄的傍晚落下来的。\n白天在森林学堂的时候，天空还只是灰蒙蒙的，山羊老师提醒大家放学早点回家。等皮皮回到小木屋，喝完一碗热乎乎的萝卜汤时，窗外忽然飘起了细细密密的小雪花。"
+    },
+    {
+      "id": "p002",
+      "text": "这是今年冬天的第一场雪呀！皮皮兴奋地搬来小木椅，坐在卧室温暖的床头灯旁，隔着窗户往外看。\n只见一片小小的、六角形的雪花，打着旋儿从夜空中落下来，刚好停在了窗台外侧的原木边缘上。"
+    },
+    {
+      "id": "p003",
+      "text": "那片雪花真是小巧又精致，有六道细细的、像羽毛一样对称的花边，看起来就像一朵没有发出任何声音的小白花。\n皮皮看得喜欢极了，他下意识地伸出小爪子握住窗栓，想把窗户推开，把这朵漂亮的雪花捧进屋里来仔细看。"
+    },
+    {
+      "id": "p004",
+      "text": "可是，皮皮的爪子刚碰到微凉的窗框，就停住了。\n他想起了科学课上老师讲过的知识：屋里烧着暖炉，暖烘烘的，雪花宝宝最怕热了；如果把它抓进热乎乎的手心里，它马上就会化成一滴小水珠消失不见的。"
+    },
+    {
+      "id": "p005",
+      "text": "于是，皮皮收回了推窗的爪子，只是安安静静地隔着干净透明的玻璃，温柔地看了那片雪花一会儿。\n就在这时，又有一片晶莹的雪花从天上落下来，轻轻地靠在了第一片雪花的旁边。两朵精致的小白花挨在一起，在窗外的冷空气里完好无损地、安安静静地待着。"
+    },
+    {
+      "id": "p006",
+      "text": "皮皮摸了摸屋里暖黄色的毛毯，它是那么暖和；又看了看窗外的雪花，它是那么轻盈。屋里的兔子和窗外的雪花，都待在最适合自己的地方，谁也没有打扰谁。\n看了一会儿，皮皮打了个哈欠，把小木椅推回原位，走到床沿坐下。他不再趴在窗前等着看下一片雪花会落在哪里了。"
+    },
+    {
+      "id": "p007",
+      "text": "他抱起胡萝卜玩偶，把软软的睡帽尖摆到枕头边。窗外那两朵漂亮的雪白小花，已经印在了他的眼睛里，轻轻地留在了心里。\n皮皮的眼睛慢慢闭上，窗外还在静静地下着雪。整个房间安静极了，就像屋顶上也盖了一层厚厚的、软绵绵的雪白云朵。"
+    },
+    {
+      "id": "p008",
+      "text": "小朋友，遇到喜欢的美好事物，我们不需要把每一片雪花都抓在手里。让舒服留在身边，带着美丽的画面慢慢休息吧。晚安。"
+    }
+  ],
+  "cn_characters": 704,
+  "narration_sha256": "881be6ddd5ca980e3820d6c5e6d35a0cc107de4cead3e1f89e3a2336cd59fcd6",
+  "source": {
+    "path": "/Users/ww/Downloads/100集睡前故事合集.md",
+    "sha256": "3feafa137e94824baccf8b6e3f3f24bac3e97714b2e201fcc48d461d8969c302",
+    "original_narration_sha256": "881be6ddd5ca980e3820d6c5e6d35a0cc107de4cead3e1f89e3a2336cd59fcd6",
+    "original_paragraph_count": 8
+  },
+  "revision_record": [],
+  "duration_policy": {
+    "basis": "complete_narration_at_current_voice_settings",
+    "limit_s": null,
+    "delete_for_duration": false,
+    "time_stretch": false
+  },
+  "voice": {
+    "config": "03_素材与参数/配音与声音参数.json",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000
+  },
+  "actual_duration_s": null,
+  "character_registry": "03_素材与参数/用户长稿v4角色图库.json",
+  "storyboard": {
+    "status": "not_started",
+    "shots": [],
+    "timing_basis": "actual_audio",
+    "preferred_hold_s": [
+      8,
+      10
+    ],
+    "review_above_s": 15,
+    "short_action_hold_s": [
+      3,
+      5
+    ]
+  },
+  "material_state": {
+    "voice": "not_started",
+    "character_references": "not_generated",
+    "illustrations": "not_started",
+    "cover": "not_started",
+    "pinyin_review": "not_started",
+    "render": "not_started",
+    "technical_check": "not_started",
+    "human_watch": "not_started",
+    "user_acceptance": "not_recorded"
+  }
+}

@@ -1,0 +1,892 @@
+{
+  "schema_version": 2,
+  "script_version": "v4",
+  "status": "core_cast_and_goat_teacher_ready_assistant_reviewed",
+  "core_companions": 8,
+  "protagonist_count": 1,
+  "policy": {
+    "identity_fixed": true,
+    "wardrobe_changes_allowed": true,
+    "load_actual_reference_for_each_visible_character": true,
+    "allow_name_only_reference": false,
+    "do_not_add_spoken_ages": true
+  },
+  "characters": [
+    {
+      "id": "pipi",
+      "name": "皮皮",
+      "species": "小灰兔",
+      "identity_anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+      "height_relative_to_pipi": 1.0,
+      "identity_reference": {
+        "status": "ready_assistant_reviewed",
+        "version": "v001",
+        "paths": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+        ],
+        "files": [
+          {
+            "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+            "sha256": "6f754c72b9fa7281790bb1fce42bb18701ea055446fda2cdec7ae58b92232674",
+            "size": [
+              1216,
+              1293
+            ],
+            "format": "PNG",
+            "source": "built-in image_gen",
+            "review": "assistant_visually_reviewed",
+            "user_acceptance": "not_recorded",
+            "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/pipi.json",
+            "reference_inputs": [
+              "/Users/ww/视频/Bedtime-Stories/episodes/ep001/v005/images/shot_01.png"
+            ]
+          }
+        ],
+        "review_notes": "与001身份比较：圆脸、粉鼻、垂耳、星帽一致；无帽和侧面可识别。",
+        "user_acceptance": "not_recorded"
+      },
+      "existing_identity_candidates": [
+        "episodes/ep001/v005/images/shot_01.png"
+      ],
+      "wardrobe": {
+        "policy": "可依活动、场景、季节换装；同一连续场景保持一致；服装不作为唯一身份依据",
+        "default_suggestion": "深蓝淡黄星星睡帽与黄色帽球为常用夜间配饰，活动时可不佩戴。",
+        "variants": [
+          {
+            "id": "default_v001",
+            "description": "深蓝淡黄星星睡帽与黄色帽球为常用夜间配饰，活动时可不佩戴。",
+            "files": [
+              {
+                "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+                "sha256": "6f754c72b9fa7281790bb1fce42bb18701ea055446fda2cdec7ae58b92232674",
+                "size": [
+                  1216,
+                  1293
+                ],
+                "format": "PNG",
+                "source": "built-in image_gen",
+                "review": "assistant_visually_reviewed",
+                "user_acceptance": "not_recorded",
+                "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/pipi.json",
+                "reference_inputs": [
+                  "/Users/ww/视频/Bedtime-Stories/episodes/ep001/v005/images/shot_01.png"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "day_v001",
+            "description": "换装表左：灰蓝短背带裤、米色上衣、蓝布鞋、小黄书包，无帽；仅画这套服装，不复制表中其他兔子。",
+            "files": [
+              {
+                "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+                "sha256": "30cb3e6f07e625bbe629ac7ff37d2fa0819de8c3aff1e0305d01447cefd85897",
+                "size": [
+                  1536,
+                  1024
+                ],
+                "format": "PNG",
+                "source": "built-in image_gen",
+                "review": "assistant_visually_reviewed",
+                "user_acceptance": "not_recorded",
+                "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/pipi_wardrobe.json",
+                "reference_inputs": [
+                  "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "rain_v001",
+            "description": "换装表中：浅黄雨衣与黄雨靴，垂耳留在帽兜外；仅在雨天情境使用。",
+            "files": [
+              {
+                "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+                "sha256": "30cb3e6f07e625bbe629ac7ff37d2fa0819de8c3aff1e0305d01447cefd85897",
+                "size": [
+                  1536,
+                  1024
+                ],
+                "format": "PNG",
+                "source": "built-in image_gen",
+                "review": "assistant_visually_reviewed",
+                "user_acceptance": "not_recorded",
+                "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/pipi_wardrobe.json",
+                "reference_inputs": [
+                  "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "sleep_v001",
+            "description": "换装表右：原深蓝星星睡帽和黄色帽球，保留原兔体型；玩偶和毛毯是另行配置的场景道具。",
+            "files": [
+              {
+                "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+                "sha256": "30cb3e6f07e625bbe629ac7ff37d2fa0819de8c3aff1e0305d01447cefd85897",
+                "size": [
+                  1536,
+                  1024
+                ],
+                "format": "PNG",
+                "source": "built-in image_gen",
+                "review": "assistant_visually_reviewed",
+                "user_acceptance": "not_recorded",
+                "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/pipi_wardrobe.json",
+                "reference_inputs": [
+                  "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "source": "原文字身份设定＋本次内置image_gen参考图；服装可随场景变，不继承v3情节关系；未添加年龄。",
+      "scale_note": "初始视觉设计参考值；透视、姿势与耳尾影响画面高度。比例组合图仅作粗略构图依据，身份以单人图为准。"
+    },
+    {
+      "id": "lili",
+      "name": "栗栗",
+      "species": "小刺猬",
+      "identity_anchors": "浅棕圆脸、深棕短而圆润背刺、小黑鼻。",
+      "height_relative_to_pipi": 0.85,
+      "identity_reference": {
+        "status": "ready_assistant_reviewed",
+        "version": "v001",
+        "paths": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+        ],
+        "files": [
+          {
+            "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png",
+            "sha256": "41b97e6934d4ec71687b09c479370d029743a367d90cbe990ac51344ed0e54de",
+            "size": [
+              1216,
+              1294
+            ],
+            "format": "PNG",
+            "source": "built-in image_gen",
+            "review": "assistant_visually_reviewed",
+            "user_acceptance": "not_recorded",
+            "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/lili.json",
+            "reference_inputs": [
+              "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+            ]
+          }
+        ],
+        "review_notes": "四视图保持浅棕脸、圆润深棕背刺及灰绿背心，无兔耳或星帽。",
+        "user_acceptance": "not_recorded"
+      },
+      "existing_identity_candidates": [],
+      "wardrobe": {
+        "policy": "可依活动、场景、季节换装；同一连续场景保持一致；服装不作为唯一身份依据",
+        "default_suggestion": "灰绿色小背心",
+        "variants": [
+          {
+            "id": "default_v001",
+            "description": "灰绿色小背心",
+            "files": [
+              {
+                "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png",
+                "sha256": "41b97e6934d4ec71687b09c479370d029743a367d90cbe990ac51344ed0e54de",
+                "size": [
+                  1216,
+                  1294
+                ],
+                "format": "PNG",
+                "source": "built-in image_gen",
+                "review": "assistant_visually_reviewed",
+                "user_acceptance": "not_recorded",
+                "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/lili.json",
+                "reference_inputs": [
+                  "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "source": "原文字身份设定＋本次内置image_gen参考图；服装可随场景变，不继承v3情节关系；未添加年龄。",
+      "scale_note": "初始视觉设计参考值；透视、姿势与耳尾影响画面高度。比例组合图仅作粗略构图依据，身份以单人图为准。"
+    },
+    {
+      "id": "tuantuan",
+      "name": "团团",
+      "species": "小松鼠",
+      "identity_anchors": "暖棕圆脸、蓬松弯尾、奶油色胸前、小耳朵。",
+      "height_relative_to_pipi": 0.9,
+      "identity_reference": {
+        "status": "ready_assistant_reviewed",
+        "version": "v001",
+        "paths": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/tuantuan_identity_v001.png"
+        ],
+        "files": [
+          {
+            "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/tuantuan_identity_v001.png",
+            "sha256": "27a34b5b38a1e7897039a3d3cffa4bbcc3617ddb47432b3d1e8c4f80a88e11ef",
+            "size": [
+              1216,
+              1294
+            ],
+            "format": "PNG",
+            "source": "built-in image_gen",
+            "review": "assistant_visually_reviewed",
+            "user_acceptance": "not_recorded",
+            "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/tuantuan.json",
+            "reference_inputs": [
+              "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+            ]
+          }
+        ],
+        "review_notes": "四视图保留奶油胸、圆耳、大卷尾、暗赭围巾，物种可辨。",
+        "user_acceptance": "not_recorded"
+      },
+      "existing_identity_candidates": [],
+      "wardrobe": {
+        "policy": "可依活动、场景、季节换装；同一连续场景保持一致；服装不作为唯一身份依据",
+        "default_suggestion": "暗赭色小围巾",
+        "variants": [
+          {
+            "id": "default_v001",
+            "description": "暗赭色小围巾",
+            "files": [
+              {
+                "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/tuantuan_identity_v001.png",
+                "sha256": "27a34b5b38a1e7897039a3d3cffa4bbcc3617ddb47432b3d1e8c4f80a88e11ef",
+                "size": [
+                  1216,
+                  1294
+                ],
+                "format": "PNG",
+                "source": "built-in image_gen",
+                "review": "assistant_visually_reviewed",
+                "user_acceptance": "not_recorded",
+                "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/tuantuan.json",
+                "reference_inputs": [
+                  "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "source": "原文字身份设定＋本次内置image_gen参考图；服装可随场景变，不继承v3情节关系；未添加年龄。",
+      "scale_note": "初始视觉设计参考值；透视、姿势与耳尾影响画面高度。比例组合图仅作粗略构图依据，身份以单人图为准。"
+    },
+    {
+      "id": "rongrong",
+      "name": "绒绒",
+      "species": "小熊",
+      "identity_anchors": "浅棕绒毛、圆耳、米色口鼻。",
+      "height_relative_to_pipi": 1.4,
+      "identity_reference": {
+        "status": "ready_assistant_reviewed",
+        "version": "v001",
+        "paths": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/rongrong_identity_v001.png"
+        ],
+        "files": [
+          {
+            "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/rongrong_identity_v001.png",
+            "sha256": "9b52ba85b675e5186a9240b1dfc1e080d6fcaae214ad1011226b41ddcf7d2706",
+            "size": [
+              1216,
+              1294
+            ],
+            "format": "PNG",
+            "source": "built-in image_gen",
+            "review": "assistant_visually_reviewed",
+            "user_acceptance": "not_recorded",
+            "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/rongrong.json",
+            "reference_inputs": [
+              "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+            ]
+          }
+        ],
+        "review_notes": "圆耳、米色口鼻、宽体与深绿马甲一致；体型由场景比例规则约束。",
+        "user_acceptance": "not_recorded"
+      },
+      "existing_identity_candidates": [],
+      "wardrobe": {
+        "policy": "可依活动、场景、季节换装；同一连续场景保持一致；服装不作为唯一身份依据",
+        "default_suggestion": "暗绿小马甲",
+        "variants": [
+          {
+            "id": "default_v001",
+            "description": "暗绿小马甲",
+            "files": [
+              {
+                "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/rongrong_identity_v001.png",
+                "sha256": "9b52ba85b675e5186a9240b1dfc1e080d6fcaae214ad1011226b41ddcf7d2706",
+                "size": [
+                  1216,
+                  1294
+                ],
+                "format": "PNG",
+                "source": "built-in image_gen",
+                "review": "assistant_visually_reviewed",
+                "user_acceptance": "not_recorded",
+                "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/rongrong.json",
+                "reference_inputs": [
+                  "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "source": "原文字身份设定＋本次内置image_gen参考图；服装可随场景变，不继承v3情节关系；未添加年龄。",
+      "scale_note": "初始视觉设计参考值；透视、姿势与耳尾影响画面高度。比例组合图仅作粗略构图依据，身份以单人图为准。"
+    },
+    {
+      "id": "diandian",
+      "name": "点点",
+      "species": "小鼹鼠",
+      "identity_anchors": "灰褐圆身体、淡粉小鼻、很小的眼睛、短圆爪。",
+      "height_relative_to_pipi": 0.65,
+      "identity_reference": {
+        "status": "ready_assistant_reviewed",
+        "version": "v001",
+        "paths": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/diandian_identity_v001.png"
+        ],
+        "files": [
+          {
+            "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/diandian_identity_v001.png",
+            "sha256": "9a8e8bcdf1c713bed8b489f0752bd1ea8e5b0b3c12f0dc0ed87bb21e02137a2d",
+            "size": [
+              1216,
+              1294
+            ],
+            "format": "PNG",
+            "source": "built-in image_gen",
+            "review": "assistant_visually_reviewed",
+            "user_acceptance": "not_recorded",
+            "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/diandian.json",
+            "reference_inputs": [
+              "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+            ]
+          }
+        ],
+        "review_notes": "小眼睛、淡粉鼻、短爪和米色围兜一致，与大耳长尾的米米区分。",
+        "user_acceptance": "not_recorded"
+      },
+      "existing_identity_candidates": [],
+      "wardrobe": {
+        "policy": "可依活动、场景、季节换装；同一连续场景保持一致；服装不作为唯一身份依据",
+        "default_suggestion": "米色小围兜",
+        "variants": [
+          {
+            "id": "default_v001",
+            "description": "米色小围兜",
+            "files": [
+              {
+                "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/diandian_identity_v001.png",
+                "sha256": "9a8e8bcdf1c713bed8b489f0752bd1ea8e5b0b3c12f0dc0ed87bb21e02137a2d",
+                "size": [
+                  1216,
+                  1294
+                ],
+                "format": "PNG",
+                "source": "built-in image_gen",
+                "review": "assistant_visually_reviewed",
+                "user_acceptance": "not_recorded",
+                "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/diandian.json",
+                "reference_inputs": [
+                  "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "source": "原文字身份设定＋本次内置image_gen参考图；服装可随场景变，不继承v3情节关系；未添加年龄。",
+      "scale_note": "初始视觉设计参考值；透视、姿势与耳尾影响画面高度。比例组合图仅作粗略构图依据，身份以单人图为准。"
+    },
+    {
+      "id": "yaya",
+      "name": "芽芽",
+      "species": "小鹿",
+      "identity_anchors": "柔浅赭色、奶油色小斑点、圆润口鼻、细长但圆润的腿。",
+      "height_relative_to_pipi": 1.15,
+      "identity_reference": {
+        "status": "ready_assistant_reviewed",
+        "version": "v001",
+        "paths": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/yaya_identity_v001.png"
+        ],
+        "files": [
+          {
+            "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/yaya_identity_v001.png",
+            "sha256": "1d1fb19b6e8353b9cc8478600a5dce0fa01edf53948da6760ea870ebd904ea07",
+            "size": [
+              1216,
+              1294
+            ],
+            "format": "PNG",
+            "source": "built-in image_gen",
+            "review": "assistant_visually_reviewed",
+            "user_acceptance": "not_recorded",
+            "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/yaya.json",
+            "reference_inputs": [
+              "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+            ]
+          }
+        ],
+        "review_notes": "四足鹿形、无鹿角、奶油斑点、绿围巾一致；斑点以身份图为准，不任意改变。",
+        "user_acceptance": "not_recorded"
+      },
+      "existing_identity_candidates": [],
+      "wardrobe": {
+        "policy": "可依活动、场景、季节换装；同一连续场景保持一致；服装不作为唯一身份依据",
+        "default_suggestion": "柔暗绿色围巾",
+        "variants": [
+          {
+            "id": "default_v001",
+            "description": "柔暗绿色围巾",
+            "files": [
+              {
+                "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/yaya_identity_v001.png",
+                "sha256": "1d1fb19b6e8353b9cc8478600a5dce0fa01edf53948da6760ea870ebd904ea07",
+                "size": [
+                  1216,
+                  1294
+                ],
+                "format": "PNG",
+                "source": "built-in image_gen",
+                "review": "assistant_visually_reviewed",
+                "user_acceptance": "not_recorded",
+                "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/yaya.json",
+                "reference_inputs": [
+                  "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "source": "原文字身份设定＋本次内置image_gen参考图；服装可随场景变，不继承v3情节关系；未添加年龄。",
+      "scale_note": "初始视觉设计参考值；透视、姿势与耳尾影响画面高度。比例组合图仅作粗略构图依据，身份以单人图为准。"
+    },
+    {
+      "id": "huihui",
+      "name": "灰灰",
+      "species": "小獾",
+      "identity_anchors": "灰褐短胖身体、奶油脸部中线、柔和深灰颊纹、小圆耳。",
+      "height_relative_to_pipi": 0.95,
+      "identity_reference": {
+        "status": "ready_assistant_reviewed",
+        "version": "v001",
+        "paths": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/huihui_identity_v001.png"
+        ],
+        "files": [
+          {
+            "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/huihui_identity_v001.png",
+            "sha256": "f0ef39bb4b2e5b00a2f3717e90094bf5fdebecaec68b16efa2663bf5017beaaf",
+            "size": [
+              1216,
+              1294
+            ],
+            "format": "PNG",
+            "source": "built-in image_gen",
+            "review": "assistant_visually_reviewed",
+            "user_acceptance": "not_recorded",
+            "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/huihui.json",
+            "reference_inputs": [
+              "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+            ]
+          }
+        ],
+        "review_notes": "脸中央奶油中线与柔灰双侧纹、深蓝背心一致，不使用高对比黑脸。",
+        "user_acceptance": "not_recorded"
+      },
+      "existing_identity_candidates": [],
+      "wardrobe": {
+        "policy": "可依活动、场景、季节换装；同一连续场景保持一致；服装不作为唯一身份依据",
+        "default_suggestion": "暗蓝小背心",
+        "variants": [
+          {
+            "id": "default_v001",
+            "description": "暗蓝小背心",
+            "files": [
+              {
+                "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/huihui_identity_v001.png",
+                "sha256": "f0ef39bb4b2e5b00a2f3717e90094bf5fdebecaec68b16efa2663bf5017beaaf",
+                "size": [
+                  1216,
+                  1294
+                ],
+                "format": "PNG",
+                "source": "built-in image_gen",
+                "review": "assistant_visually_reviewed",
+                "user_acceptance": "not_recorded",
+                "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/huihui.json",
+                "reference_inputs": [
+                  "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "source": "原文字身份设定＋本次内置image_gen参考图；服装可随场景变，不继承v3情节关系；未添加年龄。",
+      "scale_note": "初始视觉设计参考值；透视、姿势与耳尾影响画面高度。比例组合图仅作粗略构图依据，身份以单人图为准。"
+    },
+    {
+      "id": "mimi",
+      "name": "米米",
+      "species": "小田鼠",
+      "identity_anchors": "灰褐小圆身体、圆耳、细尾。",
+      "height_relative_to_pipi": 0.5,
+      "identity_reference": {
+        "status": "ready_assistant_reviewed",
+        "version": "v001",
+        "paths": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/mimi_identity_v001.png"
+        ],
+        "files": [
+          {
+            "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/mimi_identity_v001.png",
+            "sha256": "4702a01a1edab9d2f2982800a9d883d9a645a14e34224b6bf9297c3983822d5f",
+            "size": [
+              1216,
+              1294
+            ],
+            "format": "PNG",
+            "source": "built-in image_gen",
+            "review": "assistant_visually_reviewed",
+            "user_acceptance": "not_recorded",
+            "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/mimi.json",
+            "reference_inputs": [
+              "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+            ]
+          }
+        ],
+        "review_notes": "大圆耳、细长尾、灰紫围裙一致，保留相对较小体型。",
+        "user_acceptance": "not_recorded"
+      },
+      "existing_identity_candidates": [],
+      "wardrobe": {
+        "policy": "可依活动、场景、季节换装；同一连续场景保持一致；服装不作为唯一身份依据",
+        "default_suggestion": "柔暗灰紫小围裙",
+        "variants": [
+          {
+            "id": "default_v001",
+            "description": "柔暗灰紫小围裙",
+            "files": [
+              {
+                "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/mimi_identity_v001.png",
+                "sha256": "4702a01a1edab9d2f2982800a9d883d9a645a14e34224b6bf9297c3983822d5f",
+                "size": [
+                  1216,
+                  1294
+                ],
+                "format": "PNG",
+                "source": "built-in image_gen",
+                "review": "assistant_visually_reviewed",
+                "user_acceptance": "not_recorded",
+                "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/mimi.json",
+                "reference_inputs": [
+                  "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "source": "原文字身份设定＋本次内置image_gen参考图；服装可随场景变，不继承v3情节关系；未添加年龄。",
+      "scale_note": "初始视觉设计参考值；透视、姿势与耳尾影响画面高度。比例组合图仅作粗略构图依据，身份以单人图为准。"
+    },
+    {
+      "id": "yuanyuan",
+      "name": "圆圆",
+      "species": "小猫头鹰",
+      "identity_anchors": "米褐圆身体、柔和深褐翅缘、小圆眼、短喙。",
+      "height_relative_to_pipi": 0.7,
+      "identity_reference": {
+        "status": "ready_assistant_reviewed",
+        "version": "v001",
+        "paths": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/yuanyuan_identity_v001.png"
+        ],
+        "files": [
+          {
+            "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/yuanyuan_identity_v001.png",
+            "sha256": "2a00c4d55dd181248afd91d4eafd245364c8732eefba2c57ae5e692453dba018",
+            "size": [
+              1216,
+              1294
+            ],
+            "format": "PNG",
+            "source": "built-in image_gen",
+            "review": "assistant_visually_reviewed",
+            "user_acceptance": "not_recorded",
+            "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/yuanyuan.json",
+            "reference_inputs": [
+              "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+            ]
+          }
+        ],
+        "review_notes": "圆羽毛身体、短喙、深色翼缘一致，无衣服，与猫头鹰阿姨分开。",
+        "user_acceptance": "not_recorded"
+      },
+      "existing_identity_candidates": [],
+      "wardrobe": {
+        "policy": "可依活动、场景、季节换装；同一连续场景保持一致；服装不作为唯一身份依据",
+        "default_suggestion": "自然羽毛造型为默认；有活动需要可使用轻便配饰",
+        "variants": [
+          {
+            "id": "default_v001",
+            "description": "自然羽毛造型为默认；有活动需要可使用轻便配饰",
+            "files": [
+              {
+                "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/yuanyuan_identity_v001.png",
+                "sha256": "2a00c4d55dd181248afd91d4eafd245364c8732eefba2c57ae5e692453dba018",
+                "size": [
+                  1216,
+                  1294
+                ],
+                "format": "PNG",
+                "source": "built-in image_gen",
+                "review": "assistant_visually_reviewed",
+                "user_acceptance": "not_recorded",
+                "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/yuanyuan.json",
+                "reference_inputs": [
+                  "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "source": "原文字身份设定＋本次内置image_gen参考图；服装可随场景变，不继承v3情节关系；未添加年龄。",
+      "scale_note": "初始视觉设计参考值；透视、姿势与耳尾影响画面高度。比例组合图仅作粗略构图依据，身份以单人图为准。"
+    }
+  ],
+  "supporting_roles": [
+    {
+      "id": "goat_teacher",
+      "label": "山羊老师",
+      "status": "reference_ready",
+      "reference_paths": [
+        "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/goat_teacher_identity_v001.png"
+      ],
+      "name": "山羊老师",
+      "species": "山羊",
+      "identity_anchors": "奶油与浅灰毛、较长山羊口鼻、短圆弯角、侧垂耳、小胡须；成人体型与伙伴分开。",
+      "identity_reference": {
+        "status": "ready_assistant_reviewed",
+        "version": "v001",
+        "paths": [
+          "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/goat_teacher_identity_v001.png"
+        ],
+        "files": [
+          {
+            "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/goat_teacher_identity_v001.png",
+            "sha256": "88bf3c92e0e316fa0219f48ef4ef6364f5b17bce4f63ddf66a712049a4e9b1c9",
+            "size": [
+              1216,
+              1294
+            ],
+            "format": "PNG",
+            "source": "built-in image_gen",
+            "review": "assistant_visually_reviewed",
+            "user_acceptance": "not_recorded",
+            "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/goat_teacher.json",
+            "reference_inputs": [
+              "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+            ]
+          }
+        ],
+        "review_notes": "成人山羊的新设计：奶油毛、短弯角、侧垂耳、小胡须、绿开衫和棕裤，四视图一致。",
+        "user_acceptance": "not_recorded"
+      },
+      "wardrobe": {
+        "policy": "同一连续场景保持一致；可按活动换装，身份不变",
+        "variants": [
+          {
+            "id": "default_v001",
+            "description": "鼠尾草绿开衫、米色衬衣、棕裤",
+            "files": [
+              {
+                "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/goat_teacher_identity_v001.png",
+                "sha256": "88bf3c92e0e316fa0219f48ef4ef6364f5b17bce4f63ddf66a712049a4e9b1c9",
+                "size": [
+                  1216,
+                  1294
+                ],
+                "format": "PNG",
+                "source": "built-in image_gen",
+                "review": "assistant_visually_reviewed",
+                "user_acceptance": "not_recorded",
+                "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/goat_teacher.json",
+                "reference_inputs": [
+                  "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "owl_aunt",
+      "label": "猫头鹰阿姨，非圆圆",
+      "status": "design_before_visible_use",
+      "reference_paths": []
+    },
+    {
+      "id": "magpie_postman",
+      "label": "喜鹊邮差叔叔",
+      "status": "design_before_visible_use",
+      "reference_paths": []
+    },
+    {
+      "id": "pipi_mother",
+      "label": "皮皮妈妈",
+      "status": "design_before_visible_use",
+      "reference_paths": []
+    },
+    {
+      "id": "pipi_father",
+      "label": "皮皮爸爸",
+      "status": "design_before_visible_use",
+      "reference_paths": []
+    },
+    {
+      "id": "bear_father",
+      "label": "绒绒的熊爸爸",
+      "status": "design_before_visible_use",
+      "reference_paths": []
+    },
+    {
+      "id": "bear_mother",
+      "label": "绒绒的熊妈妈",
+      "status": "design_before_visible_use",
+      "reference_paths": []
+    },
+    {
+      "id": "squirrel_mother",
+      "label": "团团妈妈",
+      "status": "design_before_visible_use",
+      "reference_paths": []
+    },
+    {
+      "id": "pipi_grandmother",
+      "label": "皮皮的外婆",
+      "status": "design_before_visible_use",
+      "reference_paths": []
+    },
+    {
+      "id": "squirrel_grandmother",
+      "label": "团团的外婆",
+      "status": "design_before_visible_use",
+      "reference_paths": []
+    },
+    {
+      "id": "pipi_cousin",
+      "label": "皮皮的表姐",
+      "status": "design_before_visible_use",
+      "reference_paths": []
+    },
+    {
+      "id": "ticket_inspector",
+      "label": "车站检票员叔叔，物种未定",
+      "status": "design_before_visible_use",
+      "reference_paths": []
+    },
+    {
+      "id": "snail_ep015",
+      "label": "015无名小蜗牛，不自动等同慢慢",
+      "status": "design_before_visible_use",
+      "reference_paths": []
+    },
+    {
+      "id": "butterfly_ep055",
+      "label": "055小蝴蝶",
+      "status": "design_before_visible_use",
+      "reference_paths": []
+    },
+    {
+      "id": "swallow_ep059",
+      "label": "059小燕子",
+      "status": "design_before_visible_use",
+      "reference_paths": []
+    }
+  ],
+  "updated_on": "2026-11-11",
+  "user_visual_acceptance": "not_recorded",
+  "library_record": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/RECORD.md",
+  "tool_reference_limit": 5,
+  "composition_references": [
+    {
+      "id": "ensemble_A",
+      "covers": [
+        "pipi",
+        "lili",
+        "tuantuan",
+        "rongrong",
+        "diandian"
+      ],
+      "files": [
+        {
+          "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/ensemble_A_scale_v001.png",
+          "sha256": "5aecb3e359c8306c7a7a63abaea5351ebdce65cee052d98b7beb5f7b1182168a",
+          "size": [
+            1774,
+            887
+          ],
+          "format": "PNG",
+          "source": "built-in image_gen",
+          "review": "assistant_visually_reviewed",
+          "user_acceptance": "not_recorded",
+          "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/ensemble_A.json",
+          "reference_inputs": [
+            "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+            "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png",
+            "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/tuantuan_identity_v001.png",
+            "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/rongrong_identity_v001.png",
+            "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/diandian_identity_v001.png"
+          ]
+        }
+      ],
+      "use": "粗略比例／构图参考；非单人身份替代"
+    },
+    {
+      "id": "ensemble_B",
+      "covers": [
+        "pipi",
+        "yaya",
+        "huihui",
+        "mimi",
+        "yuanyuan"
+      ],
+      "files": [
+        {
+          "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/ensemble_B_scale_v001.png",
+          "sha256": "678990ed018a4d7af97bafb57e5df180414f89bb61aba0ee35b49e223cda2c35",
+          "size": [
+            1774,
+            887
+          ],
+          "format": "PNG",
+          "source": "built-in image_gen",
+          "review": "assistant_visually_reviewed",
+          "user_acceptance": "not_recorded",
+          "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/ensemble_B.json",
+          "reference_inputs": [
+            "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+            "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/yaya_identity_v001.png",
+            "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/huihui_identity_v001.png",
+            "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/mimi_identity_v001.png",
+            "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/yuanyuan_identity_v001.png"
+          ]
+        }
+      ],
+      "use": "粗略比例／构图参考；非单人身份替代"
+    }
+  ]
+}

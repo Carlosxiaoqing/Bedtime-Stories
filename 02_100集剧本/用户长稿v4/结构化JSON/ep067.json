@@ -1,0 +1,91 @@
+{
+  "schema_version": 3,
+  "script_version": "v4",
+  "id": "ep067",
+  "episode": 67,
+  "title": "蜡笔画的回家路",
+  "theme": "用熟悉的路径结束一天",
+  "language": "zh-CN",
+  "production_scope": "adopted_user_long_script",
+  "status": "copyedited_media_not_started",
+  "narration_paragraphs": [
+    {
+      "id": "p001",
+      "text": "皮皮的画盒里，有一支他最喜欢的暖橘色蜡笔。因为平时画太阳、画晚霞、画胡萝卜都离不开它，这支蜡笔越用越短，现在只剩下短短的一小截了，连外面的纸卷都磨掉了一半。\n今天傍晚，皮皮坐在卧室的小桌前，想用这支立下大功的短蜡笔，在画纸上画出自己每天从森林学堂放学回小木屋的那条路。"
+    },
+    {
+      "id": "p002",
+      "text": "皮皮捏着短短的蜡笔，从画纸的左上角开始画起。\n那条橘黄色的小路弯弯曲曲地往前延伸：它先经过了森林边那块像小乌龟一样的圆石头，接着路过了小鹿芽芽家门前的小花盆，然后又轻轻绕过了一丛矮矮的、软软的车前草。"
+    },
+    {
+      "id": "p003",
+      "text": "画着画着，当线条快要画到画纸右下角皮皮自己的小木屋门前时，那支短短的蜡笔尖已经被磨得圆圆钝钝的了。\n因为笔尖变钝了，最后画出来的这一段回家路，线条不再像开头那样又细又精致，而是变得宽宽的、厚厚的、慢慢的。"
+    },
+    {
+      "id": "p004",
+      "text": "皮皮停下手看了看，心里想：要不要现在找出卷笔刀把蜡笔削尖，或者换一支全新的细头彩铅，把家门口这段宽宽的路擦掉重画呢？\n皮皮摸了摸手里温热的短蜡笔，摇了摇头。为什么要换掉呢？开头细细的小路是刚放学时轻快的脚步，而家门口这段宽宽的、厚实的线条，不正好就像是走累了以后，慢吞吞、稳当当迈进家门的脚步吗？宽一点的小路，反而让人觉得更安全、更踏实，一样能好好地走到亮着暖灯的家里呀。"
+    },
+    {
+      "id": "p005",
+      "text": "于是，皮皮没有去找新画笔。他就用那个圆钝的蜡笔头，在小木屋的门口轻轻点了两下，添上了两只胖乎乎的小拖鞋——看，画里的小兔子已经脱下鞋子，平安回到家啦！\n皮皮把那支短短的橘色蜡笔放回蜡笔盒最舒服的凹槽里，让画纸平平地留在桌面上。今天所有要走的路，画到这里就已经完完整整地画完了。"
+    },
+    {
+      "id": "p006",
+      "text": "皮皮转过头，看见自己真正的那双毛绒小拖鞋，此时也正一左一右地停在床边。\n他爬上小床，盖好暖黄色的毛毯，抱住胡萝卜玩偶，慢慢地靠进大枕头里。"
+    },
+    {
+      "id": "p007",
+      "text": "皮皮的眼睛轻轻闭上，画纸上的橘色小路不再需要往前延长，而他心里白天的脚步，也在这熟悉又温暖的终点，安安静静地停住了。\n小朋友，今天你也已经走完白天的路，平安回到家里和床上了。剩下的远路留给明天再去走，现在，舒舒服服地睡个好觉吧，晚安。"
+    }
+  ],
+  "cn_characters": 761,
+  "narration_sha256": "35d5d87dd8a599d952a4b7ece3402350e20267f6cb4fb97b89b714aa759f4f92",
+  "source": {
+    "path": "/Users/ww/Downloads/100集睡前故事合集.md",
+    "sha256": "3feafa137e94824baccf8b6e3f3f24bac3e97714b2e201fcc48d461d8969c302",
+    "original_narration_sha256": "35d5d87dd8a599d952a4b7ece3402350e20267f6cb4fb97b89b714aa759f4f92",
+    "original_paragraph_count": 7
+  },
+  "revision_record": [],
+  "duration_policy": {
+    "basis": "complete_narration_at_current_voice_settings",
+    "limit_s": null,
+    "delete_for_duration": false,
+    "time_stretch": false
+  },
+  "voice": {
+    "config": "03_素材与参数/配音与声音参数.json",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000
+  },
+  "actual_duration_s": null,
+  "character_registry": "03_素材与参数/用户长稿v4角色图库.json",
+  "storyboard": {
+    "status": "not_started",
+    "shots": [],
+    "timing_basis": "actual_audio",
+    "preferred_hold_s": [
+      8,
+      10
+    ],
+    "review_above_s": 15,
+    "short_action_hold_s": [
+      3,
+      5
+    ]
+  },
+  "material_state": {
+    "voice": "not_started",
+    "character_references": "not_generated",
+    "illustrations": "not_started",
+    "cover": "not_started",
+    "pinyin_review": "not_started",
+    "render": "not_started",
+    "technical_check": "not_started",
+    "human_watch": "not_started",
+    "user_acceptance": "not_recorded"
+  }
+}

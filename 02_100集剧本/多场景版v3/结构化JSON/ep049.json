@@ -1,0 +1,275 @@
+{
+  "schema_version": 2,
+  "script_version": "v3",
+  "id": "ep049",
+  "episode": 49,
+  "title": "请叫我朵朵",
+  "cover_title": "请叫朵朵",
+  "category": "学校",
+  "theme": "记住朋友希望被怎么称呼",
+  "setting": "榆树学校走廊、榆树学校游戏桌",
+  "viewpoint_character": "朵朵",
+  "guest": "朵朵、斑斑",
+  "character_names": [
+    "朵朵",
+    "皮皮",
+    "斑斑"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "成片约120秒，配音后实测校时",
+  "cn_characters": 275,
+  "initial_duration_budget_s": 117.92,
+  "shots": [
+    {
+      "id": 1,
+      "title": "走廊上朵朵抱着游戏盒，斑斑皮皮迎面走来",
+      "location": "榆树学校走廊",
+      "character_names": [
+        "朵朵",
+        "皮皮",
+        "斑斑"
+      ],
+      "narration_lines": [
+        "课间，斑斑叫了一声大耳朵。",
+        "朵朵抱着游戏盒往前走，没有回头。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校走廊。竖幅远景交代空间和前后层次。画面：走廊上朵朵抱着游戏盒，斑斑皮皮迎面走来。入镜角色：朵朵、皮皮、斑斑。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.29,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "朵朵抱紧游戏盒，指尖停在叶子图案上",
+      "location": "榆树学校走廊",
+      "character_names": [
+        "朵朵",
+        "斑斑",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "斑斑以为她没听到，又叫一次。",
+        "皮皮看见朵朵耳朵动了动，轻轻问她怎么了。",
+        "朵朵把盒子往怀里抱了一点，爪尖停在上面的叶子图案上。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校走廊。平视中景突出人物姿态和相互位置。画面：朵朵抱紧游戏盒，指尖停在叶子图案上。入镜角色：朵朵、斑斑、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 21.01,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "朵朵双手抱游戏盒，盒盖是树叶图案",
+      "location": "榆树学校走廊",
+      "character_names": [
+        "朵朵"
+      ],
+      "narration_lines": [
+        "朵朵说：“我听到了。我喜欢自己的耳朵，也喜欢你叫我的名字。”"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校走廊。近景突出手边动作或道具状态。画面：朵朵双手抱游戏盒，盒盖是树叶图案。入镜角色：朵朵。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 9.23,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "斑斑抬爪打招呼，朵朵停下与他对望",
+      "location": "榆树学校走廊",
+      "character_names": [
+        "朵朵",
+        "斑斑"
+      ],
+      "narration_lines": [
+        "斑斑摸了摸耳朵，说了一声对不起，又认真地叫：“朵朵，要一起玩吗？”"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校走廊。平视中景突出人物姿态和相互位置。画面：斑斑抬爪打招呼，朵朵停下与他对望。入镜角色：朵朵、斑斑。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 9.92,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "三位围在游戏桌，朵朵打开盒盖后递出棋片",
+      "location": "榆树学校游戏桌",
+      "character_names": [
+        "朵朵",
+        "斑斑",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "“好。”",
+        "朵朵把盒子打开。",
+        "她先给斑斑递了一枚叶子棋，再给皮皮递一枚圆棋。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校游戏桌。侧面中景展示动作方向与相邻环境。画面：三位围在游戏桌，朵朵打开盒盖后递出棋片。入镜角色：朵朵、斑斑、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.39,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "三种棋片在桌上起步，其中一枚宽宽的棋是朵朵自己的",
+      "location": "榆树学校游戏桌",
+      "character_names": [
+        "朵朵",
+        "斑斑",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "轮到选棋，朵朵给自己挑了最宽的一枚。",
+        "她说这枚棋叫朵朵的树叶，摆在路上很稳。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "俯视呈现平面上的物件和路线",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校游戏桌。俯视呈现平面上的物件和路线。画面：三种棋片在桌上起步，其中一枚宽宽的棋是朵朵自己的。入镜角色：朵朵、斑斑、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 13.05,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "斑斑指向轮到朵朵的棋格，朵朵伸手移动棋片",
+      "location": "榆树学校游戏桌",
+      "character_names": [
+        "朵朵",
+        "斑斑"
+      ],
+      "narration_lines": [
+        "玩到第二轮，斑斑抬头说：“朵朵，到你了。”",
+        "朵朵这次一听就转了过来。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校游戏桌。平视中景突出人物姿态和相互位置。画面：斑斑指向轮到朵朵的棋格，朵朵伸手移动棋片。入镜角色：朵朵、斑斑。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.64,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "三位从游戏桌方向走回教室，朵朵托盒，斑斑为她扶门",
+      "location": "榆树学校走廊",
+      "character_names": [
+        "朵朵",
+        "斑斑",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "回教室时，斑斑帮她扶住门。",
+        "朵朵自己说，下回还想带另一盒棋来玩。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校走廊。侧面中景展示动作方向与相邻环境。画面：三位从游戏桌方向走回教室，朵朵托盒，斑斑为她扶门。入镜角色：朵朵、斑斑、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.98,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "游戏桌面落着一枚宽叶棋，盒子旁留小片亮处",
+      "location": "榆树学校游戏桌",
+      "character_names": [],
+      "narration_lines": [
+        "老师把落下的叶子棋留在桌角。",
+        "谁来看见那枚宽宽的叶子，都知道该还给谁。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "环境留白为主，关键物件或人物位于上部",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校游戏桌。环境留白为主，关键物件或人物位于上部。画面：游戏桌面落着一枚宽叶棋，盒子旁留小片亮处。入镜角色：无，仅画环境或道具。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 19.41,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v3剧本和九镜已校时估算，实际配音及后续制作待进行",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/多场景版v2/结构化JSON/ep049.json",
+    "scope": "以约两分钟为目标逐集校时，补充偏短故事的动作、对话或线索，压缩偏长的重复表述",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始",
+    "previous_script_sha256": "98ca231bf87aa4b6724bdf61c08c8d8102c42f9b745827f603068ca2e03dae62",
+    "edited_shots": [
+      2
+    ]
+  },
+  "duration_plan": {
+    "target_s": 120,
+    "planning_range_s": [
+      115,
+      125
+    ],
+    "estimated_s": 117.92,
+    "v2_estimated_using_same_method_s": 108.92,
+    "reference_narration_hanzi_per_second": 2.899607,
+    "opening_s": 1.0,
+    "tail_in_final_shot_s": 8.0
+  }
+}

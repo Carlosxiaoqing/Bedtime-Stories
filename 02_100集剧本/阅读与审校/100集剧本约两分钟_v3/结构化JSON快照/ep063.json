@@ -1,0 +1,273 @@
+{
+  "schema_version": 2,
+  "script_version": "v3",
+  "id": "ep063",
+  "episode": 63,
+  "title": "盐田的一小格白",
+  "cover_title": "盐田一格白",
+  "category": "出行",
+  "theme": "同一处地方每天都有一点变化",
+  "setting": "白湾盐田的浅水格、盐田干燥参观廊",
+  "viewpoint_character": "雪团",
+  "guest": "雪团、沐沐、豆豆",
+  "character_names": [
+    "雪团",
+    "沐沐",
+    "豆豆"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "成片约120秒，配音后实测校时",
+  "cn_characters": 291,
+  "initial_duration_budget_s": 123.44,
+  "shots": [
+    {
+      "id": 1,
+      "title": "盐田一格反光一格发白，雪团与沐沐豆豆沿栏观察",
+      "location": "白湾盐田的浅水格",
+      "character_names": [
+        "雪团",
+        "沐沐",
+        "豆豆"
+      ],
+      "narration_lines": [
+        "雪团带沐沐和豆豆看盐田。",
+        "前一格照得见云，后一格白白的，豆豆以为落了雪。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "白湾盐田的浅水格。竖幅远景交代空间和前后层次。画面：盐田一格反光一格发白，雪团与沐沐豆豆沿栏观察。入镜角色：雪团、沐沐、豆豆。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 13.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "雪团手指栏外的白色细颗粒，木栏在前景",
+      "location": "白湾盐田的浅水格",
+      "character_names": [
+        "雪团"
+      ],
+      "narration_lines": [
+        "雪团让豆豆凑到栏边看。",
+        "白的是盐，留在水退走的地方，跟雪团平时见的雪不一样。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "白湾盐田的浅水格。近景突出手边动作或道具状态。画面：雪团手指栏外的白色细颗粒，木栏在前景。入镜角色：雪团。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 13.05,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "从沐沐肩后望浅水里的云影，另一格没有倒影",
+      "location": "白湾盐田的浅水格",
+      "character_names": [
+        "沐沐",
+        "豆豆"
+      ],
+      "narration_lines": [
+        "沐沐在浅水格里看见云，到了白的那一格就看不见。",
+        "她想知道，水是从哪儿走的。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "越肩构图同时看见观察者与目标",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "白湾盐田的浅水格。越肩构图同时看见观察者与目标。画面：从沐沐肩后望浅水里的云影，另一格没有倒影。入镜角色：沐沐、豆豆。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.71,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "参观廊窗边放一小块演示浅盘，三位看盘边白圈",
+      "location": "盐田干燥参观廊",
+      "character_names": [
+        "雪团",
+        "沐沐",
+        "豆豆"
+      ],
+      "narration_lines": [
+        "参观廊里有只浅盘。",
+        "雪团给他们看，水少了以后，盘子边上留着一圈细白。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "盐田干燥参观廊。平视中景突出人物姿态和相互位置。画面：参观廊窗边放一小块演示浅盘，三位看盘边白圈。入镜角色：雪团、沐沐、豆豆。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.67,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "纸上并排画三个方格，从浅水到白色，三位各指一格",
+      "location": "盐田干燥参观廊",
+      "character_names": [
+        "雪团",
+        "沐沐",
+        "豆豆"
+      ],
+      "narration_lines": [
+        "他们在纸上画三格。",
+        "第一格照得见云，第二格只有一点水，最后一格露出白白的盐。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "俯视呈现平面上的物件和路线",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "盐田干燥参观廊。俯视呈现平面上的物件和路线。画面：纸上并排画三个方格，从浅水到白色，三位各指一格。入镜角色：雪团、沐沐、豆豆。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 13.05,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "三位在栏内回看第一格，浅水边沿一线白色盐粒迎光",
+      "location": "白湾盐田的浅水格",
+      "character_names": [
+        "雪团",
+        "沐沐",
+        "豆豆"
+      ],
+      "narration_lines": [
+        "他们又回到最先看的地方。",
+        "日头斜了一点，刚才和水光混在一起的那道白边，现在看得清了。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "越肩构图同时看见观察者与目标",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "白湾盐田的浅水格。越肩构图同时看见观察者与目标。画面：三位在栏内回看第一格，浅水边沿一线白色盐粒迎光。入镜角色：雪团、沐沐、豆豆。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 14.43,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "豆豆描窄白边，雪团看着桌面上的盐田方格",
+      "location": "盐田干燥参观廊",
+      "character_names": [
+        "豆豆",
+        "雪团"
+      ],
+      "narration_lines": [
+        "豆豆在画上给白边描了一道细线。",
+        "雪团说，下次再来看看，能不能从更远的地方认出它。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "盐田干燥参观廊。近景突出手边动作或道具状态。画面：豆豆描窄白边，雪团看着桌面上的盐田方格。入镜角色：豆豆、雪团。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 13.74,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "三位在廊下向导览者挥手，雪团手里折好画纸",
+      "location": "盐田干燥参观廊",
+      "character_names": [
+        "雪团",
+        "沐沐",
+        "豆豆"
+      ],
+      "narration_lines": [
+        "离开前，他们把画折好。",
+        "沐沐只折了一半，让那块照得见云的水留在外面。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "盐田干燥参观廊。平视中景突出人物姿态和相互位置。画面：三位在廊下向导览者挥手，雪团手里折好画纸。入镜角色：雪团、沐沐、豆豆。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.67,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "盐田水格排向海边，云影在最后一格里发浅",
+      "location": "白湾盐田的浅水格",
+      "character_names": [],
+      "narration_lines": [
+        "小巴来接他们的时候，盐田还是原来的盐田。",
+        "只是他们再看，已经能分出三种白。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "环境留白为主，关键物件或人物位于上部",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "白湾盐田的浅水格。环境留白为主，关键物件或人物位于上部。画面：盐田水格排向海边，云影在最后一格里发浅。入镜角色：无，仅画环境或道具。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 19.76,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v3剧本和九镜已校时估算，实际配音及后续制作待进行",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/多场景版v2/结构化JSON/ep063.json",
+    "scope": "以约两分钟为目标逐集校时，补充偏短故事的动作、对话或线索，压缩偏长的重复表述",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始",
+    "previous_script_sha256": "b339ff262c0512da34a33c21360319986d3e3f4a92d47aecac91a68780dfbcde",
+    "edited_shots": []
+  },
+  "duration_plan": {
+    "target_s": 120,
+    "planning_range_s": [
+      115,
+      125
+    ],
+    "estimated_s": 123.44,
+    "v2_estimated_using_same_method_s": 123.44,
+    "reference_narration_hanzi_per_second": 2.899607,
+    "opening_s": 1.0,
+    "tail_in_final_shot_s": 8.0
+  }
+}

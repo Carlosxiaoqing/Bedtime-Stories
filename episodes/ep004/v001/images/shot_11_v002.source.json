@@ -1,0 +1,14 @@
+{
+  "id": 11,
+  "prompt": "Use case: precise-object-edit. Image 1 is the edit target, Pipi rabbit on the LEFT and Lili hedgehog on the RIGHT in a sunlit clover meadow. Remove ONLY the orange/rust scarf or neckerchief from the HEDGEHOG. Lili must wear ONLY his existing sage-gray vest, with natural light-brown fur visible between chin and vest collar, no scarf of any color. Preserve every other part of the scene: both characters' exact faces, ears, spines, poses, hand gestures, Pipi's blue overalls and yellow backpack, Lili's pale oatmeal flap satchel with a wooden button and shoulder strap, background cottage, hill, stream, trees, paper texture, lighting and framing. Exactly TWO animals: one rabbit and one hedgehog. Do not add, remove or redesign any other element. No words or watermark. Same vertical 9:16 composition, lower subtitle area unchanged.",
+  "reference_inputs": [
+    "/Users/ww/视频/Bedtime-Stories/episodes/ep004/v001/images/shot_11.png"
+  ],
+  "source_generated_path": "/Users/ww/.codex/generated_images/01a1c779-b2c5-7591-8e26-7f019d36a778/exec-60abed15-593a-4235-adca-d05388fefafc.png",
+  "destination": "/Users/ww/视频/Bedtime-Stories/episodes/ep004/v001/images/shot_11_v002.png",
+  "revision": 2,
+  "reason": "remove scarf incorrectly borrowed from another character",
+  "sha256": "059fbf391d85f779f955478d406c071903ca09a5a8063bfbd3af47b7dace3447",
+  "provider": "built-in image_gen",
+  "status": "generated_pending_visual_review"
+}

@@ -1,0 +1,15 @@
+{
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 25,
+  "duration_s": 99.88,
+  "full_decode": "passed",
+  "command": "render",
+  "generated_at": "2026-11-10T21:10:38.636429+08:00",
+  "subtitles": 37,
+  "human_review": "pending",
+  "source": "ep001/v005",
+  "output": "episodes/ep001/本地复现/2026-11-10_211038_16405e"
+}

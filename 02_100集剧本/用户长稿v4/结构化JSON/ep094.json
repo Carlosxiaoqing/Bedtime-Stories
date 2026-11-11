@@ -1,0 +1,95 @@
+{
+  "schema_version": 3,
+  "script_version": "v4",
+  "id": "ep094",
+  "episode": 94,
+  "title": "小闹钟只管明天",
+  "theme": "把对时间的关注轻轻放下",
+  "language": "zh-CN",
+  "production_scope": "adopted_user_long_script",
+  "status": "copyedited_media_not_started",
+  "narration_paragraphs": [
+    {
+      "id": "p001",
+      "text": "明天，森林学堂要组织大家去后山的枫叶谷远足，皮皮心里既期待又有点小紧张，生怕自己明天早上起晚了。\n所以今天吃过晚饭后，皮皮特意把自己床头柜上那只圆圆的、薄荷绿色的小闹钟拿过来，检查了一下电池，又请妈妈帮他调好了明天早晨起床的时间。"
+    },
+    {
+      "id": "p002",
+      "text": "洗漱完毕，皮皮早早地钻进了温暖的被窝里。\n那只薄荷绿的小闹钟，正安安静静地坐在床头柜上。在圆圆的米白色钟面上，有一长一短两根金属小指针，正迈着肉眼几乎看不见的细小步子，慢吞吞地往前走着。"
+    },
+    {
+      "id": "p003",
+      "text": "因为心里惦记着明天的远足，皮皮躺下后，忍不住侧过头看了小闹钟一眼；过了一小会儿，他又睁开眼睛，再看了一眼钟面。\n他在心里暗暗地算着：现在是八点半，长针再走一圈是九点半……离明天早上太阳升起来，到底还有多长、多长的一段夜晚呢？"
+    },
+    {
+      "id": "p004",
+      "text": "看着看着，皮皮发现自己越是盯着小指针去算时间，小脑袋就越清醒，眼睛也有点发酸了。\n皮皮轻轻叹了口气，坐起身来，伸出小爪子把床头柜上的小闹钟往旁边挪了挪，摆得更稳当了一点，让它待在床头柜靠外侧那个既不会碰到枕头、也不用一睁眼就直直盯着的熟悉角落里。"
+    },
+    {
+      "id": "p005",
+      "text": "皮皮看着安静的小闹钟，心里忽然想通了：小闹钟肚子里的齿轮和小指针，本来就会自己一步一步慢慢往前走的，根本不需要我一直醒着坐在旁边，替它看着每一步呀！\n小闹钟的任务是只管明天早上的叫醒工作，而今晚的漫长夜色，是归小兔子用来睡觉的。"
+    },
+    {
+      "id": "p006",
+      "text": "于是，皮皮伸手把床头台灯调得更加柔和，拉好暖黄色的毛毯。明天早晨起床和远足的事情，已经可以彻彻底底地留给明天的清晨去管了。\n皮皮低下头，看见怀里的胡萝卜玩偶。你看，胡萝卜玩偶从来都不会看时间，也不知道现在是几点几分，可它早早地就靠在枕头边，给皮皮留着一个最暖和、最舒服的位置。"
+    },
+    {
+      "id": "p007",
+      "text": "皮皮微笑着抱住玩偶，把两只小爪子在被窝里彻底放松开来，再也不去数房间里安安静静流淌过去的一分一秒了。\n他的眼睛慢慢闭合。薄荷绿的小闹钟尽职地留在床头看管明天，而柔软的小兔子则安心地留在被窝里享受今晚，各自都有各自最擅长的事情。"
+    },
+    {
+      "id": "p008",
+      "text": "小朋友，今晚你也不用替时间操心，更不用急着等明天快点到来。把明天交给小闹钟和太阳公公，现在，你只需要安安稳稳地睡上一大觉。晚安。"
+    }
+  ],
+  "cn_characters": 789,
+  "narration_sha256": "7831bff9f8b875a6ce23a649a22325f2460ffdb3539884a93f7db695384422fe",
+  "source": {
+    "path": "/Users/ww/Downloads/100集睡前故事合集.md",
+    "sha256": "3feafa137e94824baccf8b6e3f3f24bac3e97714b2e201fcc48d461d8969c302",
+    "original_narration_sha256": "7831bff9f8b875a6ce23a649a22325f2460ffdb3539884a93f7db695384422fe",
+    "original_paragraph_count": 8
+  },
+  "revision_record": [],
+  "duration_policy": {
+    "basis": "complete_narration_at_current_voice_settings",
+    "limit_s": null,
+    "delete_for_duration": false,
+    "time_stretch": false
+  },
+  "voice": {
+    "config": "03_素材与参数/配音与声音参数.json",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000
+  },
+  "actual_duration_s": null,
+  "character_registry": "03_素材与参数/用户长稿v4角色图库.json",
+  "storyboard": {
+    "status": "not_started",
+    "shots": [],
+    "timing_basis": "actual_audio",
+    "preferred_hold_s": [
+      8,
+      10
+    ],
+    "review_above_s": 15,
+    "short_action_hold_s": [
+      3,
+      5
+    ]
+  },
+  "material_state": {
+    "voice": "not_started",
+    "character_references": "not_generated",
+    "illustrations": "not_started",
+    "cover": "not_started",
+    "pinyin_review": "not_started",
+    "render": "not_started",
+    "technical_check": "not_started",
+    "human_watch": "not_started",
+    "user_acceptance": "not_recorded"
+  }
+}

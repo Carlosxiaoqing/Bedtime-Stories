@@ -1,0 +1,272 @@
+{
+  "schema_version": 2,
+  "script_version": "v3",
+  "id": "ep070",
+  "episode": 70,
+  "title": "泡泡信跑得太快",
+  "cover_title": "泡泡慢信",
+  "category": "想象",
+  "theme": "收信的伙伴需要什么样的消息",
+  "setting": "泡泡河邮站、泡泡河低岸的软网边",
+  "viewpoint_character": "豆豆",
+  "guest": "豆豆、灰灰、沐沐",
+  "character_names": [
+    "豆豆",
+    "灰灰",
+    "沐沐"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "成片约120秒，配音后实测校时",
+  "cn_characters": 268,
+  "initial_duration_budget_s": 115.51,
+  "shots": [
+    {
+      "id": 1,
+      "title": "邮站水纹地板上浮着三颗泡泡，豆豆与灰灰、沐沐等信",
+      "location": "泡泡河邮站",
+      "character_names": [
+        "豆豆",
+        "灰灰",
+        "沐沐"
+      ],
+      "narration_lines": [
+        "泡泡河用泡泡送信。",
+        "豆豆放出第一封，刚想让沐沐看，泡泡就跑到屋顶去了。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "泡泡河邮站。竖幅远景交代空间和前后层次。画面：邮站水纹地板上浮着三颗泡泡，豆豆与灰灰、沐沐等信。入镜角色：豆豆、灰灰、沐沐。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 13.02,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "豆豆脚边还有一颗空泡泡，屋顶那颗只露一段圆边",
+      "location": "泡泡河邮站",
+      "character_names": [
+        "豆豆"
+      ],
+      "narration_lines": [
+        "豆豆又吹一颗小的。",
+        "小泡泡飞得更快，她还没看清装了哪张画，它已经越过门口。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "泡泡河邮站。近景突出手边动作或道具状态。画面：豆豆脚边还有一颗空泡泡，屋顶那颗只露一段圆边。入镜角色：豆豆。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.71,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "灰灰指向低岸软网，沐沐将画片托在掌心",
+      "location": "泡泡河邮站",
+      "character_names": [
+        "豆豆",
+        "灰灰",
+        "沐沐"
+      ],
+      "narration_lines": [
+        "沐沐说，她想坐在低处慢慢收信。",
+        "灰灰给他们指了一条低岸，那里有一面软网。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "泡泡河邮站。平视中景突出人物姿态和相互位置。画面：灰灰指向低岸软网，沐沐将画片托在掌心。入镜角色：豆豆、灰灰、沐沐。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "三位在低岸，豆豆把泡泡出口朝向软网低角",
+      "location": "泡泡河低岸的软网边",
+      "character_names": [
+        "豆豆",
+        "灰灰",
+        "沐沐"
+      ],
+      "narration_lines": [
+        "豆豆在网边送出第三封。",
+        "风从下面轻轻托住泡泡，让它沿网走了一小段。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "泡泡河低岸的软网边。侧面中景展示动作方向与相邻环境。画面：三位在低岸，豆豆把泡泡出口朝向软网低角。入镜角色：豆豆、灰灰、沐沐。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.67,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "沐沐双手托住软网上停稳的泡泡，里面有浅蓝画片",
+      "location": "泡泡河低岸的软网边",
+      "character_names": [
+        "沐沐"
+      ],
+      "narration_lines": [
+        "泡泡挂住了。",
+        "沐沐伸爪接过来，里面是豆豆画的一张水纹，边上还有一条小鱼。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "泡泡河低岸的软网边。近景突出手边动作或道具状态。画面：沐沐双手托住软网上停稳的泡泡，里面有浅蓝画片。入镜角色：沐沐。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "软网台上放着水纹画和新画片，灰灰帮两人排顺序",
+      "location": "泡泡河低岸的软网边",
+      "character_names": [
+        "豆豆",
+        "灰灰",
+        "沐沐"
+      ],
+      "narration_lines": [
+        "沐沐想回一封。",
+        "她画一只弯弯的网，让豆豆一眼就知道到哪里等。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "俯视呈现平面上的物件和路线",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "泡泡河低岸的软网边。俯视呈现平面上的物件和路线。画面：软网台上放着水纹画和新画片，灰灰帮两人排顺序。入镜角色：豆豆、灰灰、沐沐。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.64,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "豆豆在软网另一端张开翅，泡泡停到近处",
+      "location": "泡泡河低岸的软网边",
+      "character_names": [
+        "豆豆",
+        "沐沐"
+      ],
+      "narration_lines": [
+        "第二封信从另一头来。",
+        "豆豆看清网形才取下来，听见泡泡在翅边轻轻破开。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "泡泡河低岸的软网边。平视中景突出人物姿态和相互位置。画面：豆豆在软网另一端张开翅，泡泡停到近处。入镜角色：豆豆、沐沐。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.02,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "三位回邮站在两张路线图旁比画高低",
+      "location": "泡泡河邮站",
+      "character_names": [
+        "豆豆",
+        "灰灰",
+        "沐沐"
+      ],
+      "narration_lines": [
+        "回到邮站，灰灰画下两条路线。",
+        "要快的往上走，要看清楚的，就顺着低岸寄。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "泡泡河邮站。侧面中景展示动作方向与相邻环境。画面：三位回邮站在两张路线图旁比画高低。入镜角色：豆豆、灰灰、沐沐。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.67,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "软网里留一颗很小的空泡泡，水纹缓慢延伸",
+      "location": "泡泡河低岸的软网边",
+      "character_names": [],
+      "narration_lines": [
+        "傍晚有人来等信。",
+        "低岸那一封慢慢浮过来，刚好停到伸手就能碰见的地方。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "泡泡河低岸的软网边。近景突出手边动作或道具状态。画面：软网里留一颗很小的空泡泡，水纹缓慢延伸。入镜角色：无，仅画环境或道具。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 19.07,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v3剧本和九镜已校时估算，实际配音及后续制作待进行",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/多场景版v2/结构化JSON/ep070.json",
+    "scope": "以约两分钟为目标逐集校时，补充偏短故事的动作、对话或线索，压缩偏长的重复表述",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始",
+    "previous_script_sha256": "04ab02eec2c5df45a329722b12a1224d9e70f95fd2b4cf027c4630f7687137ce",
+    "edited_shots": []
+  },
+  "duration_plan": {
+    "target_s": 120,
+    "planning_range_s": [
+      115,
+      125
+    ],
+    "estimated_s": 115.51,
+    "v2_estimated_using_same_method_s": 115.51,
+    "reference_narration_hanzi_per_second": 2.899607,
+    "opening_s": 1.0,
+    "tail_in_final_shot_s": 8.0
+  }
+}

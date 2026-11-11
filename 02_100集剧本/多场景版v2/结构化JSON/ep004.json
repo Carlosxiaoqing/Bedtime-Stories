@@ -1,0 +1,259 @@
+{
+  "schema_version": 2,
+  "script_version": "v2",
+  "id": "ep004",
+  "episode": 4,
+  "title": "慢慢带来的近路",
+  "cover_title": "叶下近路",
+  "category": "自然",
+  "theme": "跟着小伙伴看见不一样的世界",
+  "setting": "香草园石板路、香草园矮叶层",
+  "viewpoint_character": "慢慢",
+  "guest": "团团、栗栗、慢慢",
+  "character_names": [
+    "团团",
+    "栗栗",
+    "慢慢"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "按晓晓-35%实际口播、停顿和约8秒尾声确定",
+  "cn_characters": 237,
+  "initial_duration_budget_s": 97.13,
+  "shots": [
+    {
+      "id": 1,
+      "title": "石板路有一处岔口，团团和栗栗站在香草叶旁",
+      "location": "香草园石板路",
+      "character_names": [
+        "团团",
+        "栗栗",
+        "慢慢"
+      ],
+      "narration_lines": [
+        "团团答应给栗栗看一朵蓝花。",
+        "到了香草园，他却怎么也找不到那朵花。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "香草园石板路。竖幅远景交代空间和前后层次。画面：石板路有一处岔口，团团和栗栗站在香草叶旁。入镜角色：团团、栗栗、慢慢。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.42,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "蜗牛慢慢伸触角朝向一条叶下细路",
+      "location": "香草园矮叶层",
+      "character_names": [
+        "慢慢"
+      ],
+      "narration_lines": [
+        "小蜗牛慢慢从叶下伸出触角。",
+        "“我昨天经过蓝花，就从这里走。”"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "低视角凸显脚边、地面与人物尺度",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "香草园矮叶层。低视角凸显脚边、地面与人物尺度。画面：蜗牛慢慢伸触角朝向一条叶下细路。入镜角色：慢慢。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 9.17,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "团团抬头看一排高香草，栗栗侧身蹲下",
+      "location": "香草园石板路",
+      "character_names": [
+        "团团",
+        "栗栗"
+      ],
+      "narration_lines": [
+        "团团望向高高的花梗。",
+        "栗栗却蹲下来，发现石板边有一条细细的缝。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "香草园石板路。平视中景突出人物姿态和相互位置。画面：团团抬头看一排高香草，栗栗侧身蹲下。入镜角色：团团、栗栗。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.11,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "栗栗沿叶边伏低，慢慢爬到第二片叶子上",
+      "location": "香草园矮叶层",
+      "character_names": [
+        "栗栗",
+        "慢慢"
+      ],
+      "narration_lines": [
+        "慢慢贴着叶边走。",
+        "栗栗跟着他数过去，一片、两片、三片。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "香草园矮叶层。侧面中景展示动作方向与相邻环境。画面：栗栗沿叶边伏低，慢慢爬到第二片叶子上。入镜角色：栗栗、慢慢。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 8.23,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "团团爪边的一片叶子倒向路中",
+      "location": "香草园石板路",
+      "character_names": [
+        "团团"
+      ],
+      "narration_lines": [
+        "团团想把挡路的叶子掀开。",
+        "手刚碰到叶尖，叶底露出一圈蓝色。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "香草园石板路。近景突出手边动作或道具状态。画面：团团爪边的一片叶子倒向路中。入镜角色：团团。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 9.48,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "蓝色小花从低矮叶层间探出，慢慢停在花梗下",
+      "location": "香草园矮叶层",
+      "character_names": [
+        "栗栗",
+        "慢慢"
+      ],
+      "narration_lines": [
+        "原来，蓝花的花梗很矮。",
+        "从高处看，全被长叶遮住了。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "香草园矮叶层。近景突出手边动作或道具状态。画面：蓝色小花从低矮叶层间探出，慢慢停在花梗下。入镜角色：栗栗、慢慢。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 7.92,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "团团趴低，下巴靠近石板，和栗栗一起端详小花",
+      "location": "香草园石板路",
+      "character_names": [
+        "团团",
+        "栗栗",
+        "慢慢"
+      ],
+      "narration_lines": [
+        "团团也趴低了。",
+        "他看见花瓣上的细纹，还看见慢慢刚爬过的一道亮印。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "香草园石板路。平视中景突出人物姿态和相互位置。画面：团团趴低，下巴靠近石板，和栗栗一起端详小花。入镜角色：团团、栗栗、慢慢。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.42,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "石缝边放着一颗三角石，慢慢在蓝花旁",
+      "location": "香草园矮叶层",
+      "character_names": [
+        "栗栗",
+        "慢慢"
+      ],
+      "narration_lines": [
+        "栗栗挑了颗三角石放在缝边。",
+        "下次再来，就从这块石头旁边低头。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "俯视呈现平面上的物件和路线",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "香草园矮叶层。俯视呈现平面上的物件和路线。画面：石缝边放着一颗三角石，慢慢在蓝花旁。入镜角色：栗栗、慢慢。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 9.79,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "团团伏低闻花，栗栗笑着伸手挡住团团鼻尖旁的草叶",
+      "location": "香草园石板路",
+      "character_names": [
+        "团团",
+        "栗栗",
+        "慢慢"
+      ],
+      "narration_lines": [
+        "团团把鼻尖伸到蓝花跟前。",
+        "香草味比花香先到了，他打了个小小的喷嚏，慢慢把触角缩了半截。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "低视角凸显脚边、地面与人物尺度",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "香草园石板路。低视角凸显脚边、地面与人物尺度。画面：团团伏低闻花，栗栗笑着伸手挡住团团鼻尖旁的草叶。入镜角色：团团、栗栗、慢慢。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 20.59,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v2剧本与九镜已编写，配音、插画、封面、字幕及视频待制作",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/结构化JSON/ep004.json",
+    "scope": "按用户反馈重写人物互动、故事事件、场景及九镜",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始"
+  }
+}

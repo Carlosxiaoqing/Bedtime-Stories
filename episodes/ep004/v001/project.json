@@ -1,0 +1,1198 @@
+{
+  "episode": "ep004",
+  "duration_s": 278.72,
+  "fps": 25,
+  "frames": 6968,
+  "preview": false,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "shot_count": 35,
+  "crossfade_s": 0.96,
+  "curve": "linear",
+  "within_shot_motion": "none",
+  "subtitles_after_picture_transitions": true,
+  "clean": "/Users/ww/视频/Bedtime-Stories/Outputs/2026-11-11/ep004-v001/ep004_clean.mp4",
+  "publish": "/Users/ww/视频/Bedtime-Stories/Outputs/2026-11-11/ep004-v001/ep004.mp4",
+  "shots": [
+    {
+      "id": 1,
+      "title": "皮皮背上小黄书包",
+      "text": "今天是森林学堂的草地野餐日，也是小兔子皮皮第一次背着自己的小黄书包，",
+      "source_ranges": [
+        {
+          "unit_id": "u001",
+          "paragraph_id": "p001",
+          "start_char": 0,
+          "end_char": 34
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "白天：小木屋后方青草坡，橡树和白桦，坡路向右上延伸，左下远处小溪和红屋顶木屋；皮皮黄书包、蓝背带裤与蓝布鞋，栗栗灰绿背心和米色布包，团团暗赭围巾。",
+      "action": "中景：皮皮站在林间小路起点，肩上小黄书包清晰，期待地看向青草坡。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_01.png",
+      "reference_manifest": "references/shot_01.json",
+      "image_status": "generated_visually_checked",
+      "actual_start_s": 0.0,
+      "actual_end_s": 10.96,
+      "speech_start_s": 1.0,
+      "speech_end_s": 10.751707666666668,
+      "visible_start_s": 0.0,
+      "visible_end_s": 11.440000000000001,
+      "visible_duration_s": 11.44
+    },
+    {
+      "id": 2,
+      "title": "跟着老师去青草坡",
+      "text": "跟着山羊老师和朋友们，去小木屋后面的青草坡玩。",
+      "source_ranges": [
+        {
+          "unit_id": "u001",
+          "paragraph_id": "p001",
+          "start_char": 34,
+          "end_char": 57
+        }
+      ],
+      "characters": [
+        "pipi",
+        "lili",
+        "tuantuan",
+        "goat_teacher"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "白天：小木屋后方青草坡，橡树和白桦，坡路向右上延伸，左下远处小溪和红屋顶木屋；皮皮黄书包、蓝背带裤与蓝布鞋，栗栗灰绿背心和米色布包，团团暗赭围巾。",
+      "action": "远景：山羊老师带三位伙伴沿小路向坡走，所有角色按身份参考，队列和比例清楚。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_02.png",
+      "reference_manifest": "references/shot_02.json",
+      "image_status": "generated_visually_checked",
+      "actual_start_s": 10.96,
+      "actual_end_s": 18.2,
+      "speech_start_s": 11.143999666666668,
+      "speech_end_s": 17.66324966666667,
+      "visible_start_s": 10.48,
+      "visible_end_s": 18.68,
+      "visible_duration_s": 8.2
+    },
+    {
+      "id": 3,
+      "title": "圆圆的青草坡",
+      "text": "青草坡圆圆的，软软的，像一块铺在阳光下的大绿毯子。",
+      "source_ranges": [
+        {
+          "unit_id": "u002",
+          "paragraph_id": "p002",
+          "start_char": 0,
+          "end_char": 25
+        }
+      ],
+      "characters": [],
+      "outfits": {},
+      "setting": "白天：小木屋后方青草坡，橡树和白桦，坡路向右上延伸，左下远处小溪和红屋顶木屋；皮皮黄书包、蓝背带裤与蓝布鞋，栗栗灰绿背心和米色布包，团团暗赭围巾。",
+      "action": "宽幅感的竖画：柔软圆坡与小溪、三叶草、红屋顶木屋，没人，建立地理。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_03.png",
+      "reference_manifest": "references/shot_03.json",
+      "image_status": "generated_visually_checked",
+      "actual_start_s": 18.2,
+      "actual_end_s": 26.96,
+      "speech_start_s": 18.7726875,
+      "speech_end_s": 26.513874666666666,
+      "visible_start_s": 17.72,
+      "visible_end_s": 27.44,
+      "visible_duration_s": 9.72
+    },
+    {
+      "id": 4,
+      "title": "团团先到了坡顶",
+      "text": "小松鼠团团跑得最快，一下子就爬到了坡顶，",
+      "source_ranges": [
+        {
+          "unit_id": "u003",
+          "paragraph_id": "p002",
+          "start_char": 0,
+          "end_char": 20
+        }
+      ],
+      "characters": [
+        "tuantuan"
+      ],
+      "outfits": {},
+      "setting": "白天：小木屋后方青草坡，橡树和白桦，坡路向右上延伸，左下远处小溪和红屋顶木屋；皮皮黄书包、蓝背带裤与蓝布鞋，栗栗灰绿背心和米色布包，团团暗赭围巾。",
+      "action": "低视角中远景：团团站在圆坡顶部，尾巴高高弯起，小路在脚下延伸。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_04.png",
+      "reference_manifest": "references/shot_04.json",
+      "image_status": "generated_visually_checked",
+      "actual_start_s": 26.96,
+      "actual_end_s": 33.28,
+      "speech_start_s": 27.425020833333335,
+      "speech_end_s": 33.08010416666667,
+      "visible_start_s": 26.48,
+      "visible_end_s": 33.76,
+      "visible_duration_s": 7.28
+    },
+    {
+      "id": 5,
+      "title": "坡顶的招呼",
+      "text": "摇着蓬松的大尾巴喊：“皮皮，快上来呀，这儿能看见你家的屋顶呢！”",
+      "source_ranges": [
+        {
+          "unit_id": "u003",
+          "paragraph_id": "p002",
+          "start_char": 20,
+          "end_char": 52
+        }
+      ],
+      "characters": [
+        "tuantuan"
+      ],
+      "outfits": {},
+      "setting": "白天：小木屋后方青草坡，橡树和白桦，坡路向右上延伸，左下远处小溪和红屋顶木屋；皮皮黄书包、蓝背带裤与蓝布鞋，栗栗灰绿背心和米色布包，团团暗赭围巾。",
+      "action": "中景：团团朝坡下招手，远处左侧露出红色屋顶；无文字或气泡。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_05.png",
+      "reference_manifest": "references/shot_05.json",
+      "image_status": "generated_visually_checked",
+      "actual_start_s": 33.28,
+      "actual_end_s": 42.4,
+      "speech_start_s": 33.445479166666665,
+      "speech_end_s": 41.85702016666667,
+      "visible_start_s": 32.800000000000004,
+      "visible_end_s": 42.879999999999995,
+      "visible_duration_s": 10.08
+    },
+    {
+      "id": 6,
+      "title": "皮皮认真爬坡",
+      "text": "皮皮迈着小短腿，一步，两步，认真地往上爬。",
+      "source_ranges": [
+        {
+          "unit_id": "u004",
+          "paragraph_id": "p003",
+          "start_char": 0,
+          "end_char": 21
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "白天：小木屋后方青草坡，橡树和白桦，坡路向右上延伸，左下远处小溪和红屋顶木屋；皮皮黄书包、蓝背带裤与蓝布鞋，栗栗灰绿背心和米色布包，团团暗赭围巾。",
+      "action": "侧面中景：皮皮背黄书包迈小步向上爬，蓝布鞋落在平缓坡路上。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_06.png",
+      "reference_manifest": "references/shot_06.json",
+      "image_status": "generated_visually_checked",
+      "actual_start_s": 42.4,
+      "actual_end_s": 49.8,
+      "speech_start_s": 42.975145833333336,
+      "speech_end_s": 49.336478500000005,
+      "visible_start_s": 41.92,
+      "visible_end_s": 50.279999999999994,
+      "visible_duration_s": 8.36
+    },
+    {
+      "id": 7,
+      "title": "看见半坡的栗栗",
+      "text": "可是爬到一半，他发现小刺猬栗栗停在了半山腰。",
+      "source_ranges": [
+        {
+          "unit_id": "u005",
+          "paragraph_id": "p003",
+          "start_char": 0,
+          "end_char": 22
+        }
+      ],
+      "characters": [
+        "pipi",
+        "lili"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "白天：小木屋后方青草坡，橡树和白桦，坡路向右上延伸，左下远处小溪和红屋顶木屋；皮皮黄书包、蓝背带裤与蓝布鞋，栗栗灰绿背心和米色布包，团团暗赭围巾。",
+      "action": "从皮皮肩后看：栗栗停在半山腰，皮皮转头注意到他，山顶留在远处。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_07.png",
+      "reference_manifest": "references/shot_07.json",
+      "image_status": "generated_visually_checked",
+      "actual_start_s": 49.8,
+      "actual_end_s": 57.24,
+      "speech_start_s": 50.248895833333336,
+      "speech_end_s": 56.79872816666667,
+      "visible_start_s": 49.32,
+      "visible_end_s": 57.72,
+      "visible_duration_s": 8.4
+    },
+    {
+      "id": 8,
+      "title": "栗栗停下小脚步",
+      "text": "栗栗背着装满小饼干的布包，圆滚滚的身子有点儿喘气，小脚也不知道该踩在哪儿。",
+      "source_ranges": [
+        {
+          "unit_id": "u006",
+          "paragraph_id": "p003",
+          "start_char": 0,
+          "end_char": 37
+        }
+      ],
+      "characters": [
+        "lili"
+      ],
+      "outfits": {},
+      "setting": "白天：小木屋后方青草坡，橡树和白桦，坡路向右上延伸，左下远处小溪和红屋顶木屋；皮皮黄书包、蓝背带裤与蓝布鞋，栗栗灰绿背心和米色布包，团团暗赭围巾。",
+      "action": "近中景：栗栗背鼓鼓米色布包，脚停在小路边，脸略累，背刺圆润，脚与布包均能看见。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_08_v002.png",
+      "reference_manifest": "references/shot_08.json",
+      "image_status": "generated_visually_checked",
+      "actual_start_s": 57.24,
+      "actual_end_s": 68.72,
+      "speech_start_s": 57.68589583333333,
+      "speech_end_s": 68.14093683333333,
+      "visible_start_s": 56.760000000000005,
+      "visible_end_s": 69.2,
+      "visible_duration_s": 12.44,
+      "image_revision": 2
+    },
+    {
+      "id": 9,
+      "title": "皮皮不急着追赶",
+      "text": "皮皮没有急着去追团团。",
+      "source_ranges": [
+        {
+          "unit_id": "u007",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 11
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "白天：小木屋后方青草坡，橡树和白桦，坡路向右上延伸，左下远处小溪和红屋顶木屋；皮皮黄书包、蓝背带裤与蓝布鞋，栗栗灰绿背心和米色布包，团团暗赭围巾。",
+      "action": "中景：皮皮在岔出平地的小路上停稳，转身面向栗栗方向，黄包与蓝衣不变。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_09_v002.png",
+      "reference_manifest": "references/shot_09.json",
+      "image_status": "generated_visually_checked",
+      "actual_start_s": 68.72,
+      "actual_end_s": 72.64,
+      "speech_start_s": 69.27595833333334,
+      "speech_end_s": 72.17466666666667,
+      "visible_start_s": 68.24,
+      "visible_end_s": 73.12,
+      "visible_duration_s": 4.88,
+      "image_revision": 2
+    },
+    {
+      "id": 10,
+      "title": "指向三叶草平地",
+      "text": "他停下来，走到栗栗身边，指了指旁边一块平平的、长满三叶草的地方，",
+      "source_ranges": [
+        {
+          "unit_id": "u008",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 32
+        }
+      ],
+      "characters": [
+        "pipi",
+        "lili"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "白天：小木屋后方青草坡，橡树和白桦，坡路向右上延伸，左下远处小溪和红屋顶木屋；皮皮黄书包、蓝背带裤与蓝布鞋，栗栗灰绿背心和米色布包，团团暗赭围巾。",
+      "action": "中景：皮皮站在栗栗旁，指向前方平平三叶草地，两人脚下坡度与平地区别清楚。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_10_v002.png",
+      "reference_manifest": "references/shot_10.json",
+      "image_status": "generated_visually_checked",
+      "actual_start_s": 72.64,
+      "actual_end_s": 83.04,
+      "speech_start_s": 73.07595833333333,
+      "speech_end_s": 82.835374,
+      "visible_start_s": 72.16,
+      "visible_end_s": 83.52000000000001,
+      "visible_duration_s": 11.36,
+      "image_revision": 2
+    },
+    {
+      "id": 11,
+      "title": "邀请朋友歇一会儿",
+      "text": "轻声说：“栗栗，我们在这儿坐一会儿吧，半山腰的风景也很漂亮呀。”",
+      "source_ranges": [
+        {
+          "unit_id": "u008",
+          "paragraph_id": "p004",
+          "start_char": 32,
+          "end_char": 64
+        }
+      ],
+      "characters": [
+        "pipi",
+        "lili"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "白天：小木屋后方青草坡，橡树和白桦，坡路向右上延伸，左下远处小溪和红屋顶木屋；皮皮黄书包、蓝背带裤与蓝布鞋，栗栗灰绿背心和米色布包，团团暗赭围巾。",
+      "action": "平视近中景：皮皮温柔地邀请，栗栗望向三叶草平地，表情放松；无对话气泡。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_11_v002.png",
+      "reference_manifest": "references/shot_11.json",
+      "image_status": "generated_visually_checked",
+      "actual_start_s": 83.04,
+      "actual_end_s": 92.12,
+      "speech_start_s": 83.23925,
+      "speech_end_s": 91.573833,
+      "visible_start_s": 82.56,
+      "visible_end_s": 92.60000000000001,
+      "visible_duration_s": 10.04,
+      "image_revision": 2
+    },
+    {
+      "id": 12,
+      "title": "挨着朋友坐下来",
+      "text": "栗栗松了一口气，挨着皮皮坐了下来。",
+      "source_ranges": [
+        {
+          "unit_id": "u009",
+          "paragraph_id": "p005",
+          "start_char": 0,
+          "end_char": 17
+        }
+      ],
+      "characters": [
+        "pipi",
+        "lili"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "白天：小木屋后方青草坡，橡树和白桦，坡路向右上延伸，左下远处小溪和红屋顶木屋；皮皮黄书包、蓝背带裤与蓝布鞋，栗栗灰绿背心和米色布包，团团暗赭围巾。",
+      "action": "中远景：两人并排坐在半坡平地，书包和布包放身旁，小溪与山谷展开。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_12.png",
+      "reference_manifest": "references/shot_12.json",
+      "image_status": "generated_visually_checked",
+      "actual_start_s": 92.12,
+      "actual_end_s": 97.68,
+      "speech_start_s": 92.6730625,
+      "speech_end_s": 97.22797883333334,
+      "visible_start_s": 91.64,
+      "visible_end_s": 98.16000000000001,
+      "visible_duration_s": 6.52
+    },
+    {
+      "id": 13,
+      "title": "一人一块燕麦饼干",
+      "text": "他们打开小布包，一人分了一块散发着奶香的燕麦小饼干。",
+      "source_ranges": [
+        {
+          "unit_id": "u010",
+          "paragraph_id": "p005",
+          "start_char": 0,
+          "end_char": 26
+        }
+      ],
+      "characters": [
+        "pipi",
+        "lili"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "白天：小木屋后方青草坡，橡树和白桦，坡路向右上延伸，左下远处小溪和红屋顶木屋；皮皮黄书包、蓝背带裤与蓝布鞋，栗栗灰绿背心和米色布包，团团暗赭围巾。",
+      "action": "近景：打开的米色布包在两人之间，皮皮和栗栗各拿一块燕麦饼干，手与饼干清楚。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_13_v002.png",
+      "reference_manifest": "references/shot_13.json",
+      "image_status": "generated_visually_checked",
+      "actual_start_s": 97.68,
+      "actual_end_s": 105.76,
+      "speech_start_s": 98.13797916666667,
+      "speech_end_s": 105.300625,
+      "visible_start_s": 97.2,
+      "visible_end_s": 106.24000000000001,
+      "visible_duration_s": 9.04,
+      "image_revision": 2
+    },
+    {
+      "id": 14,
+      "title": "半坡的青草与小溪",
+      "text": "微风吹过来，青草叶轻轻晃动，远处的小溪一闪一闪地发着光。",
+      "source_ranges": [
+        {
+          "unit_id": "u011",
+          "paragraph_id": "p005",
+          "start_char": 0,
+          "end_char": 28
+        }
+      ],
+      "characters": [],
+      "outfits": {},
+      "setting": "白天：小木屋后方青草坡，橡树和白桦，坡路向右上延伸，左下远处小溪和红屋顶木屋；皮皮黄书包、蓝背带裤与蓝布鞋，栗栗灰绿背心和米色布包，团团暗赭围巾。",
+      "action": "环境近远层次：前景三叶草与细草，远处小溪反光，没人，不画运动轨迹。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_14_v002.png",
+      "reference_manifest": "references/shot_14.json",
+      "image_status": "generated_visually_checked",
+      "actual_start_s": 105.76,
+      "actual_end_s": 115.28,
+      "speech_start_s": 106.20960416666667,
+      "speech_end_s": 114.74493616666666,
+      "visible_start_s": 105.28,
+      "visible_end_s": 115.76,
+      "visible_duration_s": 10.48,
+      "image_revision": 2
+    },
+    {
+      "id": 15,
+      "title": "半山腰也有好风景",
+      "text": "原来，不一定非要爬到最高的地方，和好朋友在半山腰歇一歇，也是一件特别开心的事。",
+      "source_ranges": [
+        {
+          "unit_id": "u012",
+          "paragraph_id": "p006",
+          "start_char": 0,
+          "end_char": 39
+        }
+      ],
+      "characters": [
+        "pipi",
+        "lili"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "白天：小木屋后方青草坡，橡树和白桦，坡路向右上延伸，左下远处小溪和红屋顶木屋；皮皮黄书包、蓝背带裤与蓝布鞋，栗栗灰绿背心和米色布包，团团暗赭围巾。",
+      "action": "背侧远景：两位朋友安静坐在平地欣赏山谷，山顶不是目标，留出开阔树林和小溪空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_15.png",
+      "reference_manifest": "references/shot_15.json",
+      "image_status": "generated_visually_checked",
+      "actual_start_s": 115.28,
+      "actual_end_s": 127.6,
+      "speech_start_s": 115.85170833333333,
+      "speech_end_s": 127.15837366666666,
+      "visible_start_s": 114.8,
+      "visible_end_s": 128.07999999999998,
+      "visible_duration_s": 13.28
+    },
+    {
+      "id": 16,
+      "title": "山羊老师的夸奖",
+      "text": "山羊老师走过来，温柔地摸了摸皮皮的长耳朵，夸他是个懂得照顾朋友的好孩子。",
+      "source_ranges": [
+        {
+          "unit_id": "u013",
+          "paragraph_id": "p006",
+          "start_char": 0,
+          "end_char": 36
+        }
+      ],
+      "characters": [
+        "pipi",
+        "lili",
+        "goat_teacher"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "白天：小木屋后方青草坡，橡树和白桦，坡路向右上延伸，左下远处小溪和红屋顶木屋；皮皮黄书包、蓝背带裤与蓝布鞋，栗栗灰绿背心和米色布包，团团暗赭围巾。",
+      "action": "中景：老师蹲下温柔摸皮皮垂耳，皮皮微笑，栗栗坐在旁边，米色布包留原处。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_16.png",
+      "reference_manifest": "references/shot_16.json",
+      "image_status": "generated_visually_checked",
+      "actual_start_s": 127.6,
+      "actual_end_s": 138.64,
+      "speech_start_s": 128.05685416666668,
+      "speech_end_s": 138.08585416666668,
+      "visible_start_s": 127.11999999999999,
+      "visible_end_s": 139.11999999999998,
+      "visible_duration_s": 12.0
+    },
+    {
+      "id": 17,
+      "title": "夕阳染橘了天边",
+      "text": "太阳慢慢落山了，天边染上了一层浅浅的橘黄色。",
+      "source_ranges": [
+        {
+          "unit_id": "u014",
+          "paragraph_id": "p007",
+          "start_char": 0,
+          "end_char": 22
+        }
+      ],
+      "characters": [],
+      "outfits": {},
+      "setting": "傍晚：小木屋后方青草坡，橡树和白桦，坡路向右上延伸，左下远处小溪和红屋顶木屋；皮皮黄书包、蓝背带裤与蓝布鞋，栗栗灰绿背心和米色布包，团团暗赭围巾。",
+      "action": "夕阳时分同一圆坡与小溪，橘粉薄云，没人；保留树林与红屋顶木屋地理。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_17.png",
+      "reference_manifest": "references/shot_17.json",
+      "image_status": "generated_visually_checked",
+      "actual_start_s": 138.64,
+      "actual_end_s": 146.0,
+      "speech_start_s": 139.21164583333334,
+      "speech_end_s": 145.530957,
+      "visible_start_s": 138.16,
+      "visible_end_s": 146.48,
+      "visible_duration_s": 8.32
+    },
+    {
+      "id": 18,
+      "title": "和伙伴挥手道别",
+      "text": "皮皮跟团团、栗栗挥挥小爪子道别，",
+      "source_ranges": [
+        {
+          "unit_id": "u015",
+          "paragraph_id": "p007",
+          "start_char": 0,
+          "end_char": 16
+        }
+      ],
+      "characters": [
+        "pipi",
+        "lili",
+        "tuantuan"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "傍晚：小木屋后方青草坡，橡树和白桦，坡路向右上延伸，左下远处小溪和红屋顶木屋；皮皮黄书包、蓝背带裤与蓝布鞋，栗栗灰绿背心和米色布包，团团暗赭围巾。",
+      "action": "中远景：三位伙伴在坡脚林间路口挥手告别，皮皮黄包回肩。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_18.png",
+      "reference_manifest": "references/shot_18.json",
+      "image_status": "generated_visually_checked",
+      "actual_start_s": 146.0,
+      "actual_end_s": 151.52,
+      "speech_start_s": 146.43020833333333,
+      "speech_end_s": 151.25179133333333,
+      "visible_start_s": 145.52,
+      "visible_end_s": 152.0,
+      "visible_duration_s": 6.48
+    },
+    {
+      "id": 19,
+      "title": "沿小路回到木屋",
+      "text": "背着空空的小书包，沿着熟悉的小路回到了自己的小木屋。",
+      "source_ranges": [
+        {
+          "unit_id": "u015",
+          "paragraph_id": "p007",
+          "start_char": 16,
+          "end_char": 42
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "傍晚：小木屋后方青草坡，橡树和白桦，坡路向右上延伸，左下远处小溪和红屋顶木屋；皮皮黄书包、蓝背带裤与蓝布鞋，栗栗灰绿背心和米色布包，团团暗赭围巾。",
+      "action": "后侧中远景：皮皮背扁些的小黄包沿路走向左侧熟悉红顶木屋，门廊暖光初亮。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_19.png",
+      "reference_manifest": "references/shot_19.json",
+      "image_status": "generated_visually_checked",
+      "actual_start_s": 151.52,
+      "actual_end_s": 159.6,
+      "speech_start_s": 151.75179133333333,
+      "speech_end_s": 159.06716633333332,
+      "visible_start_s": 151.04000000000002,
+      "visible_end_s": 160.07999999999998,
+      "visible_duration_s": 9.04
+    },
+    {
+      "id": 20,
+      "title": "洗干净小脚丫",
+      "text": "吃过晚饭，洗干净毛茸茸的小脚丫，",
+      "source_ranges": [
+        {
+          "unit_id": "u016",
+          "paragraph_id": "p008",
+          "start_char": 0,
+          "end_char": 16
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "夜前：木屋门内洗漱角，木凳、浅木盆、柔软干布；蓝布鞋放在盆旁。",
+      "action": "皮皮穿日间蓝背带裤坐低木凳，脚在浅木盆边，一手拿柔软干布，洗漱准备睡觉。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_20.png",
+      "reference_manifest": "references/shot_20.json",
+      "image_status": "generated_visually_checked",
+      "actual_start_s": 159.6,
+      "actual_end_s": 165.04,
+      "speech_start_s": 160.170625,
+      "speech_end_s": 164.79337433333333,
+      "visible_start_s": 159.12,
+      "visible_end_s": 165.51999999999998,
+      "visible_duration_s": 6.4
+    },
+    {
+      "id": 21,
+      "title": "钻进暖黄被窝",
+      "text": "皮皮钻进了熟悉的暖黄色被窝里。",
+      "source_ranges": [
+        {
+          "unit_id": "u016",
+          "paragraph_id": "p008",
+          "start_char": 16,
+          "end_char": 31
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "夜晚：皮皮木屋卧室，床在左下，木窗在右上，叶纹窗帘，左侧暖灯；皮皮深蓝星星帽、黄帽球，暖黄毛毯、橙色胡萝卜玩偶。重要脸和动作放在上部，底部留字幕低细节区。",
+      "action": "中远景：皮皮已换星星睡帽坐进小木床被窝，毛毯暖黄，胡萝卜玩偶在枕边尚未抱起。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_21.png",
+      "reference_manifest": "references/shot_21.json",
+      "image_status": "generated_visually_checked",
+      "actual_start_s": 165.04,
+      "actual_end_s": 169.88,
+      "speech_start_s": 165.29333333333332,
+      "speech_end_s": 169.42795833333332,
+      "visible_start_s": 164.56,
+      "visible_end_s": 170.35999999999999,
+      "visible_duration_s": 5.8
+    },
+    {
+      "id": 22,
+      "title": "小脚轻轻伸一伸",
+      "text": "他轻轻一伸腿，咦？",
+      "source_ranges": [
+        {
+          "unit_id": "u017",
+          "paragraph_id": "p008",
+          "start_char": 0,
+          "end_char": 9
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "夜晚：皮皮木屋卧室，床在左下，木窗在右上，叶纹窗帘，左侧暖灯；皮皮深蓝星星帽、黄帽球，暖黄毛毯、橙色胡萝卜玩偶。重要脸和动作放在上部，底部留字幕低细节区。",
+      "action": "中景：皮皮看向被内脚边的小鼓包，好奇而安静，手未拿玩偶。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_22.png",
+      "reference_manifest": "references/shot_22.json",
+      "image_status": "generated_visually_checked",
+      "actual_start_s": 169.88,
+      "actual_end_s": 173.52,
+      "speech_start_s": 170.296125,
+      "speech_end_s": 173.06147916666666,
+      "visible_start_s": 169.4,
+      "visible_end_s": 174.0,
+      "visible_duration_s": 4.6
+    },
+    {
+      "id": 23,
+      "title": "毛毯拱起小山坡",
+      "text": "小脚边的毛毯拱了起来，变成了一座圆圆的小山坡，就跟白天去过的青草坡一模一样。",
+      "source_ranges": [
+        {
+          "unit_id": "u018",
+          "paragraph_id": "p008",
+          "start_char": 0,
+          "end_char": 38
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "夜晚：皮皮木屋卧室，床在左下，木窗在右上，叶纹窗帘，左侧暖灯；皮皮深蓝星星帽、黄帽球，暖黄毛毯、橙色胡萝卜玩偶。重要脸和动作放在上部，底部留字幕低细节区。",
+      "action": "脚边毛毯细节为主，圆圆小坡位于画面中上部，皮皮脸在后方枕边，毛毯仍是黄布，不变成真的草。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_23.png",
+      "reference_manifest": "references/shot_23.json",
+      "image_status": "generated_visually_checked",
+      "actual_start_s": 173.52,
+      "actual_end_s": 185.64,
+      "speech_start_s": 173.95472916666665,
+      "speech_end_s": 185.08166599999998,
+      "visible_start_s": 173.04000000000002,
+      "visible_end_s": 186.11999999999998,
+      "visible_duration_s": 13.08
+    },
+    {
+      "id": 24,
+      "title": "抱起胡萝卜玩偶",
+      "text": "皮皮笑了。他把胡萝卜玩偶抱过来，",
+      "source_ranges": [
+        {
+          "unit_id": "u019",
+          "paragraph_id": "p009",
+          "start_char": 0,
+          "end_char": 5
+        },
+        {
+          "unit_id": "u020",
+          "paragraph_id": "p009",
+          "start_char": 0,
+          "end_char": 11
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "夜晚：皮皮木屋卧室，床在左下，木窗在右上，叶纹窗帘，左侧暖灯；皮皮深蓝星星帽、黄帽球，暖黄毛毯、橙色胡萝卜玩偶。重要脸和动作放在上部，底部留字幕低细节区。",
+      "action": "中景：皮皮微笑，双爪将橙色胡萝卜玩偶抱在胸前，脚边的毛毯坡仍在。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_24.png",
+      "reference_manifest": "references/shot_24.json",
+      "image_status": "generated_visually_checked",
+      "actual_start_s": 185.64,
+      "actual_end_s": 191.28,
+      "speech_start_s": 186.178,
+      "speech_end_s": 191.05945699999998,
+      "visible_start_s": 185.16,
+      "visible_end_s": 191.76,
+      "visible_duration_s": 6.6
+    },
+    {
+      "id": 25,
+      "title": "玩偶也坐在半山腰",
+      "text": "放在小山坡的半山腰上，就像白天他和栗栗并排坐着那样。",
+      "source_ranges": [
+        {
+          "unit_id": "u020",
+          "paragraph_id": "p009",
+          "start_char": 11,
+          "end_char": 37
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "夜晚：皮皮木屋卧室，床在左下，木窗在右上，叶纹窗帘，左侧暖灯；皮皮深蓝星星帽、黄帽球，暖黄毛毯、橙色胡萝卜玩偶。重要脸和动作放在上部，底部留字幕低细节区。",
+      "action": "近中景：皮皮把胡萝卜玩偶放在黄毛毯小坡中部，爪子扶稳它；不画真实栗栗入卧室。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_25.png",
+      "reference_manifest": "references/shot_25.json",
+      "image_status": "generated_visually_checked",
+      "actual_start_s": 191.28,
+      "actual_end_s": 199.4,
+      "speech_start_s": 191.521,
+      "speech_end_s": 198.982499,
+      "visible_start_s": 190.8,
+      "visible_end_s": 199.88,
+      "visible_duration_s": 9.08
+    },
+    {
+      "id": 26,
+      "title": "把小脚慢慢放平",
+      "text": "随后，皮皮把小脚丫慢慢伸平，",
+      "source_ranges": [
+        {
+          "unit_id": "u021",
+          "paragraph_id": "p009",
+          "start_char": 0,
+          "end_char": 14
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "夜晚：皮皮木屋卧室，床在左下，木窗在右上，叶纹窗帘，左侧暖灯；皮皮深蓝星星帽、黄帽球，暖黄毛毯、橙色胡萝卜玩偶。重要脸和动作放在上部，底部留字幕低细节区。",
+      "action": "侧面中景：被窝中小脚伸平，毯坡比前镜低，玩偶留在坡上，脸在上部。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_26.png",
+      "reference_manifest": "references/shot_26.json",
+      "image_status": "generated_visually_checked",
+      "actual_start_s": 199.4,
+      "actual_end_s": 204.52,
+      "speech_start_s": 199.8545625,
+      "speech_end_s": 204.33587433333332,
+      "visible_start_s": 198.92000000000002,
+      "visible_end_s": 205.0,
+      "visible_duration_s": 6.08
+    },
+    {
+      "id": 27,
+      "title": "毛毯重新铺平",
+      "text": "被角的小山坡便轻轻落了下去，变成了一片软软的草地。",
+      "source_ranges": [
+        {
+          "unit_id": "u021",
+          "paragraph_id": "p009",
+          "start_char": 14,
+          "end_char": 39
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "夜晚：皮皮木屋卧室，床在左下，木窗在右上，叶纹窗帘，左侧暖灯；皮皮深蓝星星帽、黄帽球，暖黄毛毯、橙色胡萝卜玩偶。重要脸和动作放在上部，底部留字幕低细节区。",
+      "action": "细节中景：毛毯已柔软平展开，胡萝卜玩偶稳稳躺在平毯面，不画真实草地或变形。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_27.png",
+      "reference_manifest": "references/shot_27.json",
+      "image_status": "generated_visually_checked",
+      "actual_start_s": 204.52,
+      "actual_end_s": 212.68,
+      "speech_start_s": 204.68204133333333,
+      "speech_end_s": 212.12437433333332,
+      "visible_start_s": 204.04000000000002,
+      "visible_end_s": 213.16,
+      "visible_duration_s": 9.12
+    },
+    {
+      "id": 28,
+      "title": "一点点展开小被角",
+      "text": "还有一个小被角折在床边，皮皮用爪子把它一点一点展开。",
+      "source_ranges": [
+        {
+          "unit_id": "u022",
+          "paragraph_id": "p010",
+          "start_char": 0,
+          "end_char": 26
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "夜晚：皮皮木屋卧室，床在左下，木窗在右上，叶纹窗帘，左侧暖灯；皮皮深蓝星星帽、黄帽球，暖黄毛毯、橙色胡萝卜玩偶。重要脸和动作放在上部，底部留字幕低细节区。",
+      "action": "近中景：皮皮的小爪把床边折叠的一角暖黄毛毯轻轻展开，布边和爪子放在字幕区上方。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_28.png",
+      "reference_manifest": "references/shot_28.json",
+      "image_status": "generated_visually_checked",
+      "actual_start_s": 212.68,
+      "actual_end_s": 221.12,
+      "speech_start_s": 213.2560208333333,
+      "speech_end_s": 220.64152083333332,
+      "visible_start_s": 212.20000000000002,
+      "visible_end_s": 221.6,
+      "visible_duration_s": 9.4
+    },
+    {
+      "id": 29,
+      "title": "暖灯和窗外树影",
+      "text": "屋里的灯光很轻，窗外的树影很慢。",
+      "source_ranges": [
+        {
+          "unit_id": "u023",
+          "paragraph_id": "p010",
+          "start_char": 0,
+          "end_char": 16
+        }
+      ],
+      "characters": [],
+      "outfits": {},
+      "setting": "夜晚：皮皮木屋卧室，床在左下，木窗在右上，叶纹窗帘，左侧暖灯；皮皮深蓝星星帽、黄帽球，暖黄毛毯、橙色胡萝卜玩偶。重要脸和动作放在上部，底部留字幕低细节区。",
+      "action": "房间环境：左侧温暖小台灯与右上木窗、叶纹窗帘和蓝夜色树林，没人，无突出的月亮。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_29_v002.png",
+      "reference_manifest": "references/shot_29.json",
+      "image_status": "generated_visually_checked",
+      "actual_start_s": 221.12,
+      "actual_end_s": 226.32,
+      "speech_start_s": 221.5588125,
+      "speech_end_s": 225.88045766666664,
+      "visible_start_s": 220.64000000000001,
+      "visible_end_s": 226.79999999999998,
+      "visible_duration_s": 6.16
+    },
+    {
+      "id": 30,
+      "title": "森林里的小坡歇下来了",
+      "text": "白天爬过的小山坡已经留在了森林里，",
+      "source_ranges": [
+        {
+          "unit_id": "u024",
+          "paragraph_id": "p010",
+          "start_char": 0,
+          "end_char": 17
+        }
+      ],
+      "characters": [],
+      "outfits": {},
+      "setting": "夜晚：小木屋后方青草坡，橡树和白桦，坡路向右上延伸，左下远处小溪和红屋顶木屋；皮皮黄书包、蓝背带裤与蓝布鞋，栗栗灰绿背心和米色布包，团团暗赭围巾。",
+      "action": "同一青草坡夜色空景，柔灰蓝树林，远方木屋一点暖窗，坡路安静无人。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_30_v002.png",
+      "reference_manifest": "references/shot_30.json",
+      "image_status": "generated_visually_checked",
+      "actual_start_s": 226.32,
+      "actual_end_s": 231.52,
+      "speech_start_s": 226.77735416666667,
+      "speech_end_s": 231.32935383333333,
+      "visible_start_s": 225.84,
+      "visible_end_s": 232.0,
+      "visible_duration_s": 6.16
+    },
+    {
+      "id": 31,
+      "title": "今晚安心留在被窝里",
+      "text": "今晚，没有哪座小山需要皮皮再去翻越了。",
+      "source_ranges": [
+        {
+          "unit_id": "u024",
+          "paragraph_id": "p010",
+          "start_char": 17,
+          "end_char": 36
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "夜晚：皮皮木屋卧室，床在左下，木窗在右上，叶纹窗帘，左侧暖灯；皮皮深蓝星星帽、黄帽球，暖黄毛毯、橙色胡萝卜玩偶。重要脸和动作放在上部，底部留字幕低细节区。",
+      "action": "侧面中近景：皮皮舒适靠住枕头，被子已平，玩偶仍在身边，安静放松。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_31.png",
+      "reference_manifest": "references/shot_31.json",
+      "image_status": "generated_visually_checked",
+      "actual_start_s": 231.52,
+      "actual_end_s": 237.88,
+      "speech_start_s": 231.73322883333333,
+      "speech_end_s": 237.31014483333334,
+      "visible_start_s": 231.04000000000002,
+      "visible_end_s": 238.35999999999999,
+      "visible_duration_s": 7.32
+    },
+    {
+      "id": 32,
+      "title": "抱好玩偶放松呼吸",
+      "text": "皮皮放好长耳朵，抱住胡萝卜玩偶，深深地吸了一口气，又轻轻地呼出来。",
+      "source_ranges": [
+        {
+          "unit_id": "u025",
+          "paragraph_id": "p011",
+          "start_char": 0,
+          "end_char": 33
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "夜晚：皮皮木屋卧室，床在左下，木窗在右上，叶纹窗帘，左侧暖灯；皮皮深蓝星星帽、黄帽球，暖黄毛毯、橙色胡萝卜玩偶。重要脸和动作放在上部，底部留字幕低细节区。",
+      "action": "近景：两只垂耳舒展在枕头上，皮皮抱好胡萝卜玩偶，眼神柔和，静止地安顿身体。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_32.png",
+      "reference_manifest": "references/shot_32.json",
+      "image_status": "generated_visually_checked",
+      "actual_start_s": 237.88,
+      "actual_end_s": 248.6,
+      "speech_start_s": 238.43972916666667,
+      "speech_end_s": 247.9699365,
+      "visible_start_s": 237.4,
+      "visible_end_s": 249.07999999999998,
+      "visible_duration_s": 11.68
+    },
+    {
+      "id": 33,
+      "title": "把充实的一天轻轻放下",
+      "text": "小朋友，今天你也像皮皮一样，度过了充实又美好的一天吧。",
+      "source_ranges": [
+        {
+          "unit_id": "u026",
+          "paragraph_id": "p011",
+          "start_char": 0,
+          "end_char": 27
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "夜晚：皮皮木屋卧室，床在左下，木窗在右上，叶纹窗帘，左侧暖灯；皮皮深蓝星星帽、黄帽球，暖黄毛毯、橙色胡萝卜玩偶。重要脸和动作放在上部，底部留字幕低细节区。",
+      "action": "稍远的床边视角：皮皮与玩偶在温暖被窝里，书包和蓝布鞋在远处门边收好，暗示日间已结束。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_33.png",
+      "reference_manifest": "references/shot_33.json",
+      "image_status": "generated_visually_checked",
+      "actual_start_s": 248.6,
+      "actual_end_s": 257.64,
+      "speech_start_s": 249.23483333333334,
+      "speech_end_s": 256.99218683333334,
+      "visible_start_s": 248.12,
+      "visible_end_s": 258.12,
+      "visible_duration_s": 10.0
+    },
+    {
+      "id": 34,
+      "title": "让小床稳稳托住身体",
+      "text": "现在，把小脚伸平，把身体交给软软的小床。",
+      "source_ranges": [
+        {
+          "unit_id": "u027",
+          "paragraph_id": "p011",
+          "start_char": 0,
+          "end_char": 20
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "夜晚：皮皮木屋卧室，床在左下，木窗在右上，叶纹窗帘，左侧暖灯；皮皮深蓝星星帽、黄帽球，暖黄毛毯、橙色胡萝卜玩偶。重要脸和动作放在上部，底部留字幕低细节区。",
+      "action": "侧面稳定全身床景：皮皮平躺，脚在毯下放平，枕头托住头，玩偶在臂弯，脸与关键物件在上部。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_34.png",
+      "reference_manifest": "references/shot_34.json",
+      "image_status": "generated_visually_checked",
+      "actual_start_s": 257.64,
+      "actual_end_s": 265.2,
+      "speech_start_s": 258.2699791666667,
+      "speech_end_s": 264.5273326666667,
+      "visible_start_s": 257.15999999999997,
+      "visible_end_s": 265.68,
+      "visible_duration_s": 8.52
+    },
+    {
+      "id": 35,
+      "title": "小木屋的安静晚安",
+      "text": "今天的小山坡已经歇下来了，晚安。",
+      "source_ranges": [
+        {
+          "unit_id": "u028",
+          "paragraph_id": "p011",
+          "start_char": 0,
+          "end_char": 16
+        }
+      ],
+      "characters": [],
+      "outfits": {},
+      "setting": "夜晚：熟悉红顶木屋外景，树木与青草坡，窗里暖光，森林灰蓝夜色。",
+      "action": "宁静外景：木屋与窗灯、圆坡和树林，人物不出镜，供末句与约8秒尾声，末4秒渐暗。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_35.png",
+      "reference_manifest": "references/shot_35.json",
+      "image_status": "generated_visually_checked",
+      "actual_start_s": 265.2,
+      "actual_end_s": 278.72,
+      "speech_start_s": 265.8438125,
+      "speech_end_s": 270.51214583333336,
+      "visible_start_s": 264.71999999999997,
+      "visible_end_s": 278.72,
+      "visible_duration_s": 14.0
+    }
+  ],
+  "audio": "mix.wav",
+  "subtitles": "episode.ass",
+  "character_registry": "references/",
+  "fonts": [
+    {
+      "path": "fonts/NotoSans-Regular.ttf",
+      "sha256": "89c3c497f618fdaa0b2d1e98fef93582f28c71debd2c4a8cdf41f190ced2909d"
+    },
+    {
+      "path": "fonts/Noto-CJK-copyright.txt",
+      "sha256": "849f4ea9c214fa4ac3593b770c699f387534b11ce671264c1b10d85bdcb5997b"
+    },
+    {
+      "path": "fonts/NotoSansCJKsc-Bold.otf",
+      "sha256": "85c969dbb2f927c8dbbe440d5755b7c9a714f13a7a58339459df43cfff3583b3"
+    },
+    {
+      "path": "fonts/NotoSansCJKsc-Regular.otf",
+      "sha256": "82e9bdfd176ce68c51f6ff89ca7e2abae7fdb82b4591aa7338638598ae3c91c8"
+    },
+    {
+      "path": "fonts/Noto-Sans-copyright.txt",
+      "sha256": "075f91382875da1c4b491f1facf2586f55448705133264d98ce15cab6211b125"
+    }
+  ],
+  "validation": "checks/technical-report.json",
+  "delivery_directory": "/Users/ww/视频/Bedtime-Stories/Outputs/2026-11-11/ep004-v001",
+  "user_acceptance": "accepted_2026-11-12"
+}

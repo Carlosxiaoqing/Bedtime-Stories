@@ -1,0 +1,71 @@
+{
+  "text": "屋里的灯光很轻，窗外的树影很慢。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "595d63756b7598527563e46f06911c57358e96d68cee1da137c74ff095032754",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 4807500,
+      "text": "屋里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6077080,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7615410,
+      "duration": 5384580,
+      "text": "灯光"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13192500,
+      "duration": 3269160,
+      "text": "很"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16461660,
+      "duration": 4615410,
+      "text": "轻"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24730830,
+      "duration": 5576660,
+      "text": "窗外"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30307500,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31653750,
+      "duration": 5192500,
+      "text": "树影"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 37230830,
+      "duration": 3076660,
+      "text": "很"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 40307500,
+      "duration": 4422910,
+      "text": "慢"
+    }
+  ]
+}

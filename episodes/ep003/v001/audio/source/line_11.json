@@ -1,0 +1,17 @@
+{
+  "text": "皮皮闭上眼睛，把爪子放松。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "edge_tts": "7.3.1",
+  "fingerprint": "9c799811dc6575f317a9eb18f3371df6c7a9db34b8dff8641977fb361ec7e9a7",
+  "boundaries": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 1000000,
+      "duration": 47576920,
+      "text": "皮皮闭上眼睛，把爪子放松。"
+    }
+  ]
+}

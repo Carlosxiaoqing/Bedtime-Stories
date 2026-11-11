@@ -1,0 +1,255 @@
+{
+  "schema_version": 2,
+  "script_version": "v2",
+  "id": "ep044",
+  "episode": 44,
+  "title": "清晨的两次招呼",
+  "cover_title": "两次招呼",
+  "category": "自然",
+  "theme": "作息不同也能约到一起",
+  "setting": "晨雾里的老榆树下、老榆树枝上的歇脚处",
+  "viewpoint_character": "圆圆",
+  "guest": "芽芽、圆圆",
+  "character_names": [
+    "芽芽",
+    "圆圆",
+    "皮皮"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "按晓晓-35%实际口播、停顿和约8秒尾声确定",
+  "cn_characters": 265,
+  "initial_duration_budget_s": 105.9,
+  "shots": [
+    {
+      "id": 1,
+      "title": "榆树底下晨雾轻淡，芽芽皮皮带着小篮走来",
+      "location": "晨雾里的老榆树下",
+      "character_names": [
+        "芽芽",
+        "圆圆",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "芽芽清晨想给圆圆送几片新叶。",
+        "她第一次来，枝头那团圆影正睡得香。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "晨雾里的老榆树下。竖幅远景交代空间和前后层次。画面：榆树底下晨雾轻淡，芽芽皮皮带着小篮走来。入镜角色：芽芽、圆圆、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.42,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "皮皮和芽芽在榆树下看低枝，篮子放在两人之间",
+      "location": "晨雾里的老榆树下",
+      "character_names": [
+        "芽芽",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "皮皮差点喊他下来。",
+        "芽芽把篮子放轻，说圆圆夜里替大家看书，早上才回来歇着。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "晨雾里的老榆树下。平视中景突出人物姿态和相互位置。画面：皮皮和芽芽在榆树下看低枝，篮子放在两人之间。入镜角色：芽芽、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.67,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "芽芽在榆树根旁放一片圆叶压住篮柄",
+      "location": "晨雾里的老榆树下",
+      "character_names": [
+        "芽芽"
+      ],
+      "narration_lines": [
+        "芽芽在篮上压一片叶子。",
+        "等圆圆醒来，看见这片叶子，就知道有朋友来过。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "晨雾里的老榆树下。近景突出手边动作或道具状态。画面：芽芽在榆树根旁放一片圆叶压住篮柄。入镜角色：芽芽。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "圆圆醒来从低枝看见树下的小篮和圆叶",
+      "location": "老榆树枝上的歇脚处",
+      "character_names": [
+        "圆圆"
+      ],
+      "narration_lines": [
+        "太阳偏过去一点，圆圆醒了。",
+        "他找到篮子，还在里面看见芽芽留下的一根细草。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "老榆树枝上的歇脚处。平视中景突出人物姿态和相互位置。画面：圆圆醒来从低枝看见树下的小篮和圆叶。入镜角色：圆圆。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "圆圆用翅尖把细草与另一片小叶交叉摆好",
+      "location": "老榆树枝上的歇脚处",
+      "character_names": [
+        "圆圆"
+      ],
+      "narration_lines": [
+        "他给芽芽也回了一声招呼。",
+        "细草原来横着，现在多一片叶子，成了一个小十字。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "老榆树枝上的歇脚处。近景突出手边动作或道具状态。画面：圆圆用翅尖把细草与另一片小叶交叉摆好。入镜角色：圆圆。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "太阳落低后，芽芽和皮皮从另一条路走回榆树下",
+      "location": "晨雾里的老榆树下",
+      "character_names": [
+        "芽芽",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "傍晚，芽芽沿小路再来一趟。",
+        "篮子旁的细草变了个样，她一看就笑了。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "晨雾里的老榆树下。侧面中景展示动作方向与相邻环境。画面：太阳落低后，芽芽和皮皮从另一条路走回榆树下。入镜角色：芽芽、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.11,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "圆圆停在低枝，芽芽伸手接篮，皮皮在旁",
+      "location": "晨雾里的老榆树下",
+      "character_names": [
+        "芽芽",
+        "圆圆",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "圆圆刚好从枝头下来。",
+        "原来两次招呼中间隔了一整天，他们还是碰了面。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "晨雾里的老榆树下。平视中景突出人物姿态和相互位置。画面：圆圆停在低枝，芽芽伸手接篮，皮皮在旁。入镜角色：芽芽、圆圆、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "芽芽一手托篮一手向圆圆指草地，皮皮沿树根转身",
+      "location": "晨雾里的老榆树下",
+      "character_names": [
+        "芽芽",
+        "圆圆",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "他们约好，以后傍晚在榆树下见。",
+        "清晨想说的话，也可以先留在篮里。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "晨雾里的老榆树下。侧面中景展示动作方向与相邻环境。画面：芽芽一手托篮一手向圆圆指草地，皮皮沿树根转身。入镜角色：芽芽、圆圆、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.11,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "低枝下挂着空篮，圆叶和细草贴在篮沿",
+      "location": "老榆树枝上的歇脚处",
+      "character_names": [],
+      "narration_lines": [
+        "圆圆去值夜时，小篮还挂在枝头。",
+        "它替两位朋友，稳稳接住了一早一晚的招呼。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "老榆树枝上的歇脚处。侧面中景展示动作方向与相邻环境。画面：低枝下挂着空篮，圆叶和细草贴在篮沿。入镜角色：无，仅画环境或道具。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 18.41,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v2剧本与九镜已编写，配音、插画、封面、字幕及视频待制作",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/结构化JSON/ep044.json",
+    "scope": "按用户反馈重写人物互动、故事事件、场景及九镜",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始"
+  }
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "shot": 1,
+    "prompt": "Use case: illustration-story\nAsset type: portrait children's bedtime story illustration, episode 003, shot 01 (the first scene anchor for eight original companion illustrations)\nInput images: Image 1 at /Users/ww/视频/Bedtime-Stories/episodes/ep001/v005/images/shot_01.png is a reference for Pipi's identity, star nightcap, carrot plush, cottage bedroom layout and watercolor style only. Create a new scene; do not reproduce its pose or composition.\nScene/backdrop: the same cozy small wooden cottage bedroom at night, wooden bed on the left/lower area, leafy curtained window at upper right showing a quiet blue night, warm amber bedside lamp from lower left.\nSubject: Pipi, the same small round-faced gray rabbit with pink nose, long naturally drooping ears, navy nightcap with tiny pale yellow stars and a yellow pompom, tucked under a warm yellow blanket. He gently pats a small cream pillow; its top rises into one soft, clearly visible rounded mound, like a little cloud. Orange carrot plush nearby.\nStyle/medium: full-bleed hand-painted watercolor children's picture book, fine paper grain, rounded simple forms, muted warm cream, amber, sage and dusty night blue; soft low contrast.\nComposition/framing: one stable medium view; pillow mound and Pipi's calm face clearly visible in upper 65%; preserve the bedroom layout and left bed/right window orientation. Leave the lower 30% as simple, low-detail yellow blanket for later subtitles. Portrait 9:16.\nLighting/mood: quiet, cozy, sleepy, warm bedside glow balanced with cool moonlit window.\nConstraints: single scene and a settled readable pose; anatomically simple rabbit paws and two ears; no extra characters; no generated text, letters, captions, symbols, watermarks, borders or collage; no animation/motion blur; no zoom, 3D plastic, photorealism, neon or scary expression.",
+    "selected": true,
+    "reference": [
+      "episodes/ep001/v005/images/shot_01.png"
+    ]
+  },
+  {
+    "shot": 2,
+    "prompt": "Use case: illustration-story\nAsset type: episode 003 shot 02 original portrait still\nInput images: Image 1: Pipi identity, navy star nightcap, room layout and watercolor style only. Do not reuse its pose or framing.\nPrimary request: a distinctly tighter side-profile test of the pillow. Pipi's one long ear lies gently across the raised edge of his cream pillow; the pillow mound is visibly a little too high beneath his head. His eye is softly open and thoughtful, not distressed. Crop close at mattress height so the ear and pillow are the main clear shapes, with only a small part of the same cottage window and yellow blanket visible. Leave lower 30% low detail for later subtitles.\nStyle: full-bleed hand-painted watercolor children's book, fine paper texture, muted cream, amber, sage and dusty blue, rounded simple features. Portrait 9:16.\nConstraints: same small gray rabbit with pink nose and drooping ears, navy cap with tiny yellow stars and yellow pompom; one stable pose, anatomically simple ear, no split action, no text, no pocket on the cap, no moonlight patch, no watermark, collage, border, 3D, photorealism, neon, motion blur or camera movement.",
+    "selected": true,
+    "reference": [
+      "images/shot_01.png"
+    ]
+  },
+  {
+    "shot": 3,
+    "prompt": "Use case: illustration-story\nAsset type: episode 003 shot 03 original still illustration\nInput images: Image 1: character identity and watercolor/room style reference only.\nCreate ONE new portrait 9:16 full-bleed watercolor children's picture-book illustration for bedtime story episode 003. Use the attached image only to keep the same Pipi identity (small gray round-faced rabbit, pink nose, long naturally drooping ears, navy star nightcap with yellow pompom), cottage bedroom layout, and hand-painted watercolor style. The story-specific setup in the reference is not part of this story: do not include any pocket on the nightcap or moonlight patch. Same wooden bed on the left/lower side, curtained window upper right, warm lamp lower left, cream pillow, yellow blanket, orange carrot plush. Use one calm stable pose, muted amber/cream/sage/dusty night-blue palette, fine paper grain, gentle contrast. Keep face and key action in upper two-thirds and lower 30% simple low-detail blanket for later subtitles. No text, letters, marks, watermark, border, collage, extra characters, 3D, photorealism, neon, motion blur, camera movement, or frightening expression.\nShot 03, medium close view: after turning the small cream pillow halfway, Pipi slowly loosens and fluffs its filling with his two front paws. Show the pillow resting securely on the yellow blanket and Pipi's paws pressing its side gently. A settled moment of careful adjusting, no floating cotton.",
+    "selected": true,
+    "reference": [
+      "images/shot_01.png"
+    ]
+  },
+  {
+    "shot": 4,
+    "prompt": "Use case: illustration-story\nAsset type: episode 003 shot 04 original still illustration\nInput images: Image 1: character identity and watercolor/room style reference only.\nCreate ONE new portrait 9:16 full-bleed watercolor children's picture-book illustration for bedtime story episode 003. Use the attached image only to keep the same Pipi identity (small gray round-faced rabbit, pink nose, long naturally drooping ears, navy star nightcap with yellow pompom), cottage bedroom layout, and hand-painted watercolor style. The story-specific setup in the reference is not part of this story: do not include any pocket on the nightcap or moonlight patch. Same wooden bed on the left/lower side, curtained window upper right, warm lamp lower left, cream pillow, yellow blanket, orange carrot plush. Use one calm stable pose, muted amber/cream/sage/dusty night-blue palette, fine paper grain, gentle contrast. Keep face and key action in upper two-thirds and lower 30% simple low-detail blanket for later subtitles. No text, letters, marks, watermark, border, collage, extra characters, 3D, photorealism, neon, motion blur, camera movement, or frightening expression.\nShot 04, quiet window detail from the same bedroom: look through the familiar wooden crossbar window at the crescent moon and one real thin pale cloud resting beside it in a deep dusty-blue night sky. The cloud is a soft natural cloud, not a face or magical puff. Include just a little sage curtain and warm wooden frame as location clues. No rabbit is needed in this detail.",
+    "selected": true,
+    "reference": [
+      "images/shot_01.png"
+    ]
+  },
+  {
+    "shot": 5,
+    "prompt": "Use case: illustration-story\nAsset type: episode 003 shot 05 original still illustration\nInput images: Image 1: character identity and watercolor/room style reference only.\nCreate ONE new portrait 9:16 full-bleed watercolor children's picture-book illustration for bedtime story episode 003. Use the attached image only to keep the same Pipi identity (small gray round-faced rabbit, pink nose, long naturally drooping ears, navy star nightcap with yellow pompom), cottage bedroom layout, and hand-painted watercolor style. The story-specific setup in the reference is not part of this story: do not include any pocket on the nightcap or moonlight patch. Same wooden bed on the left/lower side, curtained window upper right, warm lamp lower left, cream pillow, yellow blanket, orange carrot plush. Use one calm stable pose, muted amber/cream/sage/dusty night-blue palette, fine paper grain, gentle contrast. Keep face and key action in upper two-thirds and lower 30% simple low-detail blanket for later subtitles. No text, letters, marks, watermark, border, collage, extra characters, 3D, photorealism, neon, motion blur, camera movement, or frightening expression.\nShot 05, medium bedroom view: Pipi looks toward the upper-right window and smiles softly at the single thin real cloud beside the crescent moon. His face and gaze are clear; the cream pillow remains nearby on the bed, with the carrot plush close to it. His expression shows gentle recognition that the cloud is finding its place. Calm, no thought bubble or visual metaphor.",
+    "selected": true,
+    "reference": [
+      "images/shot_01.png"
+    ]
+  },
+  {
+    "shot": 6,
+    "prompt": "Use case: illustration-story\nAsset type: episode 003 shot 06 original still illustration\nInput images: Image 1: same-character and watercolor bedroom reference only.\nCreate ONE original portrait 9:16 still watercolor illustration for children's bedtime story episode 003. Use Image 1 only as a reference for the same Pipi identity (small gray round-faced rabbit, pink nose, naturally drooping long ears, navy star nightcap with yellow pompom), cottage bedroom layout and soft watercolor style. No nightcap pocket and no glowing moon patch: neither is part of this story. Keep the same left-bed/right-upper-window/amber-lamp orientation, cream pillow, yellow blanket and orange carrot plush. Muted amber, cream, sage and dusty night blue, fine paper grain, soft simple rounded forms. Face and important action in upper two-thirds, lower 30% low-detail yellow blanket for subtitles. Single settled scene, no text, letters, watermark, border, collage, extra character, motion lines, 3D, photorealism, neon or frightening expression.\nShot 06, tender close view: Pipi has nudged the small cream pillow inward a little; his head now rests securely and naturally while both long ears drape down without folding awkwardly. Calm steady eyes, gentle paws near the pillow edge. Show a comfortable stable fit and keep the warm lamp direction consistent.",
+    "selected": true,
+    "reference": [
+      "images/shot_01.png"
+    ]
+  },
+  {
+    "shot": 7,
+    "prompt": "Use case: illustration-story\nAsset type: episode 003 shot 07 original still illustration\nInput images: Image 1: same-character and watercolor bedroom reference only.\nCreate ONE original portrait 9:16 still watercolor illustration for children's bedtime story episode 003. Use Image 1 only as a reference for the same Pipi identity (small gray round-faced rabbit, pink nose, naturally drooping long ears, navy star nightcap with yellow pompom), cottage bedroom layout and soft watercolor style. No nightcap pocket and no glowing moon patch: neither is part of this story. Keep the same left-bed/right-upper-window/amber-lamp orientation, cream pillow, yellow blanket and orange carrot plush. Muted amber, cream, sage and dusty night blue, fine paper grain, soft simple rounded forms. Face and important action in upper two-thirds, lower 30% low-detail yellow blanket for subtitles. Single settled scene, no text, letters, watermark, border, collage, extra character, motion lines, 3D, photorealism, neon or frightening expression.\nShot 07, intimate close-up from slightly above: Pipi's soft gray cheek rests into the cream pillow, with the pillow gently compressing under his weight. His eyes are peaceful and nearly closed; long ears relax naturally beside his head. This is a quiet supported pose, no literal leaf and no symbolic overlay.",
+    "selected": true,
+    "reference": [
+      "images/shot_01.png"
+    ]
+  },
+  {
+    "shot": 8,
+    "prompt": "Use case: illustration-story\nAsset type: episode 003 shot 08 original still illustration\nInput images: Image 1: same-character and watercolor bedroom reference only.\nCreate ONE original portrait 9:16 still watercolor illustration for children's bedtime story episode 003. Use Image 1 only as a reference for the same Pipi identity (small gray round-faced rabbit, pink nose, naturally drooping long ears, navy star nightcap with yellow pompom), cottage bedroom layout and soft watercolor style. No nightcap pocket and no glowing moon patch: neither is part of this story. Keep the same left-bed/right-upper-window/amber-lamp orientation, cream pillow, yellow blanket and orange carrot plush. Muted amber, cream, sage and dusty night blue, fine paper grain, soft simple rounded forms. Face and important action in upper two-thirds, lower 30% low-detail yellow blanket for subtitles. Single settled scene, no text, letters, watermark, border, collage, extra character, motion lines, 3D, photorealism, neon or frightening expression.\nShot 08, peaceful bedtime close view: Pipi is now asleep on the cream pillow, eyes gently closed, paws relaxed beneath the yellow blanket. The softly rounded pillow supports his cheek; the carrot plush rests near his face. Through the small visible window, the crescent moon remains and the cloud is now far away and tiny. Dimmer warm light, calm lower blanket.",
+    "selected": true,
+    "reference": [
+      "images/shot_01.png"
+    ]
+  },
+  {
+    "shot": 9,
+    "prompt": "Use case: illustration-story\nAsset type: episode 003 shot 09 original portrait still\nInput images: Image 1: Pipi identity and watercolor bedroom style. Image 2: sleeping expression and relaxed pose only; do not copy the close framing.\nScene: a spacious vertical wide view of the familiar small wooden cottage bedroom at night, wooden bed left, crossbar window upper right with crescent moon and distant thin cloud, warm amber lamp lower left, muted sage curtains, fine paper watercolor. Pipi sleeps under the yellow blanket with his cheek settled on the softly rounded cream pillow and orange carrot plush beside him.\nSubject detail: Pipi is unmistakably asleep: both eyes completely closed as simple curved eyelids, no visible iris or pupils, relaxed paws and slack ears. Quiet settled face, no smile that makes him look awake.\nComposition: wide final room view with abundant calm yellow blanket in lower third and the full relationship of bed/window/lamp visible. Portrait 9:16, gentle low contrast, no movement.\nConstraints: no text, letters, watermark, border, collage, extra characters, cap pocket, glowing moon patch, 3D, photorealism, neon or frightening expression.",
+    "selected": true,
+    "reference": [
+      "images/shot_01.png"
+    ]
+  }
+]

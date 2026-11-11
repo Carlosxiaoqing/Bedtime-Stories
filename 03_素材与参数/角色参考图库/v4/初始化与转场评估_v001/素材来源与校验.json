@@ -1,0 +1,242 @@
+{
+  "mode": "built-in image_gen",
+  "generated_assets": 13,
+  "assets": [
+    {
+      "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/diandian_identity_v001.png",
+      "sha256": "9a8e8bcdf1c713bed8b489f0752bd1ea8e5b0b3c12f0dc0ed87bb21e02137a2d",
+      "size": [
+        1216,
+        1294
+      ],
+      "format": "PNG",
+      "source": "built-in image_gen",
+      "review": "assistant_visually_reviewed",
+      "user_acceptance": "not_recorded",
+      "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/diandian.json",
+      "reference_inputs": [
+        "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+      ]
+    },
+    {
+      "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/ensemble_A_scale_v001.png",
+      "sha256": "5aecb3e359c8306c7a7a63abaea5351ebdce65cee052d98b7beb5f7b1182168a",
+      "size": [
+        1774,
+        887
+      ],
+      "format": "PNG",
+      "source": "built-in image_gen",
+      "review": "assistant_visually_reviewed",
+      "user_acceptance": "not_recorded",
+      "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/ensemble_A.json",
+      "reference_inputs": [
+        "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+        "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png",
+        "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/tuantuan_identity_v001.png",
+        "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/rongrong_identity_v001.png",
+        "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/diandian_identity_v001.png"
+      ]
+    },
+    {
+      "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/ensemble_B_scale_v001.png",
+      "sha256": "678990ed018a4d7af97bafb57e5df180414f89bb61aba0ee35b49e223cda2c35",
+      "size": [
+        1774,
+        887
+      ],
+      "format": "PNG",
+      "source": "built-in image_gen",
+      "review": "assistant_visually_reviewed",
+      "user_acceptance": "not_recorded",
+      "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/ensemble_B.json",
+      "reference_inputs": [
+        "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+        "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/yaya_identity_v001.png",
+        "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/huihui_identity_v001.png",
+        "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/mimi_identity_v001.png",
+        "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/yuanyuan_identity_v001.png"
+      ]
+    },
+    {
+      "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/goat_teacher_identity_v001.png",
+      "sha256": "88bf3c92e0e316fa0219f48ef4ef6364f5b17bce4f63ddf66a712049a4e9b1c9",
+      "size": [
+        1216,
+        1294
+      ],
+      "format": "PNG",
+      "source": "built-in image_gen",
+      "review": "assistant_visually_reviewed",
+      "user_acceptance": "not_recorded",
+      "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/goat_teacher.json",
+      "reference_inputs": [
+        "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+      ]
+    },
+    {
+      "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/huihui_identity_v001.png",
+      "sha256": "f0ef39bb4b2e5b00a2f3717e90094bf5fdebecaec68b16efa2663bf5017beaaf",
+      "size": [
+        1216,
+        1294
+      ],
+      "format": "PNG",
+      "source": "built-in image_gen",
+      "review": "assistant_visually_reviewed",
+      "user_acceptance": "not_recorded",
+      "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/huihui.json",
+      "reference_inputs": [
+        "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+      ]
+    },
+    {
+      "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png",
+      "sha256": "41b97e6934d4ec71687b09c479370d029743a367d90cbe990ac51344ed0e54de",
+      "size": [
+        1216,
+        1294
+      ],
+      "format": "PNG",
+      "source": "built-in image_gen",
+      "review": "assistant_visually_reviewed",
+      "user_acceptance": "not_recorded",
+      "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/lili.json",
+      "reference_inputs": [
+        "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+      ]
+    },
+    {
+      "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/mimi_identity_v001.png",
+      "sha256": "4702a01a1edab9d2f2982800a9d883d9a645a14e34224b6bf9297c3983822d5f",
+      "size": [
+        1216,
+        1294
+      ],
+      "format": "PNG",
+      "source": "built-in image_gen",
+      "review": "assistant_visually_reviewed",
+      "user_acceptance": "not_recorded",
+      "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/mimi.json",
+      "reference_inputs": [
+        "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+      ]
+    },
+    {
+      "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+      "sha256": "6f754c72b9fa7281790bb1fce42bb18701ea055446fda2cdec7ae58b92232674",
+      "size": [
+        1216,
+        1293
+      ],
+      "format": "PNG",
+      "source": "built-in image_gen",
+      "review": "assistant_visually_reviewed",
+      "user_acceptance": "not_recorded",
+      "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/pipi.json",
+      "reference_inputs": [
+        "/Users/ww/视频/Bedtime-Stories/episodes/ep001/v005/images/shot_01.png"
+      ]
+    },
+    {
+      "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+      "sha256": "30cb3e6f07e625bbe629ac7ff37d2fa0819de8c3aff1e0305d01447cefd85897",
+      "size": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "source": "built-in image_gen",
+      "review": "assistant_visually_reviewed",
+      "user_acceptance": "not_recorded",
+      "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/pipi_wardrobe.json",
+      "reference_inputs": [
+        "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+      ]
+    },
+    {
+      "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/rongrong_identity_v001.png",
+      "sha256": "9b52ba85b675e5186a9240b1dfc1e080d6fcaae214ad1011226b41ddcf7d2706",
+      "size": [
+        1216,
+        1294
+      ],
+      "format": "PNG",
+      "source": "built-in image_gen",
+      "review": "assistant_visually_reviewed",
+      "user_acceptance": "not_recorded",
+      "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/rongrong.json",
+      "reference_inputs": [
+        "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+      ]
+    },
+    {
+      "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/tuantuan_identity_v001.png",
+      "sha256": "27a34b5b38a1e7897039a3d3cffa4bbcc3617ddb47432b3d1e8c4f80a88e11ef",
+      "size": [
+        1216,
+        1294
+      ],
+      "format": "PNG",
+      "source": "built-in image_gen",
+      "review": "assistant_visually_reviewed",
+      "user_acceptance": "not_recorded",
+      "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/tuantuan.json",
+      "reference_inputs": [
+        "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+      ]
+    },
+    {
+      "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/yaya_identity_v001.png",
+      "sha256": "1d1fb19b6e8353b9cc8478600a5dce0fa01edf53948da6760ea870ebd904ea07",
+      "size": [
+        1216,
+        1294
+      ],
+      "format": "PNG",
+      "source": "built-in image_gen",
+      "review": "assistant_visually_reviewed",
+      "user_acceptance": "not_recorded",
+      "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/yaya.json",
+      "reference_inputs": [
+        "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+      ]
+    },
+    {
+      "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/yuanyuan_identity_v001.png",
+      "sha256": "2a00c4d55dd181248afd91d4eafd245364c8732eefba2c57ae5e692453dba018",
+      "size": [
+        1216,
+        1294
+      ],
+      "format": "PNG",
+      "source": "built-in image_gen",
+      "review": "assistant_visually_reviewed",
+      "user_acceptance": "not_recorded",
+      "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/yuanyuan.json",
+      "reference_inputs": [
+        "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+      ]
+    }
+  ],
+  "assistant_visual_notes": {
+    "pipi": "与001身份比较：圆脸、粉鼻、垂耳、星帽一致；无帽和侧面可识别。",
+    "lili": "四视图保持浅棕脸、圆润深棕背刺及灰绿背心，无兔耳或星帽。",
+    "tuantuan": "四视图保留奶油胸、圆耳、大卷尾、暗赭围巾，物种可辨。",
+    "rongrong": "圆耳、米色口鼻、宽体与深绿马甲一致；体型由场景比例规则约束。",
+    "diandian": "小眼睛、淡粉鼻、短爪和米色围兜一致，与大耳长尾的米米区分。",
+    "yaya": "四足鹿形、无鹿角、奶油斑点、绿围巾一致；斑点以身份图为准，不任意改变。",
+    "huihui": "脸中央奶油中线与柔灰双侧纹、深蓝背心一致，不使用高对比黑脸。",
+    "mimi": "大圆耳、细长尾、灰紫围裙一致，保留相对较小体型。",
+    "yuanyuan": "圆羽毛身体、短喙、深色翼缘一致，无衣服，与猫头鹰阿姨分开。",
+    "goat_teacher": "成人山羊的新设计：奶油毛、短弯角、侧垂耳、小胡须、绿开衫和棕裤，四视图一致。"
+  },
+  "user_acceptance": "not_recorded",
+  "failed_attempts": [
+    {
+      "request": "nine individual references in one call",
+      "result": "rejected before generation; tool supports at most five reference paths",
+      "resolution": "two successful five-character groups sharing Pipi"
+    }
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "schema_version": 2,
+  "script_version": "v2",
+  "id": "ep084",
+  "episode": 84,
+  "title": "冰面下的一串小泡",
+  "cover_title": "冰下小泡",
+  "category": "自然",
+  "theme": "看不清时可以从安全的地方慢慢观察",
+  "setting": "白湾浅池的带栏木桥、池边的观察屋",
+  "viewpoint_character": "雪团",
+  "guest": "雪团、沐沐",
+  "character_names": [
+    "雪团",
+    "沐沐",
+    "皮皮"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "按晓晓-35%实际口播、停顿和约8秒尾声确定",
+  "cn_characters": 269,
+  "initial_duration_budget_s": 107.11,
+  "shots": [
+    {
+      "id": 1,
+      "title": "薄冰浅池上横跨低木桥，雪团皮皮沐沐站在栏内",
+      "location": "白湾浅池的带栏木桥",
+      "character_names": [
+        "雪团",
+        "沐沐",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "白湾的小池结了薄冰。",
+        "雪团从桥上瞧见冰下有一串泡泡，好像还在往上走。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "白湾浅池的带栏木桥。竖幅远景交代空间和前后层次。画面：薄冰浅池上横跨低木桥，雪团皮皮沐沐站在栏内。入镜角色：雪团、沐沐、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.04,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "从雪团背后看一串由大到小的白泡停在冰内",
+      "location": "白湾浅池的带栏木桥",
+      "character_names": [
+        "雪团",
+        "沐沐"
+      ],
+      "narration_lines": [
+        "沐沐等了一会儿，最大的那颗没有动。",
+        "她请皮皮找一处能一直对照的地方。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "越肩构图同时看见观察者与目标",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "白湾浅池的带栏木桥。越肩构图同时看见观察者与目标。画面：从雪团背后看一串由大到小的白泡停在冰内。入镜角色：雪团、沐沐。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.04,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "皮皮把手指停在栏杆木节旁，木节与下方最大气泡对齐",
+      "location": "白湾浅池的带栏木桥",
+      "character_names": [
+        "皮皮"
+      ],
+      "narration_lines": [
+        "皮皮选中栏杆的一处木节。",
+        "从那儿看，大泡始终对着同一个小点。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "白湾浅池的带栏木桥。近景突出手边动作或道具状态。画面：皮皮把手指停在栏杆木节旁，木节与下方最大气泡对齐。入镜角色：皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 9.79,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "三位沿桥内侧换站位，冰下气泡与远石的重叠关系改变",
+      "location": "白湾浅池的带栏木桥",
+      "character_names": [
+        "雪团",
+        "沐沐",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "他们沿栏走几步。",
+        "泡泡看起来换了地方，其实是他们和栏杆的位置变了。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "白湾浅池的带栏木桥。侧面中景展示动作方向与相邻环境。画面：三位沿桥内侧换站位，冰下气泡与远石的重叠关系改变。入镜角色：雪团、沐沐、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "观察屋桌上并排两幅图，同一泡串画在两个观看位置",
+      "location": "池边的观察屋",
+      "character_names": [
+        "雪团",
+        "沐沐",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "到观察屋后，雪团把两次的样子都画下来。",
+        "沐沐用细线连起最大的那一颗。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "俯视呈现平面上的物件和路线",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "池边的观察屋。俯视呈现平面上的物件和路线。画面：观察屋桌上并排两幅图，同一泡串画在两个观看位置。入镜角色：雪团、沐沐、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.04,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "雪团把两张画转向同一侧，泡泡大小顺序一致",
+      "location": "池边的观察屋",
+      "character_names": [
+        "雪团"
+      ],
+      "narration_lines": [
+        "雪团转了转纸，两串泡泡果然一样大。",
+        "他这才知道，冰里那串一直在那里。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "池边的观察屋。近景突出手边动作或道具状态。画面：雪团把两张画转向同一侧，泡泡大小顺序一致。入镜角色：雪团。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "三位回桥栏边，皮皮指另一条更细的白点",
+      "location": "白湾浅池的带栏木桥",
+      "character_names": [
+        "雪团",
+        "沐沐",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "回到桥上，皮皮又找到一串更小的。",
+        "这次他们没走动，看看它是不是真的会上来。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "白湾浅池的带栏木桥。平视中景突出人物姿态和相互位置。画面：三位回桥栏边，皮皮指另一条更细的白点。入镜角色：雪团、沐沐、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.67,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "三位在栏内安静站着，薄冰保持完整，远处天色变淡",
+      "location": "白湾浅池的带栏木桥",
+      "character_names": [
+        "雪团",
+        "沐沐",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "等了一小会儿，小泡仍安静地停着。",
+        "雪团说，今天知道的，已经比来时多一点。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "白湾浅池的带栏木桥。侧面中景展示动作方向与相邻环境。画面：三位在栏内安静站着，薄冰保持完整，远处天色变淡。入镜角色：雪团、沐沐、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.04,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "无脚印的薄冰下两串圆泡，木栏影斜过一角",
+      "location": "白湾浅池的带栏木桥",
+      "character_names": [],
+      "narration_lines": [
+        "日头越过木桥，冰面亮了一层。",
+        "两串小泡不用再往上走，也像排成了好看的两条路。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "白湾浅池的带栏木桥。近景突出手边动作或道具状态。画面：无脚印的薄冰下两串圆泡，木栏影斜过一角。入镜角色：无，仅画环境或道具。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 19.03,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v2剧本与九镜已编写，配音、插画、封面、字幕及视频待制作",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/结构化JSON/ep084.json",
+    "scope": "按用户反馈重写人物互动、故事事件、场景及九镜",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始"
+  }
+}

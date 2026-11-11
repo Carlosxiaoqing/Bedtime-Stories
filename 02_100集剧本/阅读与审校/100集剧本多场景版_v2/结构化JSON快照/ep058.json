@@ -1,0 +1,268 @@
+{
+  "schema_version": 2,
+  "script_version": "v2",
+  "id": "ep058",
+  "episode": 58,
+  "title": "舞步里的一个空拍",
+  "cover_title": "舞步空拍",
+  "category": "社区",
+  "theme": "参与可以有不同方式",
+  "setting": "长耳街舞蹈房边席、舞蹈房木地板中央",
+  "viewpoint_character": "梨梨",
+  "guest": "梨梨、斑斑、桃桃",
+  "character_names": [
+    "梨梨",
+    "斑斑",
+    "桃桃",
+    "皮皮"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "按晓晓-35%实际口播、停顿和约8秒尾声确定",
+  "cn_characters": 273,
+  "initial_duration_budget_s": 108.38,
+  "shots": [
+    {
+      "id": 1,
+      "title": "舞蹈房中桃桃和皮皮站点位，梨梨靠边握布带",
+      "location": "长耳街舞蹈房边席",
+      "character_names": [
+        "梨梨",
+        "斑斑",
+        "桃桃",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "社区学跳一支转圈舞。",
+        "梨梨转半圈就有点晕，试了两回，坐到门边。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街舞蹈房边席。竖幅远景交代空间和前后层次。画面：舞蹈房中桃桃和皮皮站点位，梨梨靠边握布带。入镜角色：梨梨、斑斑、桃桃、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 9.79,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "桃桃坐到她旁边，梨梨两手把布带放在膝上",
+      "location": "长耳街舞蹈房边席",
+      "character_names": [
+        "梨梨",
+        "桃桃"
+      ],
+      "narration_lines": [
+        "桃桃问她想不想歇一会儿。",
+        "梨梨说想留在这里，只是不想再连着转了。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街舞蹈房边席。平视中景突出人物姿态和相互位置。画面：桃桃坐到她旁边，梨梨两手把布带放在膝上。入镜角色：梨梨、桃桃。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.42,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "斑斑走三步停住，皮皮桃桃分站两侧，看向边席",
+      "location": "舞蹈房木地板中央",
+      "character_names": [
+        "斑斑",
+        "桃桃",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "斑斑想起音乐中间有一拍空着。",
+        "他走三步停一下，把手朝边席伸过去。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "舞蹈房木地板中央。侧面中景展示动作方向与相邻环境。画面：斑斑走三步停住，皮皮桃桃分站两侧，看向边席。入镜角色：斑斑、桃桃、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.42,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "梨梨将浅绿布带举到肩高，脚仍安稳放地",
+      "location": "长耳街舞蹈房边席",
+      "character_names": [
+        "梨梨"
+      ],
+      "narration_lines": [
+        "梨梨举起布带，接住那一个空拍。",
+        "她发现坐着也能把带子画成一个小弯。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街舞蹈房边席。近景突出手边动作或道具状态。画面：梨梨将浅绿布带举到肩高，脚仍安稳放地。入镜角色：梨梨。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "中央三位正转过半圈，梨梨在左侧靠边举带",
+      "location": "舞蹈房木地板中央",
+      "character_names": [
+        "梨梨",
+        "斑斑",
+        "桃桃",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "他们再跳一遍。",
+        "转到梨梨那边时，三个人停一下，等布带从左边走到右边。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "舞蹈房木地板中央。平视中景突出人物姿态和相互位置。画面：中央三位正转过半圈，梨梨在左侧靠边举带。入镜角色：梨梨、斑斑、桃桃、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "木地板上三道弯步与边席之间留出通道",
+      "location": "舞蹈房木地板中央",
+      "character_names": [
+        "梨梨",
+        "斑斑",
+        "桃桃",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "下一遍，梨梨自己站起来走了两步，转圈时又坐下。",
+        "大家早就给她留好了位置。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "俯视呈现平面上的物件和路线",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "舞蹈房木地板中央。俯视呈现平面上的物件和路线。画面：木地板上三道弯步与边席之间留出通道。入镜角色：梨梨、斑斑、桃桃、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "梨梨缓缓收布带，桃桃与斑斑朝她低头致意",
+      "location": "舞蹈房木地板中央",
+      "character_names": [
+        "梨梨",
+        "桃桃",
+        "斑斑"
+      ],
+      "narration_lines": [
+        "结束时，桃桃朝梨梨弯弯腰。",
+        "梨梨把带子收在手里，也回了一个小小的礼。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "舞蹈房木地板中央。侧面中景展示动作方向与相邻环境。画面：梨梨缓缓收布带，桃桃与斑斑朝她低头致意。入镜角色：梨梨、桃桃、斑斑。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "四位在边席坐下，布带放在伸手可取的凳角",
+      "location": "长耳街舞蹈房边席",
+      "character_names": [
+        "梨梨",
+        "斑斑",
+        "桃桃",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "下课以后，梨梨把布带留在凳角。",
+        "她说，下次有人想坐一会儿，就可以接那个空拍。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街舞蹈房边席。平视中景突出人物姿态和相互位置。画面：四位在边席坐下，布带放在伸手可取的凳角。入镜角色：梨梨、斑斑、桃桃、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.67,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "梨梨坐在边席回举布带，桃桃站在木地板中央伸手",
+      "location": "舞蹈房木地板中央",
+      "character_names": [
+        "梨梨",
+        "桃桃"
+      ],
+      "narration_lines": [
+        "音乐停了，梨梨慢慢把带子放下。",
+        "桃桃又做了一次接布带的手势，梨梨从凳边向她回了一个小小的弯。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "舞蹈房木地板中央。侧面中景展示动作方向与相邻环境。画面：梨梨坐在边席回举布带，桃桃站在木地板中央伸手。入镜角色：梨梨、桃桃。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 21.53,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v2剧本与九镜已编写，配音、插画、封面、字幕及视频待制作",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/结构化JSON/ep058.json",
+    "scope": "按用户反馈重写人物互动、故事事件、场景及九镜",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始"
+  }
+}

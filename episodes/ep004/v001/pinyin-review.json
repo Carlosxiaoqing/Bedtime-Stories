@@ -1,0 +1,627 @@
+{
+  "hanzi": 742,
+  "cues": 128,
+  "pinyin_coverage": 1.0,
+  "context_review": "completed_against_episode_text",
+  "target_font_px": {
+    "hanzi": 76,
+    "pinyin": 48
+  },
+  "libass_fontsize_calibration": {
+    "hanzi": 114,
+    "pinyin": 66,
+    "reason": "match actual rasterized glyph scale to bundled-font 76px/48px reference; libass normalizes font metrics"
+  },
+  "audio_pronunciation_listen_review": "not_certified",
+  "overrides": [
+    {
+      "phrase": "背着",
+      "pinyin": [
+        "bēi",
+        "zhe"
+      ],
+      "context": "今天是森林学堂的草地野餐日，也是小兔子皮皮第一次背着自己的小黄书包，跟着山羊老师和朋友们，去小木屋后面的青草坡玩。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "兔子",
+      "pinyin": [
+        "tù",
+        "zi"
+      ],
+      "context": "今天是森林学堂的草地野餐日，也是小兔子皮皮第一次背着自己的小黄书包，跟着山羊老师和朋友们，去小木屋后面的青草坡玩。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "朋友",
+      "pinyin": [
+        "péng",
+        "you"
+      ],
+      "context": "今天是森林学堂的草地野餐日，也是小兔子皮皮第一次背着自己的小黄书包，跟着山羊老师和朋友们，去小木屋后面的青草坡玩。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "第一次",
+      "pinyin": [
+        "dì",
+        "yī",
+        "cì"
+      ],
+      "context": "今天是森林学堂的草地野餐日，也是小兔子皮皮第一次背着自己的小黄书包，跟着山羊老师和朋友们，去小木屋后面的青草坡玩。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "今天是森林学堂的草地野餐日，也是小兔子皮皮第一次背着自己的小黄书包，跟着山羊老师和朋友们，去小木屋后面的青草坡玩。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "铺在",
+      "pinyin": [
+        "pū",
+        "zài"
+      ],
+      "context": "青草坡圆圆的，软软的，像一块铺在阳光下的大绿毯子。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "得最快",
+      "pinyin": [
+        "de",
+        "zuì",
+        "kuài"
+      ],
+      "context": "小松鼠团团跑得最快，一下子就爬到了坡顶，摇着蓬松的大尾巴喊：“皮皮，快上来呀，这儿能看见你家的屋顶呢！”",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "尾巴",
+      "pinyin": [
+        "wěi",
+        "ba"
+      ],
+      "context": "小松鼠团团跑得最快，一下子就爬到了坡顶，摇着蓬松的大尾巴喊：“皮皮，快上来呀，这儿能看见你家的屋顶呢！”",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "这儿",
+      "pinyin": [
+        "zhèr",
+        "r"
+      ],
+      "context": "小松鼠团团跑得最快，一下子就爬到了坡顶，摇着蓬松的大尾巴喊：“皮皮，快上来呀，这儿能看见你家的屋顶呢！”",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "小松鼠团团跑得最快，一下子就爬到了坡顶，摇着蓬松的大尾巴喊：“皮皮，快上来呀，这儿能看见你家的屋顶呢！”",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "团团",
+      "pinyin": [
+        "tuán",
+        "tuán"
+      ],
+      "context": "小松鼠团团跑得最快，一下子就爬到了坡顶，摇着蓬松的大尾巴喊：“皮皮，快上来呀，这儿能看见你家的屋顶呢！”",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮迈着小短腿，一步，两步，认真地往上爬。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "认真地",
+      "pinyin": [
+        "rèn",
+        "zhēn",
+        "de"
+      ],
+      "context": "皮皮迈着小短腿，一步，两步，认真地往上爬。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "栗栗",
+      "pinyin": [
+        "lì",
+        "lì"
+      ],
+      "context": "可是爬到一半，他发现小刺猬栗栗停在了半山腰。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "刺猬",
+      "pinyin": [
+        "cì",
+        "wei"
+      ],
+      "context": "可是爬到一半，他发现小刺猬栗栗停在了半山腰。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "背着",
+      "pinyin": [
+        "bēi",
+        "zhe"
+      ],
+      "context": "栗栗背着装满小饼干的布包，圆滚滚的身子有点儿喘气，小脚也不知道该踩在哪儿。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "哪儿",
+      "pinyin": [
+        "nǎr",
+        "r"
+      ],
+      "context": "栗栗背着装满小饼干的布包，圆滚滚的身子有点儿喘气，小脚也不知道该踩在哪儿。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "点儿",
+      "pinyin": [
+        "diǎnr",
+        "r"
+      ],
+      "context": "栗栗背着装满小饼干的布包，圆滚滚的身子有点儿喘气，小脚也不知道该踩在哪儿。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "栗栗",
+      "pinyin": [
+        "lì",
+        "lì"
+      ],
+      "context": "栗栗背着装满小饼干的布包，圆滚滚的身子有点儿喘气，小脚也不知道该踩在哪儿。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮没有急着去追团团。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "团团",
+      "pinyin": [
+        "tuán",
+        "tuán"
+      ],
+      "context": "皮皮没有急着去追团团。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "长满",
+      "pinyin": [
+        "zhǎng",
+        "mǎn"
+      ],
+      "context": "他停下来，走到栗栗身边，指了指旁边一块平平的、长满三叶草的地方，轻声说：“栗栗，我们在这儿坐一会儿吧，半山腰的风景也很漂亮呀。”",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "漂亮",
+      "pinyin": [
+        "piào",
+        "liang"
+      ],
+      "context": "他停下来，走到栗栗身边，指了指旁边一块平平的、长满三叶草的地方，轻声说：“栗栗，我们在这儿坐一会儿吧，半山腰的风景也很漂亮呀。”",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "地方",
+      "pinyin": [
+        "dì",
+        "fang"
+      ],
+      "context": "他停下来，走到栗栗身边，指了指旁边一块平平的、长满三叶草的地方，轻声说：“栗栗，我们在这儿坐一会儿吧，半山腰的风景也很漂亮呀。”",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "一会儿",
+      "pinyin": [
+        "yí",
+        "huìr",
+        "r"
+      ],
+      "context": "他停下来，走到栗栗身边，指了指旁边一块平平的、长满三叶草的地方，轻声说：“栗栗，我们在这儿坐一会儿吧，半山腰的风景也很漂亮呀。”",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "这儿",
+      "pinyin": [
+        "zhèr",
+        "r"
+      ],
+      "context": "他停下来，走到栗栗身边，指了指旁边一块平平的、长满三叶草的地方，轻声说：“栗栗，我们在这儿坐一会儿吧，半山腰的风景也很漂亮呀。”",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "栗栗",
+      "pinyin": [
+        "lì",
+        "lì"
+      ],
+      "context": "他停下来，走到栗栗身边，指了指旁边一块平平的、长满三叶草的地方，轻声说：“栗栗，我们在这儿坐一会儿吧，半山腰的风景也很漂亮呀。”",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "栗栗",
+      "pinyin": [
+        "lì",
+        "lì"
+      ],
+      "context": "他停下来，走到栗栗身边，指了指旁边一块平平的、长满三叶草的地方，轻声说：“栗栗，我们在这儿坐一会儿吧，半山腰的风景也很漂亮呀。”",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "挨着",
+      "pinyin": [
+        "āi",
+        "zhe"
+      ],
+      "context": "栗栗松了一口气，挨着皮皮坐了下来。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "栗栗松了一口气，挨着皮皮坐了下来。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "栗栗",
+      "pinyin": [
+        "lì",
+        "lì"
+      ],
+      "context": "栗栗松了一口气，挨着皮皮坐了下来。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "燕麦",
+      "pinyin": [
+        "yàn",
+        "mài"
+      ],
+      "context": "他们打开小布包，一人分了一块散发着奶香的燕麦小饼干。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "散发",
+      "pinyin": [
+        "sàn",
+        "fā"
+      ],
+      "context": "他们打开小布包，一人分了一块散发着奶香的燕麦小饼干。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "一闪一闪地",
+      "pinyin": [
+        "yì",
+        "shǎn",
+        "yì",
+        "shǎn",
+        "de"
+      ],
+      "context": "微风吹过来，青草叶轻轻晃动，远处的小溪一闪一闪地发着光。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "朋友",
+      "pinyin": [
+        "péng",
+        "you"
+      ],
+      "context": "原来，不一定非要爬到最高的地方，和好朋友在半山腰歇一歇，也是一件特别开心的事。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "地方",
+      "pinyin": [
+        "dì",
+        "fang"
+      ],
+      "context": "原来，不一定非要爬到最高的地方，和好朋友在半山腰歇一歇，也是一件特别开心的事。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "歇一歇",
+      "pinyin": [
+        "xiē",
+        "yi",
+        "xiē"
+      ],
+      "context": "原来，不一定非要爬到最高的地方，和好朋友在半山腰歇一歇，也是一件特别开心的事。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "长耳朵",
+      "pinyin": [
+        "cháng",
+        "ěr",
+        "duo"
+      ],
+      "context": "山羊老师走过来，温柔地摸了摸皮皮的长耳朵，夸他是个懂得照顾朋友的好孩子。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "懂得",
+      "pinyin": [
+        "dǒng",
+        "de"
+      ],
+      "context": "山羊老师走过来，温柔地摸了摸皮皮的长耳朵，夸他是个懂得照顾朋友的好孩子。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "朋友",
+      "pinyin": [
+        "péng",
+        "you"
+      ],
+      "context": "山羊老师走过来，温柔地摸了摸皮皮的长耳朵，夸他是个懂得照顾朋友的好孩子。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "孩子",
+      "pinyin": [
+        "hái",
+        "zi"
+      ],
+      "context": "山羊老师走过来，温柔地摸了摸皮皮的长耳朵，夸他是个懂得照顾朋友的好孩子。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "山羊老师走过来，温柔地摸了摸皮皮的长耳朵，夸他是个懂得照顾朋友的好孩子。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "温柔地",
+      "pinyin": [
+        "wēn",
+        "róu",
+        "de"
+      ],
+      "context": "山羊老师走过来，温柔地摸了摸皮皮的长耳朵，夸他是个懂得照顾朋友的好孩子。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "个",
+      "pinyin": [
+        "ge"
+      ],
+      "context": "山羊老师走过来，温柔地摸了摸皮皮的长耳朵，夸他是个懂得照顾朋友的好孩子。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "背着",
+      "pinyin": [
+        "bēi",
+        "zhe"
+      ],
+      "context": "皮皮跟团团、栗栗挥挥小爪子道别，背着空空的小书包，沿着熟悉的小路回到了自己的小木屋。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "爪子",
+      "pinyin": [
+        "zhuǎ",
+        "zi"
+      ],
+      "context": "皮皮跟团团、栗栗挥挥小爪子道别，背着空空的小书包，沿着熟悉的小路回到了自己的小木屋。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮跟团团、栗栗挥挥小爪子道别，背着空空的小书包，沿着熟悉的小路回到了自己的小木屋。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "栗栗",
+      "pinyin": [
+        "lì",
+        "lì"
+      ],
+      "context": "皮皮跟团团、栗栗挥挥小爪子道别，背着空空的小书包，沿着熟悉的小路回到了自己的小木屋。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "团团",
+      "pinyin": [
+        "tuán",
+        "tuán"
+      ],
+      "context": "皮皮跟团团、栗栗挥挥小爪子道别，背着空空的小书包，沿着熟悉的小路回到了自己的小木屋。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "吃过晚饭，洗干净毛茸茸的小脚丫，皮皮钻进了熟悉的暖黄色被窝里。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮笑了。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "胡萝卜",
+      "pinyin": [
+        "hú",
+        "luó",
+        "bo"
+      ],
+      "context": "他把胡萝卜玩偶抱过来，放在小山坡的半山腰上，就像白天他和栗栗并排坐着那样。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "栗栗",
+      "pinyin": [
+        "lì",
+        "lì"
+      ],
+      "context": "他把胡萝卜玩偶抱过来，放在小山坡的半山腰上，就像白天他和栗栗并排坐着那样。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "随后，皮皮把小脚丫慢慢伸平，被角的小山坡便轻轻落了下去，变成了一片软软的草地。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "落了下去",
+      "pinyin": [
+        "luò",
+        "le",
+        "xià",
+        "qù"
+      ],
+      "context": "随后，皮皮把小脚丫慢慢伸平，被角的小山坡便轻轻落了下去，变成了一片软软的草地。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "爪子",
+      "pinyin": [
+        "zhuǎ",
+        "zi"
+      ],
+      "context": "还有一个小被角折在床边，皮皮用爪子把它一点一点展开。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "还有一个小被角折在床边，皮皮用爪子把它一点一点展开。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "个",
+      "pinyin": [
+        "ge"
+      ],
+      "context": "还有一个小被角折在床边，皮皮用爪子把它一点一点展开。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "白天爬过的小山坡已经留在了森林里，今晚，没有哪座小山需要皮皮再去翻越了。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "长耳朵",
+      "pinyin": [
+        "cháng",
+        "ěr",
+        "duo"
+      ],
+      "context": "皮皮放好长耳朵，抱住胡萝卜玩偶，深深地吸了一口气，又轻轻地呼出来。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "胡萝卜",
+      "pinyin": [
+        "hú",
+        "luó",
+        "bo"
+      ],
+      "context": "皮皮放好长耳朵，抱住胡萝卜玩偶，深深地吸了一口气，又轻轻地呼出来。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮放好长耳朵，抱住胡萝卜玩偶，深深地吸了一口气，又轻轻地呼出来。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "深深地",
+      "pinyin": [
+        "shēn",
+        "shēn",
+        "de"
+      ],
+      "context": "皮皮放好长耳朵，抱住胡萝卜玩偶，深深地吸了一口气，又轻轻地呼出来。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "轻轻地",
+      "pinyin": [
+        "qīng",
+        "qīng",
+        "de"
+      ],
+      "context": "皮皮放好长耳朵，抱住胡萝卜玩偶，深深地吸了一口气，又轻轻地呼出来。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "朋友",
+      "pinyin": [
+        "péng",
+        "you"
+      ],
+      "context": "小朋友，今天你也像皮皮一样，度过了充实又美好的一天吧。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "小朋友，今天你也像皮皮一样，度过了充实又美好的一天吧。",
+      "review": "context_checked_not_audio_listen_certification"
+    }
+  ]
+}

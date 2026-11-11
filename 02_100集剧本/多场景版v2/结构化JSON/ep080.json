@@ -1,0 +1,257 @@
+{
+  "schema_version": 2,
+  "script_version": "v2",
+  "id": "ep080",
+  "episode": 80,
+  "title": "雪团来树荫里做客",
+  "cover_title": "树荫做客",
+  "category": "自然",
+  "theme": "记得朋友喜欢怎样被招待",
+  "setting": "榛子坡果园木亭、果园通风的矮坡",
+  "viewpoint_character": "雪团",
+  "guest": "雪团、沐沐",
+  "character_names": [
+    "雪团",
+    "皮皮",
+    "沐沐"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "按晓晓-35%实际口播、停顿和约8秒尾声确定",
+  "cn_characters": 276,
+  "initial_duration_budget_s": 108.59,
+  "shots": [
+    {
+      "id": 1,
+      "title": "雪团从果园门前走来，皮皮沐沐在榛子树下举手",
+      "location": "榛子坡果园木亭",
+      "character_names": [
+        "雪团",
+        "皮皮",
+        "沐沐"
+      ],
+      "narration_lines": [
+        "雪团终于来到榛子坡。",
+        "皮皮记得他想坐在树荫里，早早在木亭备了三个位置。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "榛子坡果园木亭。竖幅远景交代空间和前后层次。画面：雪团从果园门前走来，皮皮沐沐在榛子树下举手。入镜角色：雪团、皮皮、沐沐。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "木亭三处坐位均在深荫，雪团用手扇风，沐沐端杯",
+      "location": "榛子坡果园木亭",
+      "character_names": [
+        "雪团",
+        "皮皮",
+        "沐沐"
+      ],
+      "narration_lines": [
+        "树荫是凉的，可亭里一点风也没有。",
+        "雪团坐了一会儿，额头还是热热的。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "榛子坡果园木亭。平视中景突出人物姿态和相互位置。画面：木亭三处坐位均在深荫，雪团用手扇风，沐沐端杯。入镜角色：雪团、皮皮、沐沐。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.42,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "皮皮摸桌角布带，布带垂直不动",
+      "location": "榛子坡果园木亭",
+      "character_names": [
+        "皮皮"
+      ],
+      "narration_lines": [
+        "皮皮看见桌上的细带一动不动，才想起雪团喜欢的是树荫下带一点草香的风。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "榛子坡果园木亭。近景突出手边动作或道具状态。画面：皮皮摸桌角布带，布带垂直不动。入镜角色：皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.95,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "三位沿果园低坡走到树根外，手上分别拿水杯和坐布",
+      "location": "果园通风的矮坡",
+      "character_names": [
+        "雪团",
+        "皮皮",
+        "沐沐"
+      ],
+      "narration_lines": [
+        "他们搬到矮坡边。",
+        "沐沐找了一块不挡路的地方，树影刚好有一半落在那里。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "果园通风的矮坡。侧面中景展示动作方向与相邻环境。画面：三位沿果园低坡走到树根外，手上分别拿水杯和坐布。入镜角色：雪团、皮皮、沐沐。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.04,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "雪团坐在低坡宽石旁，围巾一角略扬，草尖朝一侧",
+      "location": "果园通风的矮坡",
+      "character_names": [
+        "雪团"
+      ],
+      "narration_lines": [
+        "雪团坐下后，第一阵风就吹到围巾上。",
+        "他吸了口气，说，原来草香是这样的。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "低视角凸显脚边、地面与人物尺度",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "果园通风的矮坡。低视角凸显脚边、地面与人物尺度。画面：雪团坐在低坡宽石旁，围巾一角略扬，草尖朝一侧。入镜角色：雪团。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "三位摊开旧白湾画片和新树荫画，图纸角落挨在一起",
+      "location": "果园通风的矮坡",
+      "character_names": [
+        "雪团",
+        "皮皮",
+        "沐沐"
+      ],
+      "narration_lines": [
+        "皮皮拿出白湾的旧画片。",
+        "他们又画一张树荫，把两张纸放到一起，一个有雪，一个有草。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "俯视呈现平面上的物件和路线",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "果园通风的矮坡。俯视呈现平面上的物件和路线。画面：三位摊开旧白湾画片和新树荫画，图纸角落挨在一起。入镜角色：雪团、皮皮、沐沐。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.29,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "雪团举起两张纸，沐沐指画上的同一条弯形风线",
+      "location": "果园通风的矮坡",
+      "character_names": [
+        "雪团",
+        "皮皮",
+        "沐沐"
+      ],
+      "narration_lines": [
+        "雪团给两张都添一道弯线。",
+        "白湾的风凉，榛子坡的风暖，可绕过朋友的方向差不多。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "果园通风的矮坡。平视中景突出人物姿态和相互位置。画面：雪团举起两张纸，沐沐指画上的同一条弯形风线。入镜角色：雪团、皮皮、沐沐。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.98,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "三位在木亭前收拾坐布，雪团指坡边下一处阴影",
+      "location": "榛子坡果园木亭",
+      "character_names": [
+        "雪团",
+        "皮皮",
+        "沐沐"
+      ],
+      "narration_lines": [
+        "回去前，雪团说，下次可以试试上午的风。",
+        "皮皮把这个约定记在画片背面。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "榛子坡果园木亭。侧面中景展示动作方向与相邻环境。画面：三位在木亭前收拾坐布，雪团指坡边下一处阴影。入镜角色：雪团、皮皮、沐沐。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "低坡阴影空下，果园草叶把晚光轻轻分开",
+      "location": "果园通风的矮坡",
+      "character_names": [],
+      "narration_lines": [
+        "三个座位收好了。",
+        "榛子坡还留着一片风吹得到的树荫，给下回一起坐的人。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "环境留白为主，关键物件或人物位于上部",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "果园通风的矮坡。环境留白为主，关键物件或人物位于上部。画面：低坡阴影空下，果园草叶把晚光轻轻分开。入镜角色：无，仅画环境或道具。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 18.09,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v2剧本与九镜已编写，配音、插画、封面、字幕及视频待制作",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/结构化JSON/ep080.json",
+    "scope": "按用户反馈重写人物互动、故事事件、场景及九镜",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始"
+  }
+}

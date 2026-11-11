@@ -1,0 +1,257 @@
+{
+  "schema_version": 2,
+  "script_version": "v2",
+  "id": "ep082",
+  "episode": 82,
+  "title": "谁碰倒了那座纸山",
+  "cover_title": "纸山倒了",
+  "category": "学校",
+  "theme": "先听完不同人看到的事",
+  "setting": "榆树学校手工窗桌、同一教室的矮展示台",
+  "viewpoint_character": "皮皮",
+  "guest": "斑斑、点点",
+  "character_names": [
+    "皮皮",
+    "斑斑",
+    "点点"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "按晓晓-35%实际口播、停顿和约8秒尾声确定",
+  "cn_characters": 264,
+  "initial_duration_budget_s": 105.56,
+  "shots": [
+    {
+      "id": 1,
+      "title": "手工桌上纸山倾在一边，皮皮、斑斑和点点站在三面",
+      "location": "榆树学校手工窗桌",
+      "character_names": [
+        "皮皮",
+        "斑斑",
+        "点点"
+      ],
+      "narration_lines": [
+        "皮皮做的纸山倒了。",
+        "斑斑刚从桌边经过，皮皮很快就说，是他碰的。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校手工窗桌。竖幅远景交代空间和前后层次。画面：手工桌上纸山倾在一边，皮皮、斑斑和点点站在三面。入镜角色：皮皮、斑斑、点点。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 9.79,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "斑斑摊开双爪，皮皮指近处桌角",
+      "location": "榆树学校手工窗桌",
+      "character_names": [
+        "皮皮",
+        "斑斑"
+      ],
+      "narration_lines": [
+        "斑斑停下来，说自己只走到桌角，没有碰到山。",
+        "点点也把捡到的一截纸条带了过来。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校手工窗桌。平视中景突出人物姿态和相互位置。画面：斑斑摊开双爪，皮皮指近处桌角。入镜角色：皮皮、斑斑。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.98,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "点点举纸条，纸条上粘一小块折角底纸",
+      "location": "榆树学校手工窗桌",
+      "character_names": [
+        "点点"
+      ],
+      "narration_lines": [
+        "点点从地上捡到的是山脚。",
+        "它原来放在窗边，现在吹到了离斑斑最远的一角。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校手工窗桌。近景突出手边动作或道具状态。画面：点点举纸条，纸条上粘一小块折角底纸。入镜角色：点点。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "从皮皮肩后见窗帘边正好扫到纸山背面",
+      "location": "榆树学校手工窗桌",
+      "character_names": [
+        "皮皮",
+        "斑斑",
+        "点点"
+      ],
+      "narration_lines": [
+        "他们回到桌前看。",
+        "窗一开，帘角碰到纸山的背，纸脚就翘起来了。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "越肩构图同时看见观察者与目标",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校手工窗桌。越肩构图同时看见观察者与目标。画面：从皮皮肩后见窗帘边正好扫到纸山背面。入镜角色：皮皮、斑斑、点点。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 9.48,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "皮皮放低指着斑斑的手，斑斑转头和他平视",
+      "location": "榆树学校手工窗桌",
+      "character_names": [
+        "皮皮",
+        "斑斑"
+      ],
+      "narration_lines": [
+        "皮皮放下手，说刚才没看全就怪了斑斑。",
+        "斑斑说：“你可以先问我从哪儿走的。”"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校手工窗桌。平视中景突出人物姿态和相互位置。画面：皮皮放低指着斑斑的手，斑斑转头和他平视。入镜角色：皮皮、斑斑。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.04,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "三位在矮台上调整纸山底脚，前后各加一折",
+      "location": "同一教室的矮展示台",
+      "character_names": [
+        "皮皮",
+        "斑斑",
+        "点点"
+      ],
+      "narration_lines": [
+        "他们把纸山搬到矮台。",
+        "点点补好底脚，斑斑帮它试站，皮皮将纸路重新接上。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "俯视呈现平面上的物件和路线",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "同一教室的矮展示台。俯视呈现平面上的物件和路线。画面：三位在矮台上调整纸山底脚，前后各加一折。入镜角色：皮皮、斑斑、点点。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.04,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "皮皮把捡回的纸条搭成一小段跨坡路",
+      "location": "同一教室的矮展示台",
+      "character_names": [
+        "皮皮"
+      ],
+      "narration_lines": [
+        "掉下来的纸条变成了一截小路。",
+        "皮皮把它搭在山脚，正对斑斑刚才走过的方向。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "同一教室的矮展示台。近景突出手边动作或道具状态。画面：皮皮把捡回的纸条搭成一小段跨坡路。入镜角色：皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.67,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "三个伙伴分别在纸山三面低头，彼此能看见",
+      "location": "同一教室的矮展示台",
+      "character_names": [
+        "皮皮",
+        "斑斑",
+        "点点"
+      ],
+      "narration_lines": [
+        "这一次，大家从三边各看了一遍。",
+        "斑斑还发现，点点那一侧藏着一扇小门。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "同一教室的矮展示台。平视中景突出人物姿态和相互位置。画面：三个伙伴分别在纸山三面低头，彼此能看见。入镜角色：皮皮、斑斑、点点。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "空窗桌只留一张薄纸，帘角停在另一侧",
+      "location": "榆树学校手工窗桌",
+      "character_names": [],
+      "narration_lines": [
+        "风又来过一次。",
+        "纸山站在矮台上，桌边那片帘角只碰到了自己的影子。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校手工窗桌。近景突出手边动作或道具状态。画面：空窗桌只留一张薄纸，帘角停在另一侧。入镜角色：无，仅画环境或道具。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 17.47,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v2剧本与九镜已编写，配音、插画、封面、字幕及视频待制作",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/结构化JSON/ep082.json",
+    "scope": "按用户反馈重写人物互动、故事事件、场景及九镜",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始"
+  }
+}

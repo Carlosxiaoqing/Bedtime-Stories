@@ -1,0 +1,255 @@
+{
+  "schema_version": 2,
+  "script_version": "v2",
+  "id": "ep007",
+  "episode": 7,
+  "title": "朵朵听见了小雨",
+  "cover_title": "合奏小雨",
+  "category": "学校",
+  "theme": "倾听之后再加入",
+  "setting": "榆树学校音乐角",
+  "viewpoint_character": "朵朵",
+  "guest": "朵朵、斑斑、桃桃",
+  "character_names": [
+    "朵朵",
+    "斑斑",
+    "桃桃"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "按晓晓-35%实际口播、停顿和约8秒尾声确定",
+  "cn_characters": 236,
+  "initial_duration_budget_s": 96.11,
+  "shots": [
+    {
+      "id": 1,
+      "title": "音乐角铺三块坐垫，朵朵抱着布鼓，伙伴各拿小乐器",
+      "location": "榆树学校音乐角",
+      "character_names": [
+        "朵朵",
+        "斑斑",
+        "桃桃"
+      ],
+      "narration_lines": [
+        "音乐课要合奏一场小雨。",
+        "朵朵拿了布鼓，斑斑拿木片，桃桃拿沙筒。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校音乐角。竖幅远景交代空间和前后层次。画面：音乐角铺三块坐垫，朵朵抱着布鼓，伙伴各拿小乐器。入镜角色：朵朵、斑斑、桃桃。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 9.79,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "朵朵鼻尖靠在鼓边，手悬在鼓面上",
+      "location": "榆树学校音乐角",
+      "character_names": [
+        "朵朵"
+      ],
+      "narration_lines": [
+        "朵朵先试了一下。",
+        "鼓声一响，斑斑那两下小雨点就听不见了。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校音乐角。近景突出手边动作或道具状态。画面：朵朵鼻尖靠在鼓边，手悬在鼓面上。入镜角色：朵朵。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 9.17,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "斑斑把木片放在膝头，朵朵偏头倾听",
+      "location": "榆树学校音乐角",
+      "character_names": [
+        "朵朵",
+        "斑斑"
+      ],
+      "narration_lines": [
+        "斑斑没有把木片敲得更响。",
+        "他把木片放下，说：“我们先听听谁的雨。”"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校音乐角。平视中景突出人物姿态和相互位置。画面：斑斑把木片放在膝头，朵朵偏头倾听。入镜角色：朵朵、斑斑。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 9.79,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "桃桃侧身慢摇沙筒，朵朵把鼓挪远一点",
+      "location": "榆树学校音乐角",
+      "character_names": [
+        "朵朵",
+        "桃桃"
+      ],
+      "narration_lines": [
+        "桃桃摇起沙筒。",
+        "细细的声音像雨刚落在叶子上，朵朵想听得再清楚一点。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校音乐角。侧面中景展示动作方向与相邻环境。画面：桃桃侧身慢摇沙筒，朵朵把鼓挪远一点。入镜角色：朵朵、桃桃。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "三块图形纸摆成雨滴、叶片、鼓形，三双手依次指向",
+      "location": "榆树学校音乐角",
+      "character_names": [
+        "朵朵",
+        "斑斑",
+        "桃桃"
+      ],
+      "narration_lines": [
+        "他们排好顺序：沙筒先来，木片跟上，最后才轮到朵朵的鼓。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "俯视呈现平面上的物件和路线",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校音乐角。俯视呈现平面上的物件和路线。画面：三块图形纸摆成雨滴、叶片、鼓形，三双手依次指向。入镜角色：朵朵、斑斑、桃桃。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 8.14,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "朵朵用手掌轻贴鼓边，鼓面中央留空",
+      "location": "榆树学校音乐角",
+      "character_names": [
+        "朵朵"
+      ],
+      "narration_lines": [
+        "朵朵没敲鼓心。",
+        "她试着用手掌碰鼓边，听起来像雨落到远处的树根。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校音乐角。近景突出手边动作或道具状态。画面：朵朵用手掌轻贴鼓边，鼓面中央留空。入镜角色：朵朵。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.11,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "三位伙伴看向彼此，木片与沙筒停在不同动作上",
+      "location": "榆树学校音乐角",
+      "character_names": [
+        "朵朵",
+        "斑斑",
+        "桃桃"
+      ],
+      "narration_lines": [
+        "这一次，三样声音都听得见。",
+        "斑斑等到鼓声落下，又轻轻补了两滴雨。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校音乐角。平视中景突出人物姿态和相互位置。画面：三位伙伴看向彼此，木片与沙筒停在不同动作上。入镜角色：朵朵、斑斑、桃桃。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.11,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "桃桃把沙筒放回软布，三位同学仍围坐",
+      "location": "榆树学校音乐角",
+      "character_names": [
+        "朵朵",
+        "斑斑",
+        "桃桃"
+      ],
+      "narration_lines": [
+        "演完了，谁也没急着说话。",
+        "他们还想听一听，最后那滴雨走远的声音。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校音乐角。侧面中景展示动作方向与相邻环境。画面：桃桃把沙筒放回软布，三位同学仍围坐。入镜角色：朵朵、斑斑、桃桃。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.11,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "三件乐器并排放在软布上，音乐角窗光落到地垫",
+      "location": "榆树学校音乐角",
+      "character_names": [],
+      "narration_lines": [
+        "音乐角静下来。",
+        "布鼓、木片和沙筒躺在一起，像一场刚刚下完的小雨。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校音乐角。近景突出手边动作或道具状态。画面：三件乐器并排放在软布上，音乐角窗光落到地垫。入镜角色：无，仅画环境或道具。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 17.16,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v2剧本与九镜已编写，配音、插画、封面、字幕及视频待制作",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/结构化JSON/ep007.json",
+    "scope": "按用户反馈重写人物互动、故事事件、场景及九镜",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始"
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "schema_version": 2,
+  "script_version": "v3",
+  "id": "ep067",
+  "episode": 67,
+  "title": "绒绒把破瓦拼成海",
+  "cover_title": "破瓦拼海",
+  "category": "社区",
+  "theme": "旧东西也可以变成新的作品",
+  "setting": "长耳街工艺室软垫桌、工艺室的窗下画台",
+  "viewpoint_character": "绒绒",
+  "guest": "绒绒、桃桃、米米",
+  "character_names": [
+    "绒绒",
+    "桃桃",
+    "米米"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "成片约120秒，配音后实测校时",
+  "cn_characters": 280,
+  "initial_duration_budget_s": 119.64,
+  "shots": [
+    {
+      "id": 1,
+      "title": "软垫桌上摆圆磨旧陶片，绒绒与桃桃、米米围坐",
+      "location": "长耳街工艺室软垫桌",
+      "character_names": [
+        "绒绒",
+        "桃桃",
+        "米米"
+      ],
+      "narration_lines": [
+        "绒绒在工艺室选旧陶片做拼画。",
+        "他本来想拼一只蓝碗，找了半天，缺一整片碗沿。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街工艺室软垫桌。竖幅远景交代空间和前后层次。画面：软垫桌上摆圆磨旧陶片，绒绒与桃桃、米米围坐。入镜角色：绒绒、桃桃、米米。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 13.71,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "桌面几片蓝陶组成半碗，缺角旁放着一片白陶",
+      "location": "长耳街工艺室软垫桌",
+      "character_names": [
+        "绒绒",
+        "桃桃",
+        "米米"
+      ],
+      "narration_lines": [
+        "桃桃找到一片白的，形状倒是差不多。",
+        "绒绒一摆上去，看着却像白浪压在蓝水上。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "俯视呈现平面上的物件和路线",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街工艺室软垫桌。俯视呈现平面上的物件和路线。画面：桌面几片蓝陶组成半碗，缺角旁放着一片白陶。入镜角色：绒绒、桃桃、米米。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.71,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "绒绒把白陶从碗沿取下，换到蓝陶片上方",
+      "location": "长耳街工艺室软垫桌",
+      "character_names": [
+        "绒绒"
+      ],
+      "narration_lines": [
+        "他把白片往上挪，再把蓝片散开。",
+        "碗慢慢不见了，桌上多出一片小小的海。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街工艺室软垫桌。近景突出手边动作或道具状态。画面：绒绒把白陶从碗沿取下，换到蓝陶片上方。入镜角色：绒绒。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.67,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "米米把软底板推近，桃桃择出一块灰色圆陶",
+      "location": "工艺室的窗下画台",
+      "character_names": [
+        "绒绒",
+        "桃桃",
+        "米米"
+      ],
+      "narration_lines": [
+        "米米推来软底板。",
+        "桃桃选出一块灰陶，说可以给白浪留一块撞过去的石头。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "工艺室的窗下画台。平视中景突出人物姿态和相互位置。画面：米米把软底板推近，桃桃择出一块灰色圆陶。入镜角色：绒绒、桃桃、米米。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.02,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "三人把灰片摆在蓝白交界，给水线留一条细缝",
+      "location": "工艺室的窗下画台",
+      "character_names": [
+        "绒绒",
+        "桃桃",
+        "米米"
+      ],
+      "narration_lines": [
+        "绒绒把灰陶放到浪边。",
+        "陶片之间不用挤紧，留一条缝，刚好像水在往回走。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "俯视呈现平面上的物件和路线",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "工艺室的窗下画台。俯视呈现平面上的物件和路线。画面：三人把灰片摆在蓝白交界，给水线留一条细缝。入镜角色：绒绒、桃桃、米米。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.67,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "米米用软布擦掉板边泥粉，最外沿留空",
+      "location": "工艺室的窗下画台",
+      "character_names": [
+        "米米"
+      ],
+      "narration_lines": [
+        "他们请工艺室的老师帮忙固定。",
+        "米米擦干板边，最外面留一截空，让海还有地方走。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "工艺室的窗下画台。近景突出手边动作或道具状态。画面：米米用软布擦掉板边泥粉，最外沿留空。入镜角色：米米。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 13.05,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "三位扶起成画的板，白片方向朝上对着柔和天光",
+      "location": "工艺室的窗下画台",
+      "character_names": [
+        "绒绒",
+        "桃桃",
+        "米米"
+      ],
+      "narration_lines": [
+        "扶起来一看，最白那片像刚涌上来。",
+        "绒绒把板稍微转了一点，让浪从右边过。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "工艺室的窗下画台。侧面中景展示动作方向与相邻环境。画面：三位扶起成画的板，白片方向朝上对着柔和天光。入镜角色：绒绒、桃桃、米米。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.02,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "原桌面空着半个碗形纸样，绒绒将其叠好",
+      "location": "长耳街工艺室软垫桌",
+      "character_names": [
+        "绒绒",
+        "桃桃",
+        "米米"
+      ],
+      "narration_lines": [
+        "收拾时，绒绒把半只碗的纸样也留下。",
+        "米米问下次还拼不拼，他说可以再看看。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街工艺室软垫桌。平视中景突出人物姿态和相互位置。画面：原桌面空着半个碗形纸样，绒绒将其叠好。入镜角色：绒绒、桃桃、米米。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "拼画靠在窗下，白浪与灰石中间一线浅蓝",
+      "location": "工艺室的窗下画台",
+      "character_names": [],
+      "narration_lines": [
+        "窗下多了一片用破瓦做的小海。",
+        "走近才能看见，每一道浪里都藏着原来的一小截碗。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "工艺室的窗下画台。近景突出手边动作或道具状态。画面：拼画靠在窗下，白浪与灰石中间一线浅蓝。入镜角色：无，仅画环境或道具。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 20.45,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v3剧本和九镜已校时估算，实际配音及后续制作待进行",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/多场景版v2/结构化JSON/ep067.json",
+    "scope": "以约两分钟为目标逐集校时，补充偏短故事的动作、对话或线索，压缩偏长的重复表述",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始",
+    "previous_script_sha256": "f11050882ee2e7dd14ab10d6ee25ebffd6611de297f5a0b36e5efe3bde92d1e2",
+    "edited_shots": []
+  },
+  "duration_plan": {
+    "target_s": 120,
+    "planning_range_s": [
+      115,
+      125
+    ],
+    "estimated_s": 119.64,
+    "v2_estimated_using_same_method_s": 119.64,
+    "reference_narration_hanzi_per_second": 2.899607,
+    "opening_s": 1.0,
+    "tail_in_final_shot_s": 8.0
+  }
+}

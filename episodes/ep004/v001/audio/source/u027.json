@@ -1,0 +1,71 @@
+{
+  "text": "现在，把小脚伸平，把身体交给软软的小床。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "075d4063eff3af0609f06b13e9a3c9599d75edce6710df1f86b0ea1c9ba22fce",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 8461660,
+      "text": "现在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13577080,
+      "duration": 1922910,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15692500,
+      "duration": 5576660,
+      "text": "小脚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21269160,
+      "duration": 8846250,
+      "text": "伸平"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33000000,
+      "duration": 2115410,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 35307500,
+      "duration": 7692500,
+      "text": "身体"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 43192500,
+      "duration": 5000000,
+      "text": "交给"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 48577080,
+      "duration": 5769160,
+      "text": "软软"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 54346250,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 55692500,
+      "duration": 8269160,
+      "text": "小床"
+    }
+  ]
+}

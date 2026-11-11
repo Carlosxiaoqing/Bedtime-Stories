@@ -1,0 +1,519 @@
+{
+  "date_beijing": "2026-11-11",
+  "episodes": 100,
+  "shots": 900,
+  "original_json_unchanged": true,
+  "original_markdown_unchanged": true,
+  "editorial_review_count": 100,
+  "checks": [
+    {
+      "episode": 1,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 2,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 3,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 4,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 5,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 6,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 7,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 8,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 9,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 10,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 11,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 12,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 13,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 14,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 15,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 16,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 17,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 18,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 19,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 20,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 21,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 22,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 23,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 24,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 25,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 26,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 27,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 28,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 29,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 30,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 31,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 32,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 33,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 34,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 35,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 36,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 37,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 38,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 39,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 40,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 41,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 42,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 43,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 44,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 45,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 46,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 47,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 48,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 49,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 50,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 51,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 52,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 53,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 54,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 55,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 56,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 57,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 58,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 59,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 60,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 61,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 62,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 63,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 64,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 65,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 66,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 67,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 68,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 69,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 70,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 71,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 72,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 73,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 74,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 75,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 76,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 77,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 78,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 79,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 80,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 81,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 82,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 83,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 84,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 85,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 86,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 87,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 88,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 89,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 90,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 91,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 92,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 93,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 94,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 95,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 96,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 97,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 98,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 99,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    },
+    {
+      "episode": 100,
+      "shots": 9,
+      "json_markdown_narration_equal": true
+    }
+  ],
+  "review_scope": "100集文字与900镜设计已逐项阅读；001–003原图缩略对照已查看；未完整听看成片；无平台审核预测。",
+  "user_individual_review": "待核对",
+  "script_revision": "未改源稿",
+  "media_production": "未启动",
+  "reading_html_details": 100,
+  "reading_html_shot_sections": 900,
+  "delivery_links_checked": true,
+  "original_zip_integrity": "pass",
+  "html_image_self_contained": true
+}

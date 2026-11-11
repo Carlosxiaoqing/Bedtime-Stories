@@ -1,0 +1,278 @@
+{
+  "schema_version": 2,
+  "script_version": "v3",
+  "id": "ep023",
+  "episode": 23,
+  "title": "海岸上第二座沙城",
+  "cover_title": "第二座沙城",
+  "category": "出行",
+  "theme": "变化来了可以一起换个做法",
+  "setting": "白沙湾步道内的干沙滩、白沙湾高处木台",
+  "viewpoint_character": "沐沐",
+  "guest": "沐沐、豆豆",
+  "character_names": [
+    "沐沐",
+    "皮皮",
+    "豆豆"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "成片约120秒，配音后实测校时",
+  "cn_characters": 287,
+  "initial_duration_budget_s": 123.5,
+  "shots": [
+    {
+      "id": 1,
+      "title": "退潮线外干沙有沙城，沐沐和皮皮、豆豆蹲在城门旁",
+      "location": "白沙湾步道内的干沙滩",
+      "character_names": [
+        "沐沐",
+        "皮皮",
+        "豆豆"
+      ],
+      "narration_lines": [
+        "沐沐在白沙湾搭了一座沙城。",
+        "豆豆负责城门，皮皮给每座小塔安上贝壳。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "白沙湾步道内的干沙滩。竖幅远景交代空间和前后层次。画面：退潮线外干沙有沙城，沐沐和皮皮、豆豆蹲在城门旁。入镜角色：沐沐、皮皮、豆豆。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.67,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "豆豆用翅尖指向远处一条新的潮湿沙线",
+      "location": "白沙湾步道内的干沙滩",
+      "character_names": [
+        "豆豆"
+      ],
+      "narration_lines": [
+        "豆豆先发现潮水往近处走了。",
+        "海边的管理员招手，请他们回到木台旁。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "白沙湾步道内的干沙滩。近景突出手边动作或道具状态。画面：豆豆用翅尖指向远处一条新的潮湿沙线。入镜角色：豆豆。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.33,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "沐沐摊开的爪心留一枚贝壳，散沙留在岸上",
+      "location": "白沙湾步道内的干沙滩",
+      "character_names": [
+        "沐沐",
+        "皮皮",
+        "豆豆"
+      ],
+      "narration_lines": [
+        "沐沐很舍不得刚搭好的塔。",
+        "她想搬走一整座，可沙子刚一捧就散了。",
+        "沐沐摊开爪，掌心只剩一块小贝壳，她决定先把贝壳带走。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "白沙湾步道内的干沙滩。平视中景突出人物姿态和相互位置。画面：沐沐摊开的爪心留一枚贝壳，散沙留在岸上。入镜角色：沐沐、皮皮、豆豆。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 19.63,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "三位在木台摊平纸，用几块贝壳压住画边",
+      "location": "白沙湾高处木台",
+      "character_names": [
+        "沐沐",
+        "皮皮",
+        "豆豆"
+      ],
+      "narration_lines": [
+        "皮皮说：“先记下你最喜欢的地方吧。”",
+        "他们用贝壳压住纸，画下了三个角。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "俯视呈现平面上的物件和路线",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "白沙湾高处木台。俯视呈现平面上的物件和路线。画面：三位在木台摊平纸，用几块贝壳压住画边。入镜角色：沐沐、皮皮、豆豆。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.33,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "画上的城门旁摆着带回的小贝壳",
+      "location": "白沙湾高处木台",
+      "character_names": [
+        "沐沐"
+      ],
+      "narration_lines": [
+        "沐沐选了连在一起的双塔。",
+        "豆豆选城门，皮皮选了斜着走的小路。",
+        "他们还把贝壳放在图边，比了比新城门能做多宽。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "白沙湾高处木台。近景突出手边动作或道具状态。画面：画上的城门旁摆着带回的小贝壳。入镜角色：沐沐。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 18.25,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "木台后的干沙箱出现一座小沙城，三位伙伴围坐",
+      "location": "白沙湾高处木台",
+      "character_names": [
+        "沐沐",
+        "皮皮",
+        "豆豆"
+      ],
+      "narration_lines": [
+        "木台后有一个沙箱。",
+        "三位朋友照着图，又搭了一座小一些的城。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "白沙湾高处木台。平视中景突出人物姿态和相互位置。画面：木台后的干沙箱出现一座小沙城，三位伙伴围坐。入镜角色：沐沐、皮皮、豆豆。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.29,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "豆豆将小贝壳放在沙箱的新城门上",
+      "location": "白沙湾高处木台",
+      "character_names": [
+        "豆豆"
+      ],
+      "narration_lines": [
+        "这一次，豆豆把门开得宽一些。",
+        "贝壳放到顶上，刚好盖过整座城门。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "白沙湾高处木台。近景突出手边动作或道具状态。画面：豆豆将小贝壳放在沙箱的新城门上。入镜角色：豆豆。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.64,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "三位背影立在栏内，远处潮线抹平旧城低处",
+      "location": "白沙湾高处木台",
+      "character_names": [
+        "沐沐",
+        "皮皮",
+        "豆豆"
+      ],
+      "narration_lines": [
+        "离开前，他们隔着栏杆看海。",
+        "旧城的门已经不见了，水面留下几道浅纹。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "越肩构图同时看见观察者与目标",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "白沙湾高处木台。越肩构图同时看见观察者与目标。画面：三位背影立在栏内，远处潮线抹平旧城低处。入镜角色：沐沐、皮皮、豆豆。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.33,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "木台背风处的小沙城与画纸并列，海天浅淡",
+      "location": "白沙湾高处木台",
+      "character_names": [],
+      "narration_lines": [
+        "第二座城还留在木台后。",
+        "它和第一座有点像，也多了一扇宽宽的门。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "白沙湾高处木台。竖幅远景交代空间和前后层次。画面：木台背风处的小沙城与画纸并列，海天浅淡。入镜角色：无，仅画环境或道具。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 18.03,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v3剧本和九镜已校时估算，实际配音及后续制作待进行",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/多场景版v2/结构化JSON/ep023.json",
+    "scope": "以约两分钟为目标逐集校时，补充偏短故事的动作、对话或线索，压缩偏长的重复表述",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始",
+    "previous_script_sha256": "13948f5b0b74482a2126f11e4549247ad40fac840920d7c2c31661d15aecdb67",
+    "edited_shots": [
+      3,
+      5
+    ]
+  },
+  "duration_plan": {
+    "target_s": 120,
+    "planning_range_s": [
+      115,
+      125
+    ],
+    "estimated_s": 123.5,
+    "v2_estimated_using_same_method_s": 107.23,
+    "reference_narration_hanzi_per_second": 2.899607,
+    "opening_s": 1.0,
+    "tail_in_final_shot_s": 8.0
+  }
+}

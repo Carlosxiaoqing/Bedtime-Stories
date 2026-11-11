@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "updated_on": "2026-11-12",
+  "repository": "https://github.com/Carlosxiaoqing/Bedtime-Stories",
+  "branch": "main",
+  "adopted_script_version": "v4",
+  "script_json_directory": "02_100集剧本/用户长稿v4/结构化JSON",
+  "script_count": 100,
+  "adopted_long_range": [
+    4,
+    100
+  ],
+  "latest_accepted_episode": {
+    "id": "ep004",
+    "version": "v001",
+    "title": "被角的小山坡",
+    "hanzi": 742,
+    "duration_s": 278.72,
+    "shots": 35,
+    "subtitle_cues": 128,
+    "cover_title": "半坡歇歇",
+    "accepted_on": "2026-11-12",
+    "record": "episodes/ep004/v001/用户验收记录.json"
+  },
+  "next_candidate": {
+    "id": "ep005",
+    "title": "小灯也想歇一会儿",
+    "authorized": false,
+    "media_status": "not_started"
+  },
+  "character_registry": "03_素材与参数/用户长稿v4角色图库.json",
+  "identity_count": 10,
+  "voice": {
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000
+  },
+  "visual": {
+    "fps": 25,
+    "within_shot_motion": "none",
+    "crossfade_s": 0.96,
+    "preferred_cover_hanzi": 4,
+    "fallback_cover_hanzi": [
+      5,
+      6
+    ],
+    "target_hanzi_px": 76,
+    "target_pinyin_px": 48
+  },
+  "cloud_handoff": "云端接手.md",
+  "git_sync": {
+    "videos_in_current_tree": false,
+    "archives_in_current_tree": false,
+    "loose_sources_included": true,
+    "historical_commits_rewritten": false
+  },
+  "publication": "not_published"
+}

@@ -1,0 +1,16 @@
+{
+  "date": "2026-11-11",
+  "episode": "ep004",
+  "service": "Microsoft Edge TTS",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "data": "本集完整742汉字口播文本",
+  "purpose": "仅生成第四集当前晓晓方案配音",
+  "user_reply": "同意，按当前晓晓方案配音",
+  "initial_sandbox_request": "DNS unavailable",
+  "initial_escalation": "auto-review rejected pending explicit third-party text-disclosure consent",
+  "subsequent_explicit_user_consent": true,
+  "sample_generation": "succeeded"
+}

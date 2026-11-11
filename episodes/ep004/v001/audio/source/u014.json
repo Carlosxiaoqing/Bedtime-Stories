@@ -1,0 +1,95 @@
+{
+  "text": "太阳慢慢落山了，天边染上了一层浅浅的橘黄色。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "ef99faae876028d6020f8c953c45e065d2cab54330e421b7ff26f7925593a712",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5961660,
+      "text": "太阳"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7615410,
+      "duration": 4807500,
+      "text": "慢慢"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12615410,
+      "duration": 6922910,
+      "text": "落山"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19538330,
+      "duration": 2884580,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27422910,
+      "duration": 6346250,
+      "text": "天边"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 34153750,
+      "duration": 2692500,
+      "text": "染"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36846250,
+      "duration": 2692080,
+      "text": "上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 39538330,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 40884580,
+      "duration": 1922910,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 42807500,
+      "duration": 3461660,
+      "text": "层"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 46653750,
+      "duration": 5769160,
+      "text": "浅浅"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 52422910,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 53961660,
+      "duration": 6153750,
+      "text": "橘黄"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 60115410,
+      "duration": 4615410,
+      "text": "色"
+    }
+  ]
+}

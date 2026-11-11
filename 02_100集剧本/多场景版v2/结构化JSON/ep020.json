@@ -1,0 +1,258 @@
+{
+  "schema_version": 2,
+  "script_version": "v2",
+  "id": "ep020",
+  "episode": 20,
+  "title": "颜色博物馆少了一点绿",
+  "cover_title": "一小点绿",
+  "category": "想象",
+  "theme": "从朋友的观察里找到新办法",
+  "setting": "想象中的颜色博物馆大厅、博物馆调色工作廊",
+  "viewpoint_character": "桃桃",
+  "guest": "桃桃、圆圆",
+  "character_names": [
+    "桃桃",
+    "皮皮",
+    "圆圆"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "按晓晓-35%实际口播、停顿和约8秒尾声确定",
+  "cn_characters": 298,
+  "initial_duration_budget_s": 116.2,
+  "shots": [
+    {
+      "id": 1,
+      "title": "桃桃、皮皮和圆圆围在巨大的白色叶形画纸旁",
+      "location": "想象中的颜色博物馆大厅",
+      "character_names": [
+        "桃桃",
+        "皮皮",
+        "圆圆"
+      ],
+      "narration_lines": [
+        "颜色博物馆要展出一片春叶。",
+        "桃桃赶来帮忙，却见叶形画纸还是白的，一点绿也没有。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "想象中的颜色博物馆大厅。竖幅远景交代空间和前后层次。画面：桃桃、皮皮和圆圆围在巨大的白色叶形画纸旁。入镜角色：桃桃、皮皮、圆圆。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.29,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "桃桃端着蓝黄两小碟，圆圆拿一只空调色盘",
+      "location": "想象中的颜色博物馆大厅",
+      "character_names": [
+        "桃桃",
+        "圆圆"
+      ],
+      "narration_lines": [
+        "圆圆说，绿色颜料用完了。",
+        "抽屉里只剩黄色和蓝色，他们各取了一点，放进空盘。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "想象中的颜色博物馆大厅。近景突出手边动作或道具状态。画面：桃桃端着蓝黄两小碟，圆圆拿一只空调色盘。入镜角色：桃桃、圆圆。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "皮皮在试纸左侧试黄、右侧试蓝，桃桃扶纸边",
+      "location": "博物馆调色工作廊",
+      "character_names": [
+        "皮皮",
+        "桃桃"
+      ],
+      "narration_lines": [
+        "皮皮先在试纸上各刷一块。",
+        "黄色在左边，蓝色在右边，叶子要的绿还没出现。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "俯视呈现平面上的物件和路线",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "博物馆调色工作廊。俯视呈现平面上的物件和路线。画面：皮皮在试纸左侧试黄、右侧试蓝，桃桃扶纸边。入镜角色：皮皮、桃桃。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.04,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "桃桃用画笔在盘内混合两色，靠交界处出现一抹嫩绿",
+      "location": "博物馆调色工作廊",
+      "character_names": [
+        "桃桃"
+      ],
+      "narration_lines": [
+        "桃桃把蓝色往黄色里推了一点，转了半圈。",
+        "刷子挪开时，盘里冒出一小条绿色。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "博物馆调色工作廊。近景突出手边动作或道具状态。画面：桃桃用画笔在盘内混合两色，靠交界处出现一抹嫩绿。入镜角色：桃桃。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "圆圆将试色纸与一片真实嫩叶并排，桃桃俯身看",
+      "location": "博物馆调色工作廊",
+      "character_names": [
+        "桃桃",
+        "圆圆"
+      ],
+      "narration_lines": [
+        "她添一点黄，绿色就浅一点。",
+        "圆圆把这块放到一片真叶旁，看见它正像新长出来的叶尖。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "俯视呈现平面上的物件和路线",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "博物馆调色工作廊。俯视呈现平面上的物件和路线。画面：圆圆将试色纸与一片真实嫩叶并排，桃桃俯身看。入镜角色：桃桃、圆圆。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.61,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "三位伙伴在展台为巨幅纸叶上色，留出浅蓝细边",
+      "location": "想象中的颜色博物馆大厅",
+      "character_names": [
+        "桃桃",
+        "皮皮",
+        "圆圆"
+      ],
+      "narration_lines": [
+        "他们给纸叶刷上刚调的颜色。",
+        "中间绿，边缘还留一点黄，再添一道浅蓝的细边。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "想象中的颜色博物馆大厅。平视中景突出人物姿态和相互位置。画面：三位伙伴在展台为巨幅纸叶上色，留出浅蓝细边。入镜角色：桃桃、皮皮、圆圆。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "三张试色纸夹在展台边，从黄到绿再到蓝",
+      "location": "想象中的颜色博物馆大厅",
+      "character_names": [
+        "桃桃"
+      ],
+      "narration_lines": [
+        "桃桃没把试色纸扔掉。",
+        "她将蓝、黄和绿依次夹在纸叶下面，给后来的人看看绿色从哪儿来。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "想象中的颜色博物馆大厅。侧面中景展示动作方向与相邻环境。画面：三张试色纸夹在展台边，从黄到绿再到蓝。入镜角色：桃桃。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.92,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "色片廊木台边，皮皮和桃桃摊开空试纸与深蓝浅黄颜料",
+      "location": "博物馆调色工作廊",
+      "character_names": [
+        "皮皮",
+        "桃桃"
+      ],
+      "narration_lines": [
+        "离开前，皮皮找来一张新的试纸。",
+        "他问，刚才那一点绿，能不能再调成一片更深的叶子。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "博物馆调色工作廊。平视中景突出人物姿态和相互位置。画面：色片廊木台边，皮皮和桃桃摊开空试纸与深蓝浅黄颜料。入镜角色：皮皮、桃桃。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.29,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "桃桃与皮皮相对坐在试色桌边，桌上有刚刷好的深绿色叶",
+      "location": "博物馆调色工作廊",
+      "character_names": [
+        "桃桃",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "桃桃蘸了点蓝，把试纸推到两人中间。",
+        "大厅那片叶已经挂好了，小桌上还可以长出下一片。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "博物馆调色工作廊。平视中景突出人物姿态和相互位置。画面：桃桃与皮皮相对坐在试色桌边，桌上有刚刷好的深绿色叶。入镜角色：桃桃、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 19.97,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v2剧本与九镜已编写，配音、插画、封面、字幕及视频待制作",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/结构化JSON/ep020.json",
+    "scope": "按用户反馈重写人物互动、故事事件、场景及九镜",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始"
+  }
+}

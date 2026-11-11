@@ -1,0 +1,272 @@
+{
+  "schema_version": 2,
+  "script_version": "v3",
+  "id": "ep089",
+  "episode": 89,
+  "title": "旧书摊换来一场旅行",
+  "cover_title": "旧书旅行",
+  "category": "社区",
+  "theme": "把自己喜欢过的东西分享出去",
+  "setting": "老榆图书馆门前旧书集、旧书集里的树根阅读席",
+  "viewpoint_character": "圆圆",
+  "guest": "圆圆、桃桃",
+  "character_names": [
+    "圆圆",
+    "皮皮",
+    "桃桃"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "成片约120秒，配音后实测校时",
+  "cn_characters": 284,
+  "initial_duration_budget_s": 121.02,
+  "shots": [
+    {
+      "id": 1,
+      "title": "旧书摊摆着不同图册，圆圆请皮皮和桃桃各带一本",
+      "location": "老榆图书馆门前旧书集",
+      "character_names": [
+        "圆圆",
+        "皮皮",
+        "桃桃"
+      ],
+      "narration_lines": [
+        "圆圆办了个旧书集。",
+        "皮皮带来画小火车的书，可一摆上去，又想把它带回家。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "老榆图书馆门前旧书集。竖幅远景交代空间和前后层次。画面：旧书摊摆着不同图册，圆圆请皮皮和桃桃各带一本。入镜角色：圆圆、皮皮、桃桃。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 13.02,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "皮皮把手放在书脊上，圆圆在摊边等他开口",
+      "location": "老榆图书馆门前旧书集",
+      "character_names": [
+        "圆圆",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "圆圆问他是不是还想读。",
+        "皮皮说，这本书里有一站叫青坡，他每次都停在那一页。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "老榆图书馆门前旧书集。平视中景突出人物姿态和相互位置。画面：皮皮把手放在书脊上，圆圆在摊边等他开口。入镜角色：圆圆、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.71,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "桃桃翻开自己的旧画册，露出青坡草地插画",
+      "location": "老榆图书馆门前旧书集",
+      "character_names": [
+        "桃桃"
+      ],
+      "narration_lines": [
+        "桃桃拿来自己的画册。",
+        "里头刚好也有青坡，从站台往里走，能看见一片长草。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "老榆图书馆门前旧书集。近景突出手边动作或道具状态。画面：桃桃翻开自己的旧画册，露出青坡草地插画。入镜角色：桃桃。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.02,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "两本书并排打开，铁路图与草地图片接在纸边",
+      "location": "旧书集里的树根阅读席",
+      "character_names": [
+        "圆圆",
+        "皮皮",
+        "桃桃"
+      ],
+      "narration_lines": [
+        "他们先一起读。",
+        "皮皮把火车开到站，桃桃再翻一页，让书里的朋友从草地继续走。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "俯视呈现平面上的物件和路线",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "旧书集里的树根阅读席。俯视呈现平面上的物件和路线。画面：两本书并排打开，铁路图与草地图片接在纸边。入镜角色：圆圆、皮皮、桃桃。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.71,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "三位坐树根席看同一条纸路，圆圆递两枚空书签",
+      "location": "旧书集里的树根阅读席",
+      "character_names": [
+        "圆圆",
+        "皮皮",
+        "桃桃"
+      ],
+      "narration_lines": [
+        "圆圆给他们留了两枚空书签。",
+        "皮皮在一枚上画站台，桃桃在另一枚画那片草。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "旧书集里的树根阅读席。平视中景突出人物姿态和相互位置。画面：三位坐树根席看同一条纸路，圆圆递两枚空书签。入镜角色：圆圆、皮皮、桃桃。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "皮皮和桃桃各拿对方的书，原来的书签仍留在书中",
+      "location": "老榆图书馆门前旧书集",
+      "character_names": [
+        "圆圆",
+        "皮皮",
+        "桃桃"
+      ],
+      "narration_lines": [
+        "皮皮问，能不能先交换读，过几天再决定要不要留下。",
+        "桃桃正想看看火车，就点了头。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "老榆图书馆门前旧书集。侧面中景展示动作方向与相邻环境。画面：皮皮和桃桃各拿对方的书，原来的书签仍留在书中。入镜角色：圆圆、皮皮、桃桃。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 13.05,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "皮皮把青坡图页的小书签夹回原位，另一本抱在胸前",
+      "location": "老榆图书馆门前旧书集",
+      "character_names": [
+        "皮皮"
+      ],
+      "narration_lines": [
+        "他把最喜欢的那页夹好，让桃桃也能马上找到。",
+        "自己拿着画册，从青坡的草地读起。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "老榆图书馆门前旧书集。近景突出手边动作或道具状态。画面：皮皮把青坡图页的小书签夹回原位，另一本抱在胸前。入镜角色：皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 13.05,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "过几天，两人带着书回树根席，圆圆站在低书架前",
+      "location": "旧书集里的树根阅读席",
+      "character_names": [
+        "圆圆",
+        "皮皮",
+        "桃桃"
+      ],
+      "narration_lines": [
+        "过几天，他们又来到树下。",
+        "桃桃想再借两天，皮皮也想多看看青坡，圆圆给他们留了位置。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "旧书集里的树根阅读席。平视中景突出人物姿态和相互位置。画面：过几天，两人带着书回树根席，圆圆站在低书架前。入镜角色：圆圆、皮皮、桃桃。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 13.74,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "树根阅读席有两个翻开的书位，风把纸页吹起一点",
+      "location": "旧书集里的树根阅读席",
+      "character_names": [],
+      "narration_lines": [
+        "树下两本书都没有合上。",
+        "一趟旅行到了车站，另一趟才要从草地出发。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "旧书集里的树根阅读席。近景突出手边动作或道具状态。画面：树根阅读席有两个翻开的书位，风把纸页吹起一点。入镜角色：无，仅画环境或道具。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 18.38,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v3剧本和九镜已校时估算，实际配音及后续制作待进行",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/多场景版v2/结构化JSON/ep089.json",
+    "scope": "以约两分钟为目标逐集校时，补充偏短故事的动作、对话或线索，压缩偏长的重复表述",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始",
+    "previous_script_sha256": "15fff1cde1af5f3be4f8591b7a8da1ed4970114587dbede70d4e5838020cd4fd",
+    "edited_shots": []
+  },
+  "duration_plan": {
+    "target_s": 120,
+    "planning_range_s": [
+      115,
+      125
+    ],
+    "estimated_s": 121.02,
+    "v2_estimated_using_same_method_s": 121.02,
+    "reference_narration_hanzi_per_second": 2.899607,
+    "opening_s": 1.0,
+    "tail_in_final_shot_s": 8.0
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": 3,
+  "script_version": "v4",
+  "id": "ep087",
+  "episode": 87,
+  "title": "小梦邮局的最后一封信",
+  "theme": "结束付出后也给自己一句晚安",
+  "language": "zh-CN",
+  "production_scope": "adopted_user_long_script",
+  "status": "copyedited_media_not_started",
+  "narration_paragraphs": [
+    {
+      "id": "p001",
+      "text": "这个星期，森林学堂里开展了一个特别温馨的活动，叫作“好梦小邮差”。每个小朋友都可以画一些小小的祝福卡片，放进班级的信箱里，送给自己的好朋友。\n皮皮被大家推选为这个星期的“小梦邮局局长”，每天负责帮大家整理和派发卡片，他干得可热心、可认真了。"
+    },
+    {
+      "id": "p002",
+      "text": "今天是星期五的傍晚，皮皮回到家里，坐在卧室的书桌前，用彩色铅笔在画纸上画了一间童话般的“小梦邮局”：邮局有圆圆的木头小窗户，门口还立着一只天蓝色的小信箱。\n画好邮局后，皮皮裁出几张方形的小纸片，开始给自己最要好的朋友们准备周末的“晚安好梦信”。"
+    },
+    {
+      "id": "p003",
+      "text": "他先给力气大却爱害羞的小熊绒绒，画了一片软绵绵的大白云，祝他睡得像云朵一样软；接着，他给贪吃又活泼的小松鼠团团，画了一枚饱满的大松果；然后，他又给怕扎到别人的小刺猬栗栗，画了一块厚实平整的小坐垫。\n每一张小纸片，都是皮皮想送给好朋友的一份专属好梦。画完之后，皮皮把这几张满载心意的小纸片，一张张整整齐齐地放进了画纸旁边的松木小盒子里，准备下周一带去学堂发给大家。"
+    },
+    {
+      "id": "p004",
+      "text": "忙活了好半天，皮皮伸了个懒腰，正准备把彩铅收回笔筒里去睡觉。\n就在这时，他低头一看，发现在书桌的右下角，还安安静静地躺着最后一张空着的小纸片！"
+    },
+    {
+      "id": "p005",
+      "text": "皮皮拿起那张空白的小纸片愣了一下：小熊有了，小松鼠有了，小刺猬和小鹿也都有了……我给身边所有的小伙伴都送去了好梦，那这一整天忙着照顾大家的我自己呢？\n皮皮微微一笑，重新拿起暖黄色的彩铅，在这最后一张小纸片上，认认真真地画了一张结实的小木床，又在木床上画了一条蓬松的暖黄色小毛毯，和一只小小的胡萝卜玩偶。"
+    },
+    {
+      "id": "p006",
+      "text": "这最后一封温柔的晚安信，是皮皮专门写给自己的！\n把给自己的信也放进木盒最上面后，皮皮轻轻合上了木盒的盖子，在心里宣布：“叮咚，今晚的小梦邮局正式下班关门啦！”明天和下周，还可以继续给朋友们送出温柔，但今晚的邮局局长要去休息了。"
+    },
+    {
+      "id": "p007",
+      "text": "洗漱完毕，皮皮钻进了卧室里那张真正的小被窝，把胡萝卜玩偶抱近胸口。躺下的那一刻，他觉得自己已经稳稳当当地收到了刚才亲手写给自己的那封晚安信，全身上下都暖洋洋的。\n皮皮的眼睛慢慢闭好，书桌上画着蓝色小信箱的画纸，也在柔和的床头灯光里安安静静地歇着。"
+    },
+    {
+      "id": "p008",
+      "text": "小朋友，平时你一定也像皮皮一样，对爸爸妈妈和朋友们付出了许多爱与关心；今晚睡觉前，记得也要把最后一封晚安信送给自己哦。愿你做个最舒服的好梦，晚安。"
+    }
+  ],
+  "cn_characters": 857,
+  "narration_sha256": "3e97fb32cf53c177f34c58afbbea875ce7ff0baab500cbef022140997e7d4ac1",
+  "source": {
+    "path": "/Users/ww/Downloads/100集睡前故事合集.md",
+    "sha256": "3feafa137e94824baccf8b6e3f3f24bac3e97714b2e201fcc48d461d8969c302",
+    "original_narration_sha256": "87b993de8152c734195f5200b5871ddf93fc74aa4b8b6d55a76f490817ed21cc",
+    "original_paragraph_count": 8
+  },
+  "revision_record": [
+    {
+      "change_id": "C006",
+      "episode": "ep087",
+      "paragraph_id": "p006",
+      "before": "是皮皮专门写给留给自己的",
+      "after": "是皮皮专门写给自己的",
+      "reason": "去除叠写，不删情节"
+    }
+  ],
+  "duration_policy": {
+    "basis": "complete_narration_at_current_voice_settings",
+    "limit_s": null,
+    "delete_for_duration": false,
+    "time_stretch": false
+  },
+  "voice": {
+    "config": "03_素材与参数/配音与声音参数.json",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000
+  },
+  "actual_duration_s": null,
+  "character_registry": "03_素材与参数/用户长稿v4角色图库.json",
+  "storyboard": {
+    "status": "not_started",
+    "shots": [],
+    "timing_basis": "actual_audio",
+    "preferred_hold_s": [
+      8,
+      10
+    ],
+    "review_above_s": 15,
+    "short_action_hold_s": [
+      3,
+      5
+    ]
+  },
+  "material_state": {
+    "voice": "not_started",
+    "character_references": "not_generated",
+    "illustrations": "not_started",
+    "cover": "not_started",
+    "pinyin_review": "not_started",
+    "render": "not_started",
+    "technical_check": "not_started",
+    "human_watch": "not_started",
+    "user_acceptance": "not_recorded"
+  }
+}

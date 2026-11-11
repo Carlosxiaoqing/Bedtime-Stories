@@ -1,0 +1,91 @@
+{
+  "schema_version": 3,
+  "script_version": "v4",
+  "id": "ep066",
+  "episode": 66,
+  "title": "彩带的慢慢结",
+  "theme": "用从容替代用力",
+  "language": "zh-CN",
+  "production_scope": "adopted_user_long_script",
+  "status": "copyedited_media_not_started",
+  "narration_paragraphs": [
+    {
+      "id": "p001",
+      "text": "这个学期，皮皮在学堂里画了好多幅漂亮的风景画。为了把这些画纸好好保存起来，今天傍晚，皮皮找来了一只扁平的长方形硬纸盒，把画纸按顺序一张张放平装好。\n为了让画盒看起来更像一份珍贵的礼物，皮皮还从手工篮里找出了一条长长的、天蓝色的丝绸小彩带，想在画盒外面系一个漂亮的结。"
+    },
+    {
+      "id": "p002",
+      "text": "因为丝绸彩带平时是卷在圆筒上收纳的，当皮皮把它抽出来铺在桌上时，彩带的一端就像有记忆一样，顺着原来的弧度自己慢慢地卷成了一个小圈儿。\n皮皮两只小爪子捏着彩带两端，想把它一下子拉直，于是稍微使了点劲儿往两边一扯——谁知道，那个原本松散的小卷儿，被他猛地一拉，反而绕在了一起，变成了一个紧紧的小死结！"
+    },
+    {
+      "id": "p003",
+      "text": "皮皮愣了一下，又试着拽了拽，越是用力气拉，丝绸彩带滑溜溜的结就缩得越紧，连带着皮皮的小鼻尖都快要急出汗来了。\n皮皮赶紧停下了使劲拉扯的小爪子。他深吸了一口气，松开手，把那条天蓝色的彩带重新放回了平平整整的书桌桌面上。"
+    },
+    {
+      "id": "p004",
+      "text": "没有了双手的拉拽，软软的丝绸彩带在桌面上自己松了一点儿劲。\n皮皮凑近桌面，不再跟它拔河，而是伸出两根小手指，顺着彩带原本弯曲的方向，耐心地往回推了一点，慢慢展开一圈，再慢慢展开一圈……不到一会儿工夫，那个乱糟糟的小结就自己散开了，天蓝色的彩带重新变得平顺又舒展。"
+    },
+    {
+      "id": "p005",
+      "text": "皮皮笑了。他把彩带轻轻绕过装满画纸的盒子，在盒盖正中间系结的时候，他没有再使大劲去勒紧，而是只打了一个松松软软的活结，让彩带的两端自然地垂落在盒边，一点儿也不强求它非得像画册里的蝴蝶结那样对称挺括。\n画纸已经安安稳稳地收在盒子里了，而那个松松的、不太一样的小结，也稳稳地坐在自己合适的地方，看上去温柔极了。"
+    },
+    {
+      "id": "p006",
+      "text": "皮皮把系好彩带的画盒放上书架，桌面重新空了出来，刚才因为用力而有些紧绷的小爪子，也彻底放松了。\n洗漱完钻进暖黄色的毛毯里，皮皮慢慢地放平自己的小肩膀。他发现，原来对待柔软的小东西也好，对待睡前的自己也好，都不需要一直用力气去紧绷着照看。"
+    },
+    {
+      "id": "p007",
+      "text": "胡萝卜玩偶轻轻靠着他的胸口，皮皮闭上眼睛，觉得心里好像也解开了一个小小的卷，变得无比顺畅。\n小朋友，遇到解不开的小麻烦时，给自己一点点从容吧。把手松一点，把动作慢一点，今晚你可以舒舒服服地好好休息啦。晚安。"
+    }
+  ],
+  "cn_characters": 809,
+  "narration_sha256": "2d6414cde73be75757c17215b8bd8b00a5e38dc3527d521a21f99d5daf0d2761",
+  "source": {
+    "path": "/Users/ww/Downloads/100集睡前故事合集.md",
+    "sha256": "3feafa137e94824baccf8b6e3f3f24bac3e97714b2e201fcc48d461d8969c302",
+    "original_narration_sha256": "2d6414cde73be75757c17215b8bd8b00a5e38dc3527d521a21f99d5daf0d2761",
+    "original_paragraph_count": 7
+  },
+  "revision_record": [],
+  "duration_policy": {
+    "basis": "complete_narration_at_current_voice_settings",
+    "limit_s": null,
+    "delete_for_duration": false,
+    "time_stretch": false
+  },
+  "voice": {
+    "config": "03_素材与参数/配音与声音参数.json",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000
+  },
+  "actual_duration_s": null,
+  "character_registry": "03_素材与参数/用户长稿v4角色图库.json",
+  "storyboard": {
+    "status": "not_started",
+    "shots": [],
+    "timing_basis": "actual_audio",
+    "preferred_hold_s": [
+      8,
+      10
+    ],
+    "review_above_s": 15,
+    "short_action_hold_s": [
+      3,
+      5
+    ]
+  },
+  "material_state": {
+    "voice": "not_started",
+    "character_references": "not_generated",
+    "illustrations": "not_started",
+    "cover": "not_started",
+    "pinyin_review": "not_started",
+    "render": "not_started",
+    "technical_check": "not_started",
+    "human_watch": "not_started",
+    "user_acceptance": "not_recorded"
+  }
+}

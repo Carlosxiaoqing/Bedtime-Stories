@@ -1,0 +1,91 @@
+{
+  "schema_version": 3,
+  "script_version": "v4",
+  "id": "ep061",
+  "episode": 61,
+  "title": "小画笔洗好澡",
+  "theme": "为创作留下柔和的收尾",
+  "language": "zh-CN",
+  "production_scope": "adopted_user_long_script",
+  "status": "copyedited_media_not_started",
+  "narration_paragraphs": [
+    {
+      "id": "p001",
+      "text": "升入高年级美术班后，皮皮开始学习用真正的水彩颜料和软毛画笔来画画了。\n今天下午放学回家，皮皮趁着傍晚的好光线，在书桌前画了一幅《春天的橡树林》。他调出了浅绿、翠绿和深绿好几种颜色，一笔一笔地画完了树林里最后一片小叶子。"
+    },
+    {
+      "id": "p002",
+      "text": "画完的时候，皮皮长长地舒了一口气，看着画纸上生机勃勃的树林，心里满满都是成就感。\n他放下画笔准备去洗漱睡觉，可低头一看，发现那支功劳最大的小画笔，笔尖上还留着一点点浅浅的绿色颜料，软软的笔毛因为沾着颜料，正黏在一起呢。"
+    },
+    {
+      "id": "p003",
+      "text": "山羊老师在课上提醒过大家：“如果画完画不帮小画笔洗澡，颜料干在上面，明天小画笔的毛就会变得硬邦邦的，再也画不出温柔的线条啦。”\n于是，皮皮没有偷懒。他端来一只装满清水的透明小玻璃杯，捏着画笔杆，把带着绿色的笔尖轻轻放进了水杯里，顺着水流慢慢地转了转。"
+    },
+    {
+      "id": "p004",
+      "text": "神奇的事情发生了：笔尖上的那一点点绿色，一碰到清水，立刻像一朵绿色的小云彩一样，在水杯里轻轻地、柔柔地散开了，把清水染成了极淡的薄荷色。\n皮皮没有把画笔按在杯底用力地乱搓，那样会弄痛画笔的软毛的。他只是顺着软毛生长的方向，在水里轻轻晃动，把颜色洗净；然后把画笔提起来，在旁边干净的吸水棉布巾上，轻轻按了按，吸掉了笔毛里多余的水分。"
+    },
+    {
+      "id": "p005",
+      "text": "洗好澡的小画笔，笔尖重新变得干干净净、聚拢整齐。皮皮把它平平地放在专门的木头笔架上，让柔软的笔尖悬空着，不再被任何东西压弯。而那只洗笔的小水杯，被换上清水后，也回到了自己的小木托盘里。\n至于桌上的那幅水彩画，皮皮没有急着在它还没干透的时候就塞进画册里，而是让它平平地留在桌面上，等着夜里的微风帮颜色慢慢晾干。"
+    },
+    {
+      "id": "p006",
+      "text": "床头灯照着桌角平静的水杯，今天画画用过的所有美丽颜色，都已经有了最安稳、最妥帖的去处。\n皮皮洗净自己的小爪子回到床边，钻进被窝，让暖黄色的毛毯轻轻盖过那条认真画了一傍晚画的小手臂。"
+    },
+    {
+      "id": "p007",
+      "text": "他抱好胡萝卜玩偶，慢慢闭上眼睛。笔架上的小画笔干干净净地歇着，被窝里的小小画家，也终于可以安心歇着了。\n小朋友，今天你画过的画、写过的字、度过的好时光，都会慢慢干透、留存下来。现在，洗干净小手，给自己一段干爽又安静的睡眠吧。晚安。"
+    }
+  ],
+  "cn_characters": 776,
+  "narration_sha256": "2c4b02b4fee2d6a87b70b532fd2a8f8792a2c4ea27435ba62626ef6d37657ee6",
+  "source": {
+    "path": "/Users/ww/Downloads/100集睡前故事合集.md",
+    "sha256": "3feafa137e94824baccf8b6e3f3f24bac3e97714b2e201fcc48d461d8969c302",
+    "original_narration_sha256": "2c4b02b4fee2d6a87b70b532fd2a8f8792a2c4ea27435ba62626ef6d37657ee6",
+    "original_paragraph_count": 7
+  },
+  "revision_record": [],
+  "duration_policy": {
+    "basis": "complete_narration_at_current_voice_settings",
+    "limit_s": null,
+    "delete_for_duration": false,
+    "time_stretch": false
+  },
+  "voice": {
+    "config": "03_素材与参数/配音与声音参数.json",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000
+  },
+  "actual_duration_s": null,
+  "character_registry": "03_素材与参数/用户长稿v4角色图库.json",
+  "storyboard": {
+    "status": "not_started",
+    "shots": [],
+    "timing_basis": "actual_audio",
+    "preferred_hold_s": [
+      8,
+      10
+    ],
+    "review_above_s": 15,
+    "short_action_hold_s": [
+      3,
+      5
+    ]
+  },
+  "material_state": {
+    "voice": "not_started",
+    "character_references": "not_generated",
+    "illustrations": "not_started",
+    "cover": "not_started",
+    "pinyin_review": "not_started",
+    "render": "not_started",
+    "technical_check": "not_started",
+    "human_watch": "not_started",
+    "user_acceptance": "not_recorded"
+  }
+}

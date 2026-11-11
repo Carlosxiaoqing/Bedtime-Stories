@@ -1,0 +1,257 @@
+{
+  "schema_version": 2,
+  "script_version": "v2",
+  "id": "ep039",
+  "episode": 39,
+  "title": "两种口味的早饭",
+  "cover_title": "两种早饭",
+  "category": "家庭",
+  "theme": "尊重别人的口味也能同桌分享",
+  "setting": "团团家早餐桌、团团家窗外小露台",
+  "viewpoint_character": "团团",
+  "guest": "团团、桃桃",
+  "character_names": [
+    "团团",
+    "桃桃",
+    "皮皮"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "按晓晓-35%实际口播、停顿和约8秒尾声确定",
+  "cn_characters": 264,
+  "initial_duration_budget_s": 105.55,
+  "shots": [
+    {
+      "id": 1,
+      "title": "早餐桌摆一篮白饼和两只调味小罐，团团给桃桃与皮皮拉椅",
+      "location": "团团家早餐桌",
+      "character_names": [
+        "团团",
+        "桃桃",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "团团请朋友吃早饭。",
+        "他家的饼要抹果酱，桃桃却习惯蘸一点咸咸的豆泥。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "团团家早餐桌。竖幅远景交代空间和前后层次。画面：早餐桌摆一篮白饼和两只调味小罐，团团给桃桃与皮皮拉椅。入镜角色：团团、桃桃、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "团团手握果酱勺，桃桃将小空碟往回收",
+      "location": "团团家早餐桌",
+      "character_names": [
+        "团团",
+        "桃桃"
+      ],
+      "narration_lines": [
+        "团团想先替她抹好。",
+        "桃桃把盘子往回收，说想吃没抹过的那一块。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "团团家早餐桌。平视中景突出人物姿态和相互位置。画面：团团手握果酱勺，桃桃将小空碟往回收。入镜角色：团团、桃桃。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 9.79,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "皮皮把白饼分放三盘，果酱和豆泥各在独立小碟",
+      "location": "团团家早餐桌",
+      "character_names": [
+        "皮皮"
+      ],
+      "narration_lines": [
+        "皮皮把两种味道装进小碟，白饼还是白饼。",
+        "大家想蘸哪种，伸手就能拿到。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "团团家早餐桌。近景突出手边动作或道具状态。画面：皮皮把白饼分放三盘，果酱和豆泥各在独立小碟。入镜角色：皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "团团盘里甜饼，桃桃盘里咸饼，皮皮试两小角",
+      "location": "团团家早餐桌",
+      "character_names": [
+        "团团",
+        "桃桃",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "先吃自己熟悉的那口。",
+        "吃完，团团闻到了豆泥的香，又想尝一小角。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "俯视呈现平面上的物件和路线",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "团团家早餐桌。俯视呈现平面上的物件和路线。画面：团团盘里甜饼，桃桃盘里咸饼，皮皮试两小角。入镜角色：团团、桃桃、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 9.79,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "桃桃递一只干净小勺，团团用白饼试一小口",
+      "location": "团团家早餐桌",
+      "character_names": [
+        "团团",
+        "桃桃"
+      ],
+      "narration_lines": [
+        "桃桃递过一只干净的小勺。",
+        "团团蘸了一点，觉得咸饼也很香，只是跟果酱不一样。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "团团家早餐桌。平视中景突出人物姿态和相互位置。画面：桃桃递一只干净小勺，团团用白饼试一小口。入镜角色：团团、桃桃。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.67,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "三位边吃边讨论，桌上两只小碟仍各自分开",
+      "location": "团团家早餐桌",
+      "character_names": [
+        "团团",
+        "桃桃",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "桃桃也尝了一点甜的，说下次还是想先吃咸的。",
+        "团团把果酱放回自己这边，点了点头。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "团团家早餐桌。侧面中景展示动作方向与相邻环境。画面：三位边吃边讨论，桌上两只小碟仍各自分开。入镜角色：团团、桃桃、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.29,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "三位到露台端杯坐下，桌上还留小半篮白饼",
+      "location": "团团家窗外小露台",
+      "character_names": [
+        "团团",
+        "桃桃",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "吃完早饭，他们坐到露台吹风。",
+        "皮皮把最后几块白饼分给想再吃的朋友。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "团团家窗外小露台。平视中景突出人物姿态和相互位置。画面：三位到露台端杯坐下，桌上还留小半篮白饼。入镜角色：团团、桃桃、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "团团收好调味罐，桌上留出两只小碟的位置",
+      "location": "团团家早餐桌",
+      "character_names": [
+        "团团"
+      ],
+      "narration_lines": [
+        "团团收桌时，把两个小碟留在桌角。",
+        "明天来客人，他就先问想吃什么味道。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "团团家早餐桌。近景突出手边动作或道具状态。画面：团团收好调味罐，桌上留出两只小碟的位置。入镜角色：团团。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "早餐露台空桌上有一片投下的细叶影",
+      "location": "团团家窗外小露台",
+      "character_names": [],
+      "narration_lines": [
+        "太阳慢慢走过露台。",
+        "屋里两种香味都还在，一种在甜罐子里，一种在咸碟边。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "团团家窗外小露台。近景突出手边动作或道具状态。画面：早餐露台空桌上有一片投下的细叶影。入镜角色：无，仅画环境或道具。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 18.09,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v2剧本与九镜已编写，配音、插画、封面、字幕及视频待制作",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/结构化JSON/ep039.json",
+    "scope": "按用户反馈重写人物互动、故事事件、场景及九镜",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始"
+  }
+}

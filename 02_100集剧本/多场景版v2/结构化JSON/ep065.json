@@ -1,0 +1,255 @@
+{
+  "schema_version": 2,
+  "script_version": "v2",
+  "id": "ep065",
+  "episode": 65,
+  "title": "门口那只没有名字的篮",
+  "cover_title": "门口的篮",
+  "category": "家庭",
+  "theme": "遇到别人的东西先想好怎么归还",
+  "setting": "皮皮家前廊、长耳街共用收件架",
+  "viewpoint_character": "皮皮",
+  "guest": "斑斑、灰灰",
+  "character_names": [
+    "皮皮",
+    "斑斑",
+    "灰灰"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "按晓晓-35%实际口播、停顿和约8秒尾声确定",
+  "cn_characters": 272,
+  "initial_duration_budget_s": 108.05,
+  "shots": [
+    {
+      "id": 1,
+      "title": "前廊台阶上有一只合盖藤篮，皮皮弯身停在门前",
+      "location": "皮皮家前廊",
+      "character_names": [
+        "皮皮"
+      ],
+      "narration_lines": [
+        "皮皮回家时，门口多了一只藤篮。",
+        "篮盖扣着，外面没有画他熟悉的叶子记号。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "皮皮家前廊。竖幅远景交代空间和前后层次。画面：前廊台阶上有一只合盖藤篮，皮皮弯身停在门前。入镜角色：皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.04,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "皮皮托住篮柄，来访的斑斑在旁指向未开篮盖",
+      "location": "皮皮家前廊",
+      "character_names": [
+        "皮皮",
+        "斑斑"
+      ],
+      "narration_lines": [
+        "斑斑猜是朋友送来的。",
+        "皮皮怕是放错门的，就先没打开，沿着篮柄摸了一圈。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "皮皮家前廊。平视中景突出人物姿态和相互位置。画面：皮皮托住篮柄，来访的斑斑在旁指向未开篮盖。入镜角色：皮皮、斑斑。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.04,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "篮柄背面系着一小段蓝白相间的布",
+      "location": "皮皮家前廊",
+      "character_names": [
+        "皮皮"
+      ],
+      "narration_lines": [
+        "提手背面系了一段蓝白布。",
+        "斑斑见过这种布，街口的收件架上也挂着一条。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "皮皮家前廊。近景突出手边动作或道具状态。画面：篮柄背面系着一小段蓝白相间的布。入镜角色：皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.04,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "两位把篮抬到收件架前，灰灰从旁边过来",
+      "location": "长耳街共用收件架",
+      "character_names": [
+        "皮皮",
+        "斑斑",
+        "灰灰"
+      ],
+      "narration_lines": [
+        "他们把篮拿到街口。",
+        "灰灰刚放完包裹，见了蓝白布，说那是给修伞铺的记号。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街共用收件架。侧面中景展示动作方向与相邻环境。画面：两位把篮抬到收件架前，灰灰从旁边过来。入镜角色：皮皮、斑斑、灰灰。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.04,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "收件架台面有蓝白布与一排不同图案的包裹",
+      "location": "长耳街共用收件架",
+      "character_names": [
+        "皮皮",
+        "斑斑",
+        "灰灰"
+      ],
+      "narration_lines": [
+        "他们在架上找见同样的布，把篮放过去。",
+        "灰灰给篮补了一张伞形牌，省得再送错。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "俯视呈现平面上的物件和路线",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街共用收件架。俯视呈现平面上的物件和路线。画面：收件架台面有蓝白布与一排不同图案的包裹。入镜角色：皮皮、斑斑、灰灰。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.67,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "灰灰向皮皮点头，斑斑抬爪比篮盖，篮仍合拢",
+      "location": "长耳街共用收件架",
+      "character_names": [
+        "皮皮",
+        "斑斑",
+        "灰灰"
+      ],
+      "narration_lines": [
+        "斑斑还想知道里面有什么。",
+        "灰灰笑着说，等铺子取走了，可以当面问一问。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街共用收件架。平视中景突出人物姿态和相互位置。画面：灰灰向皮皮点头，斑斑抬爪比篮盖，篮仍合拢。入镜角色：皮皮、斑斑、灰灰。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "第二天皮皮和斑斑在前廊，远处修伞铺主人招手",
+      "location": "皮皮家前廊",
+      "character_names": [
+        "皮皮",
+        "斑斑"
+      ],
+      "narration_lines": [
+        "第二天，修伞铺的朋友来道谢，说篮里是三块补伞布。",
+        "皮皮这才知道，一点也不是吃的。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "皮皮家前廊。侧面中景展示动作方向与相邻环境。画面：第二天皮皮和斑斑在前廊，远处修伞铺主人招手。入镜角色：皮皮、斑斑。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.29,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "皮皮将门边的旧叶形门牌擦干净，蓝白布不在画中",
+      "location": "皮皮家前廊",
+      "character_names": [
+        "皮皮"
+      ],
+      "narration_lines": [
+        "皮皮把门牌擦亮了一点。",
+        "下次有朋友送东西来，应该能看清那片叶子了。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "皮皮家前廊。近景突出手边动作或道具状态。画面：皮皮将门边的旧叶形门牌擦干净，蓝白布不在画中。入镜角色：皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "收件架伞形牌旁的空格，晚光透过架板",
+      "location": "长耳街共用收件架",
+      "character_names": [],
+      "narration_lines": [
+        "街口空出一格。",
+        "蓝白布还系在架子上，等下一件东西找到该去的地方。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街共用收件架。近景突出手边动作或道具状态。画面：收件架伞形牌旁的空格，晚光透过架板。入镜角色：无，仅画环境或道具。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 17.47,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v2剧本与九镜已编写，配音、插画、封面、字幕及视频待制作",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/结构化JSON/ep065.json",
+    "scope": "按用户反馈重写人物互动、故事事件、场景及九镜",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始"
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "schema_version": 2,
+  "script_version": "v2",
+  "id": "ep069",
+  "episode": 69,
+  "title": "给远船留一扇灯",
+  "cover_title": "港口灯扇",
+  "category": "出行",
+  "theme": "学会一件工作里不显眼的部分",
+  "setting": "青石港灯塔下环道、灯塔的海向小窗与桌面",
+  "viewpoint_character": "沐沐",
+  "guest": "沐沐、雪团",
+  "character_names": [
+    "沐沐",
+    "皮皮",
+    "雪团"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "按晓晓-35%实际口播、停顿和约8秒尾声确定",
+  "cn_characters": 268,
+  "initial_duration_budget_s": 106.81,
+  "shots": [
+    {
+      "id": 1,
+      "title": "灯塔环道有低矮围栏，沐沐与皮皮雪团走近",
+      "location": "青石港灯塔下环道",
+      "character_names": [
+        "沐沐",
+        "皮皮",
+        "雪团"
+      ],
+      "narration_lines": [
+        "沐沐请朋友来灯塔看亮灯。",
+        "皮皮以为天黑以后，把灯转亮一点就可以了。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "青石港灯塔下环道。竖幅远景交代空间和前后层次。画面：灯塔环道有低矮围栏，沐沐与皮皮雪团走近。入镜角色：沐沐、皮皮、雪团。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "窗前的桌面摆灯塔模型，沐沐用爪指向遮住一侧的壳",
+      "location": "灯塔的海向小窗与桌面",
+      "character_names": [
+        "沐沐",
+        "皮皮",
+        "雪团"
+      ],
+      "narration_lines": [
+        "沐沐拿出一只灯塔模型。",
+        "模型的灯罩有一面暗壳，只留一扇能照出去。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "灯塔的海向小窗与桌面。平视中景突出人物姿态和相互位置。画面：窗前的桌面摆灯塔模型，沐沐用爪指向遮住一侧的壳。入镜角色：沐沐、皮皮、雪团。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.42,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "从皮皮肩后看模型光束落到海面图，街区一侧没有光",
+      "location": "灯塔的海向小窗与桌面",
+      "character_names": [
+        "沐沐",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "皮皮把灯转向桌上的海面图。",
+        "光照过水线，却没照到离港口很近的房子。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "越肩构图同时看见观察者与目标",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "灯塔的海向小窗与桌面。越肩构图同时看见观察者与目标。画面：从皮皮肩后看模型光束落到海面图，街区一侧没有光。入镜角色：沐沐、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "雪团把模型旁的纸船移到海图外沿",
+      "location": "灯塔的海向小窗与桌面",
+      "character_names": [
+        "雪团"
+      ],
+      "narration_lines": [
+        "雪团把纸船推远一点。",
+        "沐沐转回灯罩，让那扇亮处朝向远船开来的水口。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "灯塔的海向小窗与桌面。近景突出手边动作或道具状态。画面：雪团把模型旁的纸船移到海图外沿。入镜角色：雪团。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "三位回到环道栏内，远处落日与港湾街灯各在一侧",
+      "location": "青石港灯塔下环道",
+      "character_names": [
+        "沐沐",
+        "皮皮",
+        "雪团"
+      ],
+      "narration_lines": [
+        "傍晚，他们回到环道上。",
+        "港口的屋子先亮了灯，远处的海还没有光。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "青石港灯塔下环道。侧面中景展示动作方向与相邻环境。画面：三位回到环道栏内，远处落日与港湾街灯各在一侧。入镜角色：沐沐、皮皮、雪团。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 9.79,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "从三位背后看灯塔一道缓慢掠过海口的柔亮光带",
+      "location": "青石港灯塔下环道",
+      "character_names": [
+        "沐沐",
+        "皮皮",
+        "雪团"
+      ],
+      "narration_lines": [
+        "灯塔转到海口时，有一小段亮扫过水面。",
+        "皮皮看见，光真的绕过了街上的屋子。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "越肩构图同时看见观察者与目标",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "青石港灯塔下环道。越肩构图同时看见观察者与目标。画面：从三位背后看灯塔一道缓慢掠过海口的柔亮光带。入镜角色：沐沐、皮皮、雪团。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "雪团沿栏杆指到水口，沐沐轻轻点头",
+      "location": "青石港灯塔下环道",
+      "character_names": [
+        "沐沐",
+        "雪团"
+      ],
+      "narration_lines": [
+        "雪团说，船如果从这里来，应该先看见那扇亮。",
+        "沐沐点点头，没有再把窗边的灯加亮。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "青石港灯塔下环道。平视中景突出人物姿态和相互位置。画面：雪团沿栏杆指到水口，沐沐轻轻点头。入镜角色：沐沐、雪团。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.98,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "皮皮合上灯塔模型箱盖，沐沐把纸船放在箱外",
+      "location": "灯塔的海向小窗与桌面",
+      "character_names": [
+        "沐沐",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "收好模型时，皮皮让纸船还停在图外。",
+        "他想留它在那个能先看到光的地方。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "灯塔的海向小窗与桌面。近景突出手边动作或道具状态。画面：皮皮合上灯塔模型箱盖，沐沐把纸船放在箱外。入镜角色：沐沐、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.04,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "灯塔环道已经空下，远处亮处只照过港外水面",
+      "location": "青石港灯塔下环道",
+      "character_names": [],
+      "narration_lines": [
+        "回去的路上，灯塔又慢慢亮过一次。",
+        "那束光没有追着他们，只去接海口那边来的船。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "青石港灯塔下环道。竖幅远景交代空间和前后层次。画面：灯塔环道已经空下，远处亮处只照过港外水面。入镜角色：无，仅画环境或道具。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 19.03,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v2剧本与九镜已编写，配音、插画、封面、字幕及视频待制作",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/结构化JSON/ep069.json",
+    "scope": "按用户反馈重写人物互动、故事事件、场景及九镜",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始"
+  }
+}

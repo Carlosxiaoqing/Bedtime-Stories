@@ -1,0 +1,91 @@
+{
+  "schema_version": 3,
+  "script_version": "v4",
+  "id": "ep065",
+  "episode": 65,
+  "title": "小鼓也要休息",
+  "theme": "把热闹温柔地收住",
+  "language": "zh-CN",
+  "production_scope": "adopted_user_long_script",
+  "status": "copyedited_media_not_started",
+  "narration_paragraphs": [
+    {
+      "id": "p001",
+      "text": "森林学堂一年一度的“夏日草地音乐会”就要到了，皮皮在班级乐团里担任神气的小鼓手。\n今天下午，小松鼠团团和小鹿芽芽来到皮皮家院子里一起排练。皮皮把他的红边小圆鼓挂在胸前，手里握着两根圆头小木槌，“咚哒、咚咚哒”，敲出了整齐又欢快的节奏，伙伴们跟着鼓点拍手唱歌，热闹的笑声传出去老远。"
+    },
+    {
+      "id": "p002",
+      "text": "傍晚送走朋友们后，皮皮把小圆鼓带回屋里，随手放在了卧室游戏角的软地垫上。\n吃过晚饭，洗完热水澡，夜色已经完全笼罩了森林。皮皮走进安静下来的卧室，一眼就看见了还摆在地垫中央的那面小圆鼓。"
+    },
+    {
+      "id": "p003",
+      "text": "白天的时候，小圆鼓可精神啦，鼓面紧绷绷的，每一次木槌落下都会发出洪亮的声响；可是现在到了晚上，屋里静悄悄的，小圆鼓孤零零地待在地垫上，白色的鼓面在柔和的灯光下显得安安静静的，好像也有点儿累了。\n皮皮蹲到地垫旁，伸出小爪子，把散落在鼓边的两根圆头小鼓槌轻轻拿了起来。"
+    },
+    {
+      "id": "p004",
+      "text": "这回，他没有再举起鼓槌去敲哪怕一下鼓面，而是拿来一只细长的绒布小袋子，把两根辛苦了一下午的小鼓槌平平地放进去，让它们并排躺在软布袋里休息。\n接着，皮皮拿来一块干净干燥的软布巾，顺着小鼓红色的木头边框，轻轻擦去了白天沾上的草屑和手印；然后双手稳稳地抱起小圆鼓，把它放回了墙角低低的专属木架上。"
+    },
+    {
+      "id": "p005",
+      "text": "放好之后，皮皮还觉得不够妥帖，又从篮子里找出一小块透气的纯棉方布，轻轻盖在了白色的鼓面上，看起来就像是替忙碌了一整天的小圆鼓，拉好了一条轻柔的小被子。\n随着棉布落下，卧室的游戏角彻底不再忙碌了。白天那个叮咚作响、热热闹闹的地方，终于也有了属于它自己的一小块安静夜色。"
+    },
+    {
+      "id": "p006",
+      "text": "皮皮把软地垫的边角铺平，慢吞吞地走向自己的小木床，连踩在地板上的脚步声，都比刚才还要轻柔了一点。\n他钻进被窝，抱好胡萝卜玩偶，把两只小爪子平放在暖黄色的毛毯上，手指不再跟着白天的音乐节奏轻轻拍打。"
+    },
+    {
+      "id": "p007",
+      "text": "皮皮的眼睛闭上了，两只长耳朵也彻底放松下来。原来，那个白天最喜欢热闹鼓点的小兔子，到了晚上，也同样喜欢这份无人打扰的、舒服的安静。\n小朋友，今天玩过的热闹游戏、听过的欢快音乐，都可以先盖上小被子歇一会儿啦。现在，让安静温柔地陪着你，慢慢睡去吧。晚安。"
+    }
+  ],
+  "cn_characters": 778,
+  "narration_sha256": "646915429c982fe5dc99c72f89eb1167c13c540bbc4e72de85f6000d67860045",
+  "source": {
+    "path": "/Users/ww/Downloads/100集睡前故事合集.md",
+    "sha256": "3feafa137e94824baccf8b6e3f3f24bac3e97714b2e201fcc48d461d8969c302",
+    "original_narration_sha256": "646915429c982fe5dc99c72f89eb1167c13c540bbc4e72de85f6000d67860045",
+    "original_paragraph_count": 7
+  },
+  "revision_record": [],
+  "duration_policy": {
+    "basis": "complete_narration_at_current_voice_settings",
+    "limit_s": null,
+    "delete_for_duration": false,
+    "time_stretch": false
+  },
+  "voice": {
+    "config": "03_素材与参数/配音与声音参数.json",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000
+  },
+  "actual_duration_s": null,
+  "character_registry": "03_素材与参数/用户长稿v4角色图库.json",
+  "storyboard": {
+    "status": "not_started",
+    "shots": [],
+    "timing_basis": "actual_audio",
+    "preferred_hold_s": [
+      8,
+      10
+    ],
+    "review_above_s": 15,
+    "short_action_hold_s": [
+      3,
+      5
+    ]
+  },
+  "material_state": {
+    "voice": "not_started",
+    "character_references": "not_generated",
+    "illustrations": "not_started",
+    "cover": "not_started",
+    "pinyin_review": "not_started",
+    "render": "not_started",
+    "technical_check": "not_started",
+    "human_watch": "not_started",
+    "user_acceptance": "not_recorded"
+  }
+}

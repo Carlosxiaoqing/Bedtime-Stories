@@ -1,0 +1,107 @@
+{
+  "text": "还有一个小被角折在床边，皮皮用爪子把它一点一点展开。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "2bc9f421f90491655bf8c7c4c3410a1784bfdb26930236beee421bc219857e5f",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 4807500,
+      "text": "还有"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6269160,
+      "duration": 3077080,
+      "text": "一个"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9538330,
+      "duration": 2884580,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12422910,
+      "duration": 2500000,
+      "text": "被"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15115410,
+      "duration": 5384580,
+      "text": "角折"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20692500,
+      "duration": 2115410,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23000000,
+      "duration": 4038330,
+      "text": "床"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27038330,
+      "duration": 3846250,
+      "text": "边"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 35884580,
+      "duration": 4615410,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 40692500,
+      "duration": 2500000,
+      "text": "用"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 43384580,
+      "duration": 8653750,
+      "text": "爪子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 53577080,
+      "duration": 1922910,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 55500000,
+      "duration": 1922910,
+      "text": "它"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 57807500,
+      "duration": 5000000,
+      "text": "一点"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 63000000,
+      "duration": 4615410,
+      "text": "一点"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 67807500,
+      "duration": 7500000,
+      "text": "展开"
+    }
+  ]
+}

@@ -1,0 +1,278 @@
+{
+  "schema_version": 2,
+  "script_version": "v3",
+  "id": "ep032",
+  "episode": 32,
+  "title": "渡船最宽的那扇门",
+  "cover_title": "渡船宽门",
+  "category": "出行",
+  "theme": "新地方也能为不同朋友留位置",
+  "setting": "青石港渡船登船道、短渡船观景甲板、对岸木码头",
+  "viewpoint_character": "朵朵",
+  "guest": "朵朵、沐沐",
+  "character_names": [
+    "朵朵",
+    "沐沐",
+    "皮皮"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "成片约120秒，配音后实测校时",
+  "cn_characters": 289,
+  "initial_duration_budget_s": 123.47,
+  "shots": [
+    {
+      "id": 1,
+      "title": "渡船停稳，朵朵与沐沐、皮皮在登船道等待",
+      "location": "青石港渡船登船道",
+      "character_names": [
+        "朵朵",
+        "沐沐",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "朵朵想坐渡船。",
+        "上船时，她看见头顶有一截矮梁，便停在了木板桥前。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "青石港渡船登船道。竖幅远景交代空间和前后层次。画面：渡船停稳，朵朵与沐沐、皮皮在登船道等待。入镜角色：朵朵、沐沐、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.98,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "朵朵站在矮梁外，沐沐回头向船员指示",
+      "location": "青石港渡船登船道",
+      "character_names": [
+        "朵朵",
+        "沐沐"
+      ],
+      "narration_lines": [
+        "沐沐请船员过来看。",
+        "船员说，另一边也有门，宽一点，可以慢慢走过去。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "青石港渡船登船道。平视中景突出人物姿态和相互位置。画面：朵朵站在矮梁外，沐沐回头向船员指示。入镜角色：朵朵、沐沐。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.98,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "三位伙伴沿栏内走向更宽的登船门",
+      "location": "青石港渡船登船道",
+      "character_names": [
+        "朵朵",
+        "沐沐",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "他们沿码头走到另一头。",
+        "这里没有矮梁，朵朵把脚放稳，一步就上去了。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "青石港渡船登船道。侧面中景展示动作方向与相邻环境。画面：三位伙伴沿栏内走向更宽的登船门。入镜角色：朵朵、沐沐、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.33,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "皮皮坐小凳转头，朵朵在栏内指相邻站位",
+      "location": "短渡船观景甲板",
+      "character_names": [
+        "朵朵",
+        "沐沐",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "皮皮挑了靠边的小凳。",
+        "朵朵走过去试了试，发现旁边有一块站着看海的地方。",
+        "朵朵用鼻尖轻轻指了指那儿，皮皮一转头，也能跟她一起看海。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "短渡船观景甲板。竖幅远景交代空间和前后层次。画面：皮皮坐小凳转头，朵朵在栏内指相邻站位。入镜角色：朵朵、沐沐、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 21.7,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "沐沐拿一张小岛图，爪尖指向海面上的石头轮廓",
+      "location": "短渡船观景甲板",
+      "character_names": [
+        "沐沐"
+      ],
+      "narration_lines": [
+        "沐沐给他们看一张岛图。",
+        "先经过像馒头的石头，再经过两棵靠在一起的树。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "短渡船观景甲板。近景突出手边动作或道具状态。画面：沐沐拿一张小岛图，爪尖指向海面上的石头轮廓。入镜角色：沐沐。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.02,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "从朵朵肩后望水面圆石和更远处的小岛",
+      "location": "短渡船观景甲板",
+      "character_names": [
+        "朵朵",
+        "沐沐",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "朵朵站得高，最先看见圆石。",
+        "她压低鼻子给皮皮指方向，皮皮也跟着看到了。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "越肩构图同时看见观察者与目标",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "短渡船观景甲板。越肩构图同时看见观察者与目标。画面：从朵朵肩后望水面圆石和更远处的小岛。入镜角色：朵朵、沐沐、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.02,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "沐沐坐在凳旁，朵朵留在宽处，皮皮对照岛图",
+      "location": "短渡船观景甲板",
+      "character_names": [
+        "朵朵",
+        "沐沐",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "这下，坐着的和站着的都有景色可看。",
+        "沐沐画了个大圆，把大家看到的石头记下来。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "短渡船观景甲板。平视中景突出人物姿态和相互位置。画面：沐沐坐在凳旁，朵朵留在宽处，皮皮对照岛图。入镜角色：朵朵、沐沐、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 13.05,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "渡船靠稳后，伙伴沿对岸宽通道缓步离船",
+      "location": "对岸木码头",
+      "character_names": [
+        "朵朵",
+        "沐沐",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "船到对岸，朵朵熟门熟路走向宽门。",
+        "她还给身后拎大包的旅客留了一点距离。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "对岸木码头。侧面中景展示动作方向与相邻环境。画面：渡船靠稳后，伙伴沿对岸宽通道缓步离船。入镜角色：朵朵、沐沐、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "空码头宽门敞开，圆石在水面远处",
+      "location": "对岸木码头",
+      "character_names": [],
+      "narration_lines": [
+        "下船后他们在栏边回头。",
+        "海面上的圆石已经很远，那扇宽门还敞着。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "对岸木码头。竖幅远景交代空间和前后层次。画面：空码头宽门敞开，圆石在水面远处。入镜角色：无，仅画环境或道具。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 18.03,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v3剧本和九镜已校时估算，实际配音及后续制作待进行",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/多场景版v2/结构化JSON/ep032.json",
+    "scope": "以约两分钟为目标逐集校时，补充偏短故事的动作、对话或线索，压缩偏长的重复表述",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始",
+    "previous_script_sha256": "9c59f09a6bf886005672f33da6304b8433416f1e74de90bd2651a9cc02f28eb7",
+    "edited_shots": [
+      4
+    ]
+  },
+  "duration_plan": {
+    "target_s": 120,
+    "planning_range_s": [
+      115,
+      125
+    ],
+    "estimated_s": 123.47,
+    "v2_estimated_using_same_method_s": 114.13,
+    "reference_narration_hanzi_per_second": 2.899607,
+    "opening_s": 1.0,
+    "tail_in_final_shot_s": 8.0
+  }
+}

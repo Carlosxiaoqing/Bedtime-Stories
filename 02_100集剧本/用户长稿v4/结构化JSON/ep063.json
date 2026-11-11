@@ -1,0 +1,91 @@
+{
+  "schema_version": 3,
+  "script_version": "v4",
+  "id": "ep063",
+  "episode": 63,
+  "title": "圆纽扣的小位置",
+  "theme": "小东西也有恰好的归处",
+  "language": "zh-CN",
+  "production_scope": "adopted_user_long_script",
+  "status": "copyedited_media_not_started",
+  "narration_paragraphs": [
+    {
+      "id": "p001",
+      "text": "皮皮有一只平时用来装放大镜和标本夹的帆布小挎包，那是他去森林学堂上自然探索课时最喜欢的装备。\n可是昨天放学的时候，小挎包袋口那枚圆圆的木头纽扣松脱了。今天下午，热心的小田鼠米米来到皮皮家，用结实的麻线帮他把那枚暖棕色的圆木纽扣重新缝在了袋口上，缝得又端正又牢靠。"
+    },
+    {
+      "id": "p002",
+      "text": "缝好之后，皮皮开心地接过小挎包，把平时带的干净方巾、小本子装进包里，然后捏着袋口另一侧的软布扣环，想把扣环套到那枚圆木纽扣上试一试。\n可是，皮皮往下一拉扣环，却发现怎么这么费劲呀！袋口的帆布被他拉得紧紧的，软布环勉强够到纽扣边沿，绷得死死的，好像随时都会把刚缝好的纽扣再拽掉一样。"
+    },
+    {
+      "id": "p003",
+      "text": "皮皮停下手，奇怪地眨了眨眼：“米米，怎么扣不上呢？是不是扣环变小啦？”\n旁边的小田鼠米米凑过来摸了摸挎包的肚子，笑着摇摇头说：“不是扣环变小啦，是你刚才放方巾和小本子的时候，把它们全都堆在袋子最上面靠近袋口的地方了，把袋口撑得太鼓啦。”"
+    },
+    {
+      "id": "p004",
+      "text": "说着，米米教皮皮先把小挎包平平地放在桌面上，伸进小爪子，把挤在袋口的方巾和小本子轻轻往下推了推，让它们在宽敞的包底平平整整地坐好。\n神奇的事情发生了：当里面的东西往下坐稳之后，原本鼓鼓囊囊的袋口，立刻自然而然地松弛了下来！"
+    },
+    {
+      "id": "p005",
+      "text": "这回，皮皮再捏起那个软布扣环往下一送——根本不需要使多大的力气，小布环就轻轻松松地套上了圆木纽扣，严丝合缝，稳稳当当地坐住了。\n皮皮伸出小爪子，摸了摸那枚光滑温润的圆木纽扣。在傍晚的灯光下，这枚暖棕色的木纽扣就像一轮小小的圆月亮，正安安静静、毫不费力地守着小挎包的入口。"
+    },
+    {
+      "id": "p006",
+      "text": "皮皮和米米一起把桌面收拾干净，在门廊前轻声道别。修补好的小挎包挂在门边的矮木架上，今天的修补和整理工作圆满结束了。\n洗漱过后，皮皮回到自己的小木床上。在盖被子的时候，他也想起了刚才扣纽扣的窍门，先把被窝里的身体往下顺了顺，再把暖黄毛毯的被角理松，让自己的身体在被窝里也有一个不紧绷、刚刚好的位置。"
+    },
+    {
+      "id": "p007",
+      "text": "胡萝卜玩偶抱好了，两只长耳朵放好了。皮皮慢慢闭上眼睛，小爪子再也不用拉着什么东西不肯松开了。\n小朋友，不管整理东西还是准备睡觉，都不需要用太大的力气去硬拽。把身体往下放平、放软，让舒服刚刚好地陪着你，暖暖地睡吧。晚安。"
+    }
+  ],
+  "cn_characters": 803,
+  "narration_sha256": "2b177be49abad2e9e1498905d3cf68e9c272b9e9adecd92b5e7266fea47350ac",
+  "source": {
+    "path": "/Users/ww/Downloads/100集睡前故事合集.md",
+    "sha256": "3feafa137e94824baccf8b6e3f3f24bac3e97714b2e201fcc48d461d8969c302",
+    "original_narration_sha256": "2b177be49abad2e9e1498905d3cf68e9c272b9e9adecd92b5e7266fea47350ac",
+    "original_paragraph_count": 7
+  },
+  "revision_record": [],
+  "duration_policy": {
+    "basis": "complete_narration_at_current_voice_settings",
+    "limit_s": null,
+    "delete_for_duration": false,
+    "time_stretch": false
+  },
+  "voice": {
+    "config": "03_素材与参数/配音与声音参数.json",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000
+  },
+  "actual_duration_s": null,
+  "character_registry": "03_素材与参数/用户长稿v4角色图库.json",
+  "storyboard": {
+    "status": "not_started",
+    "shots": [],
+    "timing_basis": "actual_audio",
+    "preferred_hold_s": [
+      8,
+      10
+    ],
+    "review_above_s": 15,
+    "short_action_hold_s": [
+      3,
+      5
+    ]
+  },
+  "material_state": {
+    "voice": "not_started",
+    "character_references": "not_generated",
+    "illustrations": "not_started",
+    "cover": "not_started",
+    "pinyin_review": "not_started",
+    "render": "not_started",
+    "technical_check": "not_started",
+    "human_watch": "not_started",
+    "user_acceptance": "not_recorded"
+  }
+}

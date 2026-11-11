@@ -1,0 +1,95 @@
+{
+  "schema_version": 3,
+  "script_version": "v4",
+  "id": "ep022",
+  "episode": 22,
+  "title": "小水洼里的月亮",
+  "theme": "看见变化而不必抓住",
+  "language": "zh-CN",
+  "production_scope": "adopted_user_long_script",
+  "status": "copyedited_media_not_started",
+  "narration_paragraphs": [
+    {
+      "id": "p001",
+      "text": "傍晚的那场阵雨终于停了，空气里飘着泥土和青草被洗干净后的淡淡清香。\n吃过晚饭后，小鼹鼠点点和皮皮约好在门廊前见一面，归还白天借走的彩色蜡笔。"
+    },
+    {
+      "id": "p002",
+      "text": "送走点点后，皮皮站在门廊的台阶上，低头一看，发现台阶前那块微微凹下去的青石板上，积了一小汪浅浅的雨水。\n更奇妙的是，天空中刚刚升起的那弯银白色的月亮，居然也掉进了这汪小水洼里！水洼里住着一弯小小、亮亮的月亮，正安安静静地望着皮皮呢。"
+    },
+    {
+      "id": "p003",
+      "text": "皮皮好奇地蹲下身子，把小脑袋凑近了一点。水里的月亮好像也害羞地靠近了一点，在水面上闪着柔和的光。\n皮皮刚想伸手去指给屋里的胡萝卜玩偶看，就在这时，一阵晚风吹过头顶的橡树，“啪嗒”一声，一片带着雨珠的树叶落了下来，正好掉进了小水洼的正中央。"
+    },
+    {
+      "id": "p004",
+      "text": "水面晃动起来，原本圆整又清晰的月牙儿，一下子碎成了好几条弯弯曲曲的银线，左右摇晃着，怎么看都拼不回刚才的样子了。\n皮皮伸出一半的小爪子停在半空，心里有一点点着急，想伸手去把那片捣乱的树叶捞出来，帮小月亮扶稳。"
+    },
+    {
+      "id": "p005",
+      "text": "可是皮皮转念一想：白天在科学角玩水盆的时候，手越是在水里搅动，水波就会晃得越厉害呀。\n于是，皮皮收回了小爪子，把双手抱在膝盖上，稳稳地坐在门廊的台阶上，耐心地等待水面自己安静下来。"
+    },
+    {
+      "id": "p006",
+      "text": "一秒，两秒，三秒……水洼里的波纹一圈一圈往外散开，越来越浅，越来越慢。\n过了一小会儿，水面重新变得像镜子一样平。那弯被打散的小月亮，又一点一点聚拢在了一起，恢复了安静明亮的模样；而且呀，在月亮旁边，还多了一片像小船一样的绿叶子陪着它呢。"
+    },
+    {
+      "id": "p007",
+      "text": "皮皮看着这一幕，开心地笑了，拍拍裤子站起身来。原来，天上有月亮，水里也有月亮，它们都不需要被抓在手里，留在原处就已经足够美好了。\n他关好小木门，回到干燥温暖的小床上，把微凉的小脚丫收进暖黄色的毛毯里。"
+    },
+    {
+      "id": "p008",
+      "text": "窗边的月光轻轻落下来。皮皮闭上眼睛，不再去等外面的每一条水波纹停好。\n小朋友，如果今天你的心里也有过像小水洼一样摇晃、着急的小心情，没关系，不用去抓它，只要安安静静地躺下来，心里的水波就会慢慢平静的。晚安。"
+    }
+  ],
+  "cn_characters": 729,
+  "narration_sha256": "3607f833124c6ce103fa44e8fb837d05872580840da0957ea2ac495ccf003303",
+  "source": {
+    "path": "/Users/ww/Downloads/100集睡前故事合集.md",
+    "sha256": "3feafa137e94824baccf8b6e3f3f24bac3e97714b2e201fcc48d461d8969c302",
+    "original_narration_sha256": "3607f833124c6ce103fa44e8fb837d05872580840da0957ea2ac495ccf003303",
+    "original_paragraph_count": 8
+  },
+  "revision_record": [],
+  "duration_policy": {
+    "basis": "complete_narration_at_current_voice_settings",
+    "limit_s": null,
+    "delete_for_duration": false,
+    "time_stretch": false
+  },
+  "voice": {
+    "config": "03_素材与参数/配音与声音参数.json",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000
+  },
+  "actual_duration_s": null,
+  "character_registry": "03_素材与参数/用户长稿v4角色图库.json",
+  "storyboard": {
+    "status": "not_started",
+    "shots": [],
+    "timing_basis": "actual_audio",
+    "preferred_hold_s": [
+      8,
+      10
+    ],
+    "review_above_s": 15,
+    "short_action_hold_s": [
+      3,
+      5
+    ]
+  },
+  "material_state": {
+    "voice": "not_started",
+    "character_references": "not_generated",
+    "illustrations": "not_started",
+    "cover": "not_started",
+    "pinyin_review": "not_started",
+    "render": "not_started",
+    "technical_check": "not_started",
+    "human_watch": "not_started",
+    "user_acceptance": "not_recorded"
+  }
+}

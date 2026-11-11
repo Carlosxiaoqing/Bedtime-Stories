@@ -1,0 +1,259 @@
+{
+  "schema_version": 2,
+  "script_version": "v2",
+  "id": "ep064",
+  "episode": 64,
+  "title": "会回信的山门",
+  "cover_title": "山门回信",
+  "category": "想象",
+  "theme": "好奇时试试另一种提问方式",
+  "setting": "折叠山下的石门、山门里的低音长廊",
+  "viewpoint_character": "灰灰",
+  "guest": "灰灰、点点",
+  "character_names": [
+    "灰灰",
+    "皮皮",
+    "点点"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "按晓晓-35%实际口播、停顿和约8秒尾声确定",
+  "cn_characters": 272,
+  "initial_duration_budget_s": 108.07,
+  "shots": [
+    {
+      "id": 1,
+      "title": "灰灰与皮皮、点点在折叠山石门前，门上有三片叶瓣",
+      "location": "折叠山下的石门",
+      "character_names": [
+        "灰灰",
+        "皮皮",
+        "点点"
+      ],
+      "narration_lines": [
+        "灰灰带朋友去看会回信的山门。",
+        "他问里面有人吗，门上只有一片小石叶翻了过来。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "折叠山下的石门。竖幅远景交代空间和前后层次。画面：灰灰与皮皮、点点在折叠山石门前，门上有三片叶瓣。入镜角色：灰灰、皮皮、点点。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.98,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "灰灰指到叶背的一枚螺旋纹，旁边两瓣仍合着",
+      "location": "折叠山下的石门",
+      "character_names": [
+        "灰灰"
+      ],
+      "narration_lines": [
+        "石叶背后是个螺旋。",
+        "灰灰又问了一遍，叶子还是停在同一个地方。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "折叠山下的石门。近景突出手边动作或道具状态。画面：灰灰指到叶背的一枚螺旋纹，旁边两瓣仍合着。入镜角色：灰灰。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 9.79,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "点点贴近低处石纹，皮皮和灰灰静站两侧",
+      "location": "折叠山下的石门",
+      "character_names": [
+        "灰灰",
+        "皮皮",
+        "点点"
+      ],
+      "narration_lines": [
+        "点点趴低一点，听见门里面有一声很细的嗡。",
+        "他猜门听不懂话，只认不同的声音。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "折叠山下的石门。平视中景突出人物姿态和相互位置。画面：点点贴近低处石纹，皮皮和灰灰静站两侧。入镜角色：灰灰、皮皮、点点。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.67,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "皮皮用爪轻拍一块低石，另两位朝门瓣抬头",
+      "location": "折叠山下的石门",
+      "character_names": [
+        "灰灰",
+        "皮皮",
+        "点点"
+      ],
+      "narration_lines": [
+        "皮皮轻轻拍两下石块。",
+        "第二片叶翻过去，露出两道并排的弯线。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "折叠山下的石门。侧面中景展示动作方向与相邻环境。画面：皮皮用爪轻拍一块低石，另两位朝门瓣抬头。入镜角色：灰灰、皮皮、点点。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 9.48,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "门前两片叶瓣打开，三位分别试用低哼与轻拍",
+      "location": "折叠山下的石门",
+      "character_names": [
+        "灰灰",
+        "皮皮",
+        "点点"
+      ],
+      "narration_lines": [
+        "灰灰试着低低哼一声，第三片叶终于打开。",
+        "三片叶合起来，是一张小门的样子。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "俯视呈现平面上的物件和路线",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "折叠山下的石门。俯视呈现平面上的物件和路线。画面：门前两片叶瓣打开，三位分别试用低哼与轻拍。入镜角色：灰灰、皮皮、点点。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "低音长廊入口打开，三位从平缓地面走进去",
+      "location": "山门里的低音长廊",
+      "character_names": [
+        "灰灰",
+        "皮皮",
+        "点点"
+      ],
+      "narration_lines": [
+        "石门慢慢让出一条缝。",
+        "长廊里没有谁在等，墙上有很多大小不同的石叶。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "山门里的低音长廊。竖幅远景交代空间和前后层次。画面：低音长廊入口打开，三位从平缓地面走进去。入镜角色：灰灰、皮皮、点点。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "点点向最低的一片石叶轻轻哼，叶背浮现一圈浅纹",
+      "location": "山门里的低音长廊",
+      "character_names": [
+        "点点"
+      ],
+      "narration_lines": [
+        "点点选最低那片，哼出很轻的一声。",
+        "那片叶子回给他一圈细纹，刚好像一扇洞门。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "山门里的低音长廊。近景突出手边动作或道具状态。画面：点点向最低的一片石叶轻轻哼，叶背浮现一圈浅纹。入镜角色：点点。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.67,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "三位在长廊低矮壁龛前，灰灰捧着空白画片",
+      "location": "山门里的低音长廊",
+      "character_names": [
+        "灰灰",
+        "皮皮",
+        "点点"
+      ],
+      "narration_lines": [
+        "灰灰把三种回信画到纸上。",
+        "他还留了一个空角，等下一次有人带来别的声音。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "山门里的低音长廊。平视中景突出人物姿态和相互位置。画面：三位在长廊低矮壁龛前，灰灰捧着空白画片。入镜角色：灰灰、皮皮、点点。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "山门石叶合回原处，远处出口透出浅光",
+      "location": "折叠山下的石门",
+      "character_names": [],
+      "narration_lines": [
+        "他们走出来以后，山门又合上了。",
+        "脚步声离开得很慢，最后一片石叶才轻轻翻回来。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "环境留白为主，关键物件或人物位于上部",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "折叠山下的石门。环境留白为主，关键物件或人物位于上部。画面：山门石叶合回原处，远处出口透出浅光。入镜角色：无，仅画环境或道具。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 19.03,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v2剧本与九镜已编写，配音、插画、封面、字幕及视频待制作",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/结构化JSON/ep064.json",
+    "scope": "按用户反馈重写人物互动、故事事件、场景及九镜",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始"
+  }
+}

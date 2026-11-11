@@ -1,0 +1,276 @@
+{
+  "schema_version": 2,
+  "script_version": "v3",
+  "id": "ep045",
+  "episode": 45,
+  "title": "梨梨留给自己的画框",
+  "cover_title": "我的画框",
+  "category": "社区",
+  "theme": "照顾大家时也给自己留位置",
+  "setting": "长耳街画摊工作桌、社区画廊展墙",
+  "viewpoint_character": "梨梨",
+  "guest": "梨梨、桃桃、米米",
+  "character_names": [
+    "梨梨",
+    "桃桃",
+    "皮皮",
+    "米米"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "成片约120秒，配音后实测校时",
+  "cn_characters": 285,
+  "initial_duration_budget_s": 120.65,
+  "shots": [
+    {
+      "id": 1,
+      "title": "四位在画摊裁好四个纸框，梨梨捧着一摞画",
+      "location": "长耳街画摊工作桌",
+      "character_names": [
+        "梨梨",
+        "桃桃",
+        "皮皮",
+        "米米"
+      ],
+      "narration_lines": [
+        "社区要挂小画。",
+        "梨梨帮桃桃、皮皮和米米选了框，等拿起自己的画，桌上只剩空纸。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街画摊工作桌。竖幅远景交代空间和前后层次。画面：四位在画摊裁好四个纸框，梨梨捧着一摞画。入镜角色：梨梨、桃桃、皮皮、米米。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 13.71,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "梨梨手里的长条画只有半截能放进最后的方框",
+      "location": "长耳街画摊工作桌",
+      "character_names": [
+        "梨梨"
+      ],
+      "narration_lines": [
+        "最后一个框太方。",
+        "梨梨把画折起一角，比了比，正好把她画的小尾巴折进去了。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街画摊工作桌。近景突出手边动作或道具状态。画面：梨梨手里的长条画只有半截能放进最后的方框。入镜角色：梨梨。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "梨梨摊平画角，完整尾巴在画面边露出",
+      "location": "长耳街画摊工作桌",
+      "character_names": [
+        "桃桃",
+        "梨梨"
+      ],
+      "narration_lines": [
+        "桃桃看见了，说：“尾巴也是你画的。你想把整张画都挂出来吗？”",
+        "梨梨把画角慢慢摊开，才发现那截尾巴也翘得很神气。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街画摊工作桌。平视中景突出人物姿态和相互位置。画面：梨梨摊平画角，完整尾巴在画面边露出。入镜角色：桃桃、梨梨。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 17.53,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "桌面上四幅画宽窄不一，米米摆出四根纸条",
+      "location": "长耳街画摊工作桌",
+      "character_names": [
+        "梨梨",
+        "桃桃",
+        "皮皮",
+        "米米"
+      ],
+      "narration_lines": [
+        "梨梨点头。",
+        "米米找来几条裁剩的纸，皮皮量两边，桃桃挑了一块颜色淡的角片。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "俯视呈现平面上的物件和路线",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街画摊工作桌。俯视呈现平面上的物件和路线。画面：桌面上四幅画宽窄不一，米米摆出四根纸条。入镜角色：梨梨、桃桃、皮皮、米米。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "梨梨把长纸条接到方框两侧，米米用手扶住边角",
+      "location": "长耳街画摊工作桌",
+      "character_names": [
+        "梨梨",
+        "皮皮",
+        "米米"
+      ],
+      "narration_lines": [
+        "他们把方框打开一点，把剩纸接到左右两边。",
+        "梨梨把自己的画从中间放了进去。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "长耳街画摊工作桌。侧面中景展示动作方向与相邻环境。画面：梨梨把长纸条接到方框两侧，米米用手扶住边角。入镜角色：梨梨、皮皮、米米。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.71,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "展墙前四位扶起宽画框，画中尾巴完整露出",
+      "location": "社区画廊展墙",
+      "character_names": [
+        "梨梨",
+        "桃桃",
+        "皮皮",
+        "米米"
+      ],
+      "narration_lines": [
+        "挂起来时，小尾巴刚好落在浅色边里。",
+        "梨梨离开两步，终于看到了整幅画。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "社区画廊展墙。平视中景突出人物姿态和相互位置。画面：展墙前四位扶起宽画框，画中尾巴完整露出。入镜角色：梨梨、桃桃、皮皮、米米。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.67,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "梨梨手指摸到新框的拼缝，缝内纸色深浅相接",
+      "location": "社区画廊展墙",
+      "character_names": [
+        "梨梨"
+      ],
+      "narration_lines": [
+        "她摸了摸边上的拼缝，说这一截是桃桃挑的，那一截是米米留下的。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "社区画廊展墙。近景突出手边动作或道具状态。画面：梨梨手指摸到新框的拼缝，缝内纸色深浅相接。入镜角色：梨梨。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.26,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "三位沿展墙逐幅停看，梨梨在自己的框前停得久",
+      "location": "社区画廊展墙",
+      "character_names": [
+        "梨梨",
+        "桃桃",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "大家从头看了四幅。",
+        "轮到自己的那幅，梨梨也安安静静看了很久。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "社区画廊展墙。侧面中景展示动作方向与相邻环境。画面：三位沿展墙逐幅停看，梨梨在自己的框前停得久。入镜角色：梨梨、桃桃、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.64,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "四个不同宽度的画框并排，最宽那幅露出狐狸尾巴",
+      "location": "社区画廊展墙",
+      "character_names": [],
+      "narration_lines": [
+        "画廊快关门时，四幅画还挂在一起。",
+        "最边上那一幅，刚好多出一条尾巴的地方。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "社区画廊展墙。近景突出手边动作或道具状态。画面：四个不同宽度的画框并排，最宽那幅露出狐狸尾巴。入镜角色：无，仅画环境或道具。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 19.41,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v3剧本和九镜已校时估算，实际配音及后续制作待进行",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/多场景版v2/结构化JSON/ep045.json",
+    "scope": "以约两分钟为目标逐集校时，补充偏短故事的动作、对话或线索，压缩偏长的重复表述",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始",
+    "previous_script_sha256": "c53f1701ab89033e1ba8561dd6a5d52c2c00dca6a54202dc1e3f037c771082d3",
+    "edited_shots": [
+      3
+    ]
+  },
+  "duration_plan": {
+    "target_s": 120,
+    "planning_range_s": [
+      115,
+      125
+    ],
+    "estimated_s": 120.65,
+    "v2_estimated_using_same_method_s": 112.34,
+    "reference_narration_hanzi_per_second": 2.899607,
+    "opening_s": 1.0,
+    "tail_in_final_shot_s": 8.0
+  }
+}

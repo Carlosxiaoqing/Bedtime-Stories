@@ -1,0 +1,13 @@
+{
+  "id": "ensemble_A",
+  "source": "/Users/ww/.codex/generated_images/01a1c779-b2c5-7591-8e26-7f019d36a778/exec-210439a1-a24b-4d9d-ba83-8caca7c6dd07.png",
+  "dest": "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/ensemble_A_scale_v001.png",
+  "prompt": "Use case: identity-preserve / illustration-story. Asset type: wide landscape ENSEMBLE SCALE REFERENCE, not an episode scene. The FIVE input model sheets are authoritative character identities in their order. Show EXACTLY those FIVE individuals ONCE EACH side by side, full body, feet on one shared level baseline, left to right in exact input order. Preserve EACH identity's exact face, fur/feather colors, markings, ear and tail shape and default clothes. Standing body-height ratios relative to Pipi (exclude tail/ear tips from ratios): 1 Pipi rabbit 1.0, no hat or clothes; 2 Lili hedgehog 0.85, sage vest; 3 Tuantuan squirrel 0.90, rust scarf, large curly tail which can rise above head; 4 Rongrong bear 1.40, dark green vest; 5 Diandian mole 0.65, beige apron. Plain ivory watercolor paper background, calm poses, soft low-contrast watercolor texture matching the source sheets, clear gaps between characters. No scenery, props, labels, numbers, letters, borders, panels or watermark. Do not include head close-ups. Do not duplicate or merge animals. Scale reference only; NEVER redesign any face. Leave enough margin that all feet, tails and ears are visible.",
+  "reference_inputs": [
+    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png",
+    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/tuantuan_identity_v001.png",
+    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/rongrong_identity_v001.png",
+    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/diandian_identity_v001.png"
+  ]
+}

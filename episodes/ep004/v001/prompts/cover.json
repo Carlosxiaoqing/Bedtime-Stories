@@ -1,0 +1,11 @@
+{
+  "id": "cover",
+  "source": "/Users/ww/.codex/generated_images/01a1c779-b2c5-7591-8e26-7f019d36a778/exec-2c09b89f-317b-4fc9-8da5-f991ea44553f.png",
+  "dest": "/Users/ww/视频/Bedtime-Stories/episodes/ep004/v001/cover_base.png",
+  "prompt": "Use case: illustration-story. Asset type: TEXT-FREE COVER BACKGROUND for episode 004 of a watercolor children's story. Input 1: Pipi rabbit identity. Input 2: Pipi WARDROBE reference, use ONLY the LEFT daytime outfit (muted dusty-blue overalls, oatmeal shirt, blue cloth shoes, small yellow backpack); ignore other outfits and do not copy multiple rabbits. Input 3: Lili hedgehog identity and sage vest. Draw exactly ONE Pipi and ONE Lili, the same faces, fur colors, ears and spines as references. Scene: a quiet sunny clover-covered flat patch HALFWAY up a softly rounded green woodland hill. The two friends sit peacefully next to one another sharing two small oat biscuits, one each. Pipi's yellow backpack rests beside him, Lili's small pale oat-cloth snack satchel rests open between them. A small stream glints far below; birch and oak trees frame the soft rolling hill, a tiny red-roof wooden cottage far off to the left. Gentle midday greens and warm ivory watercolor light, fine paper grain, rounded simple shapes, no 3D. VERTICAL 9:16 cover composition: both faces, paws, biscuits and recognizable seated bodies occupy the upper half (about y=0.2 to 0.53). The bottom 40% is calm low-detail soft grass for a later title card, no important subjects there. The hill crest is behind them, showing that they do not need to reach the top. NO text, letters, numbers, logos, watermarks, borders, frames, speech bubbles, teacher, squirrel or other characters. This is one cohesive story illustration, not a character sheet or collage.",
+  "reference_inputs": [
+    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+  ]
+}

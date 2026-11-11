@@ -1,0 +1,33 @@
+{
+  "offline_preflight": "passed",
+  "script_count": 100,
+  "adopted_version": "v4",
+  "latest_accepted": "ep004-v001",
+  "next_candidate": "ep005",
+  "next_candidate_authorized": false,
+  "cast_identities": 10,
+  "verified_identity_and_wardrobe_files": 11,
+  "verified_registered_reference_files": 13,
+  "planned_roles_without_images": [
+    "owl_aunt",
+    "magpie_postman",
+    "pipi_mother",
+    "pipi_father",
+    "bear_father",
+    "bear_mother",
+    "squirrel_mother",
+    "pipi_grandmother",
+    "squirrel_grandmother",
+    "pipi_cousin",
+    "ticket_inspector",
+    "snail_ep015",
+    "butterfly_ep055",
+    "swallow_ep059"
+  ],
+  "ep004_unique_plot_images": 35,
+  "video_required_for_preflight": false,
+  "tts_network": "not_tested_no_text_sent",
+  "image_generation_tool": "must_check_in_target_chat",
+  "cloud_runtime_execution": "not_certified_by_local_preflight",
+  "git_index_excludes_videos_and_archives": true
+}

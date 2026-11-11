@@ -1,0 +1,274 @@
+{
+  "schema_version": 2,
+  "script_version": "v3",
+  "id": "ep021",
+  "episode": 21,
+  "title": "谁来够高高的纸鸟",
+  "cover_title": "纸鸟降落",
+  "category": "学校",
+  "theme": "发现不同身高各有用处",
+  "setting": "榆树学校手工教室、教室外木平台",
+  "viewpoint_character": "朵朵",
+  "guest": "朵朵、米米",
+  "character_names": [
+    "朵朵",
+    "皮皮",
+    "米米"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "成片约120秒，配音后实测校时",
+  "cn_characters": 277,
+  "initial_duration_budget_s": 119.33,
+  "shots": [
+    {
+      "id": 1,
+      "title": "米米站在低桌边，朵朵抬头看高架上的纸鸟",
+      "location": "榆树学校手工教室",
+      "character_names": [
+        "朵朵",
+        "皮皮",
+        "米米"
+      ],
+      "narration_lines": [
+        "大家做了几只纸鸟。",
+        "放学前，最小那只挂到了高架上，米米伸长胳膊也够不到。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校手工教室。竖幅远景交代空间和前后层次。画面：米米站在低桌边，朵朵抬头看高架上的纸鸟。入镜角色：朵朵、皮皮、米米。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 13.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "朵朵抬鼻去够纸鸟，尾线卡在架角",
+      "location": "榆树学校手工教室",
+      "character_names": [
+        "朵朵",
+        "米米"
+      ],
+      "narration_lines": [
+        "朵朵帮她够。",
+        "纸鸟落下来一点，尾线却还卡在架角，拉一拉就要皱了。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校手工教室。侧面中景展示动作方向与相邻环境。画面：朵朵抬鼻去够纸鸟，尾线卡在架角。入镜角色：朵朵、米米。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.98,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "皮皮在低桌上发现一截绳从木孔穿出",
+      "location": "榆树学校手工教室",
+      "character_names": [
+        "皮皮"
+      ],
+      "narration_lines": [
+        "皮皮捏着线尾没动。",
+        "米米蹲下来看，发现尾线是从架子的小孔穿出来的。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校手工教室。近景突出手边动作或道具状态。画面：皮皮在低桌上发现一截绳从木孔穿出。入镜角色：皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.67,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "米米从矮架内侧观察木孔，爪尖指向松线",
+      "location": "榆树学校手工教室",
+      "character_names": [
+        "米米"
+      ],
+      "narration_lines": [
+        "从矮处看，孔后面还有一段松线。",
+        "她请朵朵先把纸鸟托高，别让尾线绷紧。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "低视角凸显脚边、地面与人物尺度",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校手工教室。低视角凸显脚边、地面与人物尺度。画面：米米从矮架内侧观察木孔，爪尖指向松线。入镜角色：米米。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.67,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "朵朵托纸鸟，米米从低处送线，皮皮扶架",
+      "location": "榆树学校手工教室",
+      "character_names": [
+        "朵朵",
+        "米米",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "朵朵托住鸟肚子，皮皮扶着木架。",
+        "米米轻轻把松线送了回去。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校手工教室。平视中景突出人物姿态和相互位置。画面：朵朵托纸鸟，米米从低处送线，皮皮扶架。入镜角色：朵朵、米米、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 9.95,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "纸鸟完整地站在米米两爪间",
+      "location": "榆树学校手工教室",
+      "character_names": [
+        "朵朵",
+        "米米"
+      ],
+      "narration_lines": [
+        "尾线从孔里出来了。",
+        "纸鸟落在两双手上，薄薄的翅膀一点也没破。",
+        "米米接过纸鸟，捏住没折的那边，让它在掌心平平站了一会儿。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校手工教室。近景突出手边动作或道具状态。画面：纸鸟完整地站在米米两爪间。入镜角色：朵朵、米米。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 19.98,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "木平台上，一排纸鸟夹在不同高度的短绳上",
+      "location": "教室外木平台",
+      "character_names": [
+        "朵朵",
+        "皮皮",
+        "米米"
+      ],
+      "narration_lines": [
+        "他们把纸鸟移到外面的低绳上。",
+        "最高那只归朵朵，最低那只离米米正近。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "教室外木平台。侧面中景展示动作方向与相邻环境。画面：木平台上，一排纸鸟夹在不同高度的短绳上。入镜角色：朵朵、皮皮、米米。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.67,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "米米站在低绳旁，一手扶小纸鸟，一手向朵朵招呼",
+      "location": "教室外木平台",
+      "character_names": [
+        "朵朵",
+        "米米"
+      ],
+      "narration_lines": [
+        "朵朵问，要不要把鸟全挂一样高。",
+        "米米抬起手就能碰到翅尖，笑着摇了摇头。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "教室外木平台。平视中景突出人物姿态和相互位置。画面：米米站在低绳旁，一手扶小纸鸟，一手向朵朵招呼。入镜角色：朵朵、米米。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.02,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "纸鸟高低错落，最后一只在平台边离地不远",
+      "location": "教室外木平台",
+      "character_names": [],
+      "narration_lines": [
+        "风吹过木平台。",
+        "纸鸟们各有一段天空，小小的那只，也飞在大家中间。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "教室外木平台。侧面中景展示动作方向与相邻环境。画面：纸鸟高低错落，最后一只在平台边离地不远。入镜角色：无，仅画环境或道具。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 18.03,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v3剧本和九镜已校时估算，实际配音及后续制作待进行",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/多场景版v2/结构化JSON/ep021.json",
+    "scope": "以约两分钟为目标逐集校时，补充偏短故事的动作、对话或线索，压缩偏长的重复表述",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始",
+    "previous_script_sha256": "a7f3fecb5e708b2d773b4f58808ce64974a4fde0b239c7c545120f63c96ec92b",
+    "edited_shots": [
+      6
+    ]
+  },
+  "duration_plan": {
+    "target_s": 120,
+    "planning_range_s": [
+      115,
+      125
+    ],
+    "estimated_s": 119.33,
+    "v2_estimated_using_same_method_s": 109.99,
+    "reference_narration_hanzi_per_second": 2.899607,
+    "opening_s": 1.0,
+    "tail_in_final_shot_s": 8.0
+  }
+}

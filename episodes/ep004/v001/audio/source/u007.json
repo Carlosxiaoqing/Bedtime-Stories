@@ -1,0 +1,47 @@
+{
+  "text": "皮皮没有急着去追团团。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "1f082b1cda6611abae794d445ecc665ac4626ab6717c81452a9a5097a40ec5d7",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5961660,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7422910,
+      "duration": 4422910,
+      "text": "没有"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12038330,
+      "duration": 4615410,
+      "text": "急着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16653750,
+      "duration": 2307500,
+      "text": "去"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19153750,
+      "duration": 2692500,
+      "text": "追"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21846250,
+      "duration": 8653750,
+      "text": "团团"
+    }
+  ]
+}

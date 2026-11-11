@@ -1,0 +1,274 @@
+{
+  "schema_version": 2,
+  "script_version": "v3",
+  "id": "ep056",
+  "episode": 56,
+  "title": "抽屉里的生日纸帽",
+  "cover_title": "纸帽惊喜",
+  "category": "家庭",
+  "theme": "想给惊喜也要尊重对方的边界",
+  "setting": "斑斑家公共起居间、起居间靠墙的手工桌",
+  "viewpoint_character": "斑斑",
+  "guest": "斑斑、桃桃",
+  "character_names": [
+    "斑斑",
+    "桃桃",
+    "皮皮"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "成片约120秒，配音后实测校时",
+  "cn_characters": 288,
+  "initial_duration_budget_s": 122.4,
+  "shots": [
+    {
+      "id": 1,
+      "title": "斑斑在公共桌边看见半掩抽屉，桃桃和皮皮在远端折纸",
+      "location": "斑斑家公共起居间",
+      "character_names": [
+        "斑斑",
+        "桃桃",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "斑斑回家时，桌边的抽屉没关严。",
+        "他看见里面露出一截彩纸，像自己喜欢的蓝。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "斑斑家公共起居间。竖幅远景交代空间和前后层次。画面：斑斑在公共桌边看见半掩抽屉，桃桃和皮皮在远端折纸。入镜角色：斑斑、桃桃、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 13.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "斑斑伸向抽屉的爪停在拉手上方",
+      "location": "斑斑家公共起居间",
+      "character_names": [
+        "斑斑"
+      ],
+      "narration_lines": [
+        "他伸手想拉开，听见桃桃说：“那是我放的。我还想留一会儿再给你看。”"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "斑斑家公共起居间。近景突出手边动作或道具状态。画面：斑斑伸向抽屉的爪停在拉手上方。入镜角色：斑斑。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.26,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "斑斑离开拉手，皮皮在公共桌上推来一张空纸",
+      "location": "斑斑家公共起居间",
+      "character_names": [
+        "斑斑",
+        "桃桃",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "斑斑收回手。",
+        "皮皮请他来折桌上的纸船，他折了两下，还是忍不住往抽屉那边瞧。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "斑斑家公共起居间。平视中景突出人物姿态和相互位置。画面：斑斑离开拉手，皮皮在公共桌上推来一张空纸。入镜角色：斑斑、桃桃、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.71,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "半成的纸船留在手工桌，斑斑的爪移回折线",
+      "location": "起居间靠墙的手工桌",
+      "character_names": [
+        "斑斑",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "他问什么时候能看。",
+        "桃桃说饭后就好，到时候她自己把东西拿出来。",
+        "斑斑看看桌上的半只纸船，决定先把它折完，再去吃饭。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.72,
+        0.95
+      ],
+      "camera": "俯视呈现平面上的物件和路线",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "起居间靠墙的手工桌。俯视呈现平面上的物件和路线。画面：半成的纸船留在手工桌，斑斑的爪移回折线。入镜角色：斑斑、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 19.29,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "三位在桌上为纸船添三角帆，抽屉留在背景",
+      "location": "起居间靠墙的手工桌",
+      "character_names": [
+        "斑斑",
+        "桃桃",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "斑斑点点头，给小船添一张帆。",
+        "他又折一张给桃桃，问她喜欢哪种颜色。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "起居间靠墙的手工桌。平视中景突出人物姿态和相互位置。画面：三位在桌上为纸船添三角帆，抽屉留在背景。入镜角色：斑斑、桃桃、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.33,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "饭后桃桃主动打开抽屉，皮皮和斑斑隔桌等候",
+      "location": "斑斑家公共起居间",
+      "character_names": [
+        "斑斑",
+        "桃桃",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "饭后，桃桃打开抽屉。",
+        "原来里面有一顶纸帽，还缺最后一颗蓝色圆点。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "斑斑家公共起居间。侧面中景展示动作方向与相邻环境。画面：饭后桃桃主动打开抽屉，皮皮和斑斑隔桌等候。入镜角色：斑斑、桃桃、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.98,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "斑斑试戴纸帽，桃桃将蓝点递到他面前",
+      "location": "斑斑家公共起居间",
+      "character_names": [
+        "斑斑",
+        "桃桃"
+      ],
+      "narration_lines": [
+        "桃桃请斑斑自己挑地方。",
+        "斑斑把蓝点贴在靠耳朵的一边，戴起来正合适。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "斑斑家公共起居间。平视中景突出人物姿态和相互位置。画面：斑斑试戴纸帽，桃桃将蓝点递到他面前。入镜角色：斑斑、桃桃。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.67,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "皮皮将一面纸帆赠给斑斑，蓝点纸帽居画面上方",
+      "location": "起居间靠墙的手工桌",
+      "character_names": [
+        "斑斑",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "皮皮把刚才折好的船也送给他。",
+        "斑斑看了看纸帆，发现它和帽子是同一张蓝纸。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "起居间靠墙的手工桌。近景突出手边动作或道具状态。画面：皮皮将一面纸帆赠给斑斑，蓝点纸帽居画面上方。入镜角色：斑斑、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.71,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "三条纸船在公共桌角并排，抽屉已经关合",
+      "location": "斑斑家公共起居间",
+      "character_names": [],
+      "narration_lines": [
+        "晚上收桌时，斑斑把纸帽放在船旁。",
+        "他很喜欢这一顶，也很喜欢等到饭后才看见它。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "斑斑家公共起居间。近景突出手边动作或道具状态。画面：三条纸船在公共桌角并排，抽屉已经关合。入镜角色：无，仅画环境或道具。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 20.1,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v3剧本和九镜已校时估算，实际配音及后续制作待进行",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/多场景版v2/结构化JSON/ep056.json",
+    "scope": "以约两分钟为目标逐集校时，补充偏短故事的动作、对话或线索，压缩偏长的重复表述",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始",
+    "previous_script_sha256": "39ba8b5aa1b95f38591ff02ec608b6d3cffdbbbc9e0b26516b08797ccd9c633f",
+    "edited_shots": [
+      4
+    ]
+  },
+  "duration_plan": {
+    "target_s": 120,
+    "planning_range_s": [
+      115,
+      125
+    ],
+    "estimated_s": 122.4,
+    "v2_estimated_using_same_method_s": 114.1,
+    "reference_narration_hanzi_per_second": 2.899607,
+    "opening_s": 1.0,
+    "tail_in_final_shot_s": 8.0
+  }
+}

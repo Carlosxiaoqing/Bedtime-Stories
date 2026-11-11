@@ -1,0 +1,99 @@
+{
+  "schema_version": 3,
+  "script_version": "v4",
+  "id": "ep064",
+  "episode": 64,
+  "title": "纸星星不必一样亮",
+  "theme": "接纳细小差异",
+  "language": "zh-CN",
+  "production_scope": "adopted_user_long_script",
+  "status": "copyedited_media_not_started",
+  "narration_paragraphs": [
+    {
+      "id": "p001",
+      "text": "今天在森林学堂的手工课上，山羊老师教大家用长长的彩色纸条，折出一颗颗立体的五角纸星星。\n皮皮学得特别认真，下课的时候，他已经学会怎么把纸条绕圈、穿插，再用小爪子轻轻捏出五个胖乎乎的星角了。"
+    },
+    {
+      "id": "p002",
+      "text": "傍晚回到家，吃过晚饭后，皮皮坐在卧室的小矮桌前，找出了家里收集的几种不同颜色的纸条，一口气又折了好几颗小纸星星。\n折完之后，皮皮把它们在桌面上摆成了长长的一排，仔细地端详起来："
+    },
+    {
+      "id": "p003",
+      "text": "你看，第一颗是用金黄色卡纸折的，颜色深深的，在灯光下特别亮；第二颗是用浅米色信纸折的，颜色淡淡的，看起来很温柔；还有最后一颗，因为纸条稍微软了一点，皮皮在捏角的时候，有一个小星角稍微歪了一点点，没有别的星星那么对称。"
+    },
+    {
+      "id": "p004",
+      "text": "皮皮托着腮帮子，想从这一排纸星星里，挑出长得最像、颜色一样亮、角也一样尖的一对，单独摆在床头最好看的位置。\n可是他左比比、右看看，挑了好一会儿也没有挑出来——因为每一颗纸星星都是用小爪子亲手折出来的，没有哪两颗是完完全全一模一样的呀。"
+    },
+    {
+      "id": "p005",
+      "text": "皮皮看着那颗歪着小角的浅色纸星星，心里想：难道因为它不够亮、不够整齐，就要把它藏到抽屉底下吗？\n皮皮摇了摇头。他从书架上拿来了一只浅浅的圆形松木盒，在盒底铺了一层软布，然后把桌上的所有纸星星，一颗接一颗全都请进了木盒里。"
+    },
+    {
+      "id": "p006",
+      "text": "他让那颗颜色最深的金黄星星，挨着那颗颜色最浅的米白星星；又让那颗歪着小角的软纸星星，舒舒服服地靠在木盒圆润的软边上。\n奇妙的事情发生了：当它们聚在同一只木盒里时，每一颗星星都有了自己合适的地方坐，谁也没有被嫌弃地挤到下面。深色衬托着浅色，歪角挨着圆边，整只木盒里反而变得像真正的夜空一样，丰富又好看！"
+    },
+    {
+      "id": "p007",
+      "text": "皮皮捧着木盒走到窗边，抬头望了望窗外的夜空。透过轻轻摇晃的树叶缝隙，天上的真星星看起来也是有大有小、有深有浅的，可它们从不互相比较谁更亮，只是安安静静地留在自己的位置上发光。\n皮皮把装满纸星星的松木盒放到床头柜上，再也没有去把那个歪掉的小角反反复复捏成一模一样的形状。"
+    },
+    {
+      "id": "p008",
+      "text": "钻进被窝，把暖黄色的毛毯盖到下巴，皮皮抱住胡萝卜玩偶。刚才心里那根想要挑出“最完美星星”的弦，也彻底松开了。\n他的眼睛轻轻闭好，房间里的灯光慢慢淡下来。各种各样不同的小星星，都可以在这个温柔的夜晚一起歇息。"
+    },
+    {
+      "id": "p009",
+      "text": "小朋友，每一颗星星都有自己的光亮，今天你也不必强迫自己和别人一模一样。留在你自己最舒服的样子里，安心睡觉吧。晚安。"
+    }
+  ],
+  "cn_characters": 866,
+  "narration_sha256": "f8df9b93ae5f10984eadecc7300165d9e4c6e7e3cde83c18c25bff69ce052125",
+  "source": {
+    "path": "/Users/ww/Downloads/100集睡前故事合集.md",
+    "sha256": "3feafa137e94824baccf8b6e3f3f24bac3e97714b2e201fcc48d461d8969c302",
+    "original_narration_sha256": "f8df9b93ae5f10984eadecc7300165d9e4c6e7e3cde83c18c25bff69ce052125",
+    "original_paragraph_count": 9
+  },
+  "revision_record": [],
+  "duration_policy": {
+    "basis": "complete_narration_at_current_voice_settings",
+    "limit_s": null,
+    "delete_for_duration": false,
+    "time_stretch": false
+  },
+  "voice": {
+    "config": "03_素材与参数/配音与声音参数.json",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000
+  },
+  "actual_duration_s": null,
+  "character_registry": "03_素材与参数/用户长稿v4角色图库.json",
+  "storyboard": {
+    "status": "not_started",
+    "shots": [],
+    "timing_basis": "actual_audio",
+    "preferred_hold_s": [
+      8,
+      10
+    ],
+    "review_above_s": 15,
+    "short_action_hold_s": [
+      3,
+      5
+    ]
+  },
+  "material_state": {
+    "voice": "not_started",
+    "character_references": "not_generated",
+    "illustrations": "not_started",
+    "cover": "not_started",
+    "pinyin_review": "not_started",
+    "render": "not_started",
+    "technical_check": "not_started",
+    "human_watch": "not_started",
+    "user_acceptance": "not_recorded"
+  }
+}

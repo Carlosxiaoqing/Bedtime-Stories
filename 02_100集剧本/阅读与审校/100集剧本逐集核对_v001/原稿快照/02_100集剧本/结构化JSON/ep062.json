@@ -1,0 +1,189 @@
+{
+  "schema_version": 2,
+  "id": "ep062",
+  "episode": 62,
+  "title": "拼图留到明天",
+  "theme": "未完成也可以安心停止",
+  "setting": "小木屋地垫与卧室",
+  "guest": "无",
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "约90–120秒；以实际配音为准",
+  "cn_characters": 240,
+  "initial_duration_budget_s": 97.5,
+  "shots": [
+    {
+      "id": 1,
+      "title": "地垫上的花园拼图",
+      "narration_lines": [
+        "皮皮在地垫上，拼一幅小花园。",
+        "草地已经连起来，花丛旁，还空着一个角。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "中景建立环境，主体位置清楚",
+      "image": "images/shot_01.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：地垫上的花园拼图。镜位：中景建立环境，主体位置清楚。",
+      "initial_budget_s": 11.42,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "几片未拼上的拼图",
+      "narration_lines": [
+        "他看看窗外，天色已经暗了。",
+        "手边还有几片拼图，像几扇，没合好的小门。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "主体或物件近景，保留地点线索",
+      "image": "images/shot_02.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：几片未拼上的拼图。镜位：主体或物件近景，保留地点线索。",
+      "initial_budget_s": 10.42,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "拼图移上平木板",
+      "narration_lines": [
+        "皮皮把拼好的部分，轻轻挪到平木板上，没有为了收拾，全部拆开。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "中近景呈现动作后的稳定姿态",
+      "image": "images/shot_03.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：拼图移上平木板。镜位：中近景呈现动作后的稳定姿态。",
+      "initial_budget_s": 9.07,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "小盒收好剩余拼图片",
+      "narration_lines": [
+        "没拼上的小片，也放进旁边的小盒子。",
+        "花园的入口，明天还能继续找到。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "细节特写，避免裁掉必要的爪子或道具",
+      "image": "images/shot_04.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：小盒收好剩余拼图片。镜位：细节特写，避免裁掉必要的爪子或道具。",
+      "initial_budget_s": 10.42,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "软布轻盖木板一角",
+      "narration_lines": [
+        "他用软布盖住木板的一角，给今天的花园，道了一声，轻轻的晚安。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "中景呈现情境变化，留低细节空间",
+      "image": "images/shot_05.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：软布轻盖木板一角。镜位：中景呈现情境变化，留低细节空间。",
+      "initial_budget_s": 9.07,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "皮皮坐稳放松肩膀",
+      "narration_lines": [
+        "原来，不用全拼好，也能收得稳稳的。",
+        "小爪子不忙了，肩膀也轻了一点。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "主体近景，暖光方向延续",
+      "image": "images/shot_06.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：皮皮坐稳放松肩膀。镜位：主体近景，暖光方向延续。",
+      "initial_budget_s": 10.11,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "暖黄被窝与玩偶",
+      "narration_lines": [
+        "皮皮钻进被窝，抱好玩偶。",
+        "那个空着的小角，没有跟到床上来催他。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "安顿动作中景或安静环境近景",
+      "image": "images/shot_07.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：暖黄被窝与玩偶。镜位：安顿动作中景或安静环境近景。",
+      "initial_budget_s": 9.79,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "闭眼皮皮与远处拼图",
+      "narration_lines": [
+        "眼睛慢慢闭合，花园安静地等着，今晚的小床，也安静地接住他。"
+      ],
+      "pause_after_s": [
+        1.1
+      ],
+      "camera": "放松姿态近景，光线略柔暗",
+      "image": "images/shot_08.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：闭眼皮皮与远处拼图。镜位：放松姿态近景，光线略柔暗。",
+      "initial_budget_s": 8.91,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "小床与收好拼图的远景",
+      "narration_lines": [
+        "小朋友，没有做完的喜欢，可以明天继续。",
+        "现在，好好休息就好。",
+        "晚安。"
+      ],
+      "pause_after_s": [
+        1.1,
+        1.1,
+        8.0
+      ],
+      "camera": "木屋卧室或可见卧室的中远景收束，主体安睡",
+      "image": "images/shot_09.png",
+      "motion": "camera",
+      "image_prompt": "本镜画面：小床与收好拼图的远景。镜位：木屋卧室或可见卧室的中远景收束，主体安睡。",
+      "initial_budget_s": 18.32,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "需按本集提示词生成图片并合成配音；不含尚未制作的图片或音频",
+  "shared_config": "03_素材与参数/共用画风与提示词.json",
+  "character_names": [
+    "皮皮"
+  ]
+}

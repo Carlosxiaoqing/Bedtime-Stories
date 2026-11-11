@@ -1,0 +1,17 @@
+{
+  "text": "这回，不高，也不低。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "edge_tts": "7.3.1",
+  "fingerprint": "bde8ccdcaa9c8cd21a978cc5bdcfd08e2c43cad6e913c18d967c826f601136d6",
+  "boundaries": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 1000000,
+      "duration": 39692305,
+      "text": "这回，不高，也不低。"
+    }
+  ]
+}

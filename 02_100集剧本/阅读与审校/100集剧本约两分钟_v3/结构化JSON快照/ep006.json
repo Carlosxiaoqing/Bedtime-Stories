@@ -1,0 +1,269 @@
+{
+  "schema_version": 2,
+  "script_version": "v3",
+  "id": "ep006",
+  "episode": 6,
+  "title": "晚饭桌上的空碗",
+  "cover_title": "一碗豆汤",
+  "category": "家庭",
+  "theme": "误会可以用一句话问清",
+  "setting": "梨梨家的灶间与饭桌、梨梨家外台阶",
+  "viewpoint_character": "梨梨",
+  "guest": "梨梨",
+  "character_names": [
+    "梨梨",
+    "皮皮"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "成片约120秒，配音后实测校时",
+  "cn_characters": 284,
+  "initial_duration_budget_s": 121.02,
+  "shots": [
+    {
+      "id": 1,
+      "title": "梨梨在饭桌摆三只碗，皮皮端着面包篮",
+      "location": "梨梨家的灶间与饭桌",
+      "character_names": [
+        "梨梨",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "小狐狸梨梨第一次请皮皮来家里吃饭。",
+        "桌上有三只碗，可椅子只摆了两把。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "梨梨家的灶间与饭桌。平视中景突出人物姿态和相互位置。画面：梨梨在饭桌摆三只碗，皮皮端着面包篮。入镜角色：梨梨、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 13.02,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "椅子停在门边，门槛留出可通行的空处",
+      "location": "梨梨家的灶间与饭桌",
+      "character_names": [
+        "梨梨"
+      ],
+      "narration_lines": [
+        "皮皮以为还有一位客人，就把自己那把椅子往门边挪了挪。",
+        "椅脚碰到门槛，他又把椅子拉回来一点。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "梨梨家的灶间与饭桌。近景突出手边动作或道具状态。画面：椅子停在门边，门槛留出可通行的空处。入镜角色：梨梨。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 15.46,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "皮皮扶着挪开的椅背，梨梨手停在勺柄上",
+      "location": "梨梨家的灶间与饭桌",
+      "character_names": [
+        "梨梨",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "梨梨看见了，以为皮皮坐不惯她的小椅子，忙问：“要换一把吗？”"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "梨梨家的灶间与饭桌。侧面中景展示动作方向与相邻环境。画面：皮皮扶着挪开的椅背，梨梨手停在勺柄上。入镜角色：梨梨、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 9.23,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "两位朋友在饭桌两侧对望，第三只空碗放在中间",
+      "location": "梨梨家的灶间与饭桌",
+      "character_names": [
+        "梨梨",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "皮皮摇摇头，指着那只碗。",
+        "“我在等第三位朋友呢。是谁呀？”"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "梨梨家的灶间与饭桌。平视中景突出人物姿态和相互位置。画面：两位朋友在饭桌两侧对望，第三只空碗放在中间。入镜角色：梨梨、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 9.26,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "梨梨指向配盖的第三只碗",
+      "location": "梨梨家的灶间与饭桌",
+      "character_names": [
+        "梨梨"
+      ],
+      "narration_lines": [
+        "梨梨笑了。",
+        "那是给奶奶盛汤的碗，奶奶晚上才从花圃回来。",
+        "她指了指碗盖，这碗豆汤可以先等奶奶回来。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.72,
+        0.95
+      ],
+      "camera": "俯视呈现平面上的物件和路线",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "梨梨家的灶间与饭桌。俯视呈现平面上的物件和路线。画面：梨梨指向配盖的第三只碗。入镜角色：梨梨。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 16.53,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "第三只碗旁放一把小勺，皮皮帮忙摆稳",
+      "location": "梨梨家的灶间与饭桌",
+      "character_names": [
+        "梨梨"
+      ],
+      "narration_lines": [
+        "她先舀了一碗豆汤盖好，又往皮皮面前的碗里放了几片烤面包。",
+        "皮皮闻见豆汤里有一点香草味，替梨梨把小勺摆在碗旁。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "梨梨家的灶间与饭桌。近景突出手边动作或道具状态。画面：第三只碗旁放一把小勺，皮皮帮忙摆稳。入镜角色：梨梨。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 18.57,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "皮皮把椅子搬回桌边，两人面前各有一碗汤",
+      "location": "梨梨家的灶间与饭桌",
+      "character_names": [
+        "梨梨",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "这回，皮皮把椅子搬近了。",
+        "两人说起白天的事，汤也慢慢凉到刚好。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "梨梨家的灶间与饭桌。平视中景突出人物姿态和相互位置。画面：皮皮把椅子搬回桌边，两人面前各有一碗汤。入镜角色：梨梨、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.64,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "吃完饭的两位朋友坐在台阶，梨梨望向归来小路",
+      "location": "梨梨家外台阶",
+      "character_names": [
+        "梨梨",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "吃过晚饭，他们到台阶上等奶奶。",
+        "皮皮猜她会带回一枝香草。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "梨梨家外台阶。侧面中景展示动作方向与相邻环境。画面：吃完饭的两位朋友坐在台阶，梨梨望向归来小路。入镜角色：梨梨、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 9.95,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "厨房桌角的加盖汤碗，旁边留一张空椅",
+      "location": "梨梨家的灶间与饭桌",
+      "character_names": [],
+      "narration_lines": [
+        "饭桌上还温着一碗汤。",
+        "等奶奶回来，椅子就在那儿，往前拉一拉就能坐。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "梨梨家的灶间与饭桌。近景突出手边动作或道具状态。画面：厨房桌角的加盖汤碗，旁边留一张空椅。入镜角色：无，仅画环境或道具。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 18.38,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v3剧本和九镜已校时估算，实际配音及后续制作待进行",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/多场景版v2/结构化JSON/ep006.json",
+    "scope": "以约两分钟为目标逐集校时，补充偏短故事的动作、对话或线索，压缩偏长的重复表述",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始",
+    "previous_script_sha256": "49772c053ad4637ecd0cc5414d7f5c6231347015e1f597e637aa701f8615d910",
+    "edited_shots": [
+      2,
+      5,
+      6
+    ]
+  },
+  "duration_plan": {
+    "target_s": 120,
+    "planning_range_s": [
+      115,
+      125
+    ],
+    "estimated_s": 121.02,
+    "v2_estimated_using_same_method_s": 99.21,
+    "reference_narration_hanzi_per_second": 2.899607,
+    "opening_s": 1.0,
+    "tail_in_final_shot_s": 8.0
+  }
+}

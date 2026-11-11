@@ -1,0 +1,713 @@
+{
+  "script_version": "v4",
+  "episode_count": 100,
+  "adopted_long_episode_count": 97,
+  "checks": {
+    "json_single_markdown_equal": true,
+    "json_collection_equal": true
+  },
+  "actual_audio_measured": false,
+  "storyboards_created": false,
+  "episodes": [
+    {
+      "episode": "ep001",
+      "paragraph_count": 9,
+      "cn_characters": 218,
+      "narration_sha256": "7b004fc5f175b4288dbcac04c67ff76c7dd2fe8293d6c4e8ce3bf8352e4a3cf8",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep002",
+      "paragraph_count": 9,
+      "cn_characters": 222,
+      "narration_sha256": "9418b9c6c2e7b3e4f3f0f7598458585f1d1780d5547866fb6e72014ec4292d90",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep003",
+      "paragraph_count": 9,
+      "cn_characters": 230,
+      "narration_sha256": "fdf03f10834b92093e9d00ac5906357d698e624bcf1e5611c5180b189f14b8db",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep004",
+      "paragraph_count": 11,
+      "cn_characters": 742,
+      "narration_sha256": "3ee59a09aef621bed816cbbf8214455b28ac36c7e0bd8af92071ee850cd50624",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep005",
+      "paragraph_count": 11,
+      "cn_characters": 700,
+      "narration_sha256": "aa5cec504cd90a1aa11a1c5fa656f1d2482f7037d75407b4451b489505b6726e",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep006",
+      "paragraph_count": 10,
+      "cn_characters": 703,
+      "narration_sha256": "f9e6e8ff8c068cba7fa06cea633be9729c411f22b089fb6fac7402115c6a7ed3",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep007",
+      "paragraph_count": 10,
+      "cn_characters": 684,
+      "narration_sha256": "a34d10c086c3784737b37458cc53bf908852e66abe6ff69a87ae19a4bdc24c46",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep008",
+      "paragraph_count": 9,
+      "cn_characters": 735,
+      "narration_sha256": "ddd9e8c4e3c0d0157a22c81fc7547f03d0dbe729084f0855de8198c5dafda481",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep009",
+      "paragraph_count": 8,
+      "cn_characters": 654,
+      "narration_sha256": "52666b0aa9a309f46c83955cdc112b9f07a50937df95336c02a43907540e3fe6",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep010",
+      "paragraph_count": 9,
+      "cn_characters": 708,
+      "narration_sha256": "7cae2f31c4a542613ce5ff2c01aa13a6a5035107990dd4b5a754fb3056d9dc93",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep011",
+      "paragraph_count": 9,
+      "cn_characters": 764,
+      "narration_sha256": "94a9fbaa482c47fb33069848d58eb6f1ed6e225dd4ddbb1914a602348548bb71",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep012",
+      "paragraph_count": 9,
+      "cn_characters": 769,
+      "narration_sha256": "1ce37b22c8b3ca43ef368af1d6121cef91a5962e638081943360763efc370151",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep013",
+      "paragraph_count": 8,
+      "cn_characters": 741,
+      "narration_sha256": "86c2700151d18bc8217e3ef715bf89167e46f7c5c8753143c400a2b675f67488",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep014",
+      "paragraph_count": 8,
+      "cn_characters": 714,
+      "narration_sha256": "8d6c33f8ac9c8f5666cfa787956330258035fa4d7e6eb2ce5f38ea5ebfa95cf8",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep015",
+      "paragraph_count": 8,
+      "cn_characters": 686,
+      "narration_sha256": "a1d21f30d74d62aebcb838316b3dec251de1e344ffbf8aa6f75822817723a274",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep016",
+      "paragraph_count": 9,
+      "cn_characters": 727,
+      "narration_sha256": "320fbb4af6166091d4c8dc005b8db0f3dfe6f9627c8d057523775779435db21c",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep017",
+      "paragraph_count": 9,
+      "cn_characters": 745,
+      "narration_sha256": "0339d1f0492efb0829a40ea9f766a4d02bedb87eb4ee5c131ba47f24b0a790bf",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep018",
+      "paragraph_count": 8,
+      "cn_characters": 734,
+      "narration_sha256": "0c8721340b09fb98267a349723927b7915150293996f0d62e8fa4a1bb1d0d777",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep019",
+      "paragraph_count": 8,
+      "cn_characters": 768,
+      "narration_sha256": "6fc234e3b654379bdd91f0ffc1cd5910b012a28a36b2f26051da29ce769708a1",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep020",
+      "paragraph_count": 8,
+      "cn_characters": 704,
+      "narration_sha256": "c1c4f102928db854c437f5894880cc96e729d1f56cdb29d9eb48f3157219a15c",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep021",
+      "paragraph_count": 7,
+      "cn_characters": 698,
+      "narration_sha256": "847a01b8e0084f22297fed52579ee17b4b7e4a854ceaca828bc238b2168e2c6d",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep022",
+      "paragraph_count": 8,
+      "cn_characters": 729,
+      "narration_sha256": "3607f833124c6ce103fa44e8fb837d05872580840da0957ea2ac495ccf003303",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep023",
+      "paragraph_count": 8,
+      "cn_characters": 726,
+      "narration_sha256": "1cd3013ef655e9d7615d54deee65192f01d9f8714cdf7d7828ddc3f089b2bf2d",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep024",
+      "paragraph_count": 9,
+      "cn_characters": 690,
+      "narration_sha256": "0bb5f15b5f042b6bd601f9ed98975d309a8bca7a50f15eb91c2d4d5405d12976",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep025",
+      "paragraph_count": 8,
+      "cn_characters": 677,
+      "narration_sha256": "9befda6fe74990808ae3fb057160db0a6277cb0ee7ba09fd8db4d0a9ec5f9a36",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep026",
+      "paragraph_count": 8,
+      "cn_characters": 712,
+      "narration_sha256": "95f82a31f28268d8fbf0d5f68d1a8b90712de379cf7dfa04c7bd2488cdc6fbf0",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep027",
+      "paragraph_count": 7,
+      "cn_characters": 613,
+      "narration_sha256": "ca8cd201a6f8157bf856914e85b34ce7e5a6df04c9295875357a5d1d38bef168",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep028",
+      "paragraph_count": 8,
+      "cn_characters": 697,
+      "narration_sha256": "03fcace5c750c968d73b4a2931d03ea6246270e22f5f144b985c04c0fb7ad403",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep029",
+      "paragraph_count": 6,
+      "cn_characters": 676,
+      "narration_sha256": "5bdebe220c86e02ac964c2040b626290cb97369fbd565467a4c8773868f38cc9",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep030",
+      "paragraph_count": 7,
+      "cn_characters": 681,
+      "narration_sha256": "23ba84c2e91d5e8ac62ec4f5a4c18600c26afe5554ec054bf71dc7335144134d",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep031",
+      "paragraph_count": 7,
+      "cn_characters": 728,
+      "narration_sha256": "5865cf484b7582466f65e19839797be2b1a3c3bb3ba71938f4965a274d6ca2cd",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep032",
+      "paragraph_count": 7,
+      "cn_characters": 718,
+      "narration_sha256": "a4ac07408a2446839e6c08df539a2174671d05e61b10cd58449731dfacd3e41d",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep033",
+      "paragraph_count": 7,
+      "cn_characters": 714,
+      "narration_sha256": "91de698a955930524e39acce18acdc97c202006b2e50feef1ffe739efce9d135",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep034",
+      "paragraph_count": 9,
+      "cn_characters": 738,
+      "narration_sha256": "c6d2d05c1a5c2bf8dd22f27c9628dd33503fd155d2cde367c50ef01911e532b9",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep035",
+      "paragraph_count": 8,
+      "cn_characters": 702,
+      "narration_sha256": "112ce99dd808e22a982cdde5b47f76fcda49a25050ccd5f37bd7cfd91da12b5c",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep036",
+      "paragraph_count": 7,
+      "cn_characters": 654,
+      "narration_sha256": "4e3df9510144669b7748c36a8b313e31ca1b72ba8801e5b5d2877117e24bb0ff",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep037",
+      "paragraph_count": 7,
+      "cn_characters": 705,
+      "narration_sha256": "f90ab838710a758d8770da42e05af142ed6386aec3f51cbda28fa56ef34fca6f",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep038",
+      "paragraph_count": 8,
+      "cn_characters": 709,
+      "narration_sha256": "2eb3b857c11b1fbef9cfed4d4f1bcc140a7a21849833156acac5318635d44db7",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep039",
+      "paragraph_count": 8,
+      "cn_characters": 690,
+      "narration_sha256": "045b8be6a4de62e837a1c9018d89865f1e850d8d3312d1049c3ed991dd414e5c",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep040",
+      "paragraph_count": 8,
+      "cn_characters": 711,
+      "narration_sha256": "ff48643288b59cd31b67697ce2494b64c72d0c6ef4547a723b2c044ae666d8dc",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep041",
+      "paragraph_count": 8,
+      "cn_characters": 704,
+      "narration_sha256": "881be6ddd5ca980e3820d6c5e6d35a0cc107de4cead3e1f89e3a2336cd59fcd6",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep042",
+      "paragraph_count": 7,
+      "cn_characters": 749,
+      "narration_sha256": "83c25f2152dc59cfdbd72223a92ebf9aa9cc9e4c0d266135c17e7e0a59ca029f",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep043",
+      "paragraph_count": 6,
+      "cn_characters": 734,
+      "narration_sha256": "1cfbf01f4f01abb18d50f8cdde4e6b5f2740dca4f01f3555d3e338e56c193d30",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep044",
+      "paragraph_count": 7,
+      "cn_characters": 670,
+      "narration_sha256": "2fbe64d218422a8075a5a2cd4c41badd9e9d4403a4c823587c73f426e5045bd2",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep045",
+      "paragraph_count": 7,
+      "cn_characters": 658,
+      "narration_sha256": "d0356d79d64be621985e35a23a7ac3e6126ca37d07a20c58f4b948f9423e247a",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep046",
+      "paragraph_count": 7,
+      "cn_characters": 660,
+      "narration_sha256": "2f71bb2d02ae7e0a18f38d2cf7fce73b997fa5466fc77da9d227658b93be3633",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep047",
+      "paragraph_count": 7,
+      "cn_characters": 658,
+      "narration_sha256": "3f4b72c26d8dd292954a68c9d2871a6ef5397e3543ff2fdf6b350ce92ccd7d64",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep048",
+      "paragraph_count": 6,
+      "cn_characters": 669,
+      "narration_sha256": "7097ae45fad1b8497aded9af9d6cc58b802aa15da9ac50580bc24abd74bb91a4",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep049",
+      "paragraph_count": 8,
+      "cn_characters": 770,
+      "narration_sha256": "347819687c5f23dac9a46c68ab65eb3bd69f5ed71e74348d037d23d88691183c",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep050",
+      "paragraph_count": 7,
+      "cn_characters": 771,
+      "narration_sha256": "c6c3800eacf1bdbccca379fdbb311b4fb39bbd2137afa48085c2ce19ac80ffa8",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep051",
+      "paragraph_count": 8,
+      "cn_characters": 812,
+      "narration_sha256": "7169c1fc3f6b8b10ba6b2bfa1d6bc7660e2a511f08429acf922d8823fb1369a3",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep052",
+      "paragraph_count": 7,
+      "cn_characters": 775,
+      "narration_sha256": "e0a06f6dc56e4e514ea1264eece93d85b9561811510eb158d3e8a4948417b569",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep053",
+      "paragraph_count": 8,
+      "cn_characters": 838,
+      "narration_sha256": "c35df287ddafea101c44a47b169aaed8f0333f05197ebd7216de3a644e64d71a",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep054",
+      "paragraph_count": 8,
+      "cn_characters": 873,
+      "narration_sha256": "e075029a008725d2f4ee838f2d5fd521924ec97a3dde97b5691064f69ed5ec77",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep055",
+      "paragraph_count": 8,
+      "cn_characters": 860,
+      "narration_sha256": "c3e937caf268e933d4995c36ebc2ccfd7bcd59760c439216bdffdb9861b99603",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep056",
+      "paragraph_count": 8,
+      "cn_characters": 839,
+      "narration_sha256": "fcf40252f37ec58c26244410bd234207efc2d83e72ac46635517ef23275cfe42",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep057",
+      "paragraph_count": 7,
+      "cn_characters": 792,
+      "narration_sha256": "daf1ba319a4d2c1198332cc47df4af4515144427bd4ef5d0328e7f9db40a5edd",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep058",
+      "paragraph_count": 8,
+      "cn_characters": 867,
+      "narration_sha256": "832bb112b37bc809546fda2304eb2c8df72db8ebe7477f75594f02e3a45c8267",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep059",
+      "paragraph_count": 7,
+      "cn_characters": 753,
+      "narration_sha256": "84df10272a9593b825408669be1bbf4cf58ce87fb77b337d0093ffa810e9a534",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep060",
+      "paragraph_count": 7,
+      "cn_characters": 709,
+      "narration_sha256": "6506914eacac34276efe1b0bc3fb3c914fccc093758cc77798dd405c046c1582",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep061",
+      "paragraph_count": 7,
+      "cn_characters": 776,
+      "narration_sha256": "2c4b02b4fee2d6a87b70b532fd2a8f8792a2c4ea27435ba62626ef6d37657ee6",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep062",
+      "paragraph_count": 8,
+      "cn_characters": 828,
+      "narration_sha256": "2b622822da322ecf091dff09934a7fc607821891a16d577ab37f456351b544e0",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep063",
+      "paragraph_count": 7,
+      "cn_characters": 803,
+      "narration_sha256": "2b177be49abad2e9e1498905d3cf68e9c272b9e9adecd92b5e7266fea47350ac",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep064",
+      "paragraph_count": 9,
+      "cn_characters": 866,
+      "narration_sha256": "f8df9b93ae5f10984eadecc7300165d9e4c6e7e3cde83c18c25bff69ce052125",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep065",
+      "paragraph_count": 7,
+      "cn_characters": 778,
+      "narration_sha256": "646915429c982fe5dc99c72f89eb1167c13c540bbc4e72de85f6000d67860045",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep066",
+      "paragraph_count": 7,
+      "cn_characters": 809,
+      "narration_sha256": "2d6414cde73be75757c17215b8bd8b00a5e38dc3527d521a21f99d5daf0d2761",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep067",
+      "paragraph_count": 7,
+      "cn_characters": 761,
+      "narration_sha256": "35d5d87dd8a599d952a4b7ece3402350e20267f6cb4fb97b89b714aa759f4f92",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep068",
+      "paragraph_count": 8,
+      "cn_characters": 781,
+      "narration_sha256": "85ae6a9cafbd8e194fd94a06e322039ee5c2090b309fd2e36e45aacc804f44e4",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep069",
+      "paragraph_count": 8,
+      "cn_characters": 759,
+      "narration_sha256": "79ea971327efe938490e8557429d35a222ce99fa9f9a7541632bd4305a83f816",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep070",
+      "paragraph_count": 7,
+      "cn_characters": 759,
+      "narration_sha256": "a20eeb0d2a27457a8d7c4856831976f2cc93d80780df5ccf7f60a9a07ab8a5d7",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep071",
+      "paragraph_count": 7,
+      "cn_characters": 751,
+      "narration_sha256": "8e2067fabfcbdabcf2245f29869c9017a98f1d446b886023c79e300ed761ba58",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep072",
+      "paragraph_count": 9,
+      "cn_characters": 803,
+      "narration_sha256": "663ee3a6611cff739ee21b23ece0d03d5a11430793541e546073f404f9ad2d2f",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep073",
+      "paragraph_count": 8,
+      "cn_characters": 843,
+      "narration_sha256": "e12a11be11d7906a9a26c84ecc160f5c5425f17578ffe4281e0fb06df79670eb",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep074",
+      "paragraph_count": 8,
+      "cn_characters": 782,
+      "narration_sha256": "3aadf0cc4cda60de65a7e492ff53182580636e38128e2db2388d2138346df0bb",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep075",
+      "paragraph_count": 8,
+      "cn_characters": 812,
+      "narration_sha256": "5bceb68e5d8ff73a14562cba5343ec673229e4c2fb7538edef5d9a1416c7e936",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep076",
+      "paragraph_count": 7,
+      "cn_characters": 765,
+      "narration_sha256": "2fa46d02e8bbcf0aafa2e4c8ff3b982e9f0b1a449c638f7342795a0c3625a3aa",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep077",
+      "paragraph_count": 7,
+      "cn_characters": 794,
+      "narration_sha256": "e7e93ea18598c0d905385fb7ec59cbf5d54c940e5c0a935cac21cb847d149eb3",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep078",
+      "paragraph_count": 8,
+      "cn_characters": 824,
+      "narration_sha256": "3296576c992845d0a4e021c91b41440adead633894fe3adf1ec45af826f30ac8",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep079",
+      "paragraph_count": 7,
+      "cn_characters": 774,
+      "narration_sha256": "75e1c403bf9b060baa5b1c07f5c3ea765b57cf07ff4707e986fc432fb71ff15e",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep080",
+      "paragraph_count": 8,
+      "cn_characters": 917,
+      "narration_sha256": "67d8cffb5731c45f8565fd0cc61f9e358ef5e8a9aa99cf65f2d80b952f04347b",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep081",
+      "paragraph_count": 7,
+      "cn_characters": 760,
+      "narration_sha256": "842c573b884f16271eb4a70128811ba6310ffc4b42031445a3a3a3e05c874deb",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep082",
+      "paragraph_count": 8,
+      "cn_characters": 743,
+      "narration_sha256": "3df02fb61567c408176055754992bb0915e782048b573cb1681f69daf260231c",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep083",
+      "paragraph_count": 7,
+      "cn_characters": 749,
+      "narration_sha256": "f2fded945184768f0536466c2db520e4c6f3f3b16cd23421888f54c532e3ed89",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep084",
+      "paragraph_count": 8,
+      "cn_characters": 803,
+      "narration_sha256": "6ec5b667995b49b1ab10536b6f2c8f6a05e1fd3831badcd1521e649d08482e12",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep085",
+      "paragraph_count": 8,
+      "cn_characters": 774,
+      "narration_sha256": "5fda084919bee2fa74d1671f227ea446bb41df8f5d7c5c233a8249b046fdd63a",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep086",
+      "paragraph_count": 7,
+      "cn_characters": 753,
+      "narration_sha256": "ac81ef9cfcb95525fb9194aa208ed0004ac91872fd9339f78c2ddcc007bdd942",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep087",
+      "paragraph_count": 8,
+      "cn_characters": 857,
+      "narration_sha256": "3e97fb32cf53c177f34c58afbbea875ce7ff0baab500cbef022140997e7d4ac1",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep088",
+      "paragraph_count": 7,
+      "cn_characters": 800,
+      "narration_sha256": "73f6a3b34b47b57b8a628a1434795b6e80a869c4b84f5d05800ab7e0799d0455",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep089",
+      "paragraph_count": 8,
+      "cn_characters": 794,
+      "narration_sha256": "cc9bed48ca8f60d08cf0f40a9ea835440e0584e87644df42f064fc1a1aeb0512",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep090",
+      "paragraph_count": 6,
+      "cn_characters": 734,
+      "narration_sha256": "df3f2ea014ac95c2cfaffa0b280a01efeb5b51a7e3c952dda10b5bb5a15b69e9",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep091",
+      "paragraph_count": 7,
+      "cn_characters": 801,
+      "narration_sha256": "b028d9deeb40359c9a872a017e83b41d969a2f28563964020cdcf48b3c03d1fb",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep092",
+      "paragraph_count": 7,
+      "cn_characters": 767,
+      "narration_sha256": "ccce4877b91f8c5fc43290906fccd051cf7689eea90e2198e3c6eb457aec3b1b",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep093",
+      "paragraph_count": 8,
+      "cn_characters": 849,
+      "narration_sha256": "ec1168c94d4d88929df468c6784d53dacfdb5b65bce925bd759f579b3a99d4d3",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep094",
+      "paragraph_count": 8,
+      "cn_characters": 789,
+      "narration_sha256": "7831bff9f8b875a6ce23a649a22325f2460ffdb3539884a93f7db695384422fe",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep095",
+      "paragraph_count": 8,
+      "cn_characters": 824,
+      "narration_sha256": "63fbf475adfc9a1755616d77bf2918f16f125920108949685032595ab6e76fc8",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep096",
+      "paragraph_count": 7,
+      "cn_characters": 736,
+      "narration_sha256": "4c78fdd53439c8f9abe359093c17cf7cabf63a6877f90944ad37f87d599013b8",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep097",
+      "paragraph_count": 8,
+      "cn_characters": 689,
+      "narration_sha256": "7df08656d524c77aaed5816a86d6230f9b4a3322a59e162be304452656eee687",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep098",
+      "paragraph_count": 7,
+      "cn_characters": 735,
+      "narration_sha256": "236946c806a4925d03825798d3d358f70ac3b17aaee9b8873d2411ef1b73d2cc",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep099",
+      "paragraph_count": 7,
+      "cn_characters": 781,
+      "narration_sha256": "a3326476b42bcfb7c9a746db049b599afcb442f8dfb1d6853b4f12662e060877",
+      "json_markdown_equal": true
+    },
+    {
+      "episode": "ep100",
+      "paragraph_count": 8,
+      "cn_characters": 862,
+      "narration_sha256": "89215abbd0e2b1b8a8ea2a0430dfc75020ef7713c12ae2c300948c5e179de40a",
+      "json_markdown_equal": true
+    }
+  ]
+}

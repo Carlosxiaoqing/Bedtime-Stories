@@ -1,0 +1,27 @@
+{
+  "archive_files": 306,
+  "archive_bytes": 263545179,
+  "archive_integrity": "passed",
+  "files": {
+    "ep004.mp4": {
+      "bytes": 56315300,
+      "sha256": "d88dbb3effea5ce9322f7d6970100e1b1160e0cbcbe49e8987469655ba57f311"
+    },
+    "ep004_clean.mp4": {
+      "bytes": 53214738,
+      "sha256": "7992dce51d151e16b634d69f9ea3f4774088062c7703276ca97a4c454be8530c"
+    },
+    "cover.png": {
+      "bytes": 3075707,
+      "sha256": "0409e98921d7f77c7d0385aa300cdd4fcff1f10e3631ecf096f87ee83f385390"
+    },
+    "发布文案.md": {
+      "bytes": 1547,
+      "sha256": "2bf2de48cce8fcfe174e617da33a53440a4fa2e48026ff653794b208677edc98"
+    },
+    "ep004_editable_sources.zip": {
+      "bytes": 263545179,
+      "sha256": "198f1a66c0ecbd3ff9a339e7dee87353e32cb5503096d60b2f61808d1cbc315a"
+    }
+  }
+}

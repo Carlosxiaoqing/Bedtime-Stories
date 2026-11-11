@@ -1,0 +1,29 @@
+{
+  "reviewer": "assistant",
+  "all_active_original_images": "visually_checked_35_of_35",
+  "storyboard_contact": "checks/storyboard_contact.jpg",
+  "final_movie_frames_s": [
+    6,
+    45,
+    81,
+    110,
+    145,
+    185,
+    215,
+    240,
+    267,
+    278.6
+  ],
+  "phone_preview_width_px": 360,
+  "observations": [
+    "人物身份与日间/睡前服装连续",
+    "栗栗与皮皮坐姿分享饼干，布包一致",
+    "后半段被褥状态变化及静态景别对应口播",
+    "字幕逐字上下对齐，手机尺度可读，未遮挡剧情主体",
+    "独立封面只有本集四字主题",
+    "末尾字幕消失，末4秒渐暗"
+  ],
+  "full_human_listen_watch": "not_certified",
+  "user_acceptance": "accepted",
+  "acceptance_record": "用户验收记录.json"
+}

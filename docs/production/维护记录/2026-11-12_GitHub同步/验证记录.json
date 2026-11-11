@@ -1,0 +1,8 @@
+{
+  "portable_copy_offline_preflight": "passed_without_original_absolute_paths",
+  "synthetic_other_episode_prompt": "passed_no_ep004_pose_injection",
+  "synthetic_other_episode_preview": "passed_2s_50frames_ep099_filename_only_in_temp_dir",
+  "output_date_rules": "3_tests_passed",
+  "python_compile": "passed",
+  "network_tts_and_real_cloud_render": "not_executed"
+}

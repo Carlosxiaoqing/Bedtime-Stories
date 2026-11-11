@@ -1,0 +1,264 @@
+{
+  "schema_version": 2,
+  "script_version": "v2",
+  "id": "ep068",
+  "episode": 68,
+  "title": "最后一圈的接力棒",
+  "cover_title": "慢一圈",
+  "category": "学校",
+  "theme": "分清比赛和照顾同伴各自的时刻",
+  "setting": "榆树学校操场接力道、操场边的饮水桌",
+  "viewpoint_character": "绒绒",
+  "guest": "绒绒、斑斑、栗栗",
+  "character_names": [
+    "绒绒",
+    "斑斑",
+    "皮皮",
+    "栗栗"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "按晓晓-35%实际口播、停顿和约8秒尾声确定",
+  "cn_characters": 260,
+  "initial_duration_budget_s": 103.61,
+  "shots": [
+    {
+      "id": 1,
+      "title": "操场有三段接力道，绒绒捧棒，斑斑、皮皮、栗栗分站各段",
+      "location": "榆树学校操场接力道",
+      "character_names": [
+        "绒绒",
+        "斑斑",
+        "皮皮",
+        "栗栗"
+      ],
+      "narration_lines": [
+        "接力跑到最后一圈，栗栗没接稳棒，木棒在交接线内滚了一小段。"
+      ],
+      "pause_after_s": [
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校操场接力道。竖幅远景交代空间和前后层次。画面：操场有三段接力道，绒绒捧棒，斑斑、皮皮、栗栗分站各段。入镜角色：绒绒、斑斑、皮皮、栗栗。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 9.07,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "栗栗蹲下去捡棒，脚仍停在跑道交接区",
+      "location": "榆树学校操场接力道",
+      "character_names": [
+        "栗栗"
+      ],
+      "narration_lines": [
+        "栗栗捡起棒继续跑。",
+        "跑完以后，他把棒抱在怀里，觉得自己耽误了这一队。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "低视角凸显脚边、地面与人物尺度",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校操场接力道。低视角凸显脚边、地面与人物尺度。画面：栗栗蹲下去捡棒，脚仍停在跑道交接区。入镜角色：栗栗。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "绒绒将水杯递给栗栗，皮皮在一旁坐下",
+      "location": "操场边的饮水桌",
+      "character_names": [
+        "绒绒",
+        "栗栗",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "绒绒说，他也有一回没把棒拿稳。",
+        "栗栗喝口水，问能不能再试一次交接。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "操场边的饮水桌。平视中景突出人物姿态和相互位置。画面：绒绒将水杯递给栗栗，皮皮在一旁坐下。入镜角色：绒绒、栗栗、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.42,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "两位在空跑道上放慢步子，绒绒将棒水平递出",
+      "location": "榆树学校操场接力道",
+      "character_names": [
+        "绒绒",
+        "栗栗"
+      ],
+      "narration_lines": [
+        "大家没有再比快。",
+        "绒绒只走几步，把棒送到栗栗看得见的地方。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校操场接力道。侧面中景展示动作方向与相邻环境。画面：两位在空跑道上放慢步子，绒绒将棒水平递出。入镜角色：绒绒、栗栗。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 9.48,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "栗栗两手接稳木棒，绒绒仍扶住棒尾一端",
+      "location": "榆树学校操场接力道",
+      "character_names": [
+        "绒绒",
+        "栗栗"
+      ],
+      "narration_lines": [
+        "栗栗先用两只爪接，等握紧，绒绒才松开。",
+        "两个人试了一遍，又反过来试了一遍。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校操场接力道。近景突出手边动作或道具状态。画面：栗栗两手接稳木棒，绒绒仍扶住棒尾一端。入镜角色：绒绒、栗栗。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "皮皮和斑斑走到交接线旁，四位慢慢轮换",
+      "location": "榆树学校操场接力道",
+      "character_names": [
+        "绒绒",
+        "斑斑",
+        "皮皮",
+        "栗栗"
+      ],
+      "narration_lines": [
+        "斑斑也过来试。",
+        "皮皮负责等大家站稳，谁还没看清，就让棒再停一会儿。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校操场接力道。平视中景突出人物姿态和相互位置。画面：皮皮和斑斑走到交接线旁，四位慢慢轮换。入镜角色：绒绒、斑斑、皮皮、栗栗。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.42,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "队伍按步行速度完成一整圈，四位各留一段间距",
+      "location": "榆树学校操场接力道",
+      "character_names": [
+        "绒绒",
+        "斑斑",
+        "皮皮",
+        "栗栗"
+      ],
+      "narration_lines": [
+        "他们走完了慢慢的一整圈。",
+        "没有谁掉棒，绒绒还能听见每个朋友接棒时说好。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "榆树学校操场接力道。侧面中景展示动作方向与相邻环境。画面：队伍按步行速度完成一整圈，四位各留一段间距。入镜角色：绒绒、斑斑、皮皮、栗栗。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "栗栗将木棒横放在饮水桌上，绒绒托自己的杯",
+      "location": "操场边的饮水桌",
+      "character_names": [
+        "绒绒",
+        "栗栗",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "栗栗把棒放在桌上，轻轻拍了一下。",
+        "他说，今天最好玩的是这第二圈。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "操场边的饮水桌。平视中景突出人物姿态和相互位置。画面：栗栗将木棒横放在饮水桌上，绒绒托自己的杯。入镜角色：绒绒、栗栗、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.11,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "饮水桌旁，绒绒和栗栗伸手轻碰，接力棒已经归位",
+      "location": "操场边的饮水桌",
+      "character_names": [
+        "绒绒",
+        "栗栗"
+      ],
+      "narration_lines": [
+        "收完水杯，绒绒伸出手。",
+        "栗栗也把爪伸过来，这回两个人都等对方站稳，才轻轻碰了一下。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "操场边的饮水桌。平视中景突出人物姿态和相互位置。画面：饮水桌旁，绒绒和栗栗伸手轻碰，接力棒已经归位。入镜角色：绒绒、栗栗。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 19.66,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v2剧本与九镜已编写，配音、插画、封面、字幕及视频待制作",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/结构化JSON/ep068.json",
+    "scope": "按用户反馈重写人物互动、故事事件、场景及九镜",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始"
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "schema_version": 2,
+  "script_version": "v2",
+  "id": "ep040",
+  "episode": 40,
+  "title": "芦苇滩的小风车",
+  "cover_title": "滩边风车",
+  "category": "自然",
+  "theme": "用看得见的办法把消息传过去",
+  "setting": "芦苇河两端的木平台、芦苇河中段带栏木道",
+  "viewpoint_character": "沐沐",
+  "guest": "沐沐、豆豆",
+  "character_names": [
+    "沐沐",
+    "豆豆",
+    "皮皮"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "按晓晓-35%实际口播、停顿和约8秒尾声确定",
+  "cn_characters": 263,
+  "initial_duration_budget_s": 105.26,
+  "shots": [
+    {
+      "id": 1,
+      "title": "河边两座木平台隔一丛芦苇，沐沐和豆豆、皮皮拿着空筐",
+      "location": "芦苇河两端的木平台",
+      "character_names": [
+        "沐沐",
+        "豆豆",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "沐沐和豆豆约好，两边都收完观察用的空筐，就一起回去。",
+        "可高高的芦苇挡住了彼此。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "芦苇河两端的木平台。竖幅远景交代空间和前后层次。画面：河边两座木平台隔一丛芦苇，沐沐和豆豆、皮皮拿着空筐。入镜角色：沐沐、豆豆、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.29,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "沐沐站在平台一端，豆豆在另一端探头，皮皮看中间",
+      "location": "芦苇河两端的木平台",
+      "character_names": [
+        "沐沐",
+        "豆豆",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "豆豆喊了一声，沐沐只听见水声。",
+        "皮皮举起爪子，还是比芦苇低一点。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "芦苇河两端的木平台。平视中景突出人物姿态和相互位置。画面：沐沐站在平台一端，豆豆在另一端探头，皮皮看中间。入镜角色：沐沐、豆豆、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.11,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "皮皮把一只纸风车举到木道栏杆高处，沐沐在后面看",
+      "location": "芦苇河中段带栏木道",
+      "character_names": [
+        "沐沐",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "木道旁放着一只纸风车。",
+        "皮皮举高给沐沐看，黄色的叶片露过了草尖。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "芦苇河中段带栏木道。侧面中景展示动作方向与相邻环境。画面：皮皮把一只纸风车举到木道栏杆高处，沐沐在后面看。入镜角色：沐沐、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.42,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "豆豆抬头看到远处黄色风车尖，翅膀扶住空筐",
+      "location": "芦苇河两端的木平台",
+      "character_names": [
+        "豆豆"
+      ],
+      "narration_lines": [
+        "豆豆看见一点黄，以为是花。",
+        "等风车转了半圈，她才认出那是朋友的记号。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "芦苇河两端的木平台。近景突出手边动作或道具状态。画面：豆豆抬头看到远处黄色风车尖，翅膀扶住空筐。入镜角色：豆豆。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.73,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "豆豆把白布举过另一端栏杆，沐沐在远处举黄风车",
+      "location": "芦苇河两端的木平台",
+      "character_names": [
+        "沐沐",
+        "豆豆"
+      ],
+      "narration_lines": [
+        "他们约定，黄风车升起来，就是这一头收好了。",
+        "另一头用白布回一声。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "芦苇河两端的木平台。平视中景突出人物姿态和相互位置。画面：豆豆把白布举过另一端栏杆，沐沐在远处举黄风车。入镜角色：沐沐、豆豆。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 10.11,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "沐沐平台上空筐叠放，手边风车摆向高处",
+      "location": "芦苇河两端的木平台",
+      "character_names": [
+        "沐沐"
+      ],
+      "narration_lines": [
+        "沐沐把最后一只筐摆进去，举起风车。",
+        "过一小会儿，对面真有一角白布露出来。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "俯视呈现平面上的物件和路线",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "芦苇河两端的木平台。俯视呈现平面上的物件和路线。画面：沐沐平台上空筐叠放，手边风车摆向高处。入镜角色：沐沐。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "三个伙伴从木道两端走到中间，筐都留在归位处",
+      "location": "芦苇河中段带栏木道",
+      "character_names": [
+        "沐沐",
+        "豆豆",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "他们沿木道走到中间。",
+        "豆豆说，刚才她没听见声音，却知道朋友正往这边来。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "芦苇河中段带栏木道。侧面中景展示动作方向与相邻环境。画面：三个伙伴从木道两端走到中间，筐都留在归位处。入镜角色：沐沐、豆豆、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.04,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "皮皮把风车稳稳插在平台内侧的工具架",
+      "location": "芦苇河两端的木平台",
+      "character_names": [
+        "沐沐",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "收工时，皮皮把风车放回工具架。",
+        "沐沐叠好白布，下次也可以用这两个记号。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "芦苇河两端的木平台。近景突出手边动作或道具状态。画面：皮皮把风车稳稳插在平台内侧的工具架。入镜角色：沐沐、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.04,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "空木道两侧是安静的芦苇，工具架上留一点黄",
+      "location": "芦苇河中段带栏木道",
+      "character_names": [],
+      "narration_lines": [
+        "水声还从芦苇间过。",
+        "远远看去，黄风车在原来的位置慢慢转了一下。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "环境留白为主，关键物件或人物位于上部",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "芦苇河中段带栏木道。环境留白为主，关键物件或人物位于上部。画面：空木道两侧是安静的芦苇，工具架上留一点黄。入镜角色：无，仅画环境或道具。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 17.16,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v2剧本与九镜已编写，配音、插画、封面、字幕及视频待制作",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/结构化JSON/ep040.json",
+    "scope": "按用户反馈重写人物互动、故事事件、场景及九镜",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始"
+  }
+}

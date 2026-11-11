@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "updated_on": "2026-11-09",
+  "updated_on": "2026-11-12",
   "timezone": "Asia/Shanghai",
-  "status": "updated_from_user_feedback_v004",
+  "status": "updated_from_user_feedback_ep004_accepted",
   "applies_to": "new_episodes_and_explicit_revisions",
   "implementation_status": "episode_001_renderer_available",
   "canvas": {
@@ -18,12 +18,11 @@
     "format": "PNG",
     "color_space": "sRGB",
     "title_hanzi_preferred": [
-      4,
-      6
+      4
     ],
     "title_hanzi_allowed": [
-      2,
-      8
+      4,
+      6
     ],
     "max_lines": 2,
     "max_hanzi_per_line": 4,
@@ -49,7 +48,12 @@
     "show_series_name": false,
     "show_account_name": false,
     "text_content": "episode_topic_only",
-    "title_center_y_single": 1360
+    "title_center_y_single": 1360,
+    "title_hanzi_fallback": [
+      5,
+      6
+    ],
+    "title_policy": "默认四字；必要时五字或六字，具体、易懂、有吸引力；004半坡歇歇保持不变"
   },
   "subtitles": {
     "template": "bedtime-ruby-v2",

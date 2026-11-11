@@ -1,0 +1,221 @@
+{
+  "text": "他停下来，走到栗栗身边，指了指旁边一块平平的、长满三叶草的地方，轻声说：“栗栗，我们在这儿坐一会儿吧，半山腰的风景也很漂亮呀。”",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "00338245f1273b046dd6e1267a36dc0abed8b410ca19824165c66acef61b470a",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2307500,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3577080,
+      "duration": 3269160,
+      "text": "停"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6846250,
+      "duration": 7307500,
+      "text": "下来"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18192500,
+      "duration": 2692080,
+      "text": "走"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20884580,
+      "duration": 2307500,
+      "text": "到"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23577080,
+      "duration": 4038330,
+      "text": "栗栗"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27807500,
+      "duration": 7692500,
+      "text": "身边"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 39538330,
+      "duration": 2500000,
+      "text": "指"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 42038330,
+      "duration": 2115410,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 44153750,
+      "duration": 4807500,
+      "text": "指"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 50500000,
+      "duration": 6153750,
+      "text": "旁边"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 56846250,
+      "duration": 4422910,
+      "text": "一块"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 61653750,
+      "duration": 7115410,
+      "text": "平平"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 68769160,
+      "duration": 3077080,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 75307500,
+      "duration": 3077080,
+      "text": "长"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 78384580,
+      "duration": 3077080,
+      "text": "满"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 81846250,
+      "duration": 8846250,
+      "text": "三叶草"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 90692500,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 92422910,
+      "duration": 6730830,
+      "text": "地方"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 103192500,
+      "duration": 5961250,
+      "text": "轻声"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 109153750,
+      "duration": 4422910,
+      "text": "说"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 117807500,
+      "duration": 6538330,
+      "text": "栗栗"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 128077080,
+      "duration": 4038330,
+      "text": "我们"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 132307500,
+      "duration": 2500000,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 134807500,
+      "duration": 2692500,
+      "text": "这儿"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 137884580,
+      "duration": 2692500,
+      "text": "坐"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 140577080,
+      "duration": 4422910,
+      "text": "一会儿"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 145000000,
+      "duration": 3461660,
+      "text": "吧"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 153653750,
+      "duration": 8269160,
+      "text": "半山腰"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 161922910,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 163653750,
+      "duration": 7307500,
+      "text": "风景"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 171346250,
+      "duration": 1922910,
+      "text": "也"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 173269160,
+      "duration": 2692500,
+      "text": "很"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 176153750,
+      "duration": 6730830,
+      "text": "漂亮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 182884580,
+      "duration": 3653750,
+      "text": "呀"
+    }
+  ]
+}

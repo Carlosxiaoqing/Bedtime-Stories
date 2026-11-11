@@ -1,0 +1,277 @@
+{
+  "schema_version": 2,
+  "script_version": "v3",
+  "id": "ep036",
+  "episode": 36,
+  "title": "泥地上的小手掌",
+  "cover_title": "泥印手掌",
+  "category": "自然",
+  "theme": "把猜想和看到的线索放在一起",
+  "setting": "芦苇河的高岸泥地、芦苇河木观察台",
+  "viewpoint_character": "沐沐",
+  "guest": "沐沐、芽芽",
+  "character_names": [
+    "沐沐",
+    "皮皮",
+    "芽芽"
+  ],
+  "status": "script_complete_media_not_generated",
+  "language": "zh-CN",
+  "target_duration": "成片约120秒，配音后实测校时",
+  "cn_characters": 291,
+  "initial_duration_budget_s": 124.16,
+  "shots": [
+    {
+      "id": 1,
+      "title": "河岸泥地边有一串浅印，沐沐在栏内蹲看，芽芽和皮皮停步",
+      "location": "芦苇河的高岸泥地",
+      "character_names": [
+        "沐沐",
+        "皮皮",
+        "芽芽"
+      ],
+      "narration_lines": [
+        "雨过后，沐沐在河边看见一排像小手掌的印子。",
+        "皮皮猜，是树上掉下来的叶子压的。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "竖幅远景交代空间和前后层次",
+      "image": "images/shot_01.png",
+      "motion": "fixed",
+      "image_prompt": "芦苇河的高岸泥地。竖幅远景交代空间和前后层次。画面：河岸泥地边有一串浅印，沐沐在栏内蹲看，芽芽和皮皮停步。入镜角色：沐沐、皮皮、芽芽。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 14.05,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 2,
+      "title": "沐沐用爪比对泥印大小，皮皮托着掌形叶",
+      "location": "芦苇河的高岸泥地",
+      "character_names": [
+        "沐沐",
+        "皮皮"
+      ],
+      "narration_lines": [
+        "那片叶子是五个尖尖，印子也是五个。",
+        "沐沐没有马上点头，她看见旁边还有第二排。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_02.png",
+      "motion": "fixed",
+      "image_prompt": "芦苇河的高岸泥地。近景突出手边动作或道具状态。画面：沐沐用爪比对泥印大小，皮皮托着掌形叶。入镜角色：沐沐、皮皮。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 13.05,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 3,
+      "title": "从芽芽身后看向两排一前一后的小印，远处有木台",
+      "location": "芦苇河的高岸泥地",
+      "character_names": [
+        "沐沐",
+        "芽芽"
+      ],
+      "narration_lines": [
+        "芽芽顺着印子望过去。",
+        "每隔一步就出现两只，像有谁从河边一路走了上来。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "越肩构图同时看见观察者与目标",
+      "image": "images/shot_03.png",
+      "motion": "fixed",
+      "image_prompt": "芦苇河的高岸泥地。越肩构图同时看见观察者与目标。画面：从芽芽身后看向两排一前一后的小印，远处有木台。入镜角色：沐沐、芽芽。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.02,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 4,
+      "title": "泥印左右交错，叶子平放在石上，三个爪尖不触泥面",
+      "location": "芦苇河的高岸泥地",
+      "character_names": [
+        "沐沐",
+        "皮皮",
+        "芽芽"
+      ],
+      "narration_lines": [
+        "他们拿叶子比了一下。",
+        "叶尖都朝同一头，可泥印一左一右，和走路的方向一样。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "俯视呈现平面上的物件和路线",
+      "image": "images/shot_04.png",
+      "motion": "fixed",
+      "image_prompt": "芦苇河的高岸泥地。俯视呈现平面上的物件和路线。画面：泥印左右交错，叶子平放在石上，三个爪尖不触泥面。入镜角色：沐沐、皮皮、芽芽。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 5,
+      "title": "观察台小桌上摆湿泥板，沐沐按下一前一后两个爪印",
+      "location": "芦苇河木观察台",
+      "character_names": [
+        "沐沐",
+        "皮皮",
+        "芽芽"
+      ],
+      "narration_lines": [
+        "沐沐在一块湿泥板上走了两步。",
+        "她抬起脚，新的小手掌和岸边那串印子很像。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "平视中景突出人物姿态和相互位置",
+      "image": "images/shot_05.png",
+      "motion": "fixed",
+      "image_prompt": "芦苇河木观察台。平视中景突出人物姿态和相互位置。画面：观察台小桌上摆湿泥板，沐沐按下一前一后两个爪印。入镜角色：沐沐、皮皮、芽芽。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 12.36,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 6,
+      "title": "泥板上不同大小的足印相邻，沐沐指向前后位置",
+      "location": "芦苇河木观察台",
+      "character_names": [
+        "沐沐"
+      ],
+      "narration_lines": [
+        "只是前后大小有点不同。",
+        "沐沐说，也许有另一只水獭从这里走过。",
+        "她把最大的和最小的两枚泥印挨着看，前后落下的样子更清楚了。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.72,
+        0.95
+      ],
+      "camera": "近景突出手边动作或道具状态",
+      "image": "images/shot_06.png",
+      "motion": "fixed",
+      "image_prompt": "芦苇河木观察台。近景突出手边动作或道具状态。画面：泥板上不同大小的足印相邻，沐沐指向前后位置。入镜角色：沐沐。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 20.67,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 7,
+      "title": "三个朋友从栏内望向河弯，一串泥印消失在芦苇后",
+      "location": "芦苇河木观察台",
+      "character_names": [
+        "沐沐",
+        "皮皮",
+        "芽芽"
+      ],
+      "narration_lines": [
+        "他们没去追，只从台上看。",
+        "那串印子绕过一块石头，就不见了。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "侧面中景展示动作方向与相邻环境",
+      "image": "images/shot_07.png",
+      "motion": "fixed",
+      "image_prompt": "芦苇河木观察台。侧面中景展示动作方向与相邻环境。画面：三个朋友从栏内望向河弯，一串泥印消失在芦苇后。入镜角色：沐沐、皮皮、芽芽。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 9.95,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 8,
+      "title": "纸面印痕旁画着一个小圆问号形弯线，叶子放在纸边",
+      "location": "芦苇河木观察台",
+      "character_names": [
+        "沐沐",
+        "皮皮",
+        "芽芽"
+      ],
+      "narration_lines": [
+        "皮皮把两排印画下来，旁边留个弯弯的小记号。",
+        "今天的猜想，就记到这里。"
+      ],
+      "pause_after_s": [
+        0.72,
+        0.95
+      ],
+      "camera": "俯视呈现平面上的物件和路线",
+      "image": "images/shot_08.png",
+      "motion": "fixed",
+      "image_prompt": "芦苇河木观察台。俯视呈现平面上的物件和路线。画面：纸面印痕旁画着一个小圆问号形弯线，叶子放在纸边。入镜角色：沐沐、皮皮、芽芽。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 11.67,
+      "motion_hint": "m01",
+      "append_common_prompt_rules": true
+    },
+    {
+      "id": 9,
+      "title": "泥地小印子旁又落下一片手掌形叶，河光静缓",
+      "location": "芦苇河的高岸泥地",
+      "character_names": [],
+      "narration_lines": [
+        "回去时，泥边真的落下一片叶子。",
+        "叶子不往前走，脚印却像走得很远。"
+      ],
+      "pause_after_s": [
+        0.72,
+        8.0
+      ],
+      "camera": "环境留白为主，关键物件或人物位于上部",
+      "image": "images/shot_09.png",
+      "motion": "fixed",
+      "image_prompt": "芦苇河的高岸泥地。环境留白为主，关键物件或人物位于上部。画面：泥地小印子旁又落下一片手掌形叶，河光静缓。入镜角色：无，仅画环境或道具。主动作和脸部放在画面中上部，底部留字幕区。",
+      "initial_budget_s": 18.03,
+      "motion_hint": "m04",
+      "append_common_prompt_rules": true
+    }
+  ],
+  "actual_duration_s": null,
+  "material_state": "v3剧本和九镜已校时估算，实际配音及后续制作待进行",
+  "shared_config": "03_素材与参数/多场景版画风与提示词.json",
+  "characters_config": "03_素材与参数/多场景版角色设定.json",
+  "revision_record": {
+    "date": "2026-11-11",
+    "previous_script": "02_100集剧本/多场景版v2/结构化JSON/ep036.json",
+    "scope": "以约两分钟为目标逐集校时，补充偏短故事的动作、对话或线索，压缩偏长的重复表述",
+    "user_review": "待审",
+    "voice": "未开始",
+    "illustration": "未开始",
+    "cover": "未开始",
+    "pinyin_review": "未开始",
+    "render": "未开始",
+    "media_checks": "未开始",
+    "human_review": "未开始",
+    "previous_script_sha256": "ab6033148b2c00e357d7414e9a730a3ddbaafa60502896134d39699d15d56951",
+    "edited_shots": [
+      6
+    ]
+  },
+  "duration_plan": {
+    "target_s": 120,
+    "planning_range_s": [
+      115,
+      125
+    ],
+    "estimated_s": 124.16,
+    "v2_estimated_using_same_method_s": 114.13,
+    "reference_narration_hanzi_per_second": 2.899607,
+    "opening_s": 1.0,
+    "tail_in_final_shot_s": 8.0
+  }
+}
