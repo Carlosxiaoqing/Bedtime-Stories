@@ -16,6 +16,7 @@ VIDEO = {'.mp4', '.mov', '.mkv', '.webm', '.avi', '.m4v', '.gif'}
 
 
 def inspect():
+    state = json.loads((ROOT/'PROJECT_STATE.json').read_text())
     if sys.version_info[:2] != (3, 12):
         raise RuntimeError('当前验证的依赖为Python 3.12，请在环境里选择3.12。')
     for line in (ROOT/'local/requirements-lock.txt').read_text().splitlines():
@@ -72,8 +73,11 @@ def inspect():
         assert (work/name).is_file(), name
     assert json.loads((work/'用户验收记录.json').read_text())['status'] == 'accepted'
     return {'offline_preflight': 'passed', 'script_count': len(episodes),
-            'adopted_version': 'v4', 'latest_accepted': 'ep004-v001',
-            'next_candidate': 'ep005', 'next_candidate_authorized': False,
+            'adopted_version': state['adopted_script_version'],
+            'latest_accepted': state['latest_accepted_episode']['id']+'-'+state['latest_accepted_episode']['version'],
+            'next_candidate': state['next_candidate']['id'],
+            'next_candidate_authorized': state['next_candidate']['authorized'],
+            'reference_material_episode': 'ep004-v001',
             'cast_identities': len(cast), 'verified_identity_and_wardrobe_files': len(references),
             'verified_registered_reference_files': len(registered),
             'planned_roles_without_images': [c['id'] for c in all_cast if c not in cast],

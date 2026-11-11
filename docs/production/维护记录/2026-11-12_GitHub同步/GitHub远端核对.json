@@ -1,0 +1,24 @@
+{
+  "repository": "Carlosxiaoqing/Bedtime-Stories",
+  "branch": "main",
+  "verified_source_commit": "a9ea5b2b87c5faa33c1f1ec2e82cf2c68ca9512b",
+  "remote_head_matched": true,
+  "method": [
+    "git ls-remote",
+    "connected GitHub fetch_file"
+  ],
+  "files": {
+    "PROJECT_STATE.json": {
+      "sha": "6203cd4a73a799e23e89c40ba6a45a2dcef325d8",
+      "url": "https://github.com/Carlosxiaoqing/Bedtime-Stories/blob/main/PROJECT_STATE.json"
+    },
+    "03_素材与参数/用户长稿v4角色图库.json": {
+      "sha": "d7f24fc986e55c8543eb16e5450d10347ccec716",
+      "url": "https://github.com/Carlosxiaoqing/Bedtime-Stories/blob/main/03_%E7%B4%A0%E6%9D%90%E4%B8%8E%E5%8F%82%E6%95%B0/%E7%94%A8%E6%88%B7%E9%95%BF%E7%A8%BFv4%E8%A7%92%E8%89%B2%E5%9B%BE%E5%BA%93.json"
+    }
+  },
+  "latest_accepted": "ep004-v001",
+  "next_candidate": "ep005_not_authorized",
+  "videos_in_commit_tree": 0,
+  "archives_in_commit_tree": 0
+}

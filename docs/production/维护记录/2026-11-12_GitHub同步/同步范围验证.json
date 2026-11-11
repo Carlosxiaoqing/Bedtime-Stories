@@ -23,5 +23,8 @@
     ".sh": 1
   },
   "files_above_github_100MiB_limit": [],
-  "potential_secrets_or_missing_files": []
+  "potential_secrets_or_missing_files": [],
+  "source_commit": "a9ea5b2b87c5faa33c1f1ec2e82cf2c68ca9512b",
+  "source_commit_tree_files": 2208,
+  "note": "初始范围检查在新增验证记录前执行；来源提交2208文件，视频/压缩包为0。后续仅补充同步证据和动态进度读取。"
 }

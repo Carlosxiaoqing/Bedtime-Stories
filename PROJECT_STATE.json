@@ -54,7 +54,10 @@
     "videos_in_current_tree": false,
     "archives_in_current_tree": false,
     "loose_sources_included": true,
-    "historical_commits_rewritten": false
+    "historical_commits_rewritten": false,
+    "status": "source_sync_verified",
+    "verified_source_commit": "a9ea5b2b87c5faa33c1f1ec2e82cf2c68ca9512b",
+    "record": "docs/production/维护记录/2026-11-12_GitHub同步/RECORD.md"
   },
   "publication": "not_published"
 }

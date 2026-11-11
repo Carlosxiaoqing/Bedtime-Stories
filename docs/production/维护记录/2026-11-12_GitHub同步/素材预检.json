@@ -5,6 +5,7 @@
   "latest_accepted": "ep004-v001",
   "next_candidate": "ep005",
   "next_candidate_authorized": false,
+  "reference_material_episode": "ep004-v001",
   "cast_identities": 10,
   "verified_identity_and_wardrobe_files": 11,
   "verified_registered_reference_files": 13,

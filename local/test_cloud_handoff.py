@@ -15,6 +15,7 @@ class CloudHandoff(unittest.TestCase):
         with tempfile.TemporaryDirectory(prefix='bedtime-portable-') as folder:
             repo = Path(folder).resolve()/'checkout'
             shutil.copytree(ROOT/'local', repo/'local', ignore=shutil.ignore_patterns('__pycache__'))
+            shutil.copy2(ROOT/'PROJECT_STATE.json', repo/'PROJECT_STATE.json')
             source = Path('02_100集剧本/用户长稿v4/结构化JSON')
             shutil.copytree(ROOT/source, repo/source)
             registry = Path('03_素材与参数/用户长稿v4角色图库.json')
