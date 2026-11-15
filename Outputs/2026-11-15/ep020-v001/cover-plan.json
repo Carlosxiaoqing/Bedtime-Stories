@@ -1,0 +1,37 @@
+{
+  "template": "bedtime-cover-v3",
+  "episode": "ep020",
+  "title": "皮皮画好晚安地图",
+  "title_lines": [
+    "皮皮画好",
+    "晚安地图"
+  ],
+  "scene": "皮皮卧室小矮桌与窗外森林夜色",
+  "dominant_color": "森林苔绿、夜蓝与柔暖灯光，与前集暖木针线桌区分",
+  "pipi_front_facing": true,
+  "pipi_pose": "皮皮正脸面向观众，双爪展开留白适度的大幅晚安地图",
+  "pipi_expression": "温和满足，眼神清醒而放松",
+  "key_props": [
+    "MAP_01 大幅森林朋友地图",
+    "PENCILS_01 彩色木头铅笔"
+  ],
+  "reference_inputs": [
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+  ],
+  "event_description": "皮皮画出连接朋友住处的晚安地图，并在夜晚停笔留白。",
+  "source_paragraph_ids": [
+    "p002",
+    "p003",
+    "p005"
+  ],
+  "differentiation_review": {
+    "compared_with": [
+      "ep016",
+      "ep017",
+      "ep018"
+    ],
+    "scene_prop_color_differences": "卧室地图与彩色铅笔、森林夜蓝/苔绿；与风铃门廊、枫叶信、缝纫桌均不同",
+    "status": "passed_visual_contact_sheet"
+  }
+}

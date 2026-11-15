@@ -16,11 +16,12 @@ class CloudHandoff(unittest.TestCase):
             repo = Path(folder).resolve()/'checkout'
             shutil.copytree(ROOT/'local', repo/'local', ignore=shutil.ignore_patterns('__pycache__'))
             shutil.copy2(ROOT/'PROJECT_STATE.json', repo/'PROJECT_STATE.json')
-            source = Path('02_100集剧本/用户长稿v4/结构化JSON')
+            source = Path(json.loads((ROOT/'PROJECT_STATE.json').read_text())['script_json_directory'])
             shutil.copytree(ROOT/source, repo/source)
             registry = Path('03_素材与参数/用户长稿v4角色图库.json')
             (repo/registry).parent.mkdir(parents=True, exist_ok=True)
             shutil.copy2(ROOT/registry, repo/registry)
+            shutil.copy2(ROOT/'03_素材与参数/封面与字幕参数.json', repo/'03_素材与参数/封面与字幕参数.json')
             def copy_registered(value):
                 if isinstance(value, dict):
                     if 'path' in value and 'sha256' in value:
@@ -70,13 +71,33 @@ class CloudHandoff(unittest.TestCase):
                            shot_count=1, total_duration_s=2., max_visible_duration_s=2.)
             (work/'storyboard.json').write_text(json.dumps(fixture, ensure_ascii=False))
             (work/'fonts').mkdir(exist_ok=True)
-            subprocess.run([sys.executable, str(repo/'local/render_long_episode.py'), '--output-dir', str(work), '--preview-seconds', '2'], check=True, capture_output=True, text=True, cwd=repo)
+            subprocess.run([sys.executable, str(repo/'local/render_long_episode.py'), '--output-dir', str(work), '--preview-seconds', '2', '--legacy-cover'], check=True, capture_output=True, text=True, cwd=repo)
             movie = work/'ep099_preview2.mp4'
             info = json.loads(subprocess.check_output(['ffprobe', '-v', 'error', '-show_streams', '-of', 'json', str(movie)]))
             video = next(s for s in info['streams'] if s['codec_type'] == 'video')
             self.assertEqual(int(video['nb_frames']), 50)
             self.assertEqual(video['avg_frame_rate'], '25/1')
             self.assertFalse((work/'ep004_preview2.mp4').exists())
+            self.assertFalse((repo/'Outputs').exists())
+            # Exercise the new default path in the same disposable fixture.
+            # The retained media is only a decoder/layout fixture, not new art.
+            for name in ('cover.png', 'cover.svg', 'cover-title.txt'):
+                (work/name).unlink(missing_ok=True)
+            (work/'script.snapshot.json').write_text(json.dumps(dict(id='ep099', script_version='v5',
+                narration_paragraphs=[dict(id='p001', text='技术测试，不作为新剧本。')]), ensure_ascii=False))
+            cover = dict(template='bedtime-cover-v3', episode='ep099', title='皮皮给刺猬铺坐垫',
+                         title_lines=['皮皮给刺猬', '铺坐垫'], scene='技术测试', dominant_color='测试',
+                         pipi_front_facing=True, pipi_pose='测试', pipi_expression='测试', key_props=['测试'],
+                         event_description='仅排版与渲染集成测试', source_paragraph_ids=['p001'],
+                         reference_inputs=[str(work/'cover_base.png')])
+            (work/'cover-plan.json').write_text(json.dumps(cover, ensure_ascii=False))
+            subprocess.run([sys.executable, str(repo/'local/render_long_episode.py'), '--output-dir', str(work),
+                            '--preview-seconds', '1'], check=True, capture_output=True, text=True, cwd=repo)
+            metadata = json.loads((work/'project_preview1.json').read_text())
+            self.assertEqual(metadata['cover_template'], 'bedtime-cover-v3')
+            self.assertEqual(metadata['cover_title'], cover['title'])
+            self.assertEqual(metadata['frames'], 25)
+            self.assertTrue((work/'cover-render.json').is_file())
             self.assertFalse((repo/'Outputs').exists())
 
 

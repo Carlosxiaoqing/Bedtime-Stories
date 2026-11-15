@@ -1,0 +1,20 @@
+{
+  "template": "bedtime-cover-v3",
+  "episode": "epNNN",
+  "title": "皮皮给刺猬铺坐垫",
+  "title_lines": ["皮皮给刺猬", "铺坐垫"],
+  "scene": "按本集v5正文填写真实场景；此文件为填写示例，不是已完成方案",
+  "dominant_color": "填写本集主色及与相邻集的区别，颜色须符合剧情",
+  "pipi_front_facing": true,
+  "pipi_pose": "填写能看清正脸、同时表现当集事件的动作，避免每集固定招手",
+  "pipi_expression": "填写与本集情节相符的自然表情",
+  "key_props": ["填写当集关键道具和固定asset_id"],
+  "reference_inputs": ["填写相对仓库根目录的真实皮皮身份图及道具参考路径"],
+  "event_description": "填写皮皮在本集实际做的事情；配角动作不可移给皮皮",
+  "source_paragraph_ids": ["pNNN"],
+  "differentiation_review": {
+    "compared_with": [],
+    "scene_prop_color_differences": "出图后与最近3–5集封面并排检查，填写实际差异",
+    "status": "pending"
+  }
+}

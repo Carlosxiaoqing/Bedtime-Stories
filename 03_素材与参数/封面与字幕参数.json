@@ -1,31 +1,28 @@
 {
   "schema_version": 1,
-  "updated_on": "2026-11-12",
+  "updated_on": "2026-11-14",
   "timezone": "Asia/Shanghai",
-  "status": "updated_from_user_feedback_ep004_accepted",
+  "status": "user_approved_pipi_event_cover_policy",
   "applies_to": "new_episodes_and_explicit_revisions",
-  "implementation_status": "episode_001_renderer_available",
+  "implementation_status": "v3_cover_plan_and_long_renderer_available",
   "canvas": {
     "width": 1080,
     "height": 1920,
     "fps": 25
   },
   "cover": {
-    "template": "bedtime-cover-v2",
+    "template": "bedtime-cover-v3",
     "editable_template": "docs/production/templates/cover-template.svg",
     "count": 1,
     "included_in_story_shot_count": false,
     "format": "PNG",
     "color_space": "sRGB",
-    "title_hanzi_preferred": [
-      4
-    ],
     "title_hanzi_allowed": [
-      4,
-      6
+      6,
+      10
     ],
     "max_lines": 2,
-    "max_hanzi_per_line": 4,
+    "max_hanzi_per_line": 5,
     "font": "Noto Sans CJK SC",
     "weight": "Bold",
     "size_px": 112,
@@ -41,19 +38,26 @@
       "opacity": 0.94
     },
     "title_center_x": 540,
-    "title_top_y_two": [
-      1260,
-      1392
-    ],
     "show_series_name": false,
     "show_account_name": false,
-    "text_content": "episode_topic_only",
-    "title_center_y_single": 1360,
-    "title_hanzi_fallback": [
-      5,
-      6
+    "text_content": "pipi_and_one_true_event",
+    "title_policy": "6–10个汉字；皮皮开头＋本集真实事件；封面与三平台发布标题完全一致；按词义分两行，每行3–5字",
+    "title_prefix": "皮皮",
+    "title_format": "皮皮＋本集真实的一件事",
+    "title_source": "episodes/epNNN/vNNN/cover-plan.json:title",
+    "title_matches_platform_titles": true,
+    "min_hanzi_per_line": 3,
+    "required_lines": 2,
+    "title_line_center_y": [
+      1294,
+      1426
     ],
-    "title_policy": "默认四字；必要时五字或六字，具体、易懂、有吸引力；004半坡歇歇保持不变"
+    "pipi_front_facing": true,
+    "identity_reference_required": true,
+    "episode_scene_prop_color_variation": true,
+    "color_policy": "背景主色按本集剧情区分；保留统一文字/卡片色与柔和水彩风，不为换色违背地点时间",
+    "cover_plan_template": "docs/production/templates/cover-plan.template.json",
+    "historical_delivery_policy": "不覆盖既有封面；新制作及明确要求重做的封面使用v3，历史复现须显式指定legacy模式"
   },
   "subtitles": {
     "template": "bedtime-ruby-v2",

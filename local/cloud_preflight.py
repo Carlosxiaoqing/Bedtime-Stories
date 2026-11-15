@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Validate a video-free checkout without TTS, image generation or rendering."""
+"""Validate production dependencies and source materials without TTS or image generation."""
 import argparse
 import hashlib
 import importlib.metadata
@@ -32,7 +32,7 @@ def inspect():
         assert all(n in text for n in needed), option
     for name in ('NotoSansCJKsc-Regular.otf', 'NotoSansCJKsc-Bold.otf', 'NotoSans-Regular.ttf'):
         ImageFont.truetype(str(ROOT/'local/fonts'/name), 48)
-    from export_long_scripts import load_episodes
+    from export_opening_scripts import load_episodes
     episodes = load_episodes()
     from character_references import read_registry, resolve
     registry = read_registry()

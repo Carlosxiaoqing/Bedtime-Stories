@@ -1,0 +1,51 @@
+{
+  "scope": "typography_only_synthetic_fixture_no_episode_produced",
+  "cases": [
+    {
+      "title": "皮皮听风铃声",
+      "hanzi": 6,
+      "title_lines": [
+        "皮皮听",
+        "风铃声"
+      ],
+      "layout_bounds": "passed"
+    },
+    {
+      "title": "皮皮给风铃系结",
+      "hanzi": 7,
+      "title_lines": [
+        "皮皮给",
+        "风铃系结"
+      ],
+      "layout_bounds": "passed"
+    },
+    {
+      "title": "皮皮给刺猬铺坐垫",
+      "hanzi": 8,
+      "title_lines": [
+        "皮皮给刺猬",
+        "铺坐垫"
+      ],
+      "layout_bounds": "passed"
+    },
+    {
+      "title": "皮皮把故事留到明天",
+      "hanzi": 9,
+      "title_lines": [
+        "皮皮把故事",
+        "留到明天"
+      ],
+      "layout_bounds": "passed"
+    },
+    {
+      "title": "皮皮和小鹿给风铃系结",
+      "hanzi": 10,
+      "title_lines": [
+        "皮皮和小鹿",
+        "给风铃系结"
+      ],
+      "layout_bounds": "passed"
+    }
+  ],
+  "visual_face_event_and_differentiation": "not_tested"
+}

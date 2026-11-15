@@ -10,6 +10,21 @@ __pycache__/
 *.[aA][vV][iI]
 *.[mM]4[vV]
 *.[gG][iI][fF]
+*.[mM][pP][gG]
+*.[mM][pP][eE][gG]
+*.[mM]2[vV]
+*.[mM]2[tT][sS]
+*.[mM][tT][sS]
+*.[3][gG][pP]
+*.[fF][lL][vV]
+*.[wW][mM][vV]
+*.[oO][gG][vV]
+*.[vV][oO][bB]
+*.[mM][xX][fF]
+*.[yY]4[mM]
+# MPEG transport streams only in media directories; keep TypeScript source files.
+/Outputs/**/*.ts
+/episodes/**/*.ts
 
 # Archives duplicate source assets and may embed videos. Track loose sources.
 *.zip

@@ -1,19 +1,21 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920" role="img" aria-labelledby="title description">
-  <title id="title">统一主题封面版式</title>
-  <desc id="description">可编辑布局示意，尚未放入本集插画。替换episode-art图层，编辑标题，隐藏guides图层再导出。</desc>
-  <defs><linearGradient id="night" x2="0" y2="1"><stop stop-color="#46566A"/><stop offset="1" stop-color="#182232"/></linearGradient></defs>
-  <!-- Replace this layout background with the episode's full-bleed, text-free watercolor illustration. -->
-  <g id="episode-art"><rect width="1080" height="1920" fill="url(#night)"/></g>
+  <title id="title">bedtime-cover-v3：皮皮事件标题封面版式</title>
+  <desc id="description">仅为布局示意。替换为皮皮正脸及当集事件插画，背景主色随剧情变化；title_lines为两行，每行三至五字，六至十字总标题与发布标题相同。导出前隐藏guides。</desc>
+  <defs><linearGradient id="scene-color" x2="0" y2="1"><stop stop-color="#6B8777"/><stop offset="1" stop-color="#D9C99D"/></linearGradient></defs>
+  <g id="episode-art"><rect width="1080" height="1920" fill="url(#scene-color)"/></g>
   <g id="title-card">
     <rect x="108" y="1140" width="864" height="440" rx="48" fill="#FFF4DC" fill-opacity="0.94"/>
-    <!-- Single-line title. For two lines use y=1260 and 1392, at most four Hanzi per line. -->
-    <text id="episode-title" x="540" y="1360" dominant-baseline="central" text-anchor="middle" font-family="Noto Sans CJK SC, sans-serif" font-weight="700" font-size="112" fill="#182232">月光口袋</text>
+    <!-- Replace both lines from cover-plan.json:title_lines, split by meaning, 3–5 Hanzi each. -->
+    <g id="episode-title" text-anchor="middle" dominant-baseline="central" font-family="Noto Sans CJK SC, sans-serif" font-weight="700" font-size="112" fill="#182232">
+      <text id="title-line-1" x="540" y="1294">皮皮给刺猬</text>
+      <text id="title-line-2" x="540" y="1426">铺坐垫</text>
+    </g>
   </g>
-  <g id="guides" font-family="Noto Sans CJK SC, sans-serif" font-size="28" fill="#FFF4DC" text-anchor="middle">
+  <g id="guides" font-family="Noto Sans CJK SC, sans-serif" font-size="28" fill="#182232" text-anchor="middle">
     <rect x="108" y="180" width="864" height="1420" rx="16" fill="none" stroke="#D9B77B" stroke-dasharray="12 12"/>
     <text x="540" y="570">布局示意 · 非成品封面</text>
-    <text x="540" y="630">此处替换本集无字水彩插画</text>
-    <text x="540" y="690">人物与故事物件优先位于上半部</text>
-    <text x="540" y="1740">导出前隐藏 guides 图层</text>
+    <text x="540" y="630">皮皮正脸＋当集动作/伙伴/道具</text>
+    <text x="540" y="690">场景与主色按剧情逐集区分</text>
+    <text x="540" y="1740">替换示例标题，导出前隐藏 guides</text>
   </g>
 </svg>

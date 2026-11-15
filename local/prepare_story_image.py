@@ -53,7 +53,9 @@ def prepare(output, shot_id):
     day = 'pipi' in shot['characters'] and shot['outfits'].get('pipi') == 'day_v001'
     sleep = 'pipi' in shot['characters'] and shot['outfits'].get('pipi') == 'sleep_v001'
     wardrobe = ('Pipi wears ONLY the LEFT daytime outfit from the wardrobe sheet: dusty blue overalls, oatmeal shirt, blue cloth shoes, small yellow backpack. No star cap in daytime. ' if day else '')
-    wardrobe += ('Pipi wears ONLY the RIGHT bedtime star cap, navy with pale yellow stars and yellow pompom. No overalls, raincoat, backpack or shoes in bed. Yellow blanket and orange carrot toy with dark green leaves are scene props, not identity changes. ' if sleep else '')
+    wardrobe += ('Pipi wears ONLY the RIGHT bedtime star cap, navy with pale yellow stars and yellow pompom. No overalls, raincoat, backpack or shoes in bed. ' if sleep else '')
+    if sleep and not shot.get('exclude_default_sleep_props'):
+        wardrobe += 'Yellow blanket and orange carrot toy with dark green leaves are scene props, not identity changes. '
     wardrobe += 'Lili wears ONLY the sage-gray vest, NO SCARF of any color, no neckerchief, no hat. His snack bag is a pale oatmeal rounded FLAP shoulder satchel with one wooden button and one shoulder strap, the same as the cover, NOT a drawstring sack. ' if 'lili' in shot['characters'] else ''
     wardrobe += 'Tuantuan wears the short dark ochre/rust scarf. ' if 'tuantuan' in shot['characters'] else ''
     wardrobe += 'The goat teacher wears the sage cardigan, oatmeal shirt and brown trousers. ' if 'goat_teacher' in shot['characters'] else ''

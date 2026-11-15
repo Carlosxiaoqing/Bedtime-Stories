@@ -1,9 +1,6 @@
-# 本地迁移下载
+# 本地迁移包与剧本下载
 
-[下载ZIP](https://github.com/Carlosxiaoqing/Bedtime-Stories/raw/refs/heads/main/downloads/Bedtime-Stories-local.zip) · [SHA256](Bedtime-Stories-local.zip.sha256)
+- [当前100集v5剧本合集](100集睡前故事合集.md)：与仓库`02_100集剧本/用户长稿v5/`保持一致的只读阅读副本。
+- [本地迁移ZIP](https://github.com/Carlosxiaoqing/Bedtime-Stories/raw/refs/heads/main/downloads/Bedtime-Stories-local.zip)及其SHA256见本目录；解压后先读项目根目录README和云端接手说明。
 
-约92MB。解压后用本地Codex打开 `Bedtime-Stories-local` 目录，先读 `本地开始.md`。包含100集剧本、制作规范、001 v005原图/配音/参考字幕视频、完整可编辑制作工具、字体及许可证；新交付统一在 `Outputs/北京时间日期/本次任务/`。
-
-第一集默认使用最新rate=-35%/99.88秒基准。已有素材渲染无需访问微软。首次需安装Python3.12、FFmpeg及Python依赖。完整原仓库保留旧版本历史；ZIP排除Git历史、旧版重复媒体、Windows3.10旧轮子，以及可重新生成的参考无字幕母版。运行render会生成新的无字幕母版与字幕版。
-
-包内 `local/VALIDATION.md` 记录验证范围，Windows/macOS未实机验证。复现第一集可直接进行；002–100仅附剧本，需另备专属素材并适配制作流程。
+所有新制作、补录和重制只使用仓库中的v5 JSON源；不要把迁移包内的历史工程快照或单集旧视频当作新稿。以GitHub main最新内容为准。

@@ -4,7 +4,7 @@
 
 ## 内容与声音
 
-采用用户长稿v4 JSON，742个汉字、11段、28个合成语句，全部口播保留，无新增年龄说明。口播SHA-256：3ee59a09aef621bed816cbbf8214455b28ac36c7e0bd8af92071ee850cd50624。制作前后正文摘要一致；JSON仍为唯一改稿源，script.snapshot.json保留开工快照，script.production.json保留交付状态。
+历史v001采用当时的长稿版本，742个汉字、11段、28个合成语句，全部口播保留，无新增年龄说明；此版本快照保存在`script.snapshot.json`，新制作统一读v5。口播SHA-256：3ee59a09aef621bed816cbbf8214455b28ac36c7e0bd8af92071ee850cd50624。制作前后正文摘要一致；`script.snapshot.json`保留开工快照，`script.production.json`保留交付状态。
 
 用户明确同意“按当前晓晓方案配音”，本集文本传给微软Edge TTS的授权、首次自动审核拒绝及后续获准记录见TTS授权记录.json。实际声音zh-CN-XiaoxiaoNeural，rate=-35%、pitch=-2Hz、volume=+0%，48kHz单声道，保留28条原MP3及词边界。没有拉伸录音、为片长删文或换声线。编排停顿后278.72秒；约1秒开场、常规0.72秒/段落0.95秒/收尾1.1秒，末句后约8秒。音床沿用本地合成低声部音乐与环境底噪，参数和峰值见audio-mix-report.json，未重新对人声施加滤镜。
 

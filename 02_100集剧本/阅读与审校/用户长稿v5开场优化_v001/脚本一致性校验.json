@@ -1,0 +1,812 @@
+{
+  "script_version": "v5",
+  "episode_count": 100,
+  "checks": {
+    "json_markdown_equal": true,
+    "opening_illustration_marked_for_all_episodes": true,
+    "v5_body_sha256_valid": true,
+    "single_active_script_version": "v5"
+  },
+  "episodes": [
+    {
+      "episode": "ep001",
+      "paragraph_count": 10,
+      "cn_characters": 261,
+      "narration_sha256": "f96bb4973355079852cd4ff5668185930eb72198ad32c63f68f1509ffd216203",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep002",
+      "paragraph_count": 10,
+      "cn_characters": 267,
+      "narration_sha256": "279c1830fd79d0b4371dfd675c5ff13a8a339ad985f6ea102c7a2b3809c4c533",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep003",
+      "paragraph_count": 10,
+      "cn_characters": 273,
+      "narration_sha256": "31797dd55b762a2103fea1035146c03eb3424702a6c69974de984b68dc790795",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep004",
+      "paragraph_count": 12,
+      "cn_characters": 782,
+      "narration_sha256": "611dd6bd333a84bc7562953cb56db1909199162f288462d9d7d6ec1da2eec1d9",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep005",
+      "paragraph_count": 12,
+      "cn_characters": 745,
+      "narration_sha256": "90c60e324a542a4d4c26d366cd647c84e9d06c12ffa8622b7469ec0b6c8954fd",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep006",
+      "paragraph_count": 11,
+      "cn_characters": 746,
+      "narration_sha256": "e11fd2b66072de786aabfdd4defd072b4d59d12e9aad40b12e6d5f5608155ecc",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep007",
+      "paragraph_count": 11,
+      "cn_characters": 723,
+      "narration_sha256": "984c77362d69347a937f0e917dfedb795c3b915603ae56c416c3eee8f50850b5",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep008",
+      "paragraph_count": 10,
+      "cn_characters": 777,
+      "narration_sha256": "05975c69fbb08d9f1ca5f23de4e78d12339dcf08664aa7fa4f423f873fd6d089",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep009",
+      "paragraph_count": 9,
+      "cn_characters": 698,
+      "narration_sha256": "b92287ff59fac3296a8ca56b2c56a54f157a195d6f2660e984cb84e55111205d",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep010",
+      "paragraph_count": 10,
+      "cn_characters": 761,
+      "narration_sha256": "ac99930810bfecd2607ae51e48c65cc300112726736c29d8a058ca7adc040b53",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep011",
+      "paragraph_count": 10,
+      "cn_characters": 811,
+      "narration_sha256": "cb892dd813065c8c9b83b592877b60703cd81e95c73d3eea496e6177e260edd8",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep012",
+      "paragraph_count": 10,
+      "cn_characters": 814,
+      "narration_sha256": "1a54dd460754044b153da62b346639f51c90f86f870b099df59292068ec0ca3c",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep013",
+      "paragraph_count": 9,
+      "cn_characters": 787,
+      "narration_sha256": "0699bf8be41d4d329eaeae18a9d2a61466c1e3009ae918d7849281548acdb3c8",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep014",
+      "paragraph_count": 9,
+      "cn_characters": 761,
+      "narration_sha256": "c027e2b84791fc9e9b7fddd563e808476194866141a0ad8562c375da341bbd93",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep015",
+      "paragraph_count": 9,
+      "cn_characters": 733,
+      "narration_sha256": "420953c59d4c6e05acdd1640d65d0e60e5b8ffa4edda55db0c41ff4ae4788d9b",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep016",
+      "paragraph_count": 10,
+      "cn_characters": 782,
+      "narration_sha256": "faf71d22efb80d65f52f879f7587e33ae99291bdf87821e309eb6a627922335e",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep017",
+      "paragraph_count": 10,
+      "cn_characters": 792,
+      "narration_sha256": "8b541f233648fbfc8f1023c0e761ceb70c6478640b7003bb0c49025e848accd2",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep018",
+      "paragraph_count": 9,
+      "cn_characters": 787,
+      "narration_sha256": "c02f30c8301972c8650ebf981ce4b3f795fd9b8f1c462fbd86e7153ef8338dff",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep019",
+      "paragraph_count": 9,
+      "cn_characters": 820,
+      "narration_sha256": "55fc48d81b5c9b5603789e50842822df22ff625f527e529daffada482d553fa7",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep020",
+      "paragraph_count": 9,
+      "cn_characters": 755,
+      "narration_sha256": "e9f6b93b48ce945098abaee6bc9c4acf499d42bd021c8fcc116e4d6dd1afcfcc",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep021",
+      "paragraph_count": 8,
+      "cn_characters": 743,
+      "narration_sha256": "a8938950b6b01bc90f34a0e3280cd6efa0cd19b39b2aa3f477d5cea572efbf4c",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep022",
+      "paragraph_count": 9,
+      "cn_characters": 774,
+      "narration_sha256": "b41aa7a0b82de60ed83ad085272201b1ae9bf246c2975cccef3096e6a2c698f3",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep023",
+      "paragraph_count": 9,
+      "cn_characters": 773,
+      "narration_sha256": "c8860f1fee7e65d12098eb8c29b48dc454eba4a06492c906a62d639ec8f0ab4c",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep024",
+      "paragraph_count": 10,
+      "cn_characters": 736,
+      "narration_sha256": "5d05692e229bdb70b5923bb5c468cddf7dd333128f2aaaa287cdef290c691965",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep025",
+      "paragraph_count": 9,
+      "cn_characters": 723,
+      "narration_sha256": "b306be229031daf19775e78fb92e833fe6eb7e42939579f35c14593f445038e9",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep026",
+      "paragraph_count": 9,
+      "cn_characters": 763,
+      "narration_sha256": "1618ffb62ddea0db0522eef6ee774703530702c282b7c0d0d2f21af416692c19",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep027",
+      "paragraph_count": 8,
+      "cn_characters": 663,
+      "narration_sha256": "bf9b89cda991d66c887d2fbd0b4218c9942d4b44b3ceab6c4350dd01d42daaaa",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep028",
+      "paragraph_count": 9,
+      "cn_characters": 743,
+      "narration_sha256": "ac51112d28dc1a950d989a74ed6ecbe66ca36e49dfbd65774c603ffd3850412a",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep029",
+      "paragraph_count": 7,
+      "cn_characters": 723,
+      "narration_sha256": "ad7443e41cfab03e71c40341ab4a6784fb2d825f73d409659096b2be7a6cdf13",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep030",
+      "paragraph_count": 8,
+      "cn_characters": 725,
+      "narration_sha256": "926f460c0fd26348ff7d1f05377bb16e14e5d1faca86b0891434b401b41872bc",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep031",
+      "paragraph_count": 8,
+      "cn_characters": 773,
+      "narration_sha256": "2c2fdd79332d68ab8ac241c61eec958dd8a368238a355286b3e908a72f45f325",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep032",
+      "paragraph_count": 8,
+      "cn_characters": 764,
+      "narration_sha256": "95be40fe3ec6c5ae5cb7ce83fb5214863ccf1e59eb47fcfe4a94ab116fdb56a1",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep033",
+      "paragraph_count": 8,
+      "cn_characters": 763,
+      "narration_sha256": "eb867b87f6d642f4ef897c2bda64bfbd8796e9dd695e546371c0573cd1f698fe",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep034",
+      "paragraph_count": 10,
+      "cn_characters": 784,
+      "narration_sha256": "f8958fcf6cac9d929a8f55315d8dd9709f21d4bf0a36358e2e5171696dd90faa",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep035",
+      "paragraph_count": 9,
+      "cn_characters": 746,
+      "narration_sha256": "14251d3766aa20c8a9561d44a7d04198d1fc3c8502d370aea36abae9e419a49e",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep036",
+      "paragraph_count": 8,
+      "cn_characters": 702,
+      "narration_sha256": "7e2d953ef085096f530110b6b6b2ca890380bb1cbe9cbc499f0c28831877a285",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep037",
+      "paragraph_count": 8,
+      "cn_characters": 753,
+      "narration_sha256": "f15e00589b4e23bc5c89170ab8939eaefba766c04a79ff2765a4a3ff779c16c8",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep038",
+      "paragraph_count": 9,
+      "cn_characters": 758,
+      "narration_sha256": "89a1e73eccea4850492f4a9dbb7b825092b717c23d7931ac32e71051560d424d",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep039",
+      "paragraph_count": 9,
+      "cn_characters": 743,
+      "narration_sha256": "80ebb816ba981c2c95b349b0caee9492119c5c41e1e5dcd77e89978baa778679",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep040",
+      "paragraph_count": 9,
+      "cn_characters": 764,
+      "narration_sha256": "344ac12577e27536abc02388c82d2d331b7bea567bbecbba3388810c6967d836",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep041",
+      "paragraph_count": 9,
+      "cn_characters": 747,
+      "narration_sha256": "632538589683936530b6c25d6d6d61bc231c5777d62c18d26777477aa84c6482",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep042",
+      "paragraph_count": 8,
+      "cn_characters": 798,
+      "narration_sha256": "4aa3c7ba18c8f17688de91cbe057b11c11803aec50d02a61f8bb8cb287632a4c",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep043",
+      "paragraph_count": 7,
+      "cn_characters": 779,
+      "narration_sha256": "2b1f2cb5bf758dcaf9163dab99685a2062a8d37354164e0191949a2cf6080409",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep044",
+      "paragraph_count": 8,
+      "cn_characters": 720,
+      "narration_sha256": "610c70be04351839a423abd411dd775fa976ecfc685895d5d2932c56cdfc3567",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep045",
+      "paragraph_count": 8,
+      "cn_characters": 706,
+      "narration_sha256": "12e493a36365fecd7321862aee1bc99c92e661c479180c2bffb9d063710be81c",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep046",
+      "paragraph_count": 8,
+      "cn_characters": 710,
+      "narration_sha256": "e2dfd693aeb28c273fd958193e2b59713a938b82629bc74de2b4a28b709ba380",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep047",
+      "paragraph_count": 8,
+      "cn_characters": 708,
+      "narration_sha256": "559127ba0dc761adc3543eafecb9320183e16fd267a06395a2e878962ce978eb",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep048",
+      "paragraph_count": 7,
+      "cn_characters": 718,
+      "narration_sha256": "281c3a0c1d955d260ffc577dd5f1b4eac8641f08bacd6926a87b19f922a53624",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep049",
+      "paragraph_count": 9,
+      "cn_characters": 821,
+      "narration_sha256": "0bd7e0d9834f02269a47a6d7f516d5d2dd57efe13d9385e2e444ceff821e3a55",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep050",
+      "paragraph_count": 8,
+      "cn_characters": 821,
+      "narration_sha256": "ae23483b33f8460274dbe1bb3537612561f932496aa9d3bf88a6304e0cc077e8",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep051",
+      "paragraph_count": 9,
+      "cn_characters": 861,
+      "narration_sha256": "80a1439fcd545b861c4ea7f25168aa990f7fa8aa90ef48afda040fde36f4db37",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep052",
+      "paragraph_count": 8,
+      "cn_characters": 827,
+      "narration_sha256": "411c09c817fddf39cbaf209f33231ef5d389b3b805d4dc61b75033a9356ff39a",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep053",
+      "paragraph_count": 9,
+      "cn_characters": 888,
+      "narration_sha256": "1773a50da8023e4c8a60c0a2f12ab1c6de9193fd968d988af02ca5bf68a235cc",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep054",
+      "paragraph_count": 9,
+      "cn_characters": 920,
+      "narration_sha256": "39a4d8adc591d8b807257f50ec5d2a6ea90636456b552764d390f6a21a2f90f5",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep055",
+      "paragraph_count": 9,
+      "cn_characters": 904,
+      "narration_sha256": "8862ea8b613a57a1b40aa5c5eec36eda687600e5de1b9e0dc0a8b73de9084f2d",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep056",
+      "paragraph_count": 9,
+      "cn_characters": 886,
+      "narration_sha256": "3be6a8a4c264936419ba2c86bf3779febe2ae8ddc297f6604cf4b83287fbdaf3",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep057",
+      "paragraph_count": 8,
+      "cn_characters": 839,
+      "narration_sha256": "e292887ccbecac4f1d3fb847a1e7a837664564581335ae042a0aeda9680a9043",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep058",
+      "paragraph_count": 9,
+      "cn_characters": 913,
+      "narration_sha256": "8e8b07dc1cbc7d1abcad180620d61e76d6bda86550b00164b88329b853d98e58",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep059",
+      "paragraph_count": 8,
+      "cn_characters": 805,
+      "narration_sha256": "8cba8ac9661a42b1f282091caf00ca8f8004dd4a1a779dc582545ab25f523182",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep060",
+      "paragraph_count": 8,
+      "cn_characters": 759,
+      "narration_sha256": "d7e199115f724597d9088ac67e44a36296b11c17239cca62bb946d8124adf28b",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep061",
+      "paragraph_count": 8,
+      "cn_characters": 823,
+      "narration_sha256": "cd8ed1848a5bd830d591caba36e34a24c760aa6270cafc2bcdef99a3ed928f50",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep062",
+      "paragraph_count": 9,
+      "cn_characters": 876,
+      "narration_sha256": "dccdf06e65468534a867eb6c1c943f407d2fd47d9da5d2f860f19b8671824930",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep063",
+      "paragraph_count": 8,
+      "cn_characters": 851,
+      "narration_sha256": "70a1e6ae607d1279a75c79723634347c036a3f954cbd00582e7f3dac19091a43",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep064",
+      "paragraph_count": 10,
+      "cn_characters": 915,
+      "narration_sha256": "e823b2dd82884b02dd0cff43c54eef6348d7ded3758b2dd2406b306cb64a3c59",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep065",
+      "paragraph_count": 8,
+      "cn_characters": 825,
+      "narration_sha256": "20b6931fcaf33560664bebf4354d0f006a6704034e6c0859d2deefbcd3127eb6",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep066",
+      "paragraph_count": 8,
+      "cn_characters": 858,
+      "narration_sha256": "71fcda66ccab378477b5782b688b6df57d7c92e5e27097cf7a67e6d110b76fe1",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep067",
+      "paragraph_count": 8,
+      "cn_characters": 809,
+      "narration_sha256": "aade7dc6aecc5b98e8baf00b74f1ea9ae40786ce1bef0d55190c049fa0994b58",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep068",
+      "paragraph_count": 9,
+      "cn_characters": 826,
+      "narration_sha256": "ffe2af312a9c59d27357b42a805872d1c9b6fe1e1265acd20f8c0a3f118bf195",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep069",
+      "paragraph_count": 9,
+      "cn_characters": 809,
+      "narration_sha256": "448633138d7bee660364bfeeb789367e373a818ce4d952845915d69a8f09fe46",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep070",
+      "paragraph_count": 8,
+      "cn_characters": 810,
+      "narration_sha256": "70b523f15096b957e39fd73a1fb579471e35b2adf277200bc9c13ccdb7c243a2",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep071",
+      "paragraph_count": 8,
+      "cn_characters": 797,
+      "narration_sha256": "36ea5c42dab0bb883990bd1305ef0a6fe1214dfc1b3db3c6aec5f1c9bd5d0498",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep072",
+      "paragraph_count": 10,
+      "cn_characters": 848,
+      "narration_sha256": "92dc44bea21d0069d262f9f9120107cbe394acfa13db4134c345e2c12e4c86fa",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep073",
+      "paragraph_count": 9,
+      "cn_characters": 891,
+      "narration_sha256": "3bc8da3ccaa3648c659edfe9a81139c17dd7d33d3b26eac42f517c328f333473",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep074",
+      "paragraph_count": 9,
+      "cn_characters": 840,
+      "narration_sha256": "ba45402b69e3f0d52f97dee03bfcef6d418a0dbc88ac365ea9c38fbbec51ac8e",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep075",
+      "paragraph_count": 9,
+      "cn_characters": 856,
+      "narration_sha256": "ebd0c1310fa4cbe80e9d7e5cd3c2ded693ff4901797a6141dd196b77107fbeab",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep076",
+      "paragraph_count": 8,
+      "cn_characters": 815,
+      "narration_sha256": "999e824111b3935bebb560c54d5aafd4c414f3de013e34f370ae776c829ae9c0",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep077",
+      "paragraph_count": 8,
+      "cn_characters": 842,
+      "narration_sha256": "4b5e8a894a83216148744c4cf36972d136c9031636d471599f62fa1594339cd3",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep078",
+      "paragraph_count": 9,
+      "cn_characters": 870,
+      "narration_sha256": "b8531d3b46d0f7feb03bcd45d34380edeb6966cab3c28396efbce0b3bba9cc51",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep079",
+      "paragraph_count": 8,
+      "cn_characters": 824,
+      "narration_sha256": "5d3198e13423f463d7f8d508cdff717c909c55c2ee69c97dc5664fb615a620ce",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep080",
+      "paragraph_count": 9,
+      "cn_characters": 966,
+      "narration_sha256": "731b6736ed60dd95a6c22d9ea0ec7a11af2e2b5a387596c72d8d68db788e56e8",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep081",
+      "paragraph_count": 8,
+      "cn_characters": 807,
+      "narration_sha256": "3bb88642135264c6732abc61e8d0f926a8946d565082075f60cf1c6672025f54",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep082",
+      "paragraph_count": 9,
+      "cn_characters": 791,
+      "narration_sha256": "cb3bd5e3acd7cc839cadac5646c4a7ede9c9875fc95150b37ce7804bf43905af",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep083",
+      "paragraph_count": 8,
+      "cn_characters": 799,
+      "narration_sha256": "9b6920ac020fcbfcc00342c4868faaed14b9b708ff92d7890c7ad6e5cfbbd854",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep084",
+      "paragraph_count": 9,
+      "cn_characters": 848,
+      "narration_sha256": "3962b61bd1fb9d3f011b7774d0e203f4bfbc61347abcc51533e890bf7c1386b7",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep085",
+      "paragraph_count": 9,
+      "cn_characters": 828,
+      "narration_sha256": "fa86d6698260000591684401a1a44eaecce50b99f00ce9a38d3bfe5ce3546b43",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep086",
+      "paragraph_count": 8,
+      "cn_characters": 809,
+      "narration_sha256": "b8169a340d7bb731307bd1c6c512c8c08104dd9caf1950605172599618e7f9b1",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep087",
+      "paragraph_count": 9,
+      "cn_characters": 906,
+      "narration_sha256": "c7481bbe532ac726430cea9b2518908472fb2ff302406b60220704db903289fb",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep088",
+      "paragraph_count": 8,
+      "cn_characters": 851,
+      "narration_sha256": "5808f1e6703509a6afaf893b2e02a03f5dfc97a8c5bf4ca5e2ce826837b937be",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep089",
+      "paragraph_count": 9,
+      "cn_characters": 843,
+      "narration_sha256": "906c5ba502cb535f6f00ca749cbeb3e96f112cfc4a100f72517735f51bdeff78",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep090",
+      "paragraph_count": 7,
+      "cn_characters": 788,
+      "narration_sha256": "706e01e2ab25943d9af2540f885b9893bef42988129aefd5319340f40a4e92a5",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep091",
+      "paragraph_count": 8,
+      "cn_characters": 849,
+      "narration_sha256": "02ed7f0e067069f57b6f8f93881e07eaec0b62520fe806adf36ba7636fd6efcf",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep092",
+      "paragraph_count": 8,
+      "cn_characters": 821,
+      "narration_sha256": "3516142dc5313d76e735b5280ac13d3c03d1269baaf2bd358cd1f8dd7dfee83b",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep093",
+      "paragraph_count": 9,
+      "cn_characters": 903,
+      "narration_sha256": "bee41a98234fb842a2bb807a0c2521312cd1913ecb3a59759555c90b6b19cb05",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep094",
+      "paragraph_count": 9,
+      "cn_characters": 837,
+      "narration_sha256": "6221ad2a4a60e9cfa55cc6b485032f016d3d7ed2e447deaace8694b24df549fe",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep095",
+      "paragraph_count": 9,
+      "cn_characters": 879,
+      "narration_sha256": "436ade3e8dec8db6fa6700653c6db8f7900dfd7f652ef53ce05fba4a7f468a2a",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep096",
+      "paragraph_count": 8,
+      "cn_characters": 788,
+      "narration_sha256": "e2725df7c63fd9194d07c7e331621be85a46c1b4a456df31a14fe826d8bf34e4",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep097",
+      "paragraph_count": 9,
+      "cn_characters": 745,
+      "narration_sha256": "f8449456ed3df1e895466b77bc99bd7cb7a76670035c3f2b7ab2eb1bae368bdf",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep098",
+      "paragraph_count": 8,
+      "cn_characters": 788,
+      "narration_sha256": "6613437dfb39c159a014c0d7b4d30e6459879c685de2c6340bec7df9a00bb47b",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep099",
+      "paragraph_count": 8,
+      "cn_characters": 832,
+      "narration_sha256": "847a95811088eff5729f7e2c76ef611d1df69642225020d9ca5d3491cef14889",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    },
+    {
+      "episode": "ep100",
+      "paragraph_count": 9,
+      "cn_characters": 914,
+      "narration_sha256": "3df8c6db0c664ec2587fc0a23a1bf888ba7c228e92323bf1cfa1190bcca67623",
+      "json_markdown_equal": true,
+      "standalone_opening_illustration_required": true
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "template": "bedtime-cover-v3",
+  "episode": "ep018",
+  "title": "皮皮帮米米收针线",
+  "title_lines": [
+    "皮皮帮米米",
+    "收针线"
+  ],
+  "scene": "小木屋傍晚缝补桌边",
+  "dominant_color": "柔和暖米色与淡木色，区别于前集蓝紫/枫叶色",
+  "pipi_front_facing": true,
+  "pipi_pose": "皮皮正脸清楚朝向观众，双爪托住已经整理好的花布针线袋",
+  "pipi_expression": "温和、认真、略带安心的自然微笑",
+  "key_props": [
+    "KIT_01 花布针线袋",
+    "BLANKET_01 暖黄色修补毛毯"
+  ],
+  "reference_inputs": [
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "episodes/ep018/v001/images/shot_20.png"
+  ],
+  "event_description": "皮皮坐在米米对面主动帮忙收纳针线工具；封面表现他帮米米整理好针线袋。",
+  "source_paragraph_ids": [
+    "p004"
+  ],
+  "differentiation_review": {
+    "compared_with": [
+      "ep014",
+      "ep015",
+      "ep016",
+      "ep017"
+    ],
+    "scene_prop_color_differences": "木屋缝纫桌与花布针线袋、暖木色；需最终并排复核封面图",
+    "status": "pending"
+  }
+}

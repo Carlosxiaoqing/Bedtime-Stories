@@ -13,6 +13,8 @@ from datetime import datetime, timedelta, timezone
 import numpy as np
 from PIL import Image, ImageDraw, ImageFont, ImageOps
 
+from cover_assets import load_cover_plan, render_cover, validate_publish_titles
+
 ROOT = Path(__file__).resolve().parents[1]
 SR = 48000
 
@@ -23,7 +25,8 @@ def write_wave(path, data):
         f.writeframes((data * 32767).clip(-32768, 32767).astype('<i2').tobytes())
 
 
-def prepare_assets(out, duration, title):
+def prepare_assets(out, duration, title, legacy_cover=False):
+    (out / 'fonts').mkdir(exist_ok=True)
     for name in ('NotoSansCJKsc-Regular.otf', 'NotoSansCJKsc-Bold.otf', 'NotoSans-Regular.ttf',
                  'Noto-CJK-copyright.txt', 'Noto-Sans-copyright.txt'):
         target = out / 'fonts' / name
@@ -69,7 +72,9 @@ def prepare_assets(out, duration, title):
                   'voice_sha256': hashlib.sha256((out / 'voice.wav').read_bytes()).hexdigest(),
                   'duration_s': n / SR, 'sample_rate': SR, 'voice_filter_reapplied': False}
         (out / 'audio-mix-report.json').write_text(json.dumps(report, ensure_ascii=False, indent=2) + '\n')
-    if not (out / 'cover.png').exists():
+    if not legacy_cover:
+        render_cover(out)
+    elif not (out / 'cover.png').exists():
         image = ImageOps.fit(Image.open(out / 'cover_base.png').convert('RGB'), (1080, 1920), method=Image.Resampling.LANCZOS)
         layer = Image.new('RGBA', (1080, 1920))
         draw = ImageDraw.Draw(layer)
@@ -91,6 +96,7 @@ def main():
     parser.add_argument('--delivery-dir', type=Path, help='最终交付目录；默认Outputs/北京时间日期/本集版本，制作素材仍留在工程内')
     parser.add_argument('--preview-seconds', type=float)
     parser.add_argument('--assets-only', action='store_true')
+    parser.add_argument('--legacy-cover', action='store_true', help='仅复现已有历史工程的4–6字封面；新制作不用此项')
     args = parser.parse_args()
     out = args.output_dir.resolve()
     if out.is_relative_to(ROOT / 'Outputs'):
@@ -100,9 +106,18 @@ def main():
     if not (episode.startswith('ep') and len(episode) == 5 and episode[2:].isdigit()):
         raise ValueError('分镜须有epNNN格式的episode字段')
     assert plan.get('actual_audio_measured') and plan['max_visible_duration_s'] <= 15
-    title = plan.get('cover_title') or (out / 'cover-title.txt').read_text().strip()
-    assert 4 <= len(title) <= 6, '封面标题优先四字，必要时五字或六字'
-    prepare_assets(out, plan['total_duration_s'], title)
+    if args.legacy_cover:
+        title = plan.get('cover_title') or (out / 'cover-title.txt').read_text().strip()
+        if not 4 <= len(title) <= 6:
+            raise ValueError('历史封面复现仅支持原4–6字标题')
+    else:
+        cover, _ = load_cover_plan(out)
+        if cover['episode'] != episode:
+            raise ValueError('封面方案与分镜集号不同')
+        title = cover['title']
+        if not args.assets_only and not args.preview_seconds:
+            validate_publish_titles(out / '发布文案.md', title)
+    prepare_assets(out, plan['total_duration_s'], title, legacy_cover=args.legacy_cover)
     if args.assets_only:
         print('AUDIO_BEDS_COVER_FONTS_READY', flush=True)
         return
@@ -169,6 +184,7 @@ def main():
                 'preview': bool(args.preview_seconds), 'resolution': [1080, 1920],
                 'shot_count': len(plan['shots']), 'crossfade_s': .96, 'curve': 'linear',
                 'within_shot_motion': 'none', 'subtitles_after_picture_transitions': True,
+                'cover_template': 'legacy' if args.legacy_cover else cover['template'], 'cover_title': title,
                 'clean': str(clean), 'publish': str(publish), 'delivery_directory': str(delivery), 'shots': selected,
                 'audio': 'mix.wav', 'subtitles': 'episode.ass', 'character_registry': 'references/',
                 'fonts': [{'path': str(p.relative_to(out)), 'sha256': hashlib.sha256(p.read_bytes()).hexdigest()} for p in (out / 'fonts').glob('*')]}
