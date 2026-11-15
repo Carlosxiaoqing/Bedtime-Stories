@@ -1,0 +1,101 @@
+{
+  "text": "今天皮皮在森林学堂的院子里发现了一个新奇的好地方。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "20fe61f1f7b62c2c04f7c2ecf15103e4c58dbcee88d82746637bbc1ffa47cad7",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 8846250,
+      "text": "今天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11653750,
+      "duration": 5384580,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17230830,
+      "duration": 2692500,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20307500,
+      "duration": 5192500,
+      "text": "森林"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25692500,
+      "duration": 5384580,
+      "text": "学堂"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31077080,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32422910,
+      "duration": 5961660,
+      "text": "院子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 38384580,
+      "duration": 4038330,
+      "text": "里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 43961660,
+      "duration": 5769160,
+      "text": "发现"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 49730830,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 51077080,
+      "duration": 3077080,
+      "text": "一个"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 54538330,
+      "duration": 5769160,
+      "text": "新奇"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 60307500,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 61846250,
+      "duration": 3461250,
+      "text": "好"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 65307500,
+      "duration": 7692500,
+      "text": "地方"
+    }
+  ]
+}

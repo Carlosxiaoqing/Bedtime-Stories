@@ -1,0 +1,155 @@
+{
+  "text": "傍晚回到家，皮皮喝了一碗热乎乎的南瓜汤，洗漱干净，早早地躺进了自己的小木床里。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "97c8cfa7823d90e50128b7e2132afc0c1840c84163cb8ba4a5a99897ee3c1e6d",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5192500,
+      "text": "傍晚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6653750,
+      "duration": 5192500,
+      "text": "回到"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11846250,
+      "duration": 4615410,
+      "text": "家"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21269160,
+      "duration": 5384580,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26846250,
+      "duration": 2884580,
+      "text": "喝"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 29730830,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31077080,
+      "duration": 2115410,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33192500,
+      "duration": 3653750,
+      "text": "碗"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 37230830,
+      "duration": 7500000,
+      "text": "热乎乎"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 44730830,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 46461660,
+      "duration": 5961250,
+      "text": "南瓜"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 52422910,
+      "duration": 4807500,
+      "text": "汤"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 61269160,
+      "duration": 5384580,
+      "text": "洗漱"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 66846250,
+      "duration": 7500000,
+      "text": "干净"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 78961660,
+      "duration": 6538330,
+      "text": "早早"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 85500000,
+      "duration": 1538330,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 87422910,
+      "duration": 3461660,
+      "text": "躺"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 90884580,
+      "duration": 2307500,
+      "text": "进"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 93192500,
+      "duration": 1538330,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 95115410,
+      "duration": 3653750,
+      "text": "自己"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 98769160,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 100500000,
+      "duration": 3077080,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 103577080,
+      "duration": 6922910,
+      "text": "木床"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 110500000,
+      "duration": 3269160,
+      "text": "里"
+    }
+  ]
+}

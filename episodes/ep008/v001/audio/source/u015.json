@@ -1,0 +1,89 @@
+{
+  "text": "玩偶的绿叶子朝着窗户，圆圆的身体刚好靠住枕边。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "d8f85e47b3eb1b20831179f524d7f3ade8f888b2789d238bb65e461dac497acb",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5577080,
+      "text": "玩偶"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6846250,
+      "duration": 1730830,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8769160,
+      "duration": 7307500,
+      "text": "绿叶子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16461660,
+      "duration": 4615410,
+      "text": "朝着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21269160,
+      "duration": 9038330,
+      "text": "窗户"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 34730830,
+      "duration": 3076660,
+      "text": "圆"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 37807500,
+      "duration": 2307500,
+      "text": "圆"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 40115410,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 41461660,
+      "duration": 8461660,
+      "text": "身体"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 51461660,
+      "duration": 6153750,
+      "text": "刚好"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 57807500,
+      "duration": 2884580,
+      "text": "靠"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 60884580,
+      "duration": 2307500,
+      "text": "住"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 63192500,
+      "duration": 7884580,
+      "text": "枕边"
+    }
+  ]
+}

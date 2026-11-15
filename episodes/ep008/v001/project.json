@@ -1,0 +1,1227 @@
+{
+  "episode": "ep008",
+  "duration_s": 260.52,
+  "fps": 25,
+  "frames": 6513,
+  "preview": false,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "shot_count": 35,
+  "crossfade_s": 0.96,
+  "curve": "linear",
+  "within_shot_motion": "none",
+  "subtitles_after_picture_transitions": true,
+  "clean": "/workspace/Bedtime-Stories/Outputs/2026-11-12/ep008-v001/ep008_clean.mp4",
+  "publish": "/workspace/Bedtime-Stories/Outputs/2026-11-12/ep008-v001/ep008.mp4",
+  "delivery_directory": "/workspace/Bedtime-Stories/Outputs/2026-11-12/ep008-v001",
+  "shots": [
+    {
+      "id": 1,
+      "title": "今天是学堂的“玩具宝贝日”，每个",
+      "text": "今天是学堂的“玩具宝贝日”，每个小朋友都可以带一个自己最心爱的玩",
+      "source_ranges": [
+        {
+          "unit_id": "u001",
+          "paragraph_id": "p001",
+          "start_char": 0,
+          "end_char": 32
+        }
+      ],
+      "characters": [
+        "pipi",
+        "goat_teacher"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "白天树洞教室玩偶照顾活动区：橡树树洞木地板、木凳、地垫、矮桌与叶形窗；布局连续一致。",
+      "action": "画面具体对应旁白“今天是学堂的“玩具宝贝日”，每个小朋友都可以带一个自己最心爱的玩”。在树洞教室玩偶活动区只表现这句正在发生的一个静态时刻，准确呈现皮皮、胡萝卜玩偶和本句提到的软垫、方巾、枕头或毛毯；不增加原文未写的角色或剧情。人物与关键物件位于画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_01.png",
+      "reference_manifest": "references/shot_01.json",
+      "image_status": "generated",
+      "actual_start_s": 0.0,
+      "actual_end_s": 9.2,
+      "speech_start_s": 1.0,
+      "speech_end_s": 9.211791166666664,
+      "visible_start_s": 0.0,
+      "visible_end_s": 9.68,
+      "visible_duration_s": 9.68
+    },
+    {
+      "id": 2,
+      "title": "偶去学校，学会怎么当一个会照顾人",
+      "text": "偶去学校，学会怎么当一个会照顾人的小主人。",
+      "source_ranges": [
+        {
+          "unit_id": "u001",
+          "paragraph_id": "p001",
+          "start_char": 32,
+          "end_char": 53
+        }
+      ],
+      "characters": [
+        "pipi",
+        "goat_teacher"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "白天树洞教室玩偶照顾活动区：橡树树洞木地板、木凳、地垫、矮桌与叶形窗；布局连续一致。",
+      "action": "画面具体对应旁白“偶去学校，学会怎么当一个会照顾人的小主人。”。在树洞教室玩偶活动区只表现这句正在发生的一个静态时刻，准确呈现皮皮、胡萝卜玩偶和本句提到的软垫、方巾、枕头或毛毯；不增加原文未写的角色或剧情。人物与关键物件位于画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_02.png",
+      "reference_manifest": "references/shot_02.json",
+      "image_status": "generated",
+      "actual_start_s": 9.2,
+      "actual_end_s": 15.52,
+      "speech_start_s": 9.211791166666664,
+      "speech_end_s": 15.065645166666668,
+      "visible_start_s": 8.719999999999999,
+      "visible_end_s": 16.0,
+      "visible_duration_s": 7.28
+    },
+    {
+      "id": 3,
+      "title": " 皮皮把他的胡萝卜玩偶装进小书包",
+      "text": "\n皮皮把他的胡萝卜玩偶装进小书包，小心地露出一截绿色的叶子头，",
+      "source_ranges": [
+        {
+          "unit_id": "u002",
+          "paragraph_id": "p001",
+          "start_char": 0,
+          "end_char": 31
+        }
+      ],
+      "characters": [
+        "pipi",
+        "goat_teacher"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "白天树洞教室玩偶照顾活动区：橡树树洞木地板、木凳、地垫、矮桌与叶形窗；布局连续一致。",
+      "action": "画面具体对应旁白“皮皮把他的胡萝卜玩偶装进小书包，小心地露出一截绿色的叶子头，”。在树洞教室玩偶活动区只表现这句正在发生的一个静态时刻，准确呈现皮皮、胡萝卜玩偶和本句提到的软垫、方巾、枕头或毛毯；不增加原文未写的角色或剧情。人物与关键物件位于画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_03.png",
+      "reference_manifest": "references/shot_03.json",
+      "image_status": "generated",
+      "actual_start_s": 15.52,
+      "actual_end_s": 24.68,
+      "speech_start_s": 15.950833333333334,
+      "speech_end_s": 24.479415666666668,
+      "visible_start_s": 15.04,
+      "visible_end_s": 25.16,
+      "visible_duration_s": 10.12
+    },
+    {
+      "id": 4,
+      "title": "一路护送到了树洞教室。",
+      "text": "一路护送到了树洞教室。",
+      "source_ranges": [
+        {
+          "unit_id": "u002",
+          "paragraph_id": "p001",
+          "start_char": 31,
+          "end_char": 42
+        }
+      ],
+      "characters": [
+        "pipi",
+        "goat_teacher"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "白天树洞教室玩偶照顾活动区：橡树树洞木地板、木凳、地垫、矮桌与叶形窗；布局连续一致。",
+      "action": "画面具体对应旁白“一路护送到了树洞教室。”。在树洞教室玩偶活动区只表现这句正在发生的一个静态时刻，准确呈现皮皮、胡萝卜玩偶和本句提到的软垫、方巾、枕头或毛毯；不增加原文未写的角色或剧情。人物与关键物件位于画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_04.png",
+      "reference_manifest": "references/shot_04.json",
+      "image_status": "generated",
+      "actual_start_s": 24.68,
+      "actual_end_s": 28.36,
+      "speech_start_s": 24.871707666666666,
+      "speech_end_s": 27.794790666666668,
+      "visible_start_s": 24.2,
+      "visible_end_s": 28.84,
+      "visible_duration_s": 4.64
+    },
+    {
+      "id": 5,
+      "title": "教室里可真热闹呀！",
+      "text": "教室里可真热闹呀！",
+      "source_ranges": [
+        {
+          "unit_id": "u003",
+          "paragraph_id": "p002",
+          "start_char": 0,
+          "end_char": 9
+        }
+      ],
+      "characters": [
+        "pipi",
+        "lili",
+        "diandian"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "lili": "default_v001"
+      },
+      "setting": "白天树洞教室玩偶照顾活动区：橡树树洞木地板、木凳、地垫、矮桌与叶形窗；布局连续一致。",
+      "action": "画面具体对应旁白“教室里可真热闹呀！”。在树洞教室玩偶活动区只表现这句正在发生的一个静态时刻，准确呈现皮皮、胡萝卜玩偶和本句提到的软垫、方巾、枕头或毛毯；不增加原文未写的角色或剧情。人物与关键物件位于画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_05.png",
+      "reference_manifest": "references/shot_05.json",
+      "image_status": "generated",
+      "actual_start_s": 28.36,
+      "actual_end_s": 31.84,
+      "speech_start_s": 28.9094375,
+      "speech_end_s": 31.380311833333334,
+      "visible_start_s": 27.88,
+      "visible_end_s": 32.32,
+      "visible_duration_s": 4.44
+    },
+    {
+      "id": 6,
+      "title": "小刺猬栗栗带了一只布缝的小苹果，",
+      "text": "小刺猬栗栗带了一只布缝的小苹果，小鼹鼠点点带了一只毛绒小铲子。",
+      "source_ranges": [
+        {
+          "unit_id": "u004",
+          "paragraph_id": "p002",
+          "start_char": 0,
+          "end_char": 31
+        }
+      ],
+      "characters": [
+        "pipi",
+        "lili",
+        "diandian"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "lili": "default_v001"
+      },
+      "setting": "白天树洞教室玩偶照顾活动区：橡树树洞木地板、木凳、地垫、矮桌与叶形窗；布局连续一致。",
+      "action": "画面具体对应旁白“小刺猬栗栗带了一只布缝的小苹果，小鼹鼠点点带了一只毛绒小铲子。”。在树洞教室玩偶活动区只表现这句正在发生的一个静态时刻，准确呈现皮皮、胡萝卜玩偶和本句提到的软垫、方巾、枕头或毛毯；不增加原文未写的角色或剧情。人物与关键物件位于画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_06.png",
+      "reference_manifest": "references/shot_06.json",
+      "image_status": "generated",
+      "actual_start_s": 31.84,
+      "actual_end_s": 42.0,
+      "speech_start_s": 32.260041666666666,
+      "speech_end_s": 41.544748999999996,
+      "visible_start_s": 31.36,
+      "visible_end_s": 42.48,
+      "visible_duration_s": 11.12
+    },
+    {
+      "id": 7,
+      "title": " 到了中午玩“过家家”的时候，皮",
+      "text": "\n到了中午玩“过家家”的时候，皮皮特别认真地照顾胡萝卜玩偶。",
+      "source_ranges": [
+        {
+          "unit_id": "u005",
+          "paragraph_id": "p002",
+          "start_char": 0,
+          "end_char": 30
+        }
+      ],
+      "characters": [
+        "pipi",
+        "lili",
+        "diandian"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "lili": "default_v001"
+      },
+      "setting": "白天树洞教室玩偶照顾活动区：橡树树洞木地板、木凳、地垫、矮桌与叶形窗；布局连续一致。",
+      "action": "画面具体对应旁白“到了中午玩“过家家”的时候，皮皮特别认真地照顾胡萝卜玩偶。”。在树洞教室玩偶活动区只表现这句正在发生的一个静态时刻，准确呈现皮皮、胡萝卜玩偶和本句提到的软垫、方巾、枕头或毛毯；不增加原文未写的角色或剧情。人物与关键物件位于画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_07.png",
+      "reference_manifest": "references/shot_07.json",
+      "image_status": "generated",
+      "actual_start_s": 42.0,
+      "actual_end_s": 50.2,
+      "speech_start_s": 42.43879166666667,
+      "speech_end_s": 49.75599966666667,
+      "visible_start_s": 41.52,
+      "visible_end_s": 50.68,
+      "visible_duration_s": 9.16
+    },
+    {
+      "id": 8,
+      "title": "他把自己的小围兜解下来给玩偶当披",
+      "text": "他把自己的小围兜解下来给玩偶当披风，又把自己坐的小垫子让了一大半",
+      "source_ranges": [
+        {
+          "unit_id": "u006",
+          "paragraph_id": "p002",
+          "start_char": 0,
+          "end_char": 32
+        }
+      ],
+      "characters": [
+        "pipi",
+        "lili",
+        "diandian"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "lili": "default_v001"
+      },
+      "setting": "白天树洞教室玩偶照顾活动区：橡树树洞木地板、木凳、地垫、矮桌与叶形窗；布局连续一致。",
+      "action": "画面具体对应旁白“他把自己的小围兜解下来给玩偶当披风，又把自己坐的小垫子让了一大半”。在树洞教室玩偶活动区只表现这句正在发生的一个静态时刻，准确呈现皮皮、胡萝卜玩偶和本句提到的软垫、方巾、枕头或毛毯；不增加原文未写的角色或剧情。人物与关键物件位于画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_08.png",
+      "reference_manifest": "references/shot_08.json",
+      "image_status": "generated",
+      "actual_start_s": 50.2,
+      "actual_end_s": 60.24,
+      "speech_start_s": 50.635020833333336,
+      "speech_end_s": 60.22214516666667,
+      "visible_start_s": 49.720000000000006,
+      "visible_end_s": 60.72,
+      "visible_duration_s": 11.0
+    },
+    {
+      "id": 9,
+      "title": "给玩偶躺着，自己只用半个小屁股悬",
+      "text": "给玩偶躺着，自己只用半个小屁股悬在木头凳子边上。",
+      "source_ranges": [
+        {
+          "unit_id": "u006",
+          "paragraph_id": "p002",
+          "start_char": 32,
+          "end_char": 56
+        }
+      ],
+      "characters": [
+        "pipi",
+        "lili",
+        "diandian"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "lili": "default_v001"
+      },
+      "setting": "白天树洞教室玩偶照顾活动区：橡树树洞木地板、木凳、地垫、矮桌与叶形窗；布局连续一致。",
+      "action": "画面具体对应旁白“给玩偶躺着，自己只用半个小屁股悬在木头凳子边上。”。在树洞教室玩偶活动区只表现这句正在发生的一个静态时刻，准确呈现皮皮、胡萝卜玩偶和本句提到的软垫、方巾、枕头或毛毯；不增加原文未写的角色或剧情。人物与关键物件位于画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_09.png",
+      "reference_manifest": "references/shot_09.json",
+      "image_status": "generated",
+      "actual_start_s": 60.24,
+      "actual_end_s": 67.96,
+      "speech_start_s": 60.22214516666667,
+      "speech_end_s": 67.44139516666667,
+      "visible_start_s": 59.760000000000005,
+      "visible_end_s": 68.44,
+      "visible_duration_s": 8.68
+    },
+    {
+      "id": 10,
+      "title": "山羊老师走过来，看见皮皮坐得歪歪",
+      "text": "山羊老师走过来，看见皮皮坐得歪歪扭扭的，便温柔地笑了：“皮皮，",
+      "source_ranges": [
+        {
+          "unit_id": "u007",
+          "paragraph_id": "p003",
+          "start_char": 0,
+          "end_char": 31
+        }
+      ],
+      "characters": [
+        "pipi",
+        "goat_teacher"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "白天树洞教室玩偶照顾活动区：橡树树洞木地板、木凳、地垫、矮桌与叶形窗；布局连续一致。",
+      "action": "画面具体对应旁白“山羊老师走过来，看见皮皮坐得歪歪扭扭的，便温柔地笑了：“皮皮，”。在树洞教室玩偶活动区只表现这句正在发生的一个静态时刻，准确呈现皮皮、胡萝卜玩偶和本句提到的软垫、方巾、枕头或毛毯；不增加原文未写的角色或剧情。人物与关键物件位于画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_10.png",
+      "reference_manifest": "references/shot_10.json",
+      "image_status": "generated",
+      "actual_start_s": 67.96,
+      "actual_end_s": 77.64,
+      "speech_start_s": 68.50970833333334,
+      "speech_end_s": 77.441582,
+      "visible_start_s": 67.47999999999999,
+      "visible_end_s": 78.12,
+      "visible_duration_s": 10.64
+    },
+    {
+      "id": 11,
+      "title": "你把胡萝卜照顾得真好，可是你自己",
+      "text": "你把胡萝卜照顾得真好，可是你自己坐得舒服吗？",
+      "source_ranges": [
+        {
+          "unit_id": "u007",
+          "paragraph_id": "p003",
+          "start_char": 31,
+          "end_char": 53
+        }
+      ],
+      "characters": [
+        "pipi",
+        "goat_teacher"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "白天树洞教室玩偶照顾活动区：橡树树洞木地板、木凳、地垫、矮桌与叶形窗；布局连续一致。",
+      "action": "画面具体对应旁白“你把胡萝卜照顾得真好，可是你自己坐得舒服吗？”。在树洞教室玩偶活动区只表现这句正在发生的一个静态时刻，准确呈现皮皮、胡萝卜玩偶和本句提到的软垫、方巾、枕头或毛毯；不增加原文未写的角色或剧情。人物与关键物件位于画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_11.png",
+      "reference_manifest": "references/shot_11.json",
+      "image_status": "generated",
+      "actual_start_s": 77.64,
+      "actual_end_s": 84.0,
+      "speech_start_s": 77.814666,
+      "speech_end_s": 83.564666,
+      "visible_start_s": 77.16,
+      "visible_end_s": 84.48,
+      "visible_duration_s": 7.32
+    },
+    {
+      "id": 12,
+      "title": "” 皮皮摸了摸有点发酸的小腿，摇",
+      "text": "”\n皮皮摸了摸有点发酸的小腿，摇了摇头。",
+      "source_ranges": [
+        {
+          "unit_id": "u008",
+          "paragraph_id": "p003",
+          "start_char": 0,
+          "end_char": 20
+        }
+      ],
+      "characters": [
+        "pipi",
+        "goat_teacher"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "白天树洞教室玩偶照顾活动区：橡树树洞木地板、木凳、地垫、矮桌与叶形窗；布局连续一致。",
+      "action": "画面具体对应旁白“”皮皮摸了摸有点发酸的小腿，摇了摇头。”。在树洞教室玩偶活动区只表现这句正在发生的一个静态时刻，准确呈现皮皮、胡萝卜玩偶和本句提到的软垫、方巾、枕头或毛毯；不增加原文未写的角色或剧情。人物与关键物件位于画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_12.png",
+      "reference_manifest": "references/shot_12.json",
+      "image_status": "generated",
+      "actual_start_s": 84.0,
+      "actual_end_s": 90.24,
+      "speech_start_s": 84.44445833333333,
+      "speech_end_s": 89.65133266666666,
+      "visible_start_s": 83.52,
+      "visible_end_s": 90.72,
+      "visible_duration_s": 7.2
+    },
+    {
+      "id": 13,
+      "title": "山羊老师拿来一块软布，铺在皮皮怀",
+      "text": "山羊老师拿来一块软布，铺在皮皮怀里：“你看，让玩偶靠在你怀里，",
+      "source_ranges": [
+        {
+          "unit_id": "u009",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 31
+        }
+      ],
+      "characters": [
+        "pipi",
+        "goat_teacher"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "白天树洞教室玩偶照顾活动区：橡树树洞木地板、木凳、地垫、矮桌与叶形窗；布局连续一致。",
+      "action": "画面具体对应旁白“山羊老师拿来一块软布，铺在皮皮怀里：“你看，让玩偶靠在你怀里，”。在树洞教室玩偶活动区只表现这句正在发生的一个静态时刻，准确呈现皮皮、胡萝卜玩偶和本句提到的软垫、方巾、枕头或毛毯；不增加原文未写的角色或剧情。人物与关键物件位于画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_13.png",
+      "reference_manifest": "references/shot_13.json",
+      "image_status": "generated",
+      "actual_start_s": 90.24,
+      "actual_end_s": 100.04,
+      "speech_start_s": 90.79470833333333,
+      "speech_end_s": 99.86199866666666,
+      "visible_start_s": 89.75999999999999,
+      "visible_end_s": 100.52000000000001,
+      "visible_duration_s": 10.76
+    },
+    {
+      "id": 14,
+      "title": "你坐满整个软垫，这样你们两个都能",
+      "text": "你坐满整个软垫，这样你们两个都能舒舒服服的呀。",
+      "source_ranges": [
+        {
+          "unit_id": "u009",
+          "paragraph_id": "p004",
+          "start_char": 31,
+          "end_char": 54
+        }
+      ],
+      "characters": [
+        "pipi",
+        "goat_teacher"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "白天树洞教室玩偶照顾活动区：橡树树洞木地板、木凳、地垫、矮桌与叶形窗；布局连续一致。",
+      "action": "画面具体对应旁白“你坐满整个软垫，这样你们两个都能舒舒服服的呀。”。在树洞教室玩偶活动区只表现这句正在发生的一个静态时刻，准确呈现皮皮、胡萝卜玩偶和本句提到的软垫、方巾、枕头或毛毯；不增加原文未写的角色或剧情。人物与关键物件位于画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_14.png",
+      "reference_manifest": "references/shot_14.json",
+      "image_status": "generated",
+      "actual_start_s": 100.04,
+      "actual_end_s": 107.2,
+      "speech_start_s": 100.22737466666666,
+      "speech_end_s": 106.77354066666666,
+      "visible_start_s": 99.56,
+      "visible_end_s": 107.68,
+      "visible_duration_s": 8.12
+    },
+    {
+      "id": 15,
+      "title": "照顾好朋友的时候，也要先照顾好自",
+      "text": "照顾好朋友的时候，也要先照顾好自己呢。",
+      "source_ranges": [
+        {
+          "unit_id": "u010",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 19
+        }
+      ],
+      "characters": [
+        "pipi",
+        "goat_teacher"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "白天树洞教室玩偶照顾活动区：橡树树洞木地板、木凳、地垫、矮桌与叶形窗；布局连续一致。",
+      "action": "画面具体对应旁白“照顾好朋友的时候，也要先照顾好自己呢。”。在树洞教室玩偶活动区只表现这句正在发生的一个静态时刻，准确呈现皮皮、胡萝卜玩偶和本句提到的软垫、方巾、枕头或毛毯；不增加原文未写的角色或剧情。人物与关键物件位于画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_15.png",
+      "reference_manifest": "references/shot_15.json",
+      "image_status": "generated",
+      "actual_start_s": 107.2,
+      "actual_end_s": 113.0,
+      "speech_start_s": 107.6425625,
+      "speech_end_s": 112.55568716666666,
+      "visible_start_s": 106.72,
+      "visible_end_s": 113.48,
+      "visible_duration_s": 6.76
+    },
+    {
+      "id": 16,
+      "title": "” 皮皮试了试，哇，果然又稳当又",
+      "text": "”\n皮皮试了试，哇，果然又稳当又暖和！",
+      "source_ranges": [
+        {
+          "unit_id": "u011",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 19
+        }
+      ],
+      "characters": [
+        "pipi",
+        "goat_teacher"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "白天树洞教室玩偶照顾活动区：橡树树洞木地板、木凳、地垫、矮桌与叶形窗；布局连续一致。",
+      "action": "画面具体对应旁白“”皮皮试了试，哇，果然又稳当又暖和！”。在树洞教室玩偶活动区只表现这句正在发生的一个静态时刻，准确呈现皮皮、胡萝卜玩偶和本句提到的软垫、方巾、枕头或毛毯；不增加原文未写的角色或剧情。人物与关键物件位于画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_16.png",
+      "reference_manifest": "references/shot_16.json",
+      "image_status": "generated",
+      "actual_start_s": 113.0,
+      "actual_end_s": 118.8,
+      "speech_start_s": 113.4618125,
+      "speech_end_s": 118.24754133333333,
+      "visible_start_s": 112.52,
+      "visible_end_s": 119.28,
+      "visible_duration_s": 6.76
+    },
+    {
+      "id": 17,
+      "title": "放学回到家，到了晚上睡觉的时间，",
+      "text": "放学回到家，到了晚上睡觉的时间，皮皮还记着白天照顾玩偶的快乐。",
+      "source_ranges": [
+        {
+          "unit_id": "u012",
+          "paragraph_id": "p005",
+          "start_char": 0,
+          "end_char": 31
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "夜晚皮皮的小木屋卧室，床在左下、木窗在右上、床边小地垫与暖灯；暖黄室内光和蓝灰夜色，布局连续一致。",
+      "action": "画面具体对应旁白“放学回到家，到了晚上睡觉的时间，皮皮还记着白天照顾玩偶的快乐。”。在皮皮的小木屋卧室只表现这句正在发生的一个静态时刻，准确呈现皮皮、胡萝卜玩偶和本句提到的软垫、方巾、枕头或毛毯；不增加原文未写的角色或剧情。人物与关键物件位于画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_17.png",
+      "reference_manifest": "references/shot_17.json",
+      "image_status": "generated",
+      "actual_start_s": 118.8,
+      "actual_end_s": 128.96,
+      "speech_start_s": 119.37552083333333,
+      "speech_end_s": 128.48429099999998,
+      "visible_start_s": 118.32,
+      "visible_end_s": 129.44,
+      "visible_duration_s": 11.12
+    },
+    {
+      "id": 18,
+      "title": " 他给胡萝卜玩偶找来一块干净的小",
+      "text": "\n他给胡萝卜玩偶找来一块干净的小方巾，想在自己的大枕头旁边，",
+      "source_ranges": [
+        {
+          "unit_id": "u013",
+          "paragraph_id": "p005",
+          "start_char": 0,
+          "end_char": 30
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "夜晚皮皮的小木屋卧室，床在左下、木窗在右上、床边小地垫与暖灯；暖黄室内光和蓝灰夜色，布局连续一致。",
+      "action": "画面具体对应旁白“他给胡萝卜玩偶找来一块干净的小方巾，想在自己的大枕头旁边，”。在皮皮的小木屋卧室只表现这句正在发生的一个静态时刻，准确呈现皮皮、胡萝卜玩偶和本句提到的软垫、方巾、枕头或毛毯；不增加原文未写的角色或剧情。人物与关键物件位于画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_18.png",
+      "reference_manifest": "references/shot_18.json",
+      "image_status": "generated",
+      "actual_start_s": 128.96,
+      "actual_end_s": 137.64,
+      "speech_start_s": 129.416125,
+      "speech_end_s": 137.4624365,
+      "visible_start_s": 128.48000000000002,
+      "visible_end_s": 138.11999999999998,
+      "visible_duration_s": 9.64
+    },
+    {
+      "id": 19,
+      "title": "替它单独铺一张神气的小床。",
+      "text": "替它单独铺一张神气的小床。",
+      "source_ranges": [
+        {
+          "unit_id": "u013",
+          "paragraph_id": "p005",
+          "start_char": 30,
+          "end_char": 43
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "夜晚皮皮的小木屋卧室，床在左下、木窗在右上、床边小地垫与暖灯；暖黄室内光和蓝灰夜色，布局连续一致。",
+      "action": "画面具体对应旁白“替它单独铺一张神气的小床。”。在皮皮的小木屋卧室只表现这句正在发生的一个静态时刻，准确呈现皮皮、胡萝卜玩偶和本句提到的软垫、方巾、枕头或毛毯；不增加原文未写的角色或剧情。人物与关键物件位于画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_19.png",
+      "reference_manifest": "references/shot_19.json",
+      "image_status": "generated",
+      "actual_start_s": 137.64,
+      "actual_end_s": 141.96,
+      "speech_start_s": 137.8547285,
+      "speech_end_s": 141.3931445,
+      "visible_start_s": 137.16,
+      "visible_end_s": 142.44,
+      "visible_duration_s": 5.28
+    },
+    {
+      "id": 20,
+      "title": "皮皮把方巾折得方方正正，用小爪子",
+      "text": "皮皮把方巾折得方方正正，用小爪子轻轻压平两个角，让玩偶躺上去。",
+      "source_ranges": [
+        {
+          "unit_id": "u014",
+          "paragraph_id": "p006",
+          "start_char": 0,
+          "end_char": 31
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "夜晚皮皮的小木屋卧室，床在左下、木窗在右上、床边小地垫与暖灯；暖黄室内光和蓝灰夜色，布局连续一致。",
+      "action": "画面具体对应旁白“皮皮把方巾折得方方正正，用小爪子轻轻压平两个角，让玩偶躺上去。”。在皮皮的小木屋卧室只表现这句正在发生的一个静态时刻，准确呈现皮皮、胡萝卜玩偶和本句提到的软垫、方巾、枕头或毛毯；不增加原文未写的角色或剧情。人物与关键物件位于画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_20.png",
+      "reference_manifest": "references/shot_20.json",
+      "image_status": "generated",
+      "actual_start_s": 141.96,
+      "actual_end_s": 152.6,
+      "speech_start_s": 142.53525,
+      "speech_end_s": 152.16514483333333,
+      "visible_start_s": 141.48000000000002,
+      "visible_end_s": 153.07999999999998,
+      "visible_duration_s": 11.6
+    },
+    {
+      "id": 21,
+      "title": "玩偶的绿叶子朝着窗户，圆圆的身体",
+      "text": "玩偶的绿叶子朝着窗户，圆圆的身体刚好靠住枕边。",
+      "source_ranges": [
+        {
+          "unit_id": "u015",
+          "paragraph_id": "p006",
+          "start_char": 0,
+          "end_char": 23
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "夜晚皮皮的小木屋卧室，床在左下、木窗在右上、床边小地垫与暖灯；暖黄室内光和蓝灰夜色，布局连续一致。",
+      "action": "画面具体对应旁白“玩偶的绿叶子朝着窗户，圆圆的身体刚好靠住枕边。”。在皮皮的小木屋卧室只表现这句正在发生的一个静态时刻，准确呈现皮皮、胡萝卜玩偶和本句提到的软垫、方巾、枕头或毛毯；不增加原文未写的角色或剧情。人物与关键物件位于画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_21.png",
+      "reference_manifest": "references/shot_21.json",
+      "image_status": "generated",
+      "actual_start_s": 152.6,
+      "actual_end_s": 160.44,
+      "speech_start_s": 153.04810416666666,
+      "speech_end_s": 159.99785383333332,
+      "visible_start_s": 152.12,
+      "visible_end_s": 160.92,
+      "visible_duration_s": 8.8
+    },
+    {
+      "id": 22,
+      "title": " 皮皮看了又看，觉得玩偶可能还会",
+      "text": "\n皮皮看了又看，觉得玩偶可能还会冷，就把自己的暖黄毛毯扯过去一大",
+      "source_ranges": [
+        {
+          "unit_id": "u016",
+          "paragraph_id": "p006",
+          "start_char": 0,
+          "end_char": 32
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "夜晚皮皮的小木屋卧室，床在左下、木窗在右上、床边小地垫与暖灯；暖黄室内光和蓝灰夜色，布局连续一致。",
+      "action": "画面具体对应旁白“皮皮看了又看，觉得玩偶可能还会冷，就把自己的暖黄毛毯扯过去一大”。在皮皮的小木屋卧室只表现这句正在发生的一个静态时刻，准确呈现皮皮、胡萝卜玩偶和本句提到的软垫、方巾、枕头或毛毯；不增加原文未写的角色或剧情。人物与关键物件位于画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_22.png",
+      "reference_manifest": "references/shot_22.json",
+      "image_status": "generated",
+      "actual_start_s": 160.44,
+      "actual_end_s": 170.2,
+      "speech_start_s": 160.87220833333333,
+      "speech_end_s": 170.20533266666666,
+      "visible_start_s": 159.96,
+      "visible_end_s": 170.67999999999998,
+      "visible_duration_s": 10.72
+    },
+    {
+      "id": 23,
+      "title": "半，给它盖得严严实实。",
+      "text": "半，给它盖得严严实实。",
+      "source_ranges": [
+        {
+          "unit_id": "u016",
+          "paragraph_id": "p006",
+          "start_char": 32,
+          "end_char": 43
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "夜晚皮皮的小木屋卧室，床在左下、木窗在右上、床边小地垫与暖灯；暖黄室内光和蓝灰夜色，布局连续一致。",
+      "action": "画面具体对应旁白“半，给它盖得严严实实。”。在皮皮的小木屋卧室只表现这句正在发生的一个静态时刻，准确呈现皮皮、胡萝卜玩偶和本句提到的软垫、方巾、枕头或毛毯；不增加原文未写的角色或剧情。人物与关键物件位于画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_23.png",
+      "reference_manifest": "references/shot_23.json",
+      "image_status": "generated",
+      "actual_start_s": 170.2,
+      "actual_end_s": 173.92,
+      "speech_start_s": 170.20533266666666,
+      "speech_end_s": 173.35404066666666,
+      "visible_start_s": 169.72,
+      "visible_end_s": 174.39999999999998,
+      "visible_duration_s": 4.68
+    },
+    {
+      "id": 24,
+      "title": "这下玩偶有了豪华小床，可皮皮躺下",
+      "text": "这下玩偶有了豪华小床，可皮皮躺下来时却发现，",
+      "source_ranges": [
+        {
+          "unit_id": "u017",
+          "paragraph_id": "p007",
+          "start_char": 0,
+          "end_char": 22
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "夜晚皮皮的小木屋卧室，床在左下、木窗在右上、床边小地垫与暖灯；暖黄室内光和蓝灰夜色，布局连续一致。",
+      "action": "画面具体对应旁白“这下玩偶有了豪华小床，可皮皮躺下来时却发现，”。在皮皮的小木屋卧室只表现这句正在发生的一个静态时刻，准确呈现皮皮、胡萝卜玩偶和本句提到的软垫、方巾、枕头或毛毯；不增加原文未写的角色或剧情。人物与关键物件位于画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_24.png",
+      "reference_manifest": "references/shot_24.json",
+      "image_status": "generated",
+      "actual_start_s": 173.92,
+      "actual_end_s": 181.72,
+      "speech_start_s": 174.47097916666667,
+      "speech_end_s": 181.46639583333334,
+      "visible_start_s": 173.44,
+      "visible_end_s": 182.2,
+      "visible_duration_s": 8.76
+    },
+    {
+      "id": 25,
+      "title": "自己的半边被子溜走了，晚风从脖子",
+      "text": "自己的半边被子溜走了，晚风从脖子后面钻进来，有点凉飕飕的。",
+      "source_ranges": [
+        {
+          "unit_id": "u017",
+          "paragraph_id": "p007",
+          "start_char": 22,
+          "end_char": 51
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "夜晚皮皮的小木屋卧室，床在左下、木窗在右上、床边小地垫与暖灯；暖黄室内光和蓝灰夜色，布局连续一致。",
+      "action": "画面具体对应旁白“自己的半边被子溜走了，晚风从脖子后面钻进来，有点凉飕飕的。”。在皮皮的小木屋卧室只表现这句正在发生的一个静态时刻，准确呈现皮皮、胡萝卜玩偶和本句提到的软垫、方巾、枕头或毛毯；不增加原文未写的角色或剧情。人物与关键物件位于画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_25.png",
+      "reference_manifest": "references/shot_25.json",
+      "image_status": "generated",
+      "actual_start_s": 181.72,
+      "actual_end_s": 190.72,
+      "speech_start_s": 182.00485383333333,
+      "speech_end_s": 190.26256183333334,
+      "visible_start_s": 181.24,
+      "visible_end_s": 191.2,
+      "visible_duration_s": 9.96
+    },
+    {
+      "id": 26,
+      "title": " 皮皮想起了白天山羊老师说的话。",
+      "text": "\n皮皮想起了白天山羊老师说的话。",
+      "source_ranges": [
+        {
+          "unit_id": "u018",
+          "paragraph_id": "p007",
+          "start_char": 0,
+          "end_char": 16
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "夜晚皮皮的小木屋卧室，床在左下、木窗在右上、床边小地垫与暖灯；暖黄室内光和蓝灰夜色，布局连续一致。",
+      "action": "画面具体对应旁白“皮皮想起了白天山羊老师说的话。”。在皮皮的小木屋卧室只表现这句正在发生的一个静态时刻，准确呈现皮皮、胡萝卜玩偶和本句提到的软垫、方巾、枕头或毛毯；不增加原文未写的角色或剧情。人物与关键物件位于画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_26.png",
+      "reference_manifest": "references/shot_26.json",
+      "image_status": "generated",
+      "actual_start_s": 190.72,
+      "actual_end_s": 195.64,
+      "speech_start_s": 191.14179166666668,
+      "speech_end_s": 195.19408333333334,
+      "visible_start_s": 190.24,
+      "visible_end_s": 196.11999999999998,
+      "visible_duration_s": 5.88
+    },
+    {
+      "id": 27,
+      "title": "他没有再去柜子里找新毯子，而是把",
+      "text": "他没有再去柜子里找新毯子，而是把胡萝卜玩偶轻轻挪近了一点，",
+      "source_ranges": [
+        {
+          "unit_id": "u019",
+          "paragraph_id": "p007",
+          "start_char": 0,
+          "end_char": 29
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "夜晚皮皮的小木屋卧室，床在左下、木窗在右上、床边小地垫与暖灯；暖黄室内光和蓝灰夜色，布局连续一致。",
+      "action": "画面具体对应旁白“他没有再去柜子里找新毯子，而是把胡萝卜玩偶轻轻挪近了一点，”。在皮皮的小木屋卧室只表现这句正在发生的一个静态时刻，准确呈现皮皮、胡萝卜玩偶和本句提到的软垫、方巾、枕头或毛毯；不增加原文未写的角色或剧情。人物与关键物件位于画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_27.png",
+      "reference_manifest": "references/shot_27.json",
+      "image_status": "generated",
+      "actual_start_s": 195.64,
+      "actual_end_s": 204.52,
+      "speech_start_s": 196.09547916666668,
+      "speech_end_s": 204.25718616666668,
+      "visible_start_s": 195.16,
+      "visible_end_s": 205.0,
+      "visible_duration_s": 9.84
+    },
+    {
+      "id": 28,
+      "title": "放进自己的臂弯里，让暖暖的大毛毯",
+      "text": "放进自己的臂弯里，让暖暖的大毛毯，同时盖住他们两个。",
+      "source_ranges": [
+        {
+          "unit_id": "u019",
+          "paragraph_id": "p007",
+          "start_char": 29,
+          "end_char": 55
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "夜晚皮皮的小木屋卧室，床在左下、木窗在右上、床边小地垫与暖灯；暖黄室内光和蓝灰夜色，布局连续一致。",
+      "action": "画面具体对应旁白“放进自己的臂弯里，让暖暖的大毛毯，同时盖住他们两个。”。在皮皮的小木屋卧室只表现这句正在发生的一个静态时刻，准确呈现皮皮、胡萝卜玩偶和本句提到的软垫、方巾、枕头或毛毯；不增加原文未写的角色或剧情。人物与关键物件位于画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_28.png",
+      "reference_manifest": "references/shot_28.json",
+      "image_status": "generated",
+      "actual_start_s": 204.52,
+      "actual_end_s": 212.96,
+      "speech_start_s": 204.79568716666668,
+      "speech_end_s": 212.3995201666667,
+      "visible_start_s": 204.04000000000002,
+      "visible_end_s": 213.44,
+      "visible_duration_s": 9.4
+    },
+    {
+      "id": 29,
+      "title": "那块小方巾变成了玩偶的专属小枕头",
+      "text": "那块小方巾变成了玩偶的专属小枕头。",
+      "source_ranges": [
+        {
+          "unit_id": "u020",
+          "paragraph_id": "p008",
+          "start_char": 0,
+          "end_char": 17
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "夜晚皮皮的小木屋卧室，床在左下、木窗在右上、床边小地垫与暖灯；暖黄室内光和蓝灰夜色，布局连续一致。",
+      "action": "画面具体对应旁白“那块小方巾变成了玩偶的专属小枕头。”。在皮皮的小木屋卧室只表现这句正在发生的一个静态时刻，准确呈现皮皮、胡萝卜玩偶和本句提到的软垫、方巾、枕头或毛毯；不增加原文未写的角色或剧情。人物与关键物件位于画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_29.png",
+      "reference_manifest": "references/shot_29.json",
+      "image_status": "generated",
+      "actual_start_s": 212.96,
+      "actual_end_s": 218.92,
+      "speech_start_s": 213.48439583333334,
+      "speech_end_s": 218.47579166666668,
+      "visible_start_s": 212.48000000000002,
+      "visible_end_s": 219.39999999999998,
+      "visible_duration_s": 6.92
+    },
+    {
+      "id": 30,
+      "title": "胡萝卜贴着皮皮温热的爪心，谁也不",
+      "text": "胡萝卜贴着皮皮温热的爪心，谁也不用躺得远远的，两个人都暖烘烘的。",
+      "source_ranges": [
+        {
+          "unit_id": "u021",
+          "paragraph_id": "p008",
+          "start_char": 0,
+          "end_char": 32
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "夜晚皮皮的小木屋卧室，床在左下、木窗在右上、床边小地垫与暖灯；暖黄室内光和蓝灰夜色，布局连续一致。",
+      "action": "画面具体对应旁白“胡萝卜贴着皮皮温热的爪心，谁也不用躺得远远的，两个人都暖烘烘的。”。在皮皮的小木屋卧室只表现这句正在发生的一个静态时刻，准确呈现皮皮、胡萝卜玩偶和本句提到的软垫、方巾、枕头或毛毯；不增加原文未写的角色或剧情。人物与关键物件位于画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_30.png",
+      "reference_manifest": "references/shot_30.json",
+      "image_status": "generated",
+      "actual_start_s": 218.92,
+      "actual_end_s": 228.56,
+      "speech_start_s": 219.35925,
+      "speech_end_s": 228.11939483333333,
+      "visible_start_s": 218.44,
+      "visible_end_s": 229.04,
+      "visible_duration_s": 10.6
+    },
+    {
+      "id": 31,
+      "title": " 皮皮安稳地靠好，嘴角轻轻弯着。",
+      "text": "\n皮皮安稳地靠好，嘴角轻轻弯着。",
+      "source_ranges": [
+        {
+          "unit_id": "u022",
+          "paragraph_id": "p008",
+          "start_char": 0,
+          "end_char": 16
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "夜晚皮皮的小木屋卧室，床在左下、木窗在右上、床边小地垫与暖灯；暖黄室内光和蓝灰夜色，布局连续一致。",
+      "action": "画面具体对应旁白“皮皮安稳地靠好，嘴角轻轻弯着。”。在皮皮的小木屋卧室只表现这句正在发生的一个静态时刻，准确呈现皮皮、胡萝卜玩偶和本句提到的软垫、方巾、枕头或毛毯；不增加原文未写的角色或剧情。人物与关键物件位于画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_31.png",
+      "reference_manifest": "references/shot_31.json",
+      "image_status": "generated",
+      "actual_start_s": 228.56,
+      "actual_end_s": 233.88,
+      "speech_start_s": 229.00279166666667,
+      "speech_end_s": 233.42054033333332,
+      "visible_start_s": 228.08,
+      "visible_end_s": 234.35999999999999,
+      "visible_duration_s": 6.28
+    },
+    {
+      "id": 32,
+      "title": "忙着照顾玩偶了一整天的小爪子，终",
+      "text": "忙着照顾玩偶了一整天的小爪子，终于也可以休息了。",
+      "source_ranges": [
+        {
+          "unit_id": "u023",
+          "paragraph_id": "p008",
+          "start_char": 0,
+          "end_char": 24
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "夜晚皮皮的小木屋卧室，床在左下、木窗在右上、床边小地垫与暖灯；暖黄室内光和蓝灰夜色，布局连续一致。",
+      "action": "画面具体对应旁白“忙着照顾玩偶了一整天的小爪子，终于也可以休息了。”。在皮皮的小木屋卧室只表现这句正在发生的一个静态时刻，准确呈现皮皮、胡萝卜玩偶和本句提到的软垫、方巾、枕头或毛毯；不增加原文未写的角色或剧情。人物与关键物件位于画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_32.png",
+      "reference_manifest": "references/shot_32.json",
+      "image_status": "generated",
+      "actual_start_s": 233.88,
+      "actual_end_s": 241.32,
+      "speech_start_s": 234.30722916666667,
+      "speech_end_s": 240.75904166666666,
+      "visible_start_s": 233.4,
+      "visible_end_s": 241.79999999999998,
+      "visible_duration_s": 8.4
+    },
+    {
+      "id": 33,
+      "title": "小朋友，今晚睡觉的时候，给自己也",
+      "text": "小朋友，今晚睡觉的时候，给自己也留一份满满的舒服吧。",
+      "source_ranges": [
+        {
+          "unit_id": "u024",
+          "paragraph_id": "p009",
+          "start_char": 0,
+          "end_char": 26
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "夜晚皮皮的小木屋卧室，床在左下、木窗在右上、床边小地垫与暖灯；暖黄室内光和蓝灰夜色，布局连续一致。",
+      "action": "画面具体对应旁白“小朋友，今晚睡觉的时候，给自己也留一份满满的舒服吧。”。在皮皮的小木屋卧室只表现这句正在发生的一个静态时刻，准确呈现皮皮、胡萝卜玩偶和本句提到的软垫、方巾、枕头或毛毯；不增加原文未写的角色或剧情。人物与关键物件位于画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_33.png",
+      "reference_manifest": "references/shot_33.json",
+      "image_status": "generated",
+      "actual_start_s": 241.32,
+      "actual_end_s": 249.52,
+      "speech_start_s": 241.87608333333333,
+      "speech_end_s": 249.07356216666665,
+      "visible_start_s": 240.84,
+      "visible_end_s": 250.0,
+      "visible_duration_s": 9.16
+    },
+    {
+      "id": 34,
+      "title": " 你和身边喜欢的小伙伴，都可以窝",
+      "text": "\n你和身边喜欢的小伙伴，都可以窝在暖暖的被子里，好好歇着。",
+      "source_ranges": [
+        {
+          "unit_id": "u025",
+          "paragraph_id": "p009",
+          "start_char": 0,
+          "end_char": 29
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "夜晚皮皮的小木屋卧室，床在左下、木窗在右上、床边小地垫与暖灯；暖黄室内光和蓝灰夜色，布局连续一致。",
+      "action": "画面具体对应旁白“你和身边喜欢的小伙伴，都可以窝在暖暖的被子里，好好歇着。”。在皮皮的小木屋卧室只表现这句正在发生的一个静态时刻，准确呈现皮皮、胡萝卜玩偶和本句提到的软垫、方巾、枕头或毛毯；不增加原文未写的角色或剧情。人物与关键物件位于画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_34.png",
+      "reference_manifest": "references/shot_34.json",
+      "image_status": "generated",
+      "actual_start_s": 249.52,
+      "actual_end_s": 258.2,
+      "speech_start_s": 249.97664583333332,
+      "speech_end_s": 257.74499933333334,
+      "visible_start_s": 249.04000000000002,
+      "visible_end_s": 258.68,
+      "visible_duration_s": 9.64
+    },
+    {
+      "id": 35,
+      "title": "晚安。",
+      "text": "晚安。",
+      "source_ranges": [
+        {
+          "unit_id": "u026",
+          "paragraph_id": "p009",
+          "start_char": 0,
+          "end_char": 3
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "夜晚皮皮的小木屋卧室，床在左下、木窗在右上、床边小地垫与暖灯；暖黄室内光和蓝灰夜色，布局连续一致。",
+      "action": "画面具体对应旁白“晚安。”。在皮皮的小木屋卧室只表现这句正在发生的一个静态时刻，准确呈现皮皮、胡萝卜玩偶和本句提到的软垫、方巾、枕头或毛毯；不增加原文未写的角色或剧情。人物与关键物件位于画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_35.png",
+      "reference_manifest": "references/shot_35.json",
+      "image_status": "generated",
+      "actual_start_s": 258.2,
+      "actual_end_s": 260.52,
+      "speech_start_s": 258.6301875,
+      "speech_end_s": 259.39647816666667,
+      "visible_start_s": 257.71999999999997,
+      "visible_end_s": 260.52,
+      "visible_duration_s": 2.8
+    }
+  ],
+  "audio": "mix.wav",
+  "subtitles": "episode.ass",
+  "character_registry": "references/",
+  "fonts": [
+    {
+      "path": "fonts/NotoSansCJKsc-Bold.otf",
+      "sha256": "85c969dbb2f927c8dbbe440d5755b7c9a714f13a7a58339459df43cfff3583b3"
+    },
+    {
+      "path": "fonts/Noto-Sans-copyright.txt",
+      "sha256": "075f91382875da1c4b491f1facf2586f55448705133264d98ce15cab6211b125"
+    },
+    {
+      "path": "fonts/NotoSans-Regular.ttf",
+      "sha256": "89c3c497f618fdaa0b2d1e98fef93582f28c71debd2c4a8cdf41f190ced2909d"
+    },
+    {
+      "path": "fonts/NotoSansCJKsc-Regular.otf",
+      "sha256": "82e9bdfd176ce68c51f6ff89ca7e2abae7fdb82b4591aa7338638598ae3c91c8"
+    },
+    {
+      "path": "fonts/Noto-CJK-copyright.txt",
+      "sha256": "849f4ea9c214fa4ac3593b770c699f387534b11ce671264c1b10d85bdcb5997b"
+    }
+  ]
+}

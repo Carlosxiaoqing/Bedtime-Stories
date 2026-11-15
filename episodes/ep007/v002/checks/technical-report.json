@@ -1,0 +1,32 @@
+{
+  "version": "v002",
+  "script_version": "v5",
+  "source_script_sha256": "984c77362d69347a937f0e917dfedb795c3b915603ae56c416c3eee8f50850b5",
+  "added_opening": "小朋友们，准备好听故事了吗？今天的故事叫《窗帘的小摇篮》。夜风吹来时，窗帘会怎样轻轻摇动呢？",
+  "added_opening_hanzi": 39,
+  "unchanged_body_hanzi": 684,
+  "opening_voice_duration_s": 14.55,
+  "opening_segment_duration_s": 16.32,
+  "opening_ruby_cues": 7,
+  "opening_pinyin_hanzi_coverage": 1.0,
+  "opening_shots": 2,
+  "opening_max_visible_s": 11.64,
+  "original_story_source": "Outputs/2026-11-12/ep007-v001/ep007.mp4 and ep007_clean.mp4",
+  "original_video_frames": 6455,
+  "original_decoded_frames_identical_after_concat": true,
+  "original_aac_packets_identical_after_encoder_priming": true,
+  "final_video_frames": 6863,
+  "final_video_frame_duration_s": 274.52,
+  "final_container_duration_s": 274.541333,
+  "video_spec": {
+    "resolution": "1080x1920",
+    "fps": 25,
+    "video": "H.264",
+    "audio": "AAC 48kHz"
+  },
+  "full_decode_both_outputs": "passed",
+  "opening_phone_preview_review": "passed",
+  "full_human_listen_watch": "not_certified",
+  "user_acceptance": "pending",
+  "publication": "not_published"
+}

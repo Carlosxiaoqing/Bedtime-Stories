@@ -1,0 +1,185 @@
+{
+  "text": "这下玩偶有了豪华小床，可皮皮躺下来时却发现，自己的半边被子溜走了，晚风从脖子后面钻进来，有点凉飕飕的。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "90f34b2610d246cbcdcfb9c06cfa71d1a904544d7a1306072e2886c35fbf63e1",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 3077080,
+      "text": "这"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4346250,
+      "duration": 2884580,
+      "text": "下"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7422910,
+      "duration": 8461660,
+      "text": "玩偶"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17422910,
+      "duration": 2307500,
+      "text": "有"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19730830,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21269160,
+      "duration": 5000000,
+      "text": "豪华"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26461660,
+      "duration": 8846250,
+      "text": "小床"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 39153750,
+      "duration": 2307500,
+      "text": "可"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 41461660,
+      "duration": 4422910,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 46269160,
+      "duration": 3461660,
+      "text": "躺"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 49730830,
+      "duration": 5192080,
+      "text": "下来"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 54922910,
+      "duration": 5192500,
+      "text": "时"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 61653750,
+      "duration": 2500000,
+      "text": "却"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 64346250,
+      "duration": 7307500,
+      "text": "发现"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 77038330,
+      "duration": 4422910,
+      "text": "自己"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 81461660,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 83000000,
+      "duration": 5384580,
+      "text": "半边"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 88577080,
+      "duration": 4230830,
+      "text": "被子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 93192500,
+      "duration": 6922910,
+      "text": "溜走"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 100115410,
+      "duration": 3269160,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 107115410,
+      "duration": 8077080,
+      "text": "晚风"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 115577080,
+      "duration": 2884580,
+      "text": "从"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 118653750,
+      "duration": 4230830,
+      "text": "脖子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 123077080,
+      "duration": 5000000,
+      "text": "后面"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 128461660,
+      "duration": 3461250,
+      "text": "钻"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 131922910,
+      "duration": 6153750,
+      "text": "进来"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 141538330,
+      "duration": 4422910,
+      "text": "有点"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 146346250,
+      "duration": 10192080,
+      "text": "凉飕飕"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 156538330,
+      "duration": 3077080,
+      "text": "的"
+    }
+  ]
+}

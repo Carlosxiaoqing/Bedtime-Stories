@@ -1,0 +1,101 @@
+{
+  "text": "\n大家要一起用毛线，在纸板上贴出自己最喜欢的东西。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "6a5e130a11f3f9047d4fb857cc61b1beafef163b21077f4dc99cc68924437774",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 4807500,
+      "text": "大家"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6269160,
+      "duration": 2307500,
+      "text": "要"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8961660,
+      "duration": 5000000,
+      "text": "一起"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14153750,
+      "duration": 2115410,
+      "text": "用"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16269160,
+      "duration": 7692500,
+      "text": "毛线"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 29346250,
+      "duration": 2500000,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32038330,
+      "duration": 5961660,
+      "text": "纸板"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 38000000,
+      "duration": 5000000,
+      "text": "上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 44538330,
+      "duration": 2884580,
+      "text": "贴"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 47422910,
+      "duration": 2307500,
+      "text": "出"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 49922910,
+      "duration": 4615410,
+      "text": "自己"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 54922910,
+      "duration": 3461660,
+      "text": "最"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 58384580,
+      "duration": 5000000,
+      "text": "喜欢"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 63384580,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 64730830,
+      "duration": 6730830,
+      "text": "东西"
+    }
+  ]
+}

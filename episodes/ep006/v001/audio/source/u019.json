@@ -1,0 +1,59 @@
+{
+  "text": "篮子靠着椅脚，稳稳地停好。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "3e27d34643064039ff5411dbd7e10fa55e1423c1f73d93d6f327ec05cdd186d0",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5384580,
+      "text": "篮子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7038330,
+      "duration": 2884580,
+      "text": "靠"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9922910,
+      "duration": 1538330,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11653750,
+      "duration": 8461660,
+      "text": "椅脚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23769160,
+      "duration": 5384580,
+      "text": "稳稳"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 29153750,
+      "duration": 1346250,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30692500,
+      "duration": 3845830,
+      "text": "停"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 34538330,
+      "duration": 5192500,
+      "text": "好"
+    }
+  ]
+}

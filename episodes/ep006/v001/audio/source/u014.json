@@ -1,0 +1,41 @@
+{
+  "text": "皮皮一点儿也不慌张。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "7dfefd5987cf94b7b69808f432c95784c8bd2fd33e6215c308715654ccc7fde7",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5769160,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7422910,
+      "duration": 5192500,
+      "text": "一点儿"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12807500,
+      "duration": 1922910,
+      "text": "也"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14922910,
+      "duration": 1922910,
+      "text": "不"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16846250,
+      "duration": 7307500,
+      "text": "慌张"
+    }
+  ]
+}

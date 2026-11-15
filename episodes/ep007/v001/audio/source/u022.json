@@ -1,0 +1,101 @@
+{
+  "text": "皮皮的眼皮越来越沉，呼吸也跟着窗帘摇晃的节奏，变得悠长而平稳。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "e3e870a85c6ab2af0e6563d32cd67134c55c8546fb3aec9f3311d8cc0e8baf9e",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 7115410,
+      "text": "皮皮的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8577080,
+      "duration": 6346250,
+      "text": "眼皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15307500,
+      "duration": 7115410,
+      "text": "越来越"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22422910,
+      "duration": 5384580,
+      "text": "沉"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32807500,
+      "duration": 7692500,
+      "text": "呼吸"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 40692500,
+      "duration": 2307500,
+      "text": "也"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 43192500,
+      "duration": 3653750,
+      "text": "跟着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 47038330,
+      "duration": 5384580,
+      "text": "窗帘"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 52807500,
+      "duration": 5961660,
+      "text": "摇晃"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 58769160,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 60307500,
+      "duration": 7884580,
+      "text": "节奏"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 72038330,
+      "duration": 4230830,
+      "text": "变得"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 76461660,
+      "duration": 7500000,
+      "text": "悠长"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 84346250,
+      "duration": 1730830,
+      "text": "而"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 86269160,
+      "duration": 8653750,
+      "text": "平稳"
+    }
+  ]
+}

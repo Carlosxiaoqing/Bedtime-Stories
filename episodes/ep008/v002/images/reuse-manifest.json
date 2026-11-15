@@ -1,0 +1,215 @@
+{
+  "episode": "ep008",
+  "from_version": "v001",
+  "to_version": "v002",
+  "reuse_scope": "body narration audio and all body illustrations unchanged",
+  "body_images": [
+    {
+      "new_shot_id": 2,
+      "source_version": "v001",
+      "source_image": "images/shot_01.png"
+    },
+    {
+      "new_shot_id": 3,
+      "source_version": "v001",
+      "source_image": "images/shot_02.png"
+    },
+    {
+      "new_shot_id": 4,
+      "source_version": "v001",
+      "source_image": "images/shot_03.png"
+    },
+    {
+      "new_shot_id": 5,
+      "source_version": "v001",
+      "source_image": "images/shot_04.png"
+    },
+    {
+      "new_shot_id": 6,
+      "source_version": "v001",
+      "source_image": "images/shot_05.png"
+    },
+    {
+      "new_shot_id": 7,
+      "source_version": "v001",
+      "source_image": "images/shot_06.png"
+    },
+    {
+      "new_shot_id": 8,
+      "source_version": "v001",
+      "source_image": "images/shot_07.png"
+    },
+    {
+      "new_shot_id": 9,
+      "source_version": "v001",
+      "source_image": "images/shot_08.png"
+    },
+    {
+      "new_shot_id": 10,
+      "source_version": "v001",
+      "source_image": "images/shot_09.png"
+    },
+    {
+      "new_shot_id": 11,
+      "source_version": "v001",
+      "source_image": "images/shot_10.png"
+    },
+    {
+      "new_shot_id": 12,
+      "source_version": "v001",
+      "source_image": "images/shot_11.png"
+    },
+    {
+      "new_shot_id": 13,
+      "source_version": "v001",
+      "source_image": "images/shot_12.png"
+    },
+    {
+      "new_shot_id": 14,
+      "source_version": "v001",
+      "source_image": "images/shot_13.png"
+    },
+    {
+      "new_shot_id": 15,
+      "source_version": "v001",
+      "source_image": "images/shot_14.png"
+    },
+    {
+      "new_shot_id": 16,
+      "source_version": "v001",
+      "source_image": "images/shot_15.png"
+    },
+    {
+      "new_shot_id": 17,
+      "source_version": "v001",
+      "source_image": "images/shot_16.png"
+    },
+    {
+      "new_shot_id": 18,
+      "source_version": "v001",
+      "source_image": "images/shot_17.png"
+    },
+    {
+      "new_shot_id": 19,
+      "source_version": "v001",
+      "source_image": "images/shot_18.png"
+    },
+    {
+      "new_shot_id": 20,
+      "source_version": "v001",
+      "source_image": "images/shot_19.png"
+    },
+    {
+      "new_shot_id": 21,
+      "source_version": "v001",
+      "source_image": "images/shot_20.png"
+    },
+    {
+      "new_shot_id": 22,
+      "source_version": "v001",
+      "source_image": "images/shot_21.png"
+    },
+    {
+      "new_shot_id": 23,
+      "source_version": "v001",
+      "source_image": "images/shot_22.png"
+    },
+    {
+      "new_shot_id": 24,
+      "source_version": "v001",
+      "source_image": "images/shot_23.png"
+    },
+    {
+      "new_shot_id": 25,
+      "source_version": "v001",
+      "source_image": "images/shot_24.png"
+    },
+    {
+      "new_shot_id": 26,
+      "source_version": "v001",
+      "source_image": "images/shot_25.png"
+    },
+    {
+      "new_shot_id": 27,
+      "source_version": "v001",
+      "source_image": "images/shot_26.png"
+    },
+    {
+      "new_shot_id": 28,
+      "source_version": "v001",
+      "source_image": "images/shot_27.png"
+    },
+    {
+      "new_shot_id": 29,
+      "source_version": "v001",
+      "source_image": "images/shot_28.png"
+    },
+    {
+      "new_shot_id": 30,
+      "source_version": "v001",
+      "source_image": "images/shot_29.png"
+    },
+    {
+      "new_shot_id": 31,
+      "source_version": "v001",
+      "source_image": "images/shot_30.png"
+    },
+    {
+      "new_shot_id": 32,
+      "source_version": "v001",
+      "source_image": "images/shot_31.png"
+    },
+    {
+      "new_shot_id": 33,
+      "source_version": "v001",
+      "source_image": "images/shot_32.png"
+    },
+    {
+      "new_shot_id": 34,
+      "source_version": "v001",
+      "source_image": "images/shot_33.png"
+    },
+    {
+      "new_shot_id": 35,
+      "source_version": "v001",
+      "source_image": "images/shot_34.png"
+    },
+    {
+      "new_shot_id": 36,
+      "source_version": "v001",
+      "source_image": "images/shot_35.png"
+    }
+  ],
+  "body_audio_units": [
+    "u001",
+    "u002",
+    "u003",
+    "u004",
+    "u005",
+    "u006",
+    "u007",
+    "u008",
+    "u009",
+    "u010",
+    "u011",
+    "u012",
+    "u013",
+    "u014",
+    "u015",
+    "u016",
+    "u017",
+    "u018",
+    "u019",
+    "u020",
+    "u021",
+    "u022",
+    "u023",
+    "u024",
+    "u025",
+    "u026"
+  ],
+  "new_opening_images": [
+    "images/shot_00.png",
+    "images/opening_hook.png"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "text": "晚安，做个好梦。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "25abc03f6e1225642b752b1d639ab1e641e20eb6b0cd9f87738d77866445cbdd",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 7115410,
+      "text": "晚安"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12807500,
+      "duration": 2692500,
+      "text": "做"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15500000,
+      "duration": 1153750,
+      "text": "个"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16846250,
+      "duration": 3269160,
+      "text": "好"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20115410,
+      "duration": 4230830,
+      "text": "梦"
+    }
+  ]
+}

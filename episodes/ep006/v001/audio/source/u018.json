@@ -1,0 +1,185 @@
+{
+  "text": "\n皮皮把圆圆的毛线团轻轻放进去，把小小的线头藏在下面，这样它就不会在夜里牵着谁的小脚丫到处跑了。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "a9aa1376fe0603481a8e055c53611dbf2b5f10ae8409a85c860161c264111863",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5192500,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6846250,
+      "duration": 2115410,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9153750,
+      "duration": 5577080,
+      "text": "圆圆"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14730830,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16269160,
+      "duration": 10192500,
+      "text": "毛线团"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26846250,
+      "duration": 5384580,
+      "text": "轻轻"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32422910,
+      "duration": 3461660,
+      "text": "放"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 35884580,
+      "duration": 6922910,
+      "text": "进去"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 48000000,
+      "duration": 1922910,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 50115410,
+      "duration": 5769160,
+      "text": "小小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 55884580,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 57230830,
+      "duration": 9230830,
+      "text": "线头"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 66846250,
+      "duration": 3461250,
+      "text": "藏"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 70307500,
+      "duration": 1730830,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 72230830,
+      "duration": 8461660,
+      "text": "下面"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 84615410,
+      "duration": 8077080,
+      "text": "这样"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 94230830,
+      "duration": 2115410,
+      "text": "它"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 96538330,
+      "duration": 2115410,
+      "text": "就"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 98653750,
+      "duration": 4807500,
+      "text": "不会"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 103653750,
+      "duration": 2500000,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 106153750,
+      "duration": 8269160,
+      "text": "夜里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 115961660,
+      "duration": 3461250,
+      "text": "牵"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 119422910,
+      "duration": 1346250,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 120961660,
+      "duration": 2500000,
+      "text": "谁"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 123461660,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 125000000,
+      "duration": 10192500,
+      "text": "小脚丫"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 136730830,
+      "duration": 5577080,
+      "text": "到处"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 142500000,
+      "duration": 4038330,
+      "text": "跑"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 146538330,
+      "duration": 3077080,
+      "text": "了"
+    }
+  ]
+}

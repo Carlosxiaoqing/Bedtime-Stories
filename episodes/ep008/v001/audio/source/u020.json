@@ -1,0 +1,65 @@
+{
+  "text": "那块小方巾变成了玩偶的专属小枕头。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "e82e206b24179f08c373f711cb620a5f12d2e7e62764dca9c3e231625c1bfee0",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2307500,
+      "text": "那"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3577080,
+      "duration": 2307500,
+      "text": "块"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6077080,
+      "duration": 3076660,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9153750,
+      "duration": 7692500,
+      "text": "方巾"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18384580,
+      "duration": 5384580,
+      "text": "变成"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23769160,
+      "duration": 1538330,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25692500,
+      "duration": 5384580,
+      "text": "玩偶"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31077080,
+      "duration": 7884580,
+      "text": "的专属"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 39153750,
+      "duration": 12307500,
+      "text": "小枕头"
+    }
+  ]
+}

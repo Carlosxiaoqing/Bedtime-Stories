@@ -1,0 +1,56 @@
+{
+  "episode": "ep007",
+  "version": "v002",
+  "cover_title": "帘摇入梦",
+  "shot_count": 2,
+  "shots": [
+    {
+      "id": 1,
+      "title": "小朋友们，准备好听故事了吗？",
+      "text": "小朋友们，准备好听故事了吗？",
+      "source_ranges": [
+        {
+          "unit_id": "u001",
+          "paragraph_id": "p001",
+          "start_char": 0,
+          "end_char": 14
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "pipi_bedroom_night_opening",
+      "reality": "现实",
+      "action": "开场静态封面画面；呈现邀约听故事。",
+      "motion": "fixed",
+      "image": "images/opening.png"
+    },
+    {
+      "id": 2,
+      "title": "今天的故事叫《窗帘的小摇篮》。夜风吹来时，窗帘会怎样轻轻摇动呢？",
+      "text": "今天的故事叫《窗帘的小摇篮》。夜风吹来时，窗帘会怎样轻轻摇动呢？",
+      "source_ranges": [
+        {
+          "unit_id": "u001",
+          "paragraph_id": "p001",
+          "start_char": 14,
+          "end_char": 46
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "pipi_bedroom_night_opening",
+      "reality": "现实",
+      "action": "切至夜间窗边静态插画，承接故事名与窗帘问题。",
+      "motion": "fixed",
+      "image": "images/window.png"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "text": "没有声音催它快一点，屋里安静极了。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "36e2f487e236fefa13729a8c898a73ff89b5e6f6041cdd002937ccb3567a5eb2",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 4807500,
+      "text": "没有"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6269160,
+      "duration": 5769160,
+      "text": "声音"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12422910,
+      "duration": 2500000,
+      "text": "催"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14922910,
+      "duration": 1730830,
+      "text": "它"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16846250,
+      "duration": 3461250,
+      "text": "快"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20307500,
+      "duration": 5961660,
+      "text": "一点"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30692500,
+      "duration": 4230830,
+      "text": "屋里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 35307500,
+      "duration": 5769160,
+      "text": "安静"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 41269160,
+      "duration": 3653750,
+      "text": "极"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 44922910,
+      "duration": 2884580,
+      "text": "了"
+    }
+  ]
+}

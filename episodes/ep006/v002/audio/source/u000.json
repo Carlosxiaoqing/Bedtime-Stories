@@ -1,0 +1,101 @@
+{
+  "text": "小朋友们，准备好听故事了吗？今天的故事叫《毛线团找到了小窝》。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "926cf44e3530fc953eb73cf10facc2924e00520d7b2c11f12d5f819e340a2cb9",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 8846250,
+      "text": "小朋友"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10115410,
+      "duration": 3846250,
+      "text": "们"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17422910,
+      "duration": 3846250,
+      "text": "准备"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21461660,
+      "duration": 5769160,
+      "text": "好听"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27422910,
+      "duration": 5192500,
+      "text": "故事"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32615410,
+      "duration": 1346250,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33961660,
+      "duration": 4038330,
+      "text": "吗"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 46922910,
+      "duration": 5577080,
+      "text": "今天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 52500000,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 53846250,
+      "duration": 4422910,
+      "text": "故事"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 58461660,
+      "duration": 4807500,
+      "text": "叫"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 64807500,
+      "duration": 10000000,
+      "text": "毛线团"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 75192500,
+      "duration": 4615000,
+      "text": "找到"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 79807500,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 81153750,
+      "duration": 7692500,
+      "text": "小窝"
+    }
+  ]
+}

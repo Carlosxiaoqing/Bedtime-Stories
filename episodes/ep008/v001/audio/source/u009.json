@@ -1,0 +1,215 @@
+{
+  "text": "山羊老师拿来一块软布，铺在皮皮怀里：“你看，让玩偶靠在你怀里，你坐满整个软垫，这样你们两个都能舒舒服服的呀。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "22cb2806c1d51277e69d9c25790ccc2591b5584e0990a6c937c11c573991d46c",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 6153750,
+      "text": "山羊"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7615410,
+      "duration": 6922910,
+      "text": "老师"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14922910,
+      "duration": 4038330,
+      "text": "拿来"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19153750,
+      "duration": 4422910,
+      "text": "一块"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23769160,
+      "duration": 3653750,
+      "text": "软"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27422910,
+      "duration": 3653750,
+      "text": "布"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 34922910,
+      "duration": 2500000,
+      "text": "铺"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 37422910,
+      "duration": 2307500,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 40115410,
+      "duration": 4230830,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 44538330,
+      "duration": 4230830,
+      "text": "怀"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 48769160,
+      "duration": 3461660,
+      "text": "里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 57807500,
+      "duration": 1538330,
+      "text": "你"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 59346250,
+      "duration": 4615410,
+      "text": "看"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 68000000,
+      "duration": 2500000,
+      "text": "让"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 70692500,
+      "duration": 5961660,
+      "text": "玩偶"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 77038330,
+      "duration": 2692500,
+      "text": "靠"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 79730830,
+      "duration": 2115410,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 82038330,
+      "duration": 2115410,
+      "text": "你"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 84153750,
+      "duration": 4615410,
+      "text": "怀"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 88769160,
+      "duration": 3461660,
+      "text": "里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 95884580,
+      "duration": 1730830,
+      "text": "你"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 97615410,
+      "duration": 2884580,
+      "text": "坐"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 100500000,
+      "duration": 3653750,
+      "text": "满"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 104538330,
+      "duration": 4807500,
+      "text": "整个"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 109538330,
+      "duration": 7307500,
+      "text": "软垫"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 120769160,
+      "duration": 8077080,
+      "text": "这样"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 130384580,
+      "duration": 2884580,
+      "text": "你们"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 133461660,
+      "duration": 3076660,
+      "text": "两"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 136538330,
+      "duration": 1346250,
+      "text": "个"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 138269160,
+      "duration": 2115410,
+      "text": "都"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 140384580,
+      "duration": 2115410,
+      "text": "能"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 142884580,
+      "duration": 12500000,
+      "text": "舒舒服服"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 155384580,
+      "duration": 1730830,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 157115410,
+      "duration": 4230830,
+      "text": "呀"
+    }
+  ]
+}

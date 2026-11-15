@@ -1,0 +1,227 @@
+{
+  "text": "他把自己的小围兜解下来给玩偶当披风，又把自己坐的小垫子让了一大半给玩偶躺着，自己只用半个小屁股悬在木头凳子边上。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "cf8c8e263bf6fb7462e170713a915d8bde2a314882bc6ef655c52426eb4db754",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2307500,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3577080,
+      "duration": 2115410,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 5884580,
+      "duration": 4038330,
+      "text": "自己"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9922910,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11461660,
+      "duration": 8653750,
+      "text": "小围"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21653750,
+      "duration": 5577080,
+      "text": "兜解"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27230830,
+      "duration": 7884580,
+      "text": "下来"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36653750,
+      "duration": 5192500,
+      "text": "给玩"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 41846250,
+      "duration": 4807500,
+      "text": "偶当"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 46846250,
+      "duration": 7307500,
+      "text": "披风"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 59730830,
+      "duration": 2115410,
+      "text": "又"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 61846250,
+      "duration": 1922910,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 63961660,
+      "duration": 4807500,
+      "text": "自己"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 68961660,
+      "duration": 2307500,
+      "text": "坐"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 71269160,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 72807500,
+      "duration": 3077080,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 75884580,
+      "duration": 8077080,
+      "text": "垫子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 85692500,
+      "duration": 2692080,
+      "text": "让"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 88384580,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 89922910,
+      "duration": 7500000,
+      "text": "一大半"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 97422910,
+      "duration": 1922910,
+      "text": "给"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 99538330,
+      "duration": 4807500,
+      "text": "玩偶"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 104538330,
+      "duration": 4422910,
+      "text": "躺"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 108961660,
+      "duration": 3653750,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 116538330,
+      "duration": 6153750,
+      "text": "自己"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 122884580,
+      "duration": 2115410,
+      "text": "只"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 125000000,
+      "duration": 2692500,
+      "text": "用"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 128077080,
+      "duration": 3269160,
+      "text": "半个"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 131538330,
+      "duration": 3269160,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 134807500,
+      "duration": 8461660,
+      "text": "屁股"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 144807500,
+      "duration": 3846250,
+      "text": "悬"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 148653750,
+      "duration": 2307500,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 151346250,
+      "duration": 8269160,
+      "text": "木头凳"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 159615410,
+      "duration": 1922910,
+      "text": "子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 161538330,
+      "duration": 3461660,
+      "text": "边"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 165000000,
+      "duration": 4615410,
+      "text": "上"
+    }
+  ]
+}

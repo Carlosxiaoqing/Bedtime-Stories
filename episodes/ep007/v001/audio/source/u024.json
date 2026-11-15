@@ -1,0 +1,107 @@
+{
+  "text": "小朋友，也让你的身体像躺在小摇篮里一样，舒服地歇着吧。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "5f9a76874e51b653b2d28ca65f0f2594df856603b361255cfb15d7fa1fb591c3",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 11538330,
+      "text": "小朋友"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16461660,
+      "duration": 2115410,
+      "text": "也"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18577080,
+      "duration": 2500000,
+      "text": "让"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21269160,
+      "duration": 11922910,
+      "text": "你的身体"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 34538330,
+      "duration": 2884580,
+      "text": "像"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 37615410,
+      "duration": 2884580,
+      "text": "躺"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 40500000,
+      "duration": 1922910,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 42807500,
+      "duration": 2692500,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 45500000,
+      "duration": 5961660,
+      "text": "摇篮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 51461660,
+      "duration": 1730830,
+      "text": "里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 53384580,
+      "duration": 5961660,
+      "text": "一样"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 63577080,
+      "duration": 5384580,
+      "text": "舒服"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 68961660,
+      "duration": 1346250,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 70500000,
+      "duration": 3653750,
+      "text": "歇"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 74153750,
+      "duration": 1730830,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 75884580,
+      "duration": 3653750,
+      "text": "吧"
+    }
+  ]
+}

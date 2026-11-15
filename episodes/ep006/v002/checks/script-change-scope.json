@@ -1,0 +1,270 @@
+{
+  "source_v1": "v4",
+  "source_v2": "v5",
+  "opening_paragraph_added": "小朋友们，准备好听故事了吗？今天的故事叫《毛线团找到了小窝》。一团滚乱的毛线要怎样才能安稳下来呢？",
+  "original_body_paragraph_count": 10,
+  "original_body_hanzi": 703,
+  "body_paragraphs_identical": true,
+  "body_paragraphs_sha256": "c4c7941281c816ed488bf83b05d2aa49ef4dde40304aa609c0c566a989dfdcee",
+  "body_tts_units_identical": true,
+  "body_tts_units_reused": 26,
+  "body_subtitle_text_identical": true,
+  "body_subtitle_cues": 125,
+  "body_storyboard_and_image_assignment_identical": true,
+  "body_images_identical": true,
+  "body_image_count": 36,
+  "image_reuse": [
+    {
+      "v001_shot_id": 1,
+      "v002_shot_id": 2,
+      "image": "images/shot_01.png",
+      "sha256": "17d9ffe637100abb537670f673c757d00f3bae50899e6d80976fb0ac1de3ea90",
+      "same": true
+    },
+    {
+      "v001_shot_id": 2,
+      "v002_shot_id": 3,
+      "image": "images/shot_02.png",
+      "sha256": "fa889c16ae3b2de0ece021149be99bb20148ad8b40f6c59d3d155e786059c0a7",
+      "same": true
+    },
+    {
+      "v001_shot_id": 3,
+      "v002_shot_id": 4,
+      "image": "images/shot_03.png",
+      "sha256": "c804da20ac64b570ae6d348723b8ae0d7a32a17237efdfa55703ff37e234c200",
+      "same": true
+    },
+    {
+      "v001_shot_id": 4,
+      "v002_shot_id": 5,
+      "image": "images/shot_04.png",
+      "sha256": "814f1807dc5519bfa2b8cc8d188f833cb1d38ddf92f47965eb029587c9888525",
+      "same": true
+    },
+    {
+      "v001_shot_id": 5,
+      "v002_shot_id": 6,
+      "image": "images/shot_05.png",
+      "sha256": "b77b0ba47afe8d65a569450c45af52cb294b37bec896799786a3918b79766ee9",
+      "same": true
+    },
+    {
+      "v001_shot_id": 6,
+      "v002_shot_id": 7,
+      "image": "images/shot_06.png",
+      "sha256": "3cedc75ac3f06f9b4174c50881a091f88baa201c1cf60477efadaecff475b556",
+      "same": true
+    },
+    {
+      "v001_shot_id": 7,
+      "v002_shot_id": 8,
+      "image": "images/shot_07.png",
+      "sha256": "4bc4bb9c89108bb46aa6f9ec491325a50819fb352517a7e871f45882b5cf1c59",
+      "same": true
+    },
+    {
+      "v001_shot_id": 8,
+      "v002_shot_id": 9,
+      "image": "images/shot_08.png",
+      "sha256": "86bc1d0a5d51caeffe687b4b01b05bb1b59e169b8176e783fa1e6ebad0683708",
+      "same": true
+    },
+    {
+      "v001_shot_id": 9,
+      "v002_shot_id": 10,
+      "image": "images/shot_09.png",
+      "sha256": "699e3d526ca4a4516242d798bdd7f2c0c1a97409a56af7bd657bc4f95dda4707",
+      "same": true
+    },
+    {
+      "v001_shot_id": 10,
+      "v002_shot_id": 11,
+      "image": "images/shot_10.png",
+      "sha256": "3f20177a58296fc6203ba60e2ee3e3a0187a2217d7ed99a463474c4f61bc14f1",
+      "same": true
+    },
+    {
+      "v001_shot_id": 11,
+      "v002_shot_id": 12,
+      "image": "images/shot_11.png",
+      "sha256": "219b049caf1def554b417cc023adb6e259c40c4a81f053b0e34e98d106139299",
+      "same": true
+    },
+    {
+      "v001_shot_id": 12,
+      "v002_shot_id": 13,
+      "image": "images/shot_12.png",
+      "sha256": "076ed68c241e7b9e1efd492e9424f151dae64d9f4a894e92fb4d86e9859f3181",
+      "same": true
+    },
+    {
+      "v001_shot_id": 13,
+      "v002_shot_id": 14,
+      "image": "images/shot_13.png",
+      "sha256": "eb7929e6b9d558d505f0428280ce6f3dd00011d07ce68a8fdd4a6353ee526cba",
+      "same": true
+    },
+    {
+      "v001_shot_id": 14,
+      "v002_shot_id": 15,
+      "image": "images/shot_14.png",
+      "sha256": "8b9a8696299b96816ad24088479e111d305f1c48725ac12bd66025523be30d2e",
+      "same": true
+    },
+    {
+      "v001_shot_id": 15,
+      "v002_shot_id": 16,
+      "image": "images/shot_15.png",
+      "sha256": "4220d288aac728553ce069af50d79e70ea84845b61dd27706e72e9be883f6cce",
+      "same": true
+    },
+    {
+      "v001_shot_id": 16,
+      "v002_shot_id": 17,
+      "image": "images/shot_16.png",
+      "sha256": "96c11dee9556d6d0b2e9dcc516818d541d059c696ada1a9368f868d6b060ee14",
+      "same": true
+    },
+    {
+      "v001_shot_id": 17,
+      "v002_shot_id": 18,
+      "image": "images/shot_17.png",
+      "sha256": "76ed7101c51fb1111a2419e8c8ca9c39621a837aba56681af4cafa5d65cc6588",
+      "same": true
+    },
+    {
+      "v001_shot_id": 18,
+      "v002_shot_id": 19,
+      "image": "images/shot_18.png",
+      "sha256": "623bd1e59bb3639fffe29b679d7f2634e3ef4e17f4eafcbf8a508caaa131ac6d",
+      "same": true
+    },
+    {
+      "v001_shot_id": 19,
+      "v002_shot_id": 20,
+      "image": "images/shot_19.png",
+      "sha256": "b62e9acc5a42fd790ec2f1bba24f283ac0a79cfe9906c1c5d28650110bf7b37c",
+      "same": true
+    },
+    {
+      "v001_shot_id": 20,
+      "v002_shot_id": 21,
+      "image": "images/shot_20.png",
+      "sha256": "dab8d1888b478af95a49e4c957ef04a907abf8e2473be40a5c94e6a2aa39fa9c",
+      "same": true
+    },
+    {
+      "v001_shot_id": 21,
+      "v002_shot_id": 22,
+      "image": "images/shot_21.png",
+      "sha256": "9584796eae7d60771a58699e5d54d9961753e25b403881c552009008b3fdb140",
+      "same": true
+    },
+    {
+      "v001_shot_id": 22,
+      "v002_shot_id": 23,
+      "image": "images/shot_22.png",
+      "sha256": "6f88a8a38220b364600e9ccfa6f39b8468ba01ecb469e79b3c47dc1f2b525c33",
+      "same": true
+    },
+    {
+      "v001_shot_id": 23,
+      "v002_shot_id": 24,
+      "image": "images/shot_23.png",
+      "sha256": "3362a206d6c3e202e657e34172584f2dac4447259ee253e7639ed80b675a9b09",
+      "same": true
+    },
+    {
+      "v001_shot_id": 24,
+      "v002_shot_id": 25,
+      "image": "images/shot_24.png",
+      "sha256": "6b14e379691e41922a26ef4906c89f1eac6cbbd210b7cc140eb78efcec2ebd6e",
+      "same": true
+    },
+    {
+      "v001_shot_id": 25,
+      "v002_shot_id": 26,
+      "image": "images/shot_25.png",
+      "sha256": "11e497b25649f3700a2c09872dc139a9640d96123d944201a49835d8258d8dd1",
+      "same": true
+    },
+    {
+      "v001_shot_id": 26,
+      "v002_shot_id": 27,
+      "image": "images/shot_26.png",
+      "sha256": "d5822ae7c936f08a4aaac0c0fa34a2b43eff4ccf74122d5e2d83be80696a0a55",
+      "same": true
+    },
+    {
+      "v001_shot_id": 27,
+      "v002_shot_id": 28,
+      "image": "images/shot_27.png",
+      "sha256": "6734729ab124a9ed23fbafc1ecb096ffaf219cc40cebe95e04dededb897ecb0a",
+      "same": true
+    },
+    {
+      "v001_shot_id": 28,
+      "v002_shot_id": 29,
+      "image": "images/shot_28.png",
+      "sha256": "a3b13876f1395ae5cd65d7741e9b003d4c5e41c117325e52e6e09bde1140d86b",
+      "same": true
+    },
+    {
+      "v001_shot_id": 29,
+      "v002_shot_id": 30,
+      "image": "images/shot_29.png",
+      "sha256": "9d6bc981e81f7fef03f343de3b871d6abb58c9e4a786baede5ee2edb923406ea",
+      "same": true
+    },
+    {
+      "v001_shot_id": 30,
+      "v002_shot_id": 31,
+      "image": "images/shot_30.png",
+      "sha256": "1e184d29032dd11e483b85569ceb0f5a29bee5b3ce7b88dd350e0788825793ec",
+      "same": true
+    },
+    {
+      "v001_shot_id": 31,
+      "v002_shot_id": 32,
+      "image": "images/shot_31.png",
+      "sha256": "687727679ba5ccc3134b23b2e83cc9e5e4543cc152f4d1add4f1aaca6bf39a25",
+      "same": true
+    },
+    {
+      "v001_shot_id": 32,
+      "v002_shot_id": 33,
+      "image": "images/shot_32.png",
+      "sha256": "5c05e5ef5f6c3ac2e5c8fe777698de20865070611c2b0208f2591731c18ac7a4",
+      "same": true
+    },
+    {
+      "v001_shot_id": 33,
+      "v002_shot_id": 34,
+      "image": "images/shot_33.png",
+      "sha256": "20275f38ed0acc0591b7022ad3f8586ee59fb2fab7dd654cec5d0d2100fa3312",
+      "same": true
+    },
+    {
+      "v001_shot_id": 34,
+      "v002_shot_id": 35,
+      "image": "images/shot_34.png",
+      "sha256": "014494332f1a1b6e0df7701491c77825303eb587e76cee1ee0a98a2587deb151",
+      "same": true
+    },
+    {
+      "v001_shot_id": 35,
+      "v002_shot_id": 36,
+      "image": "images/shot_35.png",
+      "sha256": "828738e6aba0c6fac14664b0892be2a7c4e31fe7e0bc594057874fbf81cbe023",
+      "same": true
+    },
+    {
+      "v001_shot_id": 36,
+      "v002_shot_id": 37,
+      "image": "images/shot_36.png",
+      "sha256": "367759c62331cde0b66332d17d4d01257b88ae37259a4d8e879c8aeedec3cc1d",
+      "same": true
+    }
+  ]
+}

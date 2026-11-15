@@ -1,0 +1,107 @@
+{
+  "schema_version": 3,
+  "script_version": "v4",
+  "id": "ep005",
+  "episode": 5,
+  "title": "小灯也想歇一会儿",
+  "theme": "从明亮活动过渡到休息",
+  "language": "zh-CN",
+  "production_scope": "adopted_user_long_script",
+  "status": "copyedited_media_not_started",
+  "narration_paragraphs": [
+    {
+      "id": "p001",
+      "text": "今天在树洞教室里，山羊老师交给皮皮一个神圣的小任务——当“故事角”的小小管理员。\n故事角在一棵大橡树的树洞里，光线有点暗，所以桌子上摆着一盏圆圆的松果小台灯。"
+    },
+    {
+      "id": "p002",
+      "text": "下午的阅读时间开始了，皮皮垫起脚尖，轻轻按下开关，“啪”的一声，松果小台灯亮起了暖融融的黄光。\n小鼹鼠点点捧着图画书坐过来，小刺猬栗栗也抱着软垫凑过来。小台灯安安静静地亮着，把图画书上的小蝴蝶、小蘑菇照得清清楚楚。"
+    },
+    {
+      "id": "p003",
+      "text": "大家看了一本又一本，直到窗外的阳光变成了温柔的橙色，到了放学回家的时间。\n小朋友们排着队走出了树洞，皮皮最后一个走。他回头看了一眼故事角，发现松果小台灯还亮着呢。"
+    },
+    {
+      "id": "p004",
+      "text": "皮皮跑回去，摸了摸温热的灯罩，小声对山羊老师说：“老师，小台灯照亮了整个下午，它是不是也有点累了呀？”\n山羊老师笑着点点头：“是呀，皮皮，那你帮它盖上休息的小被子吧。”"
+    },
+    {
+      "id": "p005",
+      "text": "皮皮轻轻按下开关，树洞里暗了下来，一缕傍晚的微光从树叶缝隙照进来，松果小台灯终于可以安安静静地歇一会儿了。"
+    },
+    {
+      "id": "p006",
+      "text": "皮皮背着小书包回到自己的小木屋时，屋里的床头灯也已经亮了一整个傍晚，正照着他把脱下来的小外套挂在衣帽架上。\n洗完脸，刷完牙，皮皮爬上柔软的小床，发现床头灯的灯罩上印着一朵小花，正被暖光照得软软的。"
+    },
+    {
+      "id": "p007",
+      "text": "皮皮想起教室里的那盏松果灯，心想，今晚自己的小床头灯，也已经认真陪伴很久了，该让它慢慢歇一会儿啦。\n皮皮先盖好暖黄色的毛毯，再把胡萝卜玩偶安顿在自己怀里。"
+    },
+    {
+      "id": "p008",
+      "text": "然后，他伸出小爪子，把床头灯调暗了一点。\n墙上的树影慢慢淡了下去，窗外弯弯的月亮，一下子就看得更清楚了。"
+    },
+    {
+      "id": "p009",
+      "text": "房间一点儿也没有变得陌生。小床还在，软软的枕头还在，床边的小椅子也稳稳地坐在原处。\n皮皮轻轻说了一声：“谢谢你，小灯，你也休息吧。”"
+    },
+    {
+      "id": "p010",
+      "text": "灯罩上只留下一圈淡淡的、像蜂蜜一样的暖色。\n皮皮靠好枕头，闭上眼睛。小灯陪着他一起安静下来，不再忙着照亮整间屋子。"
+    },
+    {
+      "id": "p011",
+      "text": "小朋友，今天的忙碌和玩耍也可以慢慢收好了。\n让眼睛休息，让舒服留在身边。轻轻闭上眼，晚安。"
+    }
+  ],
+  "cn_characters": 700,
+  "narration_sha256": "aa5cec504cd90a1aa11a1c5fa656f1d2482f7037d75407b4451b489505b6726e",
+  "source": {
+    "path": "/Users/ww/Downloads/100集睡前故事合集.md",
+    "sha256": "3feafa137e94824baccf8b6e3f3f24bac3e97714b2e201fcc48d461d8969c302",
+    "original_narration_sha256": "aa5cec504cd90a1aa11a1c5fa656f1d2482f7037d75407b4451b489505b6726e",
+    "original_paragraph_count": 11
+  },
+  "revision_record": [],
+  "duration_policy": {
+    "basis": "complete_narration_at_current_voice_settings",
+    "limit_s": null,
+    "delete_for_duration": false,
+    "time_stretch": false
+  },
+  "voice": {
+    "config": "03_素材与参数/配音与声音参数.json",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000
+  },
+  "actual_duration_s": null,
+  "character_registry": "03_素材与参数/用户长稿v4角色图库.json",
+  "storyboard": {
+    "status": "not_started",
+    "shots": [],
+    "timing_basis": "actual_audio",
+    "preferred_hold_s": [
+      8,
+      10
+    ],
+    "review_above_s": 15,
+    "short_action_hold_s": [
+      3,
+      5
+    ]
+  },
+  "material_state": {
+    "voice": "not_started",
+    "character_references": "not_generated",
+    "illustrations": "not_started",
+    "cover": "not_started",
+    "pinyin_review": "not_started",
+    "render": "not_started",
+    "technical_check": "not_started",
+    "human_watch": "not_started",
+    "user_acceptance": "not_recorded"
+  }
+}

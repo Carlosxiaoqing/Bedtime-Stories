@@ -1,0 +1,250 @@
+{
+  "hanzi": 703,
+  "cues": 125,
+  "pinyin_coverage": 1.0,
+  "context_review": "completed_against_episode_text",
+  "target_font_px": {
+    "hanzi": 76,
+    "pinyin": 48
+  },
+  "libass_fontsize_calibration": {
+    "hanzi": 114,
+    "pinyin": 66,
+    "reason": "match actual rasterized glyph scale to bundled-font 76px/48px reference; libass normalizes font metrics"
+  },
+  "audio_pronunciation_listen_review": "not_certified",
+  "overrides": [
+    {
+      "phrase": "团团",
+      "pinyin": [
+        "tuán",
+        "tuán"
+      ],
+      "context": "小松鼠团团最心急，他抱起一个红彤彤的毛线团，想剪下一大段来贴大松果。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "个",
+      "pinyin": [
+        "ge"
+      ],
+      "context": "小松鼠团团最心急，他抱起一个红彤彤的毛线团，想剪下一大段来贴大松果。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "爪子",
+      "pinyin": [
+        "zhuǎ",
+        "zi"
+      ],
+      "context": "可是小爪子一滑，“骨碌碌——”红毛线团掉在地上，顺着木地板一直滚到了滑梯下面，拖出了一条长长的红尾巴。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "尾巴",
+      "pinyin": [
+        "wěi",
+        "ba"
+      ],
+      "context": "可是小爪子一滑，“骨碌碌——”红毛线团掉在地上，顺着木地板一直滚到了滑梯下面，拖出了一条长长的红尾巴。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "尾巴",
+      "pinyin": [
+        "wěi",
+        "ba"
+      ],
+      "context": "团团追着毛线团跑过去，结果脚丫不小心缠在了毛线里，越着急，线就绕得越乱，急得他的大尾巴都耷拉下来了。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "团团",
+      "pinyin": [
+        "tuán",
+        "tuán"
+      ],
+      "context": "团团追着毛线团跑过去，结果脚丫不小心缠在了毛线里，越着急，线就绕得越乱，急得他的大尾巴都耷拉下来了。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "\n皮皮看见了，放下自己手里的黄毛线，迈着小步子走过去，轻声说：“团团，别急，我们不追它，我们坐下来慢慢绕。”",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "团团",
+      "pinyin": [
+        "tuán",
+        "tuán"
+      ],
+      "context": "\n皮皮看见了，放下自己手里的黄毛线，迈着小步子走过去，轻声说：“团团，别急，我们不追它，我们坐下来慢慢绕。”",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮教团团先坐在软垫上，把线头放在爪心里，像哄小宝宝一样，顺着毛线团的肚子，慢慢绕了一圈。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "团团",
+      "pinyin": [
+        "tuán",
+        "tuán"
+      ],
+      "context": "皮皮教团团先坐在软垫上，把线头放在爪心里，像哄小宝宝一样，顺着毛线团的肚子，慢慢绕了一圈。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "一会儿",
+      "pinyin": [
+        "yí",
+        "huìr",
+        "r"
+      ],
+      "context": "不一会儿，乱糟糟的红毛线就全都收好了。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "团团开心地把毛线团放进铺着棉布的小竹篮里，还送给皮皮一小段暖黄色的毛线作为谢礼。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "团团",
+      "pinyin": [
+        "tuán",
+        "tuán"
+      ],
+      "context": "团团开心地把毛线团放进铺着棉布的小竹篮里，还送给皮皮一小段暖黄色的毛线作为谢礼。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "傍晚放学回到家，皮皮把那小段黄毛线和自己家里的毛线团放在一起。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "个",
+      "pinyin": [
+        "ge"
+      ],
+      "context": "\n吃过晚饭后，那个小毛线团也不小心从矮桌上滚到了床边，长长的一根线，轻轻拖在卧室的软垫上。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "点儿",
+      "pinyin": [
+        "diǎn",
+        "ér"
+      ],
+      "context": "皮皮一点儿也不慌张。",
+      "review": "context_checked_per_character_erhua_display"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮一点儿也不慌张。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "团团",
+      "pinyin": [
+        "tuán",
+        "tuán"
+      ],
+      "context": "他想起白天在学校和团团一起收拾的样子，安安静静地坐在床沿，把线头放在爪心，慢慢地绕了起来。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "个",
+      "pinyin": [
+        "ge"
+      ],
+      "context": "床边的小篮子里，正好躺着一块干净的棉布，像一个柔软的小窝。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "\n皮皮把圆圆的毛线团轻轻放进去，把小小的线头藏在下面，这样它就不会在夜里牵着谁的小脚丫到处跑了。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "爪子",
+      "pinyin": [
+        "zhuǎ",
+        "zi"
+      ],
+      "context": "皮皮看了一眼，小爪子也跟着彻底放松下来。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮看了一眼，小爪子也跟着彻底放松下来。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "胡萝卜",
+      "pinyin": [
+        "hú",
+        "luó",
+        "bo"
+      ],
+      "context": "皮皮钻进温暖的被窝，抱住胡萝卜玩偶。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮钻进温暖的被窝，抱住胡萝卜玩偶。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "朋友",
+      "pinyin": [
+        "péng",
+        "you"
+      ],
+      "context": "\n小朋友，把今天轻轻放到一边吧。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "个",
+      "pinyin": [
+        "ge"
+      ],
+      "context": "晚安，做个好梦。",
+      "review": "context_checked_not_audio_listen_certification"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-12",
+  "episode": "ep006",
+  "service": "Microsoft Edge TTS",
+  "user_authorization": "按照最新剧本优化第6集视频，仅在前面新增开场白",
+  "purpose": "合成v5剧本p000开场并制作第006集v002",
+  "script_version": "v5",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "sample_rate": 48000,
+  "new_units": [
+    "u000",
+    "u000b"
+  ],
+  "reused_units": 26,
+  "result": "succeeded",
+  "units": 28,
+  "reused_body_units": 26,
+  "duration_s": 275.12,
+  "text_coverage": 1.0
+}

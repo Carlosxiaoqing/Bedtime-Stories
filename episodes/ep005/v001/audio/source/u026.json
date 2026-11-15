@@ -1,0 +1,35 @@
+{
+  "text": "轻轻闭上眼，晚安。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "c562d95624f54cfa4b6f18f1aff265eaabec62ac85fcc1a748c646d1851812cf",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 6730830,
+      "text": "轻轻"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8192500,
+      "duration": 2307500,
+      "text": "闭"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10500000,
+      "duration": 8461660,
+      "text": "上眼"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23000000,
+      "duration": 6730830,
+      "text": "晚安"
+    }
+  ]
+}

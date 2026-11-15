@@ -1,0 +1,89 @@
+{
+  "text": "”\n小熊绒绒照着皮皮的话，把大大的脚掌放进吊床里。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "46950a6f8d6639f96fae48c8567f3ca521aaa7fbe848246c65a776ce1ce36d54",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 3846250,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 5115410,
+      "duration": 6153750,
+      "text": "熊绒"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11269160,
+      "duration": 4230830,
+      "text": "绒"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15884580,
+      "duration": 4230830,
+      "text": "照着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20307500,
+      "duration": 7692500,
+      "text": "皮皮的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 28000000,
+      "duration": 4230830,
+      "text": "话"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36077080,
+      "duration": 2307500,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 38577080,
+      "duration": 5769160,
+      "text": "大大"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 44346250,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 46077080,
+      "duration": 7307500,
+      "text": "脚掌"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 53384580,
+      "duration": 5192500,
+      "text": "放进"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 58769160,
+      "duration": 7692500,
+      "text": "吊床"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 66461660,
+      "duration": 3653750,
+      "text": "里"
+    }
+  ]
+}

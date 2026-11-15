@@ -1,0 +1,95 @@
+{
+  "text": "\n皮皮轻轻说了一声：“谢谢你，小灯，你也休息吧。”",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "647dae4386adb20a6fb8b4bbd8cbe5ae3d31a43c8d15a1c60ff3fa2ba92711d8",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5384580,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7038330,
+      "duration": 5192500,
+      "text": "轻轻"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12422910,
+      "duration": 2884580,
+      "text": "说"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15307500,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16653750,
+      "duration": 2307500,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18961660,
+      "duration": 4422910,
+      "text": "声"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27807500,
+      "duration": 5961660,
+      "text": "谢谢"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33769160,
+      "duration": 3269160,
+      "text": "你"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 40884580,
+      "duration": 3269160,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 44153750,
+      "duration": 3846250,
+      "text": "灯"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 52230830,
+      "duration": 1346250,
+      "text": "你"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 53769160,
+      "duration": 1346250,
+      "text": "也"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 55307500,
+      "duration": 5577080,
+      "text": "休息"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 60884580,
+      "duration": 3461660,
+      "text": "吧"
+    }
+  ]
+}

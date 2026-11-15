@@ -1,0 +1,89 @@
+{
+  "text": "小灯陪着他一起安静下来，不再忙着照亮整间屋子。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "6f2e78a925263b14b9cc7e03ec60fc09db749eaeb1b136d1ec924f8a57f4eb1b",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 6153750,
+      "text": "小灯"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7807500,
+      "duration": 2692500,
+      "text": "陪"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10500000,
+      "duration": 1730830,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12230830,
+      "duration": 5192500,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18769160,
+      "duration": 5192500,
+      "text": "一起"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24153750,
+      "duration": 5577080,
+      "text": "安静"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 29922910,
+      "duration": 6922910,
+      "text": "下来"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 41269160,
+      "duration": 5192500,
+      "text": "不再"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 46653750,
+      "duration": 2692500,
+      "text": "忙"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 49346250,
+      "duration": 1538330,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 51077080,
+      "duration": 5769160,
+      "text": "照亮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 57230830,
+      "duration": 6153750,
+      "text": "整间"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 63577080,
+      "duration": 7115410,
+      "text": "屋子"
+    }
+  ]
+}

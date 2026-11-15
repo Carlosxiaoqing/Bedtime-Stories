@@ -1,0 +1,155 @@
+{
+  "text": "\n故事角在一棵大橡树的树洞里，光线有点暗，所以桌子上摆着一盏圆圆的松果小台灯。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "f2b44b020f2f9b1016d1475a03672acfb8f3202804c93d8f07eaf166585e98dd",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5192500,
+      "text": "故事"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6461660,
+      "duration": 4038330,
+      "text": "角"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10884580,
+      "duration": 2692500,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13769160,
+      "duration": 1730830,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15500000,
+      "duration": 3269160,
+      "text": "棵"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19153750,
+      "duration": 8653750,
+      "text": "大橡树"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27807500,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 29346250,
+      "duration": 6538330,
+      "text": "树洞"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 35884580,
+      "duration": 3269160,
+      "text": "里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 43192500,
+      "duration": 6153750,
+      "text": "光线"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 49730830,
+      "duration": 4807500,
+      "text": "有点"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 54538330,
+      "duration": 3653750,
+      "text": "暗"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 63961660,
+      "duration": 7692500,
+      "text": "所以"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 73192500,
+      "duration": 5000000,
+      "text": "桌子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 78192500,
+      "duration": 4038330,
+      "text": "上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 82615410,
+      "duration": 2500000,
+      "text": "摆"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 85115410,
+      "duration": 1346250,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 86653750,
+      "duration": 1922910,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 88577080,
+      "duration": 3461660,
+      "text": "盏"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 92422910,
+      "duration": 5384580,
+      "text": "圆圆"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 97807500,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 99538330,
+      "duration": 5192500,
+      "text": "松果"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 104922910,
+      "duration": 3077080,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 108000000,
+      "duration": 7500000,
+      "text": "台灯"
+    }
+  ]
+}

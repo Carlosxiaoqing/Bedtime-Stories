@@ -1,0 +1,125 @@
+{
+  "text": "那道弯弯的窗帘布纹，多像白天在白桦树下坐过的小吊床呀。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "f448b83e36feeba2a161326165dbddcb662c212c587f0447681ddba8d6cc423e",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2500000,
+      "text": "那"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3769160,
+      "duration": 2500000,
+      "text": "道"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6653750,
+      "duration": 5000000,
+      "text": "弯弯"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11653750,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13384580,
+      "duration": 5769160,
+      "text": "窗帘"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19346250,
+      "duration": 7500000,
+      "text": "布纹"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31077080,
+      "duration": 2307500,
+      "text": "多"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33384580,
+      "duration": 3269160,
+      "text": "像"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36846250,
+      "duration": 8269160,
+      "text": "白天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 45500000,
+      "duration": 2307500,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 48000000,
+      "duration": 5577080,
+      "text": "白桦"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 53577080,
+      "duration": 2884580,
+      "text": "树"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 56461660,
+      "duration": 4422910,
+      "text": "下"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 61269160,
+      "duration": 2692500,
+      "text": "坐"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 63961660,
+      "duration": 1730830,
+      "text": "过"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 65692500,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 67422910,
+      "duration": 2692500,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 70115410,
+      "duration": 6922910,
+      "text": "吊床"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 77038330,
+      "duration": 4038330,
+      "text": "呀"
+    }
+  ]
+}

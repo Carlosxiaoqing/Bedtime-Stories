@@ -1,0 +1,260 @@
+{
+  "hanzi": 700,
+  "cues": 124,
+  "pinyin_coverage": 1.0,
+  "context_review": "completed_against_episode_text",
+  "target_font_px": {
+    "hanzi": 76,
+    "pinyin": 48
+  },
+  "libass_fontsize_calibration": {
+    "hanzi": 114,
+    "pinyin": 66,
+    "reason": "match actual rasterized glyph scale to bundled-font 76px/48px reference; libass normalizes font metrics"
+  },
+  "audio_pronunciation_listen_review": "not_certified",
+  "overrides": [
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "今天在树洞教室里，山羊老师交给皮皮一个神圣的小任务——当“故事角”的小小管理员。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "个",
+      "pinyin": [
+        "ge"
+      ],
+      "context": "今天在树洞教室里，山羊老师交给皮皮一个神圣的小任务——当“故事角”的小小管理员。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "下午的阅读时间开始了，皮皮垫起脚尖，轻轻按下开关，“啪”的一声，松果小台灯亮起了暖融融的黄光。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "栗栗",
+      "pinyin": [
+        "lì",
+        "lì"
+      ],
+      "context": "\n小鼹鼠点点捧着图画书坐过来，小刺猬栗栗也抱着软垫凑过来。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "刺猬",
+      "pinyin": [
+        "cì",
+        "wei"
+      ],
+      "context": "\n小鼹鼠点点捧着图画书坐过来，小刺猬栗栗也抱着软垫凑过来。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "朋友",
+      "pinyin": [
+        "péng",
+        "you"
+      ],
+      "context": "\n小朋友们排着队走出了树洞，皮皮最后一个走。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "\n小朋友们排着队走出了树洞，皮皮最后一个走。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "个",
+      "pinyin": [
+        "ge"
+      ],
+      "context": "\n小朋友们排着队走出了树洞，皮皮最后一个走。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮跑回去，摸了摸温热的灯罩，小声对山羊老师说：“老师，小台灯照亮了整个下午，它是不是也有点累了呀？",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "个",
+      "pinyin": [
+        "ge"
+      ],
+      "context": "皮皮跑回去，摸了摸温热的灯罩，小声对山羊老师说：“老师，小台灯照亮了整个下午，它是不是也有点累了呀？",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "”\n山羊老师笑着点点头：“是呀，皮皮，那你帮它盖上休息的小被子吧。”",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "一会儿",
+      "pinyin": [
+        "yí",
+        "huì",
+        "ér"
+      ],
+      "context": "皮皮轻轻按下开关，树洞里暗了下来，一缕傍晚的微光从树叶缝隙照进来，松果小台灯终于可以安安静静地歇一会儿了。",
+      "review": "context_checked_per_character_erhua_display"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮轻轻按下开关，树洞里暗了下来，一缕傍晚的微光从树叶缝隙照进来，松果小台灯终于可以安安静静地歇一会儿了。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "背着",
+      "pinyin": [
+        "bēi",
+        "zhe"
+      ],
+      "context": "皮皮背着小书包回到自己的小木屋时，屋里的床头灯也已经亮了一整个傍晚，正照着他把脱下来的小外套挂在衣帽架上。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮背着小书包回到自己的小木屋时，屋里的床头灯也已经亮了一整个傍晚，正照着他把脱下来的小外套挂在衣帽架上。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "个",
+      "pinyin": [
+        "ge"
+      ],
+      "context": "皮皮背着小书包回到自己的小木屋时，屋里的床头灯也已经亮了一整个傍晚，正照着他把脱下来的小外套挂在衣帽架上。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "\n洗完脸，刷完牙，皮皮爬上柔软的小床，发现床头灯的灯罩上印着一朵小花，正被暖光照得软软的。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "一会儿",
+      "pinyin": [
+        "yí",
+        "huì",
+        "ér"
+      ],
+      "context": "皮皮想起教室里的那盏松果灯，心想，今晚自己的小床头灯，也已经认真陪伴很久了，该让它慢慢歇一会儿啦。",
+      "review": "context_checked_per_character_erhua_display"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮想起教室里的那盏松果灯，心想，今晚自己的小床头灯，也已经认真陪伴很久了，该让它慢慢歇一会儿啦。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "胡萝卜",
+      "pinyin": [
+        "hú",
+        "luó",
+        "bo"
+      ],
+      "context": "\n皮皮先盖好暖黄色的毛毯，再把胡萝卜玩偶安顿在自己怀里。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "\n皮皮先盖好暖黄色的毛毯，再把胡萝卜玩偶安顿在自己怀里。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "爪子",
+      "pinyin": [
+        "zhuǎ",
+        "zi"
+      ],
+      "context": "然后，他伸出小爪子，把床头灯调暗了一点。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "点儿",
+      "pinyin": [
+        "diǎn",
+        "ér"
+      ],
+      "context": "房间一点儿也没有变得陌生。",
+      "review": "context_checked_per_character_erhua_display"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "\n皮皮轻轻说了一声：“谢谢你，小灯，你也休息吧。”",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "\n皮皮靠好枕头，闭上眼睛。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "朋友",
+      "pinyin": [
+        "péng",
+        "you"
+      ],
+      "context": "小朋友，今天的忙碌和玩耍也可以慢慢收好了。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "舒服",
+      "pinyin": [
+        "shū",
+        "fu"
+      ],
+      "context": "\n让眼睛休息，让舒服留在身边。",
+      "review": "context_checked_not_audio_listen_certification"
+    }
+  ]
+}

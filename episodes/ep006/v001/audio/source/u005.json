@@ -1,0 +1,203 @@
+{
+  "text": "团团追着毛线团跑过去，结果脚丫不小心缠在了毛线里，越着急，线就绕得越乱，急得他的大尾巴都耷拉下来了。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "826b81fb686b72a90157efb6521360e493cd238cc73b1cbc170de957e9715d4f",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 8653750,
+      "text": "团团"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10307500,
+      "duration": 2115410,
+      "text": "追"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12422910,
+      "duration": 1346250,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13961660,
+      "duration": 8846250,
+      "text": "毛线团"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23192500,
+      "duration": 3461250,
+      "text": "跑"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26653750,
+      "duration": 6730830,
+      "text": "过去"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 38769160,
+      "duration": 5000000,
+      "text": "结果"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 43961660,
+      "duration": 6730830,
+      "text": "脚丫"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 51077080,
+      "duration": 1730410,
+      "text": "不"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 52807500,
+      "duration": 6730830,
+      "text": "小心"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 59922910,
+      "duration": 3269160,
+      "text": "缠"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 63192500,
+      "duration": 2115000,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 65307500,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 66653750,
+      "duration": 7884580,
+      "text": "毛线"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 74538330,
+      "duration": 3269160,
+      "text": "里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 81846250,
+      "duration": 2500000,
+      "text": "越"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 84346250,
+      "duration": 8846250,
+      "text": "着急"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 97038330,
+      "duration": 3077080,
+      "text": "线"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 100307500,
+      "duration": 1730830,
+      "text": "就"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 102230830,
+      "duration": 2884580,
+      "text": "绕"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 105115410,
+      "duration": 1346250,
+      "text": "得"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 106653750,
+      "duration": 3461660,
+      "text": "越"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 110115410,
+      "duration": 4038330,
+      "text": "乱"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 117884580,
+      "duration": 2884580,
+      "text": "急"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 120769160,
+      "duration": 1538330,
+      "text": "得"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 122500000,
+      "duration": 2115410,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 124615410,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 126153750,
+      "duration": 10577080,
+      "text": "大尾巴"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 138461660,
+      "duration": 2307500,
+      "text": "都"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 140769160,
+      "duration": 5000000,
+      "text": "耷拉"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 145961660,
+      "duration": 6730830,
+      "text": "下来"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 152692500,
+      "duration": 3077080,
+      "text": "了"
+    }
+  ]
+}

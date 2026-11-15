@@ -1,0 +1,65 @@
+{
+  "text": "不一会儿，乱糟糟的红毛线就全都收好了。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "322e6adfb014722dd0c644fd0596820de69ae71b0dcc69d56da6d19fab826cc5",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 1922910,
+      "text": "不"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3192500,
+      "duration": 6153750,
+      "text": "一会儿"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14730830,
+      "duration": 8076660,
+      "text": "乱糟糟"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22807500,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24346250,
+      "duration": 10577080,
+      "text": "红毛线"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36461660,
+      "duration": 1922910,
+      "text": "就"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 38577080,
+      "duration": 5961660,
+      "text": "全都"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 44730830,
+      "duration": 6538330,
+      "text": "收好"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 51269160,
+      "duration": 3077080,
+      "text": "了"
+    }
+  ]
+}

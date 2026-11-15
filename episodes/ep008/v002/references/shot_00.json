@@ -1,0 +1,13 @@
+{
+  "episode": "ep008",
+  "version": "v002",
+  "shot_id": 0,
+  "script_version": "v5",
+  "source_paragraph_id": "p000",
+  "illustration_requirement": "standalone",
+  "reference_images": [
+    "../../../ep006/v002/images/shot_00.png"
+  ],
+  "prompt": "Dedicated standalone bedtime-opening illustration generated for this episode. Do not reuse v001 story art. No embedded text.",
+  "asset": "images/shot_00.png"
+}

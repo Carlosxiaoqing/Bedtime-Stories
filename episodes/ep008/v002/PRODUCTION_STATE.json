@@ -1,0 +1,12 @@
+{
+  "episode": "ep008",
+  "version": "v002",
+  "status": "rendered_pending_user_acceptance",
+  "source_script_version": "v5",
+  "scope": "opening only",
+  "body_text": "unchanged from v001",
+  "body_voice": "reused from v001",
+  "body_images": "reused unchanged from v001",
+  "opening_shots": 2,
+  "publication": "not_published"
+}

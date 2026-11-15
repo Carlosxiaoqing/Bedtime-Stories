@@ -1,0 +1,17 @@
+{
+  "text": "晚安。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "34e7a5030954b367f6cb4fd026d3d161c54872ef015a0138911ce087efdf5f7f",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 7884580,
+      "text": "晚安"
+    }
+  ]
+}

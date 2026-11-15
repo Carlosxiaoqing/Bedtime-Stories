@@ -1,0 +1,113 @@
+{
+  "text": "\n墙上的树影慢慢淡了下去，窗外弯弯的月亮，一下子就看得更清楚了。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "bb5f52b23ec86b6626cb4278abb04386d7ed86b79d8369a62223ae2591f020af",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 3846250,
+      "text": "墙"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 5115410,
+      "duration": 2500000,
+      "text": "上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7615410,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8961660,
+      "duration": 8077080,
+      "text": "树影"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18577080,
+      "duration": 5577080,
+      "text": "慢慢"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24346250,
+      "duration": 2884580,
+      "text": "淡"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27230830,
+      "duration": 1346250,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 28769160,
+      "duration": 7884580,
+      "text": "下去"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 41077080,
+      "duration": 5384580,
+      "text": "窗外"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 46846250,
+      "duration": 14615410,
+      "text": "弯弯的月亮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 65692500,
+      "duration": 7884580,
+      "text": "一下子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 73769160,
+      "duration": 1922910,
+      "text": "就"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 75692500,
+      "duration": 2692080,
+      "text": "看"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 78384580,
+      "duration": 1153750,
+      "text": "得"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 79922910,
+      "duration": 2692500,
+      "text": "更"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 82615410,
+      "duration": 6153750,
+      "text": "清楚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 88769160,
+      "duration": 2692500,
+      "text": "了"
+    }
+  ]
+}

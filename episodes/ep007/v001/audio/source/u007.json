@@ -1,0 +1,89 @@
+{
+  "text": "一阵很小的风经过白桦树叶，吹了吹皮皮的吊床。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "0323bb5508f6bb3fa7bbf9570840a608d38669c4e4bd4447e37c458d91273036",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 4807500,
+      "text": "一阵"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6461660,
+      "duration": 3461250,
+      "text": "很"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9922910,
+      "duration": 2884580,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12807500,
+      "duration": 1922910,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14730830,
+      "duration": 4807500,
+      "text": "风"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20884580,
+      "duration": 5192500,
+      "text": "经过"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26461660,
+      "duration": 5577080,
+      "text": "白桦"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32230830,
+      "duration": 8077080,
+      "text": "树叶"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 44538330,
+      "duration": 3269160,
+      "text": "吹"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 47807500,
+      "duration": 1538330,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 49538330,
+      "duration": 3269160,
+      "text": "吹"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 52807500,
+      "duration": 6538330,
+      "text": "皮皮的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 59538330,
+      "duration": 9230830,
+      "text": "吊床"
+    }
+  ]
+}

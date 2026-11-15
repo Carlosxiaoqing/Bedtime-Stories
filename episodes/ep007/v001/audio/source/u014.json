@@ -1,0 +1,155 @@
+{
+  "text": "他侧过头，看见窗边的叶子花窗帘，正被外面的夜风吹得鼓起一点，又轻轻地落下来。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "156cfec71abb676cf39be69f46bf4d838350da9648e7cada6fc13604bc2df41a",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2307500,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3577080,
+      "duration": 3269160,
+      "text": "侧"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6846250,
+      "duration": 2115410,
+      "text": "过"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8961660,
+      "duration": 5961660,
+      "text": "头"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18192500,
+      "duration": 5577080,
+      "text": "看见"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23961660,
+      "duration": 3269160,
+      "text": "窗"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27230830,
+      "duration": 2307500,
+      "text": "边"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 29538330,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31269160,
+      "duration": 7692500,
+      "text": "叶子花"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 39153750,
+      "duration": 9230830,
+      "text": "窗帘"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 52807500,
+      "duration": 2884580,
+      "text": "正"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 55692500,
+      "duration": 2115410,
+      "text": "被"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 58000000,
+      "duration": 5577080,
+      "text": "外面"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 63577080,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 64922910,
+      "duration": 7115410,
+      "text": "夜风"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 72422910,
+      "duration": 2692500,
+      "text": "吹"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 75115410,
+      "duration": 1538330,
+      "text": "得"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 77038330,
+      "duration": 5192500,
+      "text": "鼓起"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 82422910,
+      "duration": 7115410,
+      "text": "一点"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 93384580,
+      "duration": 2115410,
+      "text": "又"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 95692500,
+      "duration": 6153750,
+      "text": "轻轻"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 101846250,
+      "duration": 1538330,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 103577080,
+      "duration": 2884580,
+      "text": "落"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 106461660,
+      "duration": 6730830,
+      "text": "下来"
+    }
+  ]
+}

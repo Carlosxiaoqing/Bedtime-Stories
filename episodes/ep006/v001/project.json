@@ -1,0 +1,1265 @@
+{
+  "episode": "ep006",
+  "duration_s": 259.76,
+  "fps": 25,
+  "frames": 6494,
+  "preview": false,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "shot_count": 36,
+  "crossfade_s": 0.96,
+  "curve": "linear",
+  "within_shot_motion": "none",
+  "subtitles_after_picture_transitions": true,
+  "clean": "/workspace/Bedtime-Stories/Outputs/2026-11-12/ep006-v001/ep006_clean.mp4",
+  "publish": "/workspace/Bedtime-Stories/Outputs/2026-11-12/ep006-v001/ep006.mp4",
+  "delivery_directory": "/workspace/Bedtime-Stories/Outputs/2026-11-12/ep006-v001",
+  "shots": [
+    {
+      "id": 1,
+      "title": "今天的树洞教室特别热闹，因为山羊",
+      "text": "今天的树洞教室特别热闹，因为山羊老师带来了一大篮子五颜六色的毛线",
+      "source_ranges": [
+        {
+          "unit_id": "u001",
+          "paragraph_id": "p001",
+          "start_char": 0,
+          "end_char": 32
+        }
+      ],
+      "characters": [
+        "pipi",
+        "goat_teacher",
+        "tuantuan"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "tuantuan": "default_v001"
+      },
+      "setting": "白天树洞教室的手工活动区：橡树树洞木地板、矮桌、彩色毛线篮和一架小滑梯；保持桌椅、滑梯和篮子在同一位置。",
+      "action": "画面具体对应旁白“今天的树洞教室特别热闹，因为山羊老师带来了一大篮子五颜六色的毛线”。在树洞教室手工区中只表现这句正在发生的一个静态时刻，突出红毛线团、线头、软垫、竹篮或棉布等本句实际提到的对象和动作；不增加原文未写的角色或剧情。人物与关键物件在画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_01.png",
+      "reference_manifest": "references/shot_01.json",
+      "image_status": "generated",
+      "actual_start_s": 0.0,
+      "actual_end_s": 10.32,
+      "speech_start_s": 1.0,
+      "speech_end_s": 10.300395833333333,
+      "visible_start_s": 0.0,
+      "visible_end_s": 10.8,
+      "visible_duration_s": 10.8
+    },
+    {
+      "id": 2,
+      "title": "团，有天空一样的蓝色，草地一样的",
+      "text": "团，有天空一样的蓝色，草地一样的绿色，还有太阳一样的暖黄色。",
+      "source_ranges": [
+        {
+          "unit_id": "u001",
+          "paragraph_id": "p001",
+          "start_char": 32,
+          "end_char": 62
+        }
+      ],
+      "characters": [
+        "pipi",
+        "goat_teacher",
+        "tuantuan"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "tuantuan": "default_v001"
+      },
+      "setting": "白天树洞教室的手工活动区：橡树树洞木地板、矮桌、彩色毛线篮和一架小滑梯；保持桌椅、滑梯和篮子在同一位置。",
+      "action": "画面具体对应旁白“团，有天空一样的蓝色，草地一样的绿色，还有太阳一样的暖黄色。”。在树洞教室手工区中只表现这句正在发生的一个静态时刻，突出红毛线团、线头、软垫、竹篮或棉布等本句实际提到的对象和动作；不增加原文未写的角色或剧情。人物与关键物件在画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_02.png",
+      "reference_manifest": "references/shot_02.json",
+      "image_status": "generated",
+      "actual_start_s": 10.32,
+      "actual_end_s": 19.28,
+      "speech_start_s": 10.300395833333333,
+      "speech_end_s": 18.820895166666666,
+      "visible_start_s": 9.84,
+      "visible_end_s": 19.76,
+      "visible_duration_s": 9.92
+    },
+    {
+      "id": 3,
+      "title": " 大家要一起用毛线，在纸板上贴出",
+      "text": "\n大家要一起用毛线，在纸板上贴出自己最喜欢的东西。",
+      "source_ranges": [
+        {
+          "unit_id": "u002",
+          "paragraph_id": "p001",
+          "start_char": 0,
+          "end_char": 25
+        }
+      ],
+      "characters": [
+        "pipi",
+        "goat_teacher",
+        "tuantuan"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "tuantuan": "default_v001"
+      },
+      "setting": "白天树洞教室的手工活动区：橡树树洞木地板、矮桌、彩色毛线篮和一架小滑梯；保持桌椅、滑梯和篮子在同一位置。",
+      "action": "画面具体对应旁白“大家要一起用毛线，在纸板上贴出自己最喜欢的东西。”。在树洞教室手工区中只表现这句正在发生的一个静态时刻，突出红毛线团、线头、软垫、竹篮或棉布等本句实际提到的对象和动作；不增加原文未写的角色或剧情。人物与关键物件在画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_03.png",
+      "reference_manifest": "references/shot_03.json",
+      "image_status": "generated",
+      "actual_start_s": 19.28,
+      "actual_end_s": 27.28,
+      "speech_start_s": 19.722354166666666,
+      "speech_end_s": 26.716666,
+      "visible_start_s": 18.8,
+      "visible_end_s": 27.76,
+      "visible_duration_s": 8.96
+    },
+    {
+      "id": 4,
+      "title": "小松鼠团团最心急，他抱起一个红彤",
+      "text": "小松鼠团团最心急，他抱起一个红彤彤的毛线团，",
+      "source_ranges": [
+        {
+          "unit_id": "u003",
+          "paragraph_id": "p002",
+          "start_char": 0,
+          "end_char": 22
+        }
+      ],
+      "characters": [
+        "tuantuan"
+      ],
+      "outfits": {
+        "tuantuan": "default_v001"
+      },
+      "setting": "白天树洞教室的手工活动区：橡树树洞木地板、矮桌、彩色毛线篮和一架小滑梯；保持桌椅、滑梯和篮子在同一位置。",
+      "action": "画面具体对应旁白“小松鼠团团最心急，他抱起一个红彤彤的毛线团，”。在树洞教室手工区中只表现这句正在发生的一个静态时刻，突出红毛线团、线头、软垫、竹篮或棉布等本句实际提到的对象和动作；不增加原文未写的角色或剧情。人物与关键物件在画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_04.png",
+      "reference_manifest": "references/shot_04.json",
+      "image_status": "generated",
+      "actual_start_s": 27.28,
+      "actual_end_s": 34.44,
+      "speech_start_s": 27.867583333333332,
+      "speech_end_s": 34.22558266666667,
+      "visible_start_s": 26.8,
+      "visible_end_s": 34.919999999999995,
+      "visible_duration_s": 8.12
+    },
+    {
+      "id": 5,
+      "title": "想剪下一大段来贴大松果。",
+      "text": "想剪下一大段来贴大松果。",
+      "source_ranges": [
+        {
+          "unit_id": "u003",
+          "paragraph_id": "p002",
+          "start_char": 22,
+          "end_char": 34
+        }
+      ],
+      "characters": [
+        "tuantuan"
+      ],
+      "outfits": {
+        "tuantuan": "default_v001"
+      },
+      "setting": "白天树洞教室的手工活动区：橡树树洞木地板、矮桌、彩色毛线篮和一架小滑梯；保持桌椅、滑梯和篮子在同一位置。",
+      "action": "画面具体对应旁白“想剪下一大段来贴大松果。”。在树洞教室手工区中只表现这句正在发生的一个静态时刻，突出红毛线团、线头、软垫、竹篮或棉布等本句实际提到的对象和动作；不增加原文未写的角色或剧情。人物与关键物件在画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_05.png",
+      "reference_manifest": "references/shot_05.json",
+      "image_status": "generated",
+      "actual_start_s": 34.44,
+      "actual_end_s": 38.8,
+      "speech_start_s": 34.66787466666666,
+      "speech_end_s": 38.36020766666667,
+      "visible_start_s": 33.96,
+      "visible_end_s": 39.279999999999994,
+      "visible_duration_s": 5.32
+    },
+    {
+      "id": 6,
+      "title": "可是小爪子一滑，“骨碌碌——”红",
+      "text": "可是小爪子一滑，“骨碌碌——”红毛线团掉在地上，",
+      "source_ranges": [
+        {
+          "unit_id": "u004",
+          "paragraph_id": "p002",
+          "start_char": 0,
+          "end_char": 24
+        }
+      ],
+      "characters": [
+        "tuantuan"
+      ],
+      "outfits": {
+        "tuantuan": "default_v001"
+      },
+      "setting": "白天树洞教室的手工活动区：橡树树洞木地板、矮桌、彩色毛线篮和一架小滑梯；保持桌椅、滑梯和篮子在同一位置。",
+      "action": "画面具体对应旁白“可是小爪子一滑，“骨碌碌——”红毛线团掉在地上，”。在树洞教室手工区中只表现这句正在发生的一个静态时刻，突出红毛线团、线头、软垫、竹篮或棉布等本句实际提到的对象和动作；不增加原文未写的角色或剧情。人物与关键物件在画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_06.png",
+      "reference_manifest": "references/shot_06.json",
+      "image_status": "generated",
+      "actual_start_s": 38.8,
+      "actual_end_s": 45.76,
+      "speech_start_s": 39.220875,
+      "speech_end_s": 45.492041666666665,
+      "visible_start_s": 38.32,
+      "visible_end_s": 46.239999999999995,
+      "visible_duration_s": 7.92
+    },
+    {
+      "id": 7,
+      "title": "顺着木地板一直滚到了滑梯下面，拖",
+      "text": "顺着木地板一直滚到了滑梯下面，拖出了一条长长的红尾巴。",
+      "source_ranges": [
+        {
+          "unit_id": "u004",
+          "paragraph_id": "p002",
+          "start_char": 24,
+          "end_char": 51
+        }
+      ],
+      "characters": [
+        "tuantuan"
+      ],
+      "outfits": {
+        "tuantuan": "default_v001"
+      },
+      "setting": "白天树洞教室的手工活动区：橡树树洞木地板、矮桌、彩色毛线篮和一架小滑梯；保持桌椅、滑梯和篮子在同一位置。",
+      "action": "画面具体对应旁白“顺着木地板一直滚到了滑梯下面，拖出了一条长长的红尾巴。”。在树洞教室手工区中只表现这句正在发生的一个静态时刻，突出红毛线团、线头、软垫、竹篮或棉布等本句实际提到的对象和动作；不增加原文未写的角色或剧情。人物与关键物件在画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_07.png",
+      "reference_manifest": "references/shot_07.json",
+      "image_status": "generated",
+      "actual_start_s": 45.76,
+      "actual_end_s": 54.36,
+      "speech_start_s": 46.011249666666664,
+      "speech_end_s": 53.768957666666665,
+      "visible_start_s": 45.28,
+      "visible_end_s": 54.839999999999996,
+      "visible_duration_s": 9.56
+    },
+    {
+      "id": 8,
+      "title": "团团追着毛线团跑过去，结果脚丫不",
+      "text": "团团追着毛线团跑过去，结果脚丫不小心缠在了毛线里，越着急，",
+      "source_ranges": [
+        {
+          "unit_id": "u005",
+          "paragraph_id": "p003",
+          "start_char": 0,
+          "end_char": 29
+        }
+      ],
+      "characters": [
+        "tuantuan",
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "tuantuan": "default_v001"
+      },
+      "setting": "白天树洞教室的手工活动区：橡树树洞木地板、矮桌、彩色毛线篮和一架小滑梯；保持桌椅、滑梯和篮子在同一位置。",
+      "action": "画面具体对应旁白“团团追着毛线团跑过去，结果脚丫不小心缠在了毛线里，越着急，”。在树洞教室手工区中只表现这句正在发生的一个静态时刻，突出红毛线团、线头、软垫、竹篮或棉布等本句实际提到的对象和动作；不增加原文未写的角色或剧情。人物与关键物件在画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_08.png",
+      "reference_manifest": "references/shot_08.json",
+      "image_status": "generated",
+      "actual_start_s": 54.36,
+      "actual_end_s": 64.28,
+      "speech_start_s": 54.924958333333336,
+      "speech_end_s": 64.0873125,
+      "visible_start_s": 53.88,
+      "visible_end_s": 64.76,
+      "visible_duration_s": 10.88
+    },
+    {
+      "id": 9,
+      "title": "线就绕得越乱，急得他的大尾巴都耷",
+      "text": "线就绕得越乱，急得他的大尾巴都耷拉下来了。",
+      "source_ranges": [
+        {
+          "unit_id": "u005",
+          "paragraph_id": "p003",
+          "start_char": 29,
+          "end_char": 50
+        }
+      ],
+      "characters": [
+        "tuantuan",
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "tuantuan": "default_v001"
+      },
+      "setting": "白天树洞教室的手工活动区：橡树树洞木地板、矮桌、彩色毛线篮和一架小滑梯；保持桌椅、滑梯和篮子在同一位置。",
+      "action": "画面具体对应旁白“线就绕得越乱，急得他的大尾巴都耷拉下来了。”。在树洞教室手工区中只表现这句正在发生的一个静态时刻，突出红毛线团、线头、软垫、竹篮或棉布等本句实际提到的对象和动作；不增加原文未写的角色或剧情。人物与关键物件在画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_09.png",
+      "reference_manifest": "references/shot_09.json",
+      "image_status": "generated",
+      "actual_start_s": 64.28,
+      "actual_end_s": 70.76,
+      "speech_start_s": 64.4718955,
+      "speech_end_s": 70.3450205,
+      "visible_start_s": 63.800000000000004,
+      "visible_end_s": 71.24000000000001,
+      "visible_duration_s": 7.44
+    },
+    {
+      "id": 10,
+      "title": " 皮皮看见了，放下自己手里的黄毛",
+      "text": "\n皮皮看见了，放下自己手里的黄毛线，迈着小步子走过去，轻声说：",
+      "source_ranges": [
+        {
+          "unit_id": "u006",
+          "paragraph_id": "p003",
+          "start_char": 0,
+          "end_char": 31
+        }
+      ],
+      "characters": [
+        "tuantuan",
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "tuantuan": "default_v001"
+      },
+      "setting": "白天树洞教室的手工活动区：橡树树洞木地板、矮桌、彩色毛线篮和一架小滑梯；保持桌椅、滑梯和篮子在同一位置。",
+      "action": "画面具体对应旁白“皮皮看见了，放下自己手里的黄毛线，迈着小步子走过去，轻声说：”。在树洞教室手工区中只表现这句正在发生的一个静态时刻，突出红毛线团、线头、软垫、竹篮或棉布等本句实际提到的对象和动作；不增加原文未写的角色或剧情。人物与关键物件在画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_10.png",
+      "reference_manifest": "references/shot_10.json",
+      "image_status": "generated",
+      "actual_start_s": 70.76,
+      "actual_end_s": 80.08,
+      "speech_start_s": 71.19810416666667,
+      "speech_end_s": 79.90497783333333,
+      "visible_start_s": 70.28,
+      "visible_end_s": 80.56,
+      "visible_duration_s": 10.28
+    },
+    {
+      "id": 11,
+      "title": "“团团，别急，我们不追它，我们坐",
+      "text": "“团团，别急，我们不追它，我们坐下来慢慢绕。”",
+      "source_ranges": [
+        {
+          "unit_id": "u006",
+          "paragraph_id": "p003",
+          "start_char": 31,
+          "end_char": 54
+        }
+      ],
+      "characters": [
+        "tuantuan",
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "tuantuan": "default_v001"
+      },
+      "setting": "白天树洞教室的手工活动区：橡树树洞木地板、矮桌、彩色毛线篮和一架小滑梯；保持桌椅、滑梯和篮子在同一位置。",
+      "action": "画面具体对应旁白““团团，别急，我们不追它，我们坐下来慢慢绕。””。在树洞教室手工区中只表现这句正在发生的一个静态时刻，突出红毛线团、线头、软垫、竹篮或棉布等本句实际提到的对象和动作；不增加原文未写的角色或剧情。人物与关键物件在画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_11.png",
+      "reference_manifest": "references/shot_11.json",
+      "image_status": "generated",
+      "actual_start_s": 80.08,
+      "actual_end_s": 87.28,
+      "speech_start_s": 80.28956183333334,
+      "speech_end_s": 86.73956183333334,
+      "visible_start_s": 79.6,
+      "visible_end_s": 87.76,
+      "visible_duration_s": 8.16
+    },
+    {
+      "id": 12,
+      "title": "皮皮教团团先坐在软垫上，把线头放",
+      "text": "皮皮教团团先坐在软垫上，把线头放在爪心里，像哄小宝宝一样，",
+      "source_ranges": [
+        {
+          "unit_id": "u007",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 29
+        }
+      ],
+      "characters": [
+        "tuantuan",
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "tuantuan": "default_v001"
+      },
+      "setting": "白天树洞教室的手工活动区：橡树树洞木地板、矮桌、彩色毛线篮和一架小滑梯；保持桌椅、滑梯和篮子在同一位置。",
+      "action": "画面具体对应旁白“皮皮教团团先坐在软垫上，把线头放在爪心里，像哄小宝宝一样，”。在树洞教室手工区中只表现这句正在发生的一个静态时刻，突出红毛线团、线头、软垫、竹篮或棉布等本句实际提到的对象和动作；不增加原文未写的角色或剧情。人物与关键物件在画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_12.png",
+      "reference_manifest": "references/shot_12.json",
+      "image_status": "generated",
+      "actual_start_s": 87.28,
+      "actual_end_s": 97.12,
+      "speech_start_s": 87.825,
+      "speech_end_s": 96.915958,
+      "visible_start_s": 86.8,
+      "visible_end_s": 97.60000000000001,
+      "visible_duration_s": 10.8
+    },
+    {
+      "id": 13,
+      "title": "顺着毛线团的肚子，慢慢绕了一圈。",
+      "text": "顺着毛线团的肚子，慢慢绕了一圈。",
+      "source_ranges": [
+        {
+          "unit_id": "u007",
+          "paragraph_id": "p004",
+          "start_char": 29,
+          "end_char": 45
+        }
+      ],
+      "characters": [
+        "tuantuan",
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "tuantuan": "default_v001"
+      },
+      "setting": "白天树洞教室的手工活动区：橡树树洞木地板、矮桌、彩色毛线篮和一架小滑梯；保持桌椅、滑梯和篮子在同一位置。",
+      "action": "画面具体对应旁白“顺着毛线团的肚子，慢慢绕了一圈。”。在树洞教室手工区中只表现这句正在发生的一个静态时刻，突出红毛线团、线头、软垫、竹篮或棉布等本句实际提到的对象和动作；不增加原文未写的角色或剧情。人物与关键物件在画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_13.png",
+      "reference_manifest": "references/shot_13.json",
+      "image_status": "generated",
+      "actual_start_s": 97.12,
+      "actual_end_s": 102.24,
+      "speech_start_s": 97.339,
+      "speech_end_s": 101.808249,
+      "visible_start_s": 96.64,
+      "visible_end_s": 102.72,
+      "visible_duration_s": 6.08
+    },
+    {
+      "id": 14,
+      "title": " 绕一圈，地上的长线就短了一点。",
+      "text": "\n绕一圈，地上的长线就短了一点。",
+      "source_ranges": [
+        {
+          "unit_id": "u008",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 16
+        }
+      ],
+      "characters": [
+        "tuantuan",
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "tuantuan": "default_v001"
+      },
+      "setting": "白天树洞教室的手工活动区：橡树树洞木地板、矮桌、彩色毛线篮和一架小滑梯；保持桌椅、滑梯和篮子在同一位置。",
+      "action": "画面具体对应旁白“绕一圈，地上的长线就短了一点。”。在树洞教室手工区中只表现这句正在发生的一个静态时刻，突出红毛线团、线头、软垫、竹篮或棉布等本句实际提到的对象和动作；不增加原文未写的角色或剧情。人物与关键物件在画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_14.png",
+      "reference_manifest": "references/shot_14.json",
+      "image_status": "generated",
+      "actual_start_s": 102.24,
+      "actual_end_s": 107.4,
+      "speech_start_s": 102.70610416666668,
+      "speech_end_s": 106.93091633333334,
+      "visible_start_s": 101.75999999999999,
+      "visible_end_s": 107.88000000000001,
+      "visible_duration_s": 6.12
+    },
+    {
+      "id": 15,
+      "title": "再绕一圈，毛线团又变得圆滚滚、胖",
+      "text": "再绕一圈，毛线团又变得圆滚滚、胖乎乎的了。",
+      "source_ranges": [
+        {
+          "unit_id": "u009",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 21
+        }
+      ],
+      "characters": [
+        "tuantuan",
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "tuantuan": "default_v001"
+      },
+      "setting": "白天树洞教室的手工活动区：橡树树洞木地板、矮桌、彩色毛线篮和一架小滑梯；保持桌椅、滑梯和篮子在同一位置。",
+      "action": "画面具体对应旁白“再绕一圈，毛线团又变得圆滚滚、胖乎乎的了。”。在树洞教室手工区中只表现这句正在发生的一个静态时刻，突出红毛线团、线头、软垫、竹篮或棉布等本句实际提到的对象和动作；不增加原文未写的角色或剧情。人物与关键物件在画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_15.png",
+      "reference_manifest": "references/shot_15.json",
+      "image_status": "generated",
+      "actual_start_s": 107.4,
+      "actual_end_s": 114.56,
+      "speech_start_s": 107.85191666666668,
+      "speech_end_s": 114.01200000000001,
+      "visible_start_s": 106.92,
+      "visible_end_s": 115.04,
+      "visible_duration_s": 8.12
+    },
+    {
+      "id": 16,
+      "title": "不一会儿，乱糟糟的红毛线就全都收",
+      "text": "不一会儿，乱糟糟的红毛线就全都收好了。",
+      "source_ranges": [
+        {
+          "unit_id": "u010",
+          "paragraph_id": "p005",
+          "start_char": 0,
+          "end_char": 19
+        }
+      ],
+      "characters": [
+        "tuantuan",
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "tuantuan": "default_v001"
+      },
+      "setting": "白天树洞教室的手工活动区：橡树树洞木地板、矮桌、彩色毛线篮和一架小滑梯；保持桌椅、滑梯和篮子在同一位置。",
+      "action": "画面具体对应旁白“不一会儿，乱糟糟的红毛线就全都收好了。”。在树洞教室手工区中只表现这句正在发生的一个静态时刻，突出红毛线团、线头、软垫、竹篮或棉布等本句实际提到的对象和动作；不增加原文未写的角色或剧情。人物与关键物件在画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_16.png",
+      "reference_manifest": "references/shot_16.json",
+      "image_status": "generated",
+      "actual_start_s": 114.56,
+      "actual_end_s": 120.88,
+      "speech_start_s": 115.14052083333335,
+      "speech_end_s": 120.41810316666668,
+      "visible_start_s": 114.08,
+      "visible_end_s": 121.36,
+      "visible_duration_s": 7.28
+    },
+    {
+      "id": 17,
+      "title": "团团开心地把毛线团放进铺着棉布的",
+      "text": "团团开心地把毛线团放进铺着棉布的小竹篮里，",
+      "source_ranges": [
+        {
+          "unit_id": "u011",
+          "paragraph_id": "p005",
+          "start_char": 0,
+          "end_char": 21
+        }
+      ],
+      "characters": [
+        "tuantuan",
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "tuantuan": "default_v001"
+      },
+      "setting": "白天树洞教室的手工活动区：橡树树洞木地板、矮桌、彩色毛线篮和一架小滑梯；保持桌椅、滑梯和篮子在同一位置。",
+      "action": "画面具体对应旁白“团团开心地把毛线团放进铺着棉布的小竹篮里，”。在树洞教室手工区中只表现这句正在发生的一个静态时刻，突出红毛线团、线头、软垫、竹篮或棉布等本句实际提到的对象和动作；不增加原文未写的角色或剧情。人物与关键物件在画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_17.png",
+      "reference_manifest": "references/shot_17.json",
+      "image_status": "generated",
+      "actual_start_s": 120.88,
+      "actual_end_s": 127.52,
+      "speech_start_s": 121.30900000000003,
+      "speech_end_s": 127.33604066666669,
+      "visible_start_s": 120.39999999999999,
+      "visible_end_s": 128.0,
+      "visible_duration_s": 7.6
+    },
+    {
+      "id": 18,
+      "title": "还送给皮皮一小段暖黄色的毛线作为",
+      "text": "还送给皮皮一小段暖黄色的毛线作为谢礼。",
+      "source_ranges": [
+        {
+          "unit_id": "u011",
+          "paragraph_id": "p005",
+          "start_char": 21,
+          "end_char": 40
+        }
+      ],
+      "characters": [
+        "tuantuan",
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "tuantuan": "default_v001"
+      },
+      "setting": "白天树洞教室的手工活动区：橡树树洞木地板、矮桌、彩色毛线篮和一架小滑梯；保持桌椅、滑梯和篮子在同一位置。",
+      "action": "画面具体对应旁白“还送给皮皮一小段暖黄色的毛线作为谢礼。”。在树洞教室手工区中只表现这句正在发生的一个静态时刻，突出红毛线团、线头、软垫、竹篮或棉布等本句实际提到的对象和动作；不增加原文未写的角色或剧情。人物与关键物件在画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_18.png",
+      "reference_manifest": "references/shot_18.json",
+      "image_status": "generated",
+      "actual_start_s": 127.52,
+      "actual_end_s": 133.8,
+      "speech_start_s": 127.7091246666667,
+      "speech_end_s": 133.2475826666667,
+      "visible_start_s": 127.03999999999999,
+      "visible_end_s": 134.28,
+      "visible_duration_s": 7.24
+    },
+    {
+      "id": 19,
+      "title": "傍晚放学回到家，皮皮把那小段黄毛",
+      "text": "傍晚放学回到家，皮皮把那小段黄毛线和自己家里的毛线团放在一起。",
+      "source_ranges": [
+        {
+          "unit_id": "u012",
+          "paragraph_id": "p006",
+          "start_char": 0,
+          "end_char": 31
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "傍晚至夜晚皮皮的小木屋卧室，床沿与床边软垫、矮桌、小竹篮和棉布位置连贯，暖色灯光与蓝灰窗外夜色。",
+      "action": "画面具体对应旁白“傍晚放学回到家，皮皮把那小段黄毛线和自己家里的毛线团放在一起。”。在皮皮的小木屋卧室中只表现这句正在发生的一个静态时刻，突出红毛线团、线头、软垫、竹篮或棉布等本句实际提到的对象和动作；不增加原文未写的角色或剧情。人物与关键物件在画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_19.png",
+      "reference_manifest": "references/shot_19.json",
+      "image_status": "generated",
+      "actual_start_s": 133.8,
+      "actual_end_s": 144.08,
+      "speech_start_s": 134.3365625,
+      "speech_end_s": 143.65589516666668,
+      "visible_start_s": 133.32000000000002,
+      "visible_end_s": 144.56,
+      "visible_duration_s": 11.24
+    },
+    {
+      "id": 20,
+      "title": " 吃过晚饭后，那个小毛线团也不小",
+      "text": "\n吃过晚饭后，那个小毛线团也不小心从矮桌上滚到了床边，",
+      "source_ranges": [
+        {
+          "unit_id": "u013",
+          "paragraph_id": "p006",
+          "start_char": 0,
+          "end_char": 27
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "傍晚至夜晚皮皮的小木屋卧室，床沿与床边软垫、矮桌、小竹篮和棉布位置连贯，暖色灯光与蓝灰窗外夜色。",
+      "action": "画面具体对应旁白“吃过晚饭后，那个小毛线团也不小心从矮桌上滚到了床边，”。在皮皮的小木屋卧室中只表现这句正在发生的一个静态时刻，突出红毛线团、线头、软垫、竹篮或棉布等本句实际提到的对象和动作；不增加原文未写的角色或剧情。人物与关键物件在画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_20.png",
+      "reference_manifest": "references/shot_20.json",
+      "image_status": "generated",
+      "actual_start_s": 144.08,
+      "actual_end_s": 152.76,
+      "speech_start_s": 144.5341666666667,
+      "speech_end_s": 152.60633300000003,
+      "visible_start_s": 143.60000000000002,
+      "visible_end_s": 153.23999999999998,
+      "visible_duration_s": 9.64
+    },
+    {
+      "id": 21,
+      "title": "长长的一根线，轻轻拖在卧室的软垫",
+      "text": "长长的一根线，轻轻拖在卧室的软垫上。",
+      "source_ranges": [
+        {
+          "unit_id": "u013",
+          "paragraph_id": "p006",
+          "start_char": 27,
+          "end_char": 45
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "傍晚至夜晚皮皮的小木屋卧室，床沿与床边软垫、矮桌、小竹篮和棉布位置连贯，暖色灯光与蓝灰窗外夜色。",
+      "action": "画面具体对应旁白“长长的一根线，轻轻拖在卧室的软垫上。”。在皮皮的小木屋卧室中只表现这句正在发生的一个静态时刻，突出红毛线团、线头、软垫、竹篮或棉布等本句实际提到的对象和动作；不增加原文未写的角色或剧情。人物与关键物件在画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_21.png",
+      "reference_manifest": "references/shot_21.json",
+      "image_status": "generated",
+      "actual_start_s": 152.76,
+      "actual_end_s": 158.72,
+      "speech_start_s": 152.95250000000001,
+      "speech_end_s": 158.17170700000003,
+      "visible_start_s": 152.28,
+      "visible_end_s": 159.2,
+      "visible_duration_s": 6.92
+    },
+    {
+      "id": 22,
+      "title": "皮皮一点儿也不慌张。",
+      "text": "皮皮一点儿也不慌张。",
+      "source_ranges": [
+        {
+          "unit_id": "u014",
+          "paragraph_id": "p007",
+          "start_char": 0,
+          "end_char": 10
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "傍晚至夜晚皮皮的小木屋卧室，床沿与床边软垫、矮桌、小竹篮和棉布位置连贯，暖色灯光与蓝灰窗外夜色。",
+      "action": "画面具体对应旁白“皮皮一点儿也不慌张。”。在皮皮的小木屋卧室中只表现这句正在发生的一个静态时刻，突出红毛线团、线头、软垫、竹篮或棉布等本句实际提到的对象和动作；不增加原文未写的角色或剧情。人物与关键物件在画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_22.png",
+      "reference_manifest": "references/shot_22.json",
+      "image_status": "generated",
+      "actual_start_s": 158.72,
+      "actual_end_s": 162.0,
+      "speech_start_s": 159.2629791666667,
+      "speech_end_s": 161.52910416666668,
+      "visible_start_s": 158.24,
+      "visible_end_s": 162.48,
+      "visible_duration_s": 4.24
+    },
+    {
+      "id": 23,
+      "title": "他想起白天在学校和团团一起收拾的",
+      "text": "他想起白天在学校和团团一起收拾的样子，安安静静地坐在床沿，",
+      "source_ranges": [
+        {
+          "unit_id": "u015",
+          "paragraph_id": "p007",
+          "start_char": 0,
+          "end_char": 29
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "傍晚至夜晚皮皮的小木屋卧室，床沿与床边软垫、矮桌、小竹篮和棉布位置连贯，暖色灯光与蓝灰窗外夜色。",
+      "action": "画面具体对应旁白“他想起白天在学校和团团一起收拾的样子，安安静静地坐在床沿，”。在皮皮的小木屋卧室中只表现这句正在发生的一个静态时刻，突出红毛线团、线头、软垫、竹篮或棉布等本句实际提到的对象和动作；不增加原文未写的角色或剧情。人物与关键物件在画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_23.png",
+      "reference_manifest": "references/shot_23.json",
+      "image_status": "generated",
+      "actual_start_s": 162.0,
+      "actual_end_s": 171.32,
+      "speech_start_s": 162.43777083333336,
+      "speech_end_s": 171.1567076666667,
+      "visible_start_s": 161.52,
+      "visible_end_s": 171.79999999999998,
+      "visible_duration_s": 10.28
+    },
+    {
+      "id": 24,
+      "title": "把线头放在爪心，慢慢地绕了起来。",
+      "text": "把线头放在爪心，慢慢地绕了起来。",
+      "source_ranges": [
+        {
+          "unit_id": "u015",
+          "paragraph_id": "p007",
+          "start_char": 29,
+          "end_char": 45
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "傍晚至夜晚皮皮的小木屋卧室，床沿与床边软垫、矮桌、小竹篮和棉布位置连贯，暖色灯光与蓝灰窗外夜色。",
+      "action": "画面具体对应旁白“把线头放在爪心，慢慢地绕了起来。”。在皮皮的小木屋卧室中只表现这句正在发生的一个静态时刻，突出红毛线团、线头、软垫、竹篮或棉布等本句实际提到的对象和动作；不增加原文未写的角色或剧情。人物与关键物件在画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_24.png",
+      "reference_manifest": "references/shot_24.json",
+      "image_status": "generated",
+      "actual_start_s": 171.32,
+      "actual_end_s": 176.72,
+      "speech_start_s": 171.48362466666669,
+      "speech_end_s": 176.27979066666668,
+      "visible_start_s": 170.84,
+      "visible_end_s": 177.2,
+      "visible_duration_s": 6.36
+    },
+    {
+      "id": 25,
+      "title": " 一圈，两圈，三圈……呼吸也跟着",
+      "text": "\n一圈，两圈，三圈……呼吸也跟着绕毛线的动作，变得又轻又慢。",
+      "source_ranges": [
+        {
+          "unit_id": "u016",
+          "paragraph_id": "p007",
+          "start_char": 0,
+          "end_char": 30
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "傍晚至夜晚皮皮的小木屋卧室，床沿与床边软垫、矮桌、小竹篮和棉布位置连贯，暖色灯光与蓝灰窗外夜色。",
+      "action": "画面具体对应旁白“一圈，两圈，三圈……呼吸也跟着绕毛线的动作，变得又轻又慢。”。在皮皮的小木屋卧室中只表现这句正在发生的一个静态时刻，突出红毛线团、线头、软垫、竹篮或棉布等本句实际提到的对象和动作；不增加原文未写的角色或剧情。人物与关键物件在画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_25.png",
+      "reference_manifest": "references/shot_25.json",
+      "image_status": "generated",
+      "actual_start_s": 176.72,
+      "actual_end_s": 186.56,
+      "speech_start_s": 177.16931250000002,
+      "speech_end_s": 186.00718683333335,
+      "visible_start_s": 176.24,
+      "visible_end_s": 187.04,
+      "visible_duration_s": 10.8
+    },
+    {
+      "id": 26,
+      "title": "床边的小篮子里，正好躺着一块干净",
+      "text": "床边的小篮子里，正好躺着一块干净的棉布，像一个柔软的小窝。",
+      "source_ranges": [
+        {
+          "unit_id": "u017",
+          "paragraph_id": "p008",
+          "start_char": 0,
+          "end_char": 29
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "傍晚至夜晚皮皮的小木屋卧室，床沿与床边软垫、矮桌、小竹篮和棉布位置连贯，暖色灯光与蓝灰窗外夜色。",
+      "action": "画面具体对应旁白“床边的小篮子里，正好躺着一块干净的棉布，像一个柔软的小窝。”。在皮皮的小木屋卧室中只表现这句正在发生的一个静态时刻，突出红毛线团、线头、软垫、竹篮或棉布等本句实际提到的对象和动作；不增加原文未写的角色或剧情。人物与关键物件在画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_26.png",
+      "reference_manifest": "references/shot_26.json",
+      "image_status": "generated",
+      "actual_start_s": 186.56,
+      "actual_end_s": 195.72,
+      "speech_start_s": 187.1129791666667,
+      "speech_end_s": 195.25693650000002,
+      "visible_start_s": 186.08,
+      "visible_end_s": 196.2,
+      "visible_duration_s": 10.12
+    },
+    {
+      "id": 27,
+      "title": " 皮皮把圆圆的毛线团轻轻放进去，",
+      "text": "\n皮皮把圆圆的毛线团轻轻放进去，把小小的线头藏在下面，",
+      "source_ranges": [
+        {
+          "unit_id": "u018",
+          "paragraph_id": "p008",
+          "start_char": 0,
+          "end_char": 27
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "傍晚至夜晚皮皮的小木屋卧室，床沿与床边软垫、矮桌、小竹篮和棉布位置连贯，暖色灯光与蓝灰窗外夜色。",
+      "action": "画面具体对应旁白“皮皮把圆圆的毛线团轻轻放进去，把小小的线头藏在下面，”。在皮皮的小木屋卧室中只表现这句正在发生的一个静态时刻，突出红毛线团、线头、软垫、竹篮或棉布等本句实际提到的对象和动作；不增加原文未写的角色或剧情。人物与关键物件在画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_27.png",
+      "reference_manifest": "references/shot_27.json",
+      "image_status": "generated",
+      "actual_start_s": 195.72,
+      "actual_end_s": 204.28,
+      "speech_start_s": 196.17000000000002,
+      "speech_end_s": 204.08733233333334,
+      "visible_start_s": 195.24,
+      "visible_end_s": 204.76,
+      "visible_duration_s": 9.52
+    },
+    {
+      "id": 28,
+      "title": "这样它就不会在夜里牵着谁的小脚丫",
+      "text": "这样它就不会在夜里牵着谁的小脚丫到处跑了。",
+      "source_ranges": [
+        {
+          "unit_id": "u018",
+          "paragraph_id": "p008",
+          "start_char": 27,
+          "end_char": 48
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "傍晚至夜晚皮皮的小木屋卧室，床沿与床边软垫、矮桌、小竹篮和棉布位置连贯，暖色灯光与蓝灰窗外夜色。",
+      "action": "画面具体对应旁白“这样它就不会在夜里牵着谁的小脚丫到处跑了。”。在皮皮的小木屋卧室中只表现这句正在发生的一个静态时刻，突出红毛线团、线头、软垫、竹篮或棉布等本句实际提到的对象和动作；不增加原文未写的角色或剧情。人物与关键物件在画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_28.png",
+      "reference_manifest": "references/shot_28.json",
+      "image_status": "generated",
+      "actual_start_s": 204.28,
+      "actual_end_s": 211.52,
+      "speech_start_s": 204.47962433333336,
+      "speech_end_s": 210.97962433333336,
+      "visible_start_s": 203.8,
+      "visible_end_s": 212.0,
+      "visible_duration_s": 8.2
+    },
+    {
+      "id": 29,
+      "title": "篮子靠着椅脚，稳稳地停好。",
+      "text": "篮子靠着椅脚，稳稳地停好。",
+      "source_ranges": [
+        {
+          "unit_id": "u019",
+          "paragraph_id": "p009",
+          "start_char": 0,
+          "end_char": 13
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "傍晚至夜晚皮皮的小木屋卧室，床沿与床边软垫、矮桌、小竹篮和棉布位置连贯，暖色灯光与蓝灰窗外夜色。",
+      "action": "画面具体对应旁白“篮子靠着椅脚，稳稳地停好。”。在皮皮的小木屋卧室中只表现这句正在发生的一个静态时刻，突出红毛线团、线头、软垫、竹篮或棉布等本句实际提到的对象和动作；不增加原文未写的角色或剧情。人物与关键物件在画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_29.png",
+      "reference_manifest": "references/shot_29.json",
+      "image_status": "generated",
+      "actual_start_s": 211.52,
+      "actual_end_s": 216.32,
+      "speech_start_s": 212.0808125,
+      "speech_end_s": 215.90012466666667,
+      "visible_start_s": 211.04000000000002,
+      "visible_end_s": 216.79999999999998,
+      "visible_duration_s": 5.76
+    },
+    {
+      "id": 30,
+      "title": "皮皮看了一眼，小爪子也跟着彻底放",
+      "text": "皮皮看了一眼，小爪子也跟着彻底放松下来。",
+      "source_ranges": [
+        {
+          "unit_id": "u020",
+          "paragraph_id": "p009",
+          "start_char": 0,
+          "end_char": 20
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "傍晚至夜晚皮皮的小木屋卧室，床沿与床边软垫、矮桌、小竹篮和棉布位置连贯，暖色灯光与蓝灰窗外夜色。",
+      "action": "画面具体对应旁白“皮皮看了一眼，小爪子也跟着彻底放松下来。”。在皮皮的小木屋卧室中只表现这句正在发生的一个静态时刻，突出红毛线团、线头、软垫、竹篮或棉布等本句实际提到的对象和动作；不增加原文未写的角色或剧情。人物与关键物件在画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_30.png",
+      "reference_manifest": "references/shot_30.json",
+      "image_status": "generated",
+      "actual_start_s": 216.32,
+      "actual_end_s": 222.92,
+      "speech_start_s": 216.7725,
+      "speech_end_s": 222.460208,
+      "visible_start_s": 215.84,
+      "visible_end_s": 223.39999999999998,
+      "visible_duration_s": 7.56
+    },
+    {
+      "id": 31,
+      "title": " 窗外的晚风把树叶拢在一起，屋里",
+      "text": "\n窗外的晚风把树叶拢在一起，屋里的毛线，也已经收好了自己的小路。",
+      "source_ranges": [
+        {
+          "unit_id": "u021",
+          "paragraph_id": "p009",
+          "start_char": 0,
+          "end_char": 32
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "傍晚至夜晚皮皮的小木屋卧室，床沿与床边软垫、矮桌、小竹篮和棉布位置连贯，暖色灯光与蓝灰窗外夜色。",
+      "action": "画面具体对应旁白“窗外的晚风把树叶拢在一起，屋里的毛线，也已经收好了自己的小路。”。在皮皮的小木屋卧室中只表现这句正在发生的一个静态时刻，突出红毛线团、线头、软垫、竹篮或棉布等本句实际提到的对象和动作；不增加原文未写的角色或剧情。人物与关键物件在画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_31.png",
+      "reference_manifest": "references/shot_31.json",
+      "image_status": "generated",
+      "actual_start_s": 222.92,
+      "actual_end_s": 232.84,
+      "speech_start_s": 223.35422916666667,
+      "speech_end_s": 232.2865,
+      "visible_start_s": 222.44,
+      "visible_end_s": 233.32,
+      "visible_duration_s": 10.88
+    },
+    {
+      "id": 32,
+      "title": "皮皮钻进温暖的被窝，抱住胡萝卜玩",
+      "text": "皮皮钻进温暖的被窝，抱住胡萝卜玩偶。",
+      "source_ranges": [
+        {
+          "unit_id": "u022",
+          "paragraph_id": "p010",
+          "start_char": 0,
+          "end_char": 18
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "傍晚至夜晚皮皮的小木屋卧室，床沿与床边软垫、矮桌、小竹篮和棉布位置连贯，暖色灯光与蓝灰窗外夜色。",
+      "action": "画面具体对应旁白“皮皮钻进温暖的被窝，抱住胡萝卜玩偶。”。在皮皮的小木屋卧室中只表现这句正在发生的一个静态时刻，突出红毛线团、线头、软垫、竹篮或棉布等本句实际提到的对象和动作；不增加原文未写的角色或剧情。人物与关键物件在画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_32.png",
+      "reference_manifest": "references/shot_32.json",
+      "image_status": "generated",
+      "actual_start_s": 232.84,
+      "actual_end_s": 239.04,
+      "speech_start_s": 233.42729166666666,
+      "speech_end_s": 238.58897916666666,
+      "visible_start_s": 232.36,
+      "visible_end_s": 239.51999999999998,
+      "visible_duration_s": 7.16
+    },
+    {
+      "id": 33,
+      "title": "今晚不用再绕啦，小小的毛线团也在",
+      "text": "今晚不用再绕啦，小小的毛线团也在篮子里睡下了。",
+      "source_ranges": [
+        {
+          "unit_id": "u023",
+          "paragraph_id": "p010",
+          "start_char": 0,
+          "end_char": 23
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "傍晚至夜晚皮皮的小木屋卧室，床沿与床边软垫、矮桌、小竹篮和棉布位置连贯，暖色灯光与蓝灰窗外夜色。",
+      "action": "画面具体对应旁白“今晚不用再绕啦，小小的毛线团也在篮子里睡下了。”。在皮皮的小木屋卧室中只表现这句正在发生的一个静态时刻，突出红毛线团、线头、软垫、竹篮或棉布等本句实际提到的对象和动作；不增加原文未写的角色或剧情。人物与关键物件在画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_33.png",
+      "reference_manifest": "references/shot_33.json",
+      "image_status": "generated",
+      "actual_start_s": 239.04,
+      "actual_end_s": 246.44,
+      "speech_start_s": 239.47352083333334,
+      "speech_end_s": 245.98264516666666,
+      "visible_start_s": 238.56,
+      "visible_end_s": 246.92,
+      "visible_duration_s": 8.36
+    },
+    {
+      "id": 34,
+      "title": " 小朋友，把今天轻轻放到一边吧。",
+      "text": "\n小朋友，把今天轻轻放到一边吧。",
+      "source_ranges": [
+        {
+          "unit_id": "u024",
+          "paragraph_id": "p010",
+          "start_char": 0,
+          "end_char": 16
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "傍晚至夜晚皮皮的小木屋卧室，床沿与床边软垫、矮桌、小竹篮和棉布位置连贯，暖色灯光与蓝灰窗外夜色。",
+      "action": "画面具体对应旁白“小朋友，把今天轻轻放到一边吧。”。在皮皮的小木屋卧室中只表现这句正在发生的一个静态时刻，突出红毛线团、线头、软垫、竹篮或棉布等本句实际提到的对象和动作；不增加原文未写的角色或剧情。人物与关键物件在画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_34.png",
+      "reference_manifest": "references/shot_34.json",
+      "image_status": "generated",
+      "actual_start_s": 246.44,
+      "actual_end_s": 251.52,
+      "speech_start_s": 246.86491666666666,
+      "speech_end_s": 251.06897783333332,
+      "visible_start_s": 245.96,
+      "visible_end_s": 252.0,
+      "visible_duration_s": 6.04
+    },
+    {
+      "id": 35,
+      "title": "没有收完的事，可以等明天。",
+      "text": "没有收完的事，可以等明天。",
+      "source_ranges": [
+        {
+          "unit_id": "u025",
+          "paragraph_id": "p010",
+          "start_char": 0,
+          "end_char": 13
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "傍晚至夜晚皮皮的小木屋卧室，床沿与床边软垫、矮桌、小竹篮和棉布位置连贯，暖色灯光与蓝灰窗外夜色。",
+      "action": "画面具体对应旁白“没有收完的事，可以等明天。”。在皮皮的小木屋卧室中只表现这句正在发生的一个静态时刻，突出红毛线团、线头、软垫、竹篮或棉布等本句实际提到的对象和动作；不增加原文未写的角色或剧情。人物与关键物件在画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_35.png",
+      "reference_manifest": "references/shot_35.json",
+      "image_status": "generated",
+      "actual_start_s": 251.52,
+      "actual_end_s": 255.88,
+      "speech_start_s": 251.96845833333333,
+      "speech_end_s": 255.426208,
+      "visible_start_s": 251.04000000000002,
+      "visible_end_s": 256.36,
+      "visible_duration_s": 5.32
+    },
+    {
+      "id": 36,
+      "title": "晚安，做个好梦。",
+      "text": "晚安，做个好梦。",
+      "source_ranges": [
+        {
+          "unit_id": "u026",
+          "paragraph_id": "p010",
+          "start_char": 0,
+          "end_char": 8
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "傍晚至夜晚皮皮的小木屋卧室，床沿与床边软垫、矮桌、小竹篮和棉布位置连贯，暖色灯光与蓝灰窗外夜色。",
+      "action": "画面具体对应旁白“晚安，做个好梦。”。在皮皮的小木屋卧室中只表现这句正在发生的一个静态时刻，突出红毛线团、线头、软垫、竹篮或棉布等本句实际提到的对象和动作；不增加原文未写的角色或剧情。人物与关键物件在画面上方68%，下方留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_36.png",
+      "reference_manifest": "references/shot_36.json",
+      "image_status": "generated",
+      "actual_start_s": 255.88,
+      "actual_end_s": 259.76,
+      "speech_start_s": 256.3324583333333,
+      "speech_end_s": 258.6138948333333,
+      "visible_start_s": 255.4,
+      "visible_end_s": 259.76,
+      "visible_duration_s": 4.36
+    }
+  ],
+  "audio": "mix.wav",
+  "subtitles": "episode.ass",
+  "character_registry": "references/",
+  "fonts": [
+    {
+      "path": "fonts/NotoSansCJKsc-Bold.otf",
+      "sha256": "85c969dbb2f927c8dbbe440d5755b7c9a714f13a7a58339459df43cfff3583b3"
+    },
+    {
+      "path": "fonts/Noto-Sans-copyright.txt",
+      "sha256": "075f91382875da1c4b491f1facf2586f55448705133264d98ce15cab6211b125"
+    },
+    {
+      "path": "fonts/NotoSans-Regular.ttf",
+      "sha256": "89c3c497f618fdaa0b2d1e98fef93582f28c71debd2c4a8cdf41f190ced2909d"
+    },
+    {
+      "path": "fonts/NotoSansCJKsc-Regular.otf",
+      "sha256": "82e9bdfd176ce68c51f6ff89ca7e2abae7fdb82b4591aa7338638598ae3c91c8"
+    },
+    {
+      "path": "fonts/Noto-CJK-copyright.txt",
+      "sha256": "849f4ea9c214fa4ac3593b770c699f387534b11ce671264c1b10d85bdcb5997b"
+    }
+  ]
+}

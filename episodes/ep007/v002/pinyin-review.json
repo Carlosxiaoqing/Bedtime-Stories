@@ -1,0 +1,45 @@
+{
+  "hanzi": 39,
+  "cues": 7,
+  "pinyin_coverage": 1.0,
+  "context_review": "completed_against_episode_text",
+  "target_font_px": {
+    "hanzi": 76,
+    "pinyin": 48
+  },
+  "libass_fontsize_calibration": {
+    "hanzi": 114,
+    "pinyin": 66,
+    "reason": "match actual rasterized glyph scale to bundled-font 76px/48px reference; libass normalizes font metrics"
+  },
+  "audio_pronunciation_listen_review": "not_certified",
+  "overrides": [
+    {
+      "phrase": "窗帘",
+      "pinyin": [
+        "chuāng",
+        "lián"
+      ],
+      "context": "小朋友们，准备好听故事了吗？今天的故事叫《窗帘的小摇篮》。夜风吹来时，窗帘会怎样轻轻摇动呢？",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "窗帘",
+      "pinyin": [
+        "chuāng",
+        "lián"
+      ],
+      "context": "小朋友们，准备好听故事了吗？今天的故事叫《窗帘的小摇篮》。夜风吹来时，窗帘会怎样轻轻摇动呢？",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "朋友",
+      "pinyin": [
+        "péng",
+        "you"
+      ],
+      "context": "小朋友们，准备好听故事了吗？今天的故事叫《窗帘的小摇篮》。夜风吹来时，窗帘会怎样轻轻摇动呢？",
+      "review": "context_checked_not_audio_listen_certification"
+    }
+  ]
+}

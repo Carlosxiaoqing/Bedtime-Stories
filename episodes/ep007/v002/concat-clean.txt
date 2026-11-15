@@ -1,0 +1,3 @@
+ffconcat version 1.0
+file '/workspace/Bedtime-Stories/episodes/ep007/v002/opening_clean.mp4'
+file '/workspace/Bedtime-Stories/Outputs/2026-11-12/ep007-v001/ep007_clean.mp4'

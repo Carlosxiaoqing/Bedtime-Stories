@@ -1,0 +1,71 @@
+{
+  "text": "照顾好朋友的时候，也要先照顾好自己呢。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "69b05fb4522a6e43513c46874936377d1392838050f1f56df5dcdfdb30f6ac5c",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 4615410,
+      "text": "照顾"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6269160,
+      "duration": 2692500,
+      "text": "好"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8961660,
+      "duration": 4807500,
+      "text": "朋友"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13769160,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15500000,
+      "duration": 7115410,
+      "text": "时候"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25884580,
+      "duration": 1538330,
+      "text": "也"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27422910,
+      "duration": 1922910,
+      "text": "要"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 29538330,
+      "duration": 3461660,
+      "text": "先"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33000000,
+      "duration": 14038330,
+      "text": "照顾好自己"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 47038330,
+      "duration": 3653750,
+      "text": "呢"
+    }
+  ]
+}

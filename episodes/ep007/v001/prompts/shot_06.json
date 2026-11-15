@@ -1,0 +1,34 @@
+{
+  "id": 6,
+  "title": "可晃了几下，绒绒就觉得有点头晕，不知道怎么让",
+  "destination": "/workspace/Bedtime-Stories/episodes/ep007/v001/images/shot_06.png",
+  "prompt": "Use case: illustration-story. Asset type: ONE original full-bleed vertical 9:16 watercolor story illustration for one locked narration shot. Use every input according to its explicitly labelled role; preserve the existing named identities, not just their species. Input 1: identity for 皮皮 (pipi), preserve exactly: 暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。 Input 2: clothing only for 皮皮: 换装表左：灰蓝短背带裤、米色上衣、蓝布鞋、小黄书包，无帽；仅画这套服装，不复制表中其他兔子。 Input 3: identity for 栗栗 (lili), preserve exactly: 浅棕圆脸、深棕短而圆润背刺、小黑鼻。 Input 3: clothing only for 栗栗: 灰绿色小背心 Input 4: identity for 绒绒 (rongrong), preserve exactly: 浅棕绒毛、圆耳、米色口鼻。 Input 4: clothing only for 绒绒: 暗绿小马甲\nVisible characters: 皮皮 (pipi), 栗栗 (lili), 绒绒 (rongrong). Exact total number of visible characters: 3. Do not draw extra background animals. Standing body-height ratios (not ear or tail tips): 皮皮 1.0, 栗栗 0.85. Pipi wears ONLY the LEFT daytime outfit from the wardrobe sheet: dusty blue overalls, oatmeal shirt, blue cloth shoes, small yellow backpack. No star cap in daytime. Lili wears ONLY the sage-gray vest, NO SCARF of any color, no neckerchief, no hat. His snack bag is a pale oatmeal rounded FLAP shoulder satchel with one wooden button and one shoulder strap, the same as the cover, NOT a drawstring sack. Scene continuity: forest_school_yard_birch_hammocks\nThe SINGLE visual moment and framing: 依照对应口播呈现这一时刻，角色、动作与道具状态逐镜连续；固定静态水彩构图。\nMandatory pose/prop state (overrides neutral model-sheet poses): Follow the specified moment exactly; never add extra actors, garments or duplicate props.\nStyle: hand-painted gentle watercolor on fine warm paper, muted natural hues, soft edges and rounded shapes, quiet storybook mood, no glossy 3D or photorealism. Daylight scenes use soft greens and warm daylight, not bedroom amber tint. Night scenes use soft warm lamplight and muted gray-blue windows. Composition: full-bleed vertical 9:16. Keep all important faces, hands, feet, biscuits, fabric folds and other story actions in the upper 68% of the image. Bottom 32% is low-detail negative space for later subtitles, with no crucial objects there. Make the specified story state visually understandable. Text: NONE. No words, labels, subtitles, numbers, logos, watermark, speech bubbles, panels, frames or collage. Do not reproduce model sheets, multiple versions of a character, or wardrobe lineups. Each named character appears exactly once. This is a new single coherent scene, not a copy of the references. No motion streaks or implied camera zoom. Never turn a metaphor into a real transformation: yellow blankets remain fabric, imagined grassy softness is not actual grass growing in bed. No new story events. ",
+  "reference_inputs": [
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/rongrong_identity_v001.png"
+  ],
+  "characters": [
+    "pipi",
+    "lili",
+    "rongrong"
+  ],
+  "outfits": {
+    "pipi": "day_v001",
+    "lili": "default_v001",
+    "rongrong": "default_v001"
+  },
+  "source_ranges": [
+    {
+      "unit_id": "u005",
+      "paragraph_id": "p002",
+      "start_char": 0,
+      "end_char": 29
+    }
+  ],
+  "timing": {
+    "start_s": 45.36,
+    "end_s": 54.12
+  }
+}

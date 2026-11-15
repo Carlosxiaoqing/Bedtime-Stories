@@ -1,0 +1,71 @@
+{
+  "text": "”\n皮皮试了试，哇，果然又稳当又暖和！",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "e70560f3d62724b4609413d65acccb4f113c1e889b5e53f395aab967609d43ea",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5192500,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6653750,
+      "duration": 2692500,
+      "text": "试"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9346250,
+      "duration": 1538330,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11077080,
+      "duration": 4615410,
+      "text": "试"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19538330,
+      "duration": 3846250,
+      "text": "哇"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27422910,
+      "duration": 5192500,
+      "text": "果然"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32807500,
+      "duration": 2307500,
+      "text": "又"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 35115410,
+      "duration": 4038330,
+      "text": "稳当"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 39538330,
+      "duration": 2500000,
+      "text": "又"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 42038330,
+      "duration": 7307500,
+      "text": "暖和"
+    }
+  ]
+}

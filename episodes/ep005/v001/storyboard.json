@@ -1,0 +1,1226 @@
+{
+  "episode": "ep005",
+  "version": "v001",
+  "script_version": "v4",
+  "status": "audio_locked_ready_for_images",
+  "narration_complete": true,
+  "shot_count": 36,
+  "total_duration_s": 257.16,
+  "shots": [
+    {
+      "id": 1,
+      "title": "今天在树洞教室里，山羊老师交给皮",
+      "text": "今天在树洞教室里，山羊老师交给皮皮一个神圣的小任务——当“故事角",
+      "source_ranges": [
+        {
+          "unit_id": "u001",
+          "paragraph_id": "p001",
+          "start_char": 0,
+          "end_char": 32
+        }
+      ],
+      "characters": [
+        "pipi",
+        "goat_teacher"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "下午的橡树树洞教室故事角，圆形松果台灯在木桌中央，树叶窗透入橙色傍晚光。连续镜头保持树洞、桌椅、窗户位置一致。",
+      "action": "画面必须具体对应旁白“今天在树洞教室里，山羊老师交给皮皮一个神圣的小任务——当“故事角”。在树洞教室中只表现这句话正在发生的一个静态时刻，准确呈现所述角色、动作和松果小台灯/花朵灯罩等道具；勿添加未提及的剧情。人物和重要物件位于上方68%，底部留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_01.png",
+      "reference_manifest": "references/shot_01.json",
+      "image_status": "generated",
+      "actual_start_s": 0.0,
+      "actual_end_s": 10.68,
+      "speech_start_s": 1.0,
+      "speech_end_s": 10.660624,
+      "visible_start_s": 0.0,
+      "visible_end_s": 11.16,
+      "visible_duration_s": 11.16
+    },
+    {
+      "id": 2,
+      "title": "”的小小管理员。",
+      "text": "”的小小管理员。",
+      "source_ranges": [
+        {
+          "unit_id": "u001",
+          "paragraph_id": "p001",
+          "start_char": 32,
+          "end_char": 40
+        }
+      ],
+      "characters": [
+        "pipi",
+        "goat_teacher"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "下午的橡树树洞教室故事角，圆形松果台灯在木桌中央，树叶窗透入橙色傍晚光。连续镜头保持树洞、桌椅、窗户位置一致。",
+      "action": "画面必须具体对应旁白“”的小小管理员。”。在树洞教室中只表现这句话正在发生的一个静态时刻，准确呈现所述角色、动作和松果小台灯/花朵灯罩等道具；勿添加未提及的剧情。人物和重要物件位于上方68%，底部留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_02.png",
+      "reference_manifest": "references/shot_02.json",
+      "image_status": "generated",
+      "actual_start_s": 10.68,
+      "actual_end_s": 12.96,
+      "speech_start_s": 10.660625000000001,
+      "speech_end_s": 12.506791,
+      "visible_start_s": 10.2,
+      "visible_end_s": 13.440000000000001,
+      "visible_duration_s": 3.24
+    },
+    {
+      "id": 3,
+      "title": " 故事角在一棵大橡树的树洞里，光",
+      "text": "\n故事角在一棵大橡树的树洞里，光线有点暗，",
+      "source_ranges": [
+        {
+          "unit_id": "u002",
+          "paragraph_id": "p001",
+          "start_char": 0,
+          "end_char": 21
+        }
+      ],
+      "characters": [
+        "pipi",
+        "goat_teacher"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "下午的橡树树洞教室故事角，圆形松果台灯在木桌中央，树叶窗透入橙色傍晚光。连续镜头保持树洞、桌椅、窗户位置一致。",
+      "action": "画面必须具体对应旁白“故事角在一棵大橡树的树洞里，光线有点暗，”。在树洞教室中只表现这句话正在发生的一个静态时刻，准确呈现所述角色、动作和松果小台灯/花朵灯罩等道具；勿添加未提及的剧情。人物和重要物件位于上方68%，底部留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_03.png",
+      "reference_manifest": "references/shot_03.json",
+      "image_status": "generated",
+      "actual_start_s": 12.96,
+      "actual_end_s": 19.36,
+      "speech_start_s": 13.428520833333334,
+      "speech_end_s": 19.089874666666667,
+      "visible_start_s": 12.48,
+      "visible_end_s": 19.84,
+      "visible_duration_s": 7.36
+    },
+    {
+      "id": 4,
+      "title": "所以桌子上摆着一盏圆圆的松果小台",
+      "text": "所以桌子上摆着一盏圆圆的松果小台灯。",
+      "source_ranges": [
+        {
+          "unit_id": "u002",
+          "paragraph_id": "p001",
+          "start_char": 21,
+          "end_char": 39
+        }
+      ],
+      "characters": [
+        "pipi",
+        "goat_teacher"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "下午的橡树树洞教室故事角，圆形松果台灯在木桌中央，树叶窗透入橙色傍晚光。连续镜头保持树洞、桌椅、窗户位置一致。",
+      "action": "画面必须具体对应旁白“所以桌子上摆着一盏圆圆的松果小台灯。”。在树洞教室中只表现这句话正在发生的一个静态时刻，准确呈现所述角色、动作和松果小台灯/花朵灯罩等道具；勿添加未提及的剧情。人物和重要物件位于上方68%，底部留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_04.png",
+      "reference_manifest": "references/shot_04.json",
+      "image_status": "generated",
+      "actual_start_s": 19.36,
+      "actual_end_s": 25.4,
+      "speech_start_s": 19.666832666666668,
+      "speech_end_s": 24.820666666666668,
+      "visible_start_s": 18.88,
+      "visible_end_s": 25.88,
+      "visible_duration_s": 7.0
+    },
+    {
+      "id": 5,
+      "title": "下午的阅读时间开始了，皮皮垫起脚",
+      "text": "下午的阅读时间开始了，皮皮垫起脚尖，轻轻按下开关，“啪”的一声，",
+      "source_ranges": [
+        {
+          "unit_id": "u003",
+          "paragraph_id": "p002",
+          "start_char": 0,
+          "end_char": 32
+        }
+      ],
+      "characters": [
+        "pipi",
+        "diandian",
+        "lili"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "diandian": "default_v001",
+        "lili": "default_v001"
+      },
+      "setting": "下午的橡树树洞教室故事角，圆形松果台灯在木桌中央，树叶窗透入橙色傍晚光。连续镜头保持树洞、桌椅、窗户位置一致。",
+      "action": "画面必须具体对应旁白“下午的阅读时间开始了，皮皮垫起脚尖，轻轻按下开关，“啪”的一声，”。在树洞教室中只表现这句话正在发生的一个静态时刻，准确呈现所述角色、动作和松果小台灯/花朵灯罩等道具；勿添加未提及的剧情。人物和重要物件位于上方68%，底部留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_05.png",
+      "reference_manifest": "references/shot_05.json",
+      "image_status": "generated",
+      "actual_start_s": 25.4,
+      "actual_end_s": 35.04,
+      "speech_start_s": 25.959270833333335,
+      "speech_end_s": 34.8481035,
+      "visible_start_s": 24.919999999999998,
+      "visible_end_s": 35.519999999999996,
+      "visible_duration_s": 10.6
+    },
+    {
+      "id": 6,
+      "title": "松果小台灯亮起了暖融融的黄光。",
+      "text": "松果小台灯亮起了暖融融的黄光。",
+      "source_ranges": [
+        {
+          "unit_id": "u003",
+          "paragraph_id": "p002",
+          "start_char": 32,
+          "end_char": 47
+        }
+      ],
+      "characters": [
+        "pipi",
+        "diandian",
+        "lili"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "diandian": "default_v001",
+        "lili": "default_v001"
+      },
+      "setting": "下午的橡树树洞教室故事角，圆形松果台灯在木桌中央，树叶窗透入橙色傍晚光。连续镜头保持树洞、桌椅、窗户位置一致。",
+      "action": "画面必须具体对应旁白“松果小台灯亮起了暖融融的黄光。”。在树洞教室中只表现这句话正在发生的一个静态时刻，准确呈现所述角色、动作和松果小台灯/花朵灯罩等道具；勿添加未提及的剧情。人物和重要物件位于上方68%，底部留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_06.png",
+      "reference_manifest": "references/shot_06.json",
+      "image_status": "generated",
+      "actual_start_s": 35.04,
+      "actual_end_s": 40.04,
+      "speech_start_s": 35.2019375,
+      "speech_end_s": 39.5673115,
+      "visible_start_s": 34.56,
+      "visible_end_s": 40.519999999999996,
+      "visible_duration_s": 5.96
+    },
+    {
+      "id": 7,
+      "title": " 小鼹鼠点点捧着图画书坐过来，小",
+      "text": "\n小鼹鼠点点捧着图画书坐过来，小刺猬栗栗也抱着软垫凑过来。",
+      "source_ranges": [
+        {
+          "unit_id": "u004",
+          "paragraph_id": "p002",
+          "start_char": 0,
+          "end_char": 29
+        }
+      ],
+      "characters": [
+        "pipi",
+        "diandian",
+        "lili"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "diandian": "default_v001",
+        "lili": "default_v001"
+      },
+      "setting": "下午的橡树树洞教室故事角，圆形松果台灯在木桌中央，树叶窗透入橙色傍晚光。连续镜头保持树洞、桌椅、窗户位置一致。",
+      "action": "画面必须具体对应旁白“小鼹鼠点点捧着图画书坐过来，小刺猬栗栗也抱着软垫凑过来。”。在树洞教室中只表现这句话正在发生的一个静态时刻，准确呈现所述角色、动作和松果小台灯/花朵灯罩等道具；勿添加未提及的剧情。人物和重要物件位于上方68%，底部留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_07.png",
+      "reference_manifest": "references/shot_07.json",
+      "image_status": "generated",
+      "actual_start_s": 40.04,
+      "actual_end_s": 49.36,
+      "speech_start_s": 40.47504166666667,
+      "speech_end_s": 48.93758266666667,
+      "visible_start_s": 39.56,
+      "visible_end_s": 49.839999999999996,
+      "visible_duration_s": 10.28
+    },
+    {
+      "id": 8,
+      "title": "小台灯安安静静地亮着，把图画书上",
+      "text": "小台灯安安静静地亮着，把图画书上的小蝴蝶、小蘑菇照得清清楚楚。",
+      "source_ranges": [
+        {
+          "unit_id": "u005",
+          "paragraph_id": "p002",
+          "start_char": 0,
+          "end_char": 31
+        }
+      ],
+      "characters": [
+        "pipi",
+        "diandian",
+        "lili"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "diandian": "default_v001",
+        "lili": "default_v001"
+      },
+      "setting": "下午的橡树树洞教室故事角，圆形松果台灯在木桌中央，树叶窗透入橙色傍晚光。连续镜头保持树洞、桌椅、窗户位置一致。",
+      "action": "画面必须具体对应旁白“小台灯安安静静地亮着，把图画书上的小蝴蝶、小蘑菇照得清清楚楚。”。在树洞教室中只表现这句话正在发生的一个静态时刻，准确呈现所述角色、动作和松果小台灯/花朵灯罩等道具；勿添加未提及的剧情。人物和重要物件位于上方68%，底部留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_08.png",
+      "reference_manifest": "references/shot_08.json",
+      "image_status": "generated",
+      "actual_start_s": 49.36,
+      "actual_end_s": 59.88,
+      "speech_start_s": 49.80079166666667,
+      "speech_end_s": 59.31104066666667,
+      "visible_start_s": 48.88,
+      "visible_end_s": 60.36,
+      "visible_duration_s": 11.48
+    },
+    {
+      "id": 9,
+      "title": "大家看了一本又一本，直到窗外的阳",
+      "text": "大家看了一本又一本，直到窗外的阳光变成了温柔的橙色，",
+      "source_ranges": [
+        {
+          "unit_id": "u006",
+          "paragraph_id": "p003",
+          "start_char": 0,
+          "end_char": 26
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "下午的橡树树洞教室故事角，圆形松果台灯在木桌中央，树叶窗透入橙色傍晚光。连续镜头保持树洞、桌椅、窗户位置一致。",
+      "action": "画面必须具体对应旁白“大家看了一本又一本，直到窗外的阳光变成了温柔的橙色，”。在树洞教室中只表现这句话正在发生的一个静态时刻，准确呈现所述角色、动作和松果小台灯/花朵灯罩等道具；勿添加未提及的剧情。人物和重要物件位于上方68%，底部留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_09.png",
+      "reference_manifest": "references/shot_09.json",
+      "image_status": "generated",
+      "actual_start_s": 59.88,
+      "actual_end_s": 67.92,
+      "speech_start_s": 60.4261875,
+      "speech_end_s": 67.68806183333334,
+      "visible_start_s": 59.400000000000006,
+      "visible_end_s": 68.4,
+      "visible_duration_s": 9.0
+    },
+    {
+      "id": 10,
+      "title": "到了放学回家的时间。",
+      "text": "到了放学回家的时间。",
+      "source_ranges": [
+        {
+          "unit_id": "u006",
+          "paragraph_id": "p003",
+          "start_char": 26,
+          "end_char": 36
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "下午的橡树树洞教室故事角，圆形松果台灯在木桌中央，树叶窗透入橙色傍晚光。连续镜头保持树洞、桌椅、窗户位置一致。",
+      "action": "画面必须具体对应旁白“到了放学回家的时间。”。在树洞教室中只表现这句话正在发生的一个静态时刻，准确呈现所述角色、动作和松果小台灯/花朵灯罩等道具；勿添加未提及的剧情。人物和重要物件位于上方68%，底部留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_10.png",
+      "reference_manifest": "references/shot_10.json",
+      "image_status": "generated",
+      "actual_start_s": 67.92,
+      "actual_end_s": 71.08,
+      "speech_start_s": 68.14956183333334,
+      "speech_end_s": 70.63035383333333,
+      "visible_start_s": 67.44,
+      "visible_end_s": 71.56,
+      "visible_duration_s": 4.12
+    },
+    {
+      "id": 11,
+      "title": " 小朋友们排着队走出了树洞，皮皮",
+      "text": "\n小朋友们排着队走出了树洞，皮皮最后一个走。",
+      "source_ranges": [
+        {
+          "unit_id": "u007",
+          "paragraph_id": "p003",
+          "start_char": 0,
+          "end_char": 22
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "下午的橡树树洞教室故事角，圆形松果台灯在木桌中央，树叶窗透入橙色傍晚光。连续镜头保持树洞、桌椅、窗户位置一致。",
+      "action": "画面必须具体对应旁白“小朋友们排着队走出了树洞，皮皮最后一个走。”。在树洞教室中只表现这句话正在发生的一个静态时刻，准确呈现所述角色、动作和松果小台灯/花朵灯罩等道具；勿添加未提及的剧情。人物和重要物件位于上方68%，底部留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_11.png",
+      "reference_manifest": "references/shot_11.json",
+      "image_status": "generated",
+      "actual_start_s": 71.08,
+      "actual_end_s": 77.92,
+      "speech_start_s": 71.5681875,
+      "speech_end_s": 77.47460416666667,
+      "visible_start_s": 70.6,
+      "visible_end_s": 78.4,
+      "visible_duration_s": 7.8
+    },
+    {
+      "id": 12,
+      "title": "他回头看了一眼故事角，发现松果小",
+      "text": "他回头看了一眼故事角，发现松果小台灯还亮着呢。",
+      "source_ranges": [
+        {
+          "unit_id": "u008",
+          "paragraph_id": "p003",
+          "start_char": 0,
+          "end_char": 23
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "下午的橡树树洞教室故事角，圆形松果台灯在木桌中央，树叶窗透入橙色傍晚光。连续镜头保持树洞、桌椅、窗户位置一致。",
+      "action": "画面必须具体对应旁白“他回头看了一眼故事角，发现松果小台灯还亮着呢。”。在树洞教室中只表现这句话正在发生的一个静态时刻，准确呈现所述角色、动作和松果小台灯/花朵灯罩等道具；勿添加未提及的剧情。人物和重要物件位于上方68%，底部留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_12.png",
+      "reference_manifest": "references/shot_12.json",
+      "image_status": "generated",
+      "actual_start_s": 77.92,
+      "actual_end_s": 85.16,
+      "speech_start_s": 78.34754166666666,
+      "speech_end_s": 84.61133233333332,
+      "visible_start_s": 77.44,
+      "visible_end_s": 85.64,
+      "visible_duration_s": 8.2
+    },
+    {
+      "id": 13,
+      "title": "皮皮跑回去，摸了摸温热的灯罩，小",
+      "text": "皮皮跑回去，摸了摸温热的灯罩，小声对山羊老师说：“老师，",
+      "source_ranges": [
+        {
+          "unit_id": "u009",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 28
+        }
+      ],
+      "characters": [
+        "pipi",
+        "goat_teacher"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "下午的橡树树洞教室故事角，圆形松果台灯在木桌中央，树叶窗透入橙色傍晚光。连续镜头保持树洞、桌椅、窗户位置一致。",
+      "action": "画面必须具体对应旁白“皮皮跑回去，摸了摸温热的灯罩，小声对山羊老师说：“老师，”。在树洞教室中只表现这句话正在发生的一个静态时刻，准确呈现所述角色、动作和松果小台灯/花朵灯罩等道具；勿添加未提及的剧情。人物和重要物件位于上方68%，底部留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_13.png",
+      "reference_manifest": "references/shot_13.json",
+      "image_status": "generated",
+      "actual_start_s": 85.16,
+      "actual_end_s": 94.32,
+      "speech_start_s": 85.74093749999999,
+      "speech_end_s": 94.12027016666666,
+      "visible_start_s": 84.67999999999999,
+      "visible_end_s": 94.8,
+      "visible_duration_s": 10.12
+    },
+    {
+      "id": 14,
+      "title": "小台灯照亮了整个下午，它是不是也",
+      "text": "小台灯照亮了整个下午，它是不是也有点累了呀？",
+      "source_ranges": [
+        {
+          "unit_id": "u009",
+          "paragraph_id": "p004",
+          "start_char": 28,
+          "end_char": 50
+        }
+      ],
+      "characters": [
+        "pipi",
+        "goat_teacher"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "下午的橡树树洞教室故事角，圆形松果台灯在木桌中央，树叶窗透入橙色傍晚光。连续镜头保持树洞、桌椅、窗户位置一致。",
+      "action": "画面必须具体对应旁白“小台灯照亮了整个下午，它是不是也有点累了呀？”。在树洞教室中只表现这句话正在发生的一个静态时刻，准确呈现所述角色、动作和松果小台灯/花朵灯罩等道具；勿添加未提及的剧情。人物和重要物件位于上方68%，底部留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_14.png",
+      "reference_manifest": "references/shot_14.json",
+      "image_status": "generated",
+      "actual_start_s": 94.32,
+      "actual_end_s": 100.96,
+      "speech_start_s": 94.50485416666665,
+      "speech_end_s": 100.55097916666665,
+      "visible_start_s": 93.83999999999999,
+      "visible_end_s": 101.44,
+      "visible_duration_s": 7.6
+    },
+    {
+      "id": 15,
+      "title": "” 山羊老师笑着点点头：“是呀，",
+      "text": "”\n山羊老师笑着点点头：“是呀，皮皮，",
+      "source_ranges": [
+        {
+          "unit_id": "u010",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 19
+        }
+      ],
+      "characters": [
+        "pipi",
+        "goat_teacher"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "下午的橡树树洞教室故事角，圆形松果台灯在木桌中央，树叶窗透入橙色傍晚光。连续镜头保持树洞、桌椅、窗户位置一致。",
+      "action": "画面必须具体对应旁白“”山羊老师笑着点点头：“是呀，皮皮，”。在树洞教室中只表现这句话正在发生的一个静态时刻，准确呈现所述角色、动作和松果小台灯/花朵灯罩等道具；勿添加未提及的剧情。人物和重要物件位于上方68%，底部留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_15.png",
+      "reference_manifest": "references/shot_15.json",
+      "image_status": "generated",
+      "actual_start_s": 100.96,
+      "actual_end_s": 106.84,
+      "speech_start_s": 101.36683333333332,
+      "speech_end_s": 106.58964516666666,
+      "visible_start_s": 100.47999999999999,
+      "visible_end_s": 107.32000000000001,
+      "visible_duration_s": 6.84
+    },
+    {
+      "id": 16,
+      "title": "那你帮它盖上休息的小被子吧。”",
+      "text": "那你帮它盖上休息的小被子吧。”",
+      "source_ranges": [
+        {
+          "unit_id": "u010",
+          "paragraph_id": "p004",
+          "start_char": 19,
+          "end_char": 34
+        }
+      ],
+      "characters": [
+        "pipi",
+        "goat_teacher"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "下午的橡树树洞教室故事角，圆形松果台灯在木桌中央，树叶窗透入橙色傍晚光。连续镜头保持树洞、桌椅、窗户位置一致。",
+      "action": "画面必须具体对应旁白“那你帮它盖上休息的小被子吧。””。在树洞教室中只表现这句话正在发生的一个静态时刻，准确呈现所述角色、动作和松果小台灯/花朵灯罩等道具；勿添加未提及的剧情。人物和重要物件位于上方68%，底部留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_16.png",
+      "reference_manifest": "references/shot_16.json",
+      "image_status": "generated",
+      "actual_start_s": 106.84,
+      "actual_end_s": 110.84,
+      "speech_start_s": 107.07043716666665,
+      "speech_end_s": 110.26272916666665,
+      "visible_start_s": 106.36,
+      "visible_end_s": 111.32000000000001,
+      "visible_duration_s": 4.96
+    },
+    {
+      "id": 17,
+      "title": "皮皮轻轻按下开关，树洞里暗了下来",
+      "text": "皮皮轻轻按下开关，树洞里暗了下来，一缕傍晚的微光从树叶缝隙照进来",
+      "source_ranges": [
+        {
+          "unit_id": "u011",
+          "paragraph_id": "p005",
+          "start_char": 0,
+          "end_char": 32
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "下午的橡树树洞教室故事角，圆形松果台灯在木桌中央，树叶窗透入橙色傍晚光。连续镜头保持树洞、桌椅、窗户位置一致。",
+      "action": "画面必须具体对应旁白“皮皮轻轻按下开关，树洞里暗了下来，一缕傍晚的微光从树叶缝隙照进来”。在树洞教室中只表现这句话正在发生的一个静态时刻，准确呈现所述角色、动作和松果小台灯/花朵灯罩等道具；勿添加未提及的剧情。人物和重要物件位于上方68%，底部留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_17.png",
+      "reference_manifest": "references/shot_17.json",
+      "image_status": "generated",
+      "actual_start_s": 110.84,
+      "actual_end_s": 121.56,
+      "speech_start_s": 111.41110416666665,
+      "speech_end_s": 121.36410383333332,
+      "visible_start_s": 110.36,
+      "visible_end_s": 122.04,
+      "visible_duration_s": 11.68
+    },
+    {
+      "id": 18,
+      "title": "，松果小台灯终于可以安安静静地歇",
+      "text": "，松果小台灯终于可以安安静静地歇一会儿了。",
+      "source_ranges": [
+        {
+          "unit_id": "u011",
+          "paragraph_id": "p005",
+          "start_char": 32,
+          "end_char": 53
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "下午的橡树树洞教室故事角，圆形松果台灯在木桌中央，树叶窗透入橙色傍晚光。连续镜头保持树洞、桌椅、窗户位置一致。",
+      "action": "画面必须具体对应旁白“，松果小台灯终于可以安安静静地歇一会儿了。”。在树洞教室中只表现这句话正在发生的一个静态时刻，准确呈现所述角色、动作和松果小台灯/花朵灯罩等道具；勿添加未提及的剧情。人物和重要物件位于上方68%，底部留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_18.png",
+      "reference_manifest": "references/shot_18.json",
+      "image_status": "generated",
+      "actual_start_s": 121.56,
+      "actual_end_s": 127.28,
+      "speech_start_s": 121.75639583333331,
+      "speech_end_s": 126.71793683333331,
+      "visible_start_s": 121.08,
+      "visible_end_s": 127.76,
+      "visible_duration_s": 6.68
+    },
+    {
+      "id": 19,
+      "title": "皮皮背着小书包回到自己的小木屋时",
+      "text": "皮皮背着小书包回到自己的小木屋时，屋里的床头灯也已经亮了一整个傍",
+      "source_ranges": [
+        {
+          "unit_id": "u012",
+          "paragraph_id": "p006",
+          "start_char": 0,
+          "end_char": 32
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "夜晚皮皮的小木屋卧室，床在左下、木窗在右上，床头灯在床边；窗外蓝灰夜色，同场景家具位置保持一致。",
+      "action": "画面必须具体对应旁白“皮皮背着小书包回到自己的小木屋时，屋里的床头灯也已经亮了一整个傍”。在木屋卧室中只表现这句话正在发生的一个静态时刻，准确呈现所述角色、动作和松果小台灯/花朵灯罩等道具；勿添加未提及的剧情。人物和重要物件位于上方68%，底部留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_19.png",
+      "reference_manifest": "references/shot_19.json",
+      "image_status": "generated",
+      "actual_start_s": 127.28,
+      "actual_end_s": 137.12,
+      "speech_start_s": 127.81010416666665,
+      "speech_end_s": 137.12964549999998,
+      "visible_start_s": 126.8,
+      "visible_end_s": 137.6,
+      "visible_duration_s": 10.8
+    },
+    {
+      "id": 20,
+      "title": "晚，正照着他把脱下来的小外套挂在",
+      "text": "晚，正照着他把脱下来的小外套挂在衣帽架上。",
+      "source_ranges": [
+        {
+          "unit_id": "u012",
+          "paragraph_id": "p006",
+          "start_char": 32,
+          "end_char": 53
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "夜晚皮皮的小木屋卧室，床在左下、木窗在右上，床头灯在床边；窗外蓝灰夜色，同场景家具位置保持一致。",
+      "action": "画面必须具体对应旁白“晚，正照着他把脱下来的小外套挂在衣帽架上。”。在木屋卧室中只表现这句话正在发生的一个静态时刻，准确呈现所述角色、动作和松果小台灯/花朵灯罩等道具；勿添加未提及的剧情。人物和重要物件位于上方68%，底部留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_20.png",
+      "reference_manifest": "references/shot_20.json",
+      "image_status": "generated",
+      "actual_start_s": 137.12,
+      "actual_end_s": 144.28,
+      "speech_start_s": 137.12964549999998,
+      "speech_end_s": 143.8296035,
+      "visible_start_s": 136.64000000000001,
+      "visible_end_s": 144.76,
+      "visible_duration_s": 8.12
+    },
+    {
+      "id": 21,
+      "title": " 洗完脸，刷完牙，皮皮爬上柔软的",
+      "text": "\n洗完脸，刷完牙，皮皮爬上柔软的小床，",
+      "source_ranges": [
+        {
+          "unit_id": "u013",
+          "paragraph_id": "p006",
+          "start_char": 0,
+          "end_char": 19
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "夜晚皮皮的小木屋卧室，床在左下、木窗在右上，床头灯在床边；窗外蓝灰夜色，同场景家具位置保持一致。",
+      "action": "画面必须具体对应旁白“洗完脸，刷完牙，皮皮爬上柔软的小床，”。在木屋卧室中只表现这句话正在发生的一个静态时刻，准确呈现所述角色、动作和松果小台灯/花朵灯罩等道具；勿添加未提及的剧情。人物和重要物件位于上方68%，底部留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_21.png",
+      "reference_manifest": "references/shot_21.json",
+      "image_status": "generated",
+      "actual_start_s": 144.28,
+      "actual_end_s": 150.64,
+      "speech_start_s": 144.6915833333333,
+      "speech_end_s": 150.43170766666665,
+      "visible_start_s": 143.8,
+      "visible_end_s": 151.11999999999998,
+      "visible_duration_s": 7.32
+    },
+    {
+      "id": 22,
+      "title": "发现床头灯的灯罩上印着一朵小花，",
+      "text": "发现床头灯的灯罩上印着一朵小花，正被暖光照得软软的。",
+      "source_ranges": [
+        {
+          "unit_id": "u013",
+          "paragraph_id": "p006",
+          "start_char": 19,
+          "end_char": 45
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "夜晚皮皮的小木屋卧室，床在左下、木窗在右上，床头灯在床边；窗外蓝灰夜色，同场景家具位置保持一致。",
+      "action": "画面必须具体对应旁白“发现床头灯的灯罩上印着一朵小花，正被暖光照得软软的。”。在木屋卧室中只表现这句话正在发生的一个静态时刻，准确呈现所述角色、动作和松果小台灯/花朵灯罩等道具；勿添加未提及的剧情。人物和重要物件位于上方68%，底部留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_22.png",
+      "reference_manifest": "references/shot_22.json",
+      "image_status": "generated",
+      "actual_start_s": 150.64,
+      "actual_end_s": 159.0,
+      "speech_start_s": 150.87404166666664,
+      "speech_end_s": 158.43941566666663,
+      "visible_start_s": 150.16,
+      "visible_end_s": 159.48,
+      "visible_duration_s": 9.32
+    },
+    {
+      "id": 23,
+      "title": "皮皮想起教室里的那盏松果灯，心想",
+      "text": "皮皮想起教室里的那盏松果灯，心想，今晚自己的小床头灯，",
+      "source_ranges": [
+        {
+          "unit_id": "u014",
+          "paragraph_id": "p007",
+          "start_char": 0,
+          "end_char": 27
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "夜晚皮皮的小木屋卧室，床在左下、木窗在右上，床头灯在床边；窗外蓝灰夜色，同场景家具位置保持一致。",
+      "action": "画面必须具体对应旁白“皮皮想起教室里的那盏松果灯，心想，今晚自己的小床头灯，”。在木屋卧室中只表现这句话正在发生的一个静态时刻，准确呈现所述角色、动作和松果小台灯/花朵灯罩等道具；勿添加未提及的剧情。人物和重要物件位于上方68%，底部留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_23.png",
+      "reference_manifest": "references/shot_23.json",
+      "image_status": "generated",
+      "actual_start_s": 159.0,
+      "actual_end_s": 167.64,
+      "speech_start_s": 159.5483958333333,
+      "speech_end_s": 167.44572916666664,
+      "visible_start_s": 158.52,
+      "visible_end_s": 168.11999999999998,
+      "visible_duration_s": 9.6
+    },
+    {
+      "id": 24,
+      "title": "也已经认真陪伴很久了，该让它慢慢",
+      "text": "也已经认真陪伴很久了，该让它慢慢歇一会儿啦。",
+      "source_ranges": [
+        {
+          "unit_id": "u014",
+          "paragraph_id": "p007",
+          "start_char": 27,
+          "end_char": 49
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "夜晚皮皮的小木屋卧室，床在左下、木窗在右上，床头灯在床边；窗外蓝灰夜色，同场景家具位置保持一致。",
+      "action": "画面必须具体对应旁白“也已经认真陪伴很久了，该让它慢慢歇一会儿啦。”。在木屋卧室中只表现这句话正在发生的一个静态时刻，准确呈现所述角色、动作和松果小台灯/花朵灯罩等道具；勿添加未提及的剧情。人物和重要物件位于上方68%，底部留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_24.png",
+      "reference_manifest": "references/shot_24.json",
+      "image_status": "generated",
+      "actual_start_s": 167.64,
+      "actual_end_s": 174.08,
+      "speech_start_s": 167.84956216666663,
+      "speech_end_s": 173.64572816666663,
+      "visible_start_s": 167.16,
+      "visible_end_s": 174.56,
+      "visible_duration_s": 7.4
+    },
+    {
+      "id": 25,
+      "title": " 皮皮先盖好暖黄色的毛毯，再把胡",
+      "text": "\n皮皮先盖好暖黄色的毛毯，再把胡萝卜玩偶安顿在自己怀里。",
+      "source_ranges": [
+        {
+          "unit_id": "u015",
+          "paragraph_id": "p007",
+          "start_char": 0,
+          "end_char": 28
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "夜晚皮皮的小木屋卧室，床在左下、木窗在右上，床头灯在床边；窗外蓝灰夜色，同场景家具位置保持一致。",
+      "action": "画面必须具体对应旁白“皮皮先盖好暖黄色的毛毯，再把胡萝卜玩偶安顿在自己怀里。”。在木屋卧室中只表现这句话正在发生的一个静态时刻，准确呈现所述角色、动作和松果小台灯/花朵灯罩等道具；勿添加未提及的剧情。人物和重要物件位于上方68%，底部留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_25.png",
+      "reference_manifest": "references/shot_25.json",
+      "image_status": "generated",
+      "actual_start_s": 174.08,
+      "actual_end_s": 183.12,
+      "speech_start_s": 174.52287499999997,
+      "speech_end_s": 182.5566458333333,
+      "visible_start_s": 173.60000000000002,
+      "visible_end_s": 183.6,
+      "visible_duration_s": 10.0
+    },
+    {
+      "id": 26,
+      "title": "然后，他伸出小爪子，把床头灯调暗",
+      "text": "然后，他伸出小爪子，把床头灯调暗了一点。",
+      "source_ranges": [
+        {
+          "unit_id": "u016",
+          "paragraph_id": "p008",
+          "start_char": 0,
+          "end_char": 20
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "夜晚皮皮的小木屋卧室，床在左下、木窗在右上，床头灯在床边；窗外蓝灰夜色，同场景家具位置保持一致。",
+      "action": "画面必须具体对应旁白“然后，他伸出小爪子，把床头灯调暗了一点。”。在木屋卧室中只表现这句话正在发生的一个静态时刻，准确呈现所述角色、动作和松果小台灯/花朵灯罩等道具；勿添加未提及的剧情。人物和重要物件位于上方68%，底部留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_26.png",
+      "reference_manifest": "references/shot_26.json",
+      "image_status": "generated",
+      "actual_start_s": 183.12,
+      "actual_end_s": 190.08,
+      "speech_start_s": 183.65787499999996,
+      "speech_end_s": 189.6234163333333,
+      "visible_start_s": 182.64000000000001,
+      "visible_end_s": 190.56,
+      "visible_duration_s": 7.92
+    },
+    {
+      "id": 27,
+      "title": " 墙上的树影慢慢淡了下去，窗外弯",
+      "text": "\n墙上的树影慢慢淡了下去，窗外弯弯的月亮，一下子就看得更清楚了。",
+      "source_ranges": [
+        {
+          "unit_id": "u017",
+          "paragraph_id": "p008",
+          "start_char": 0,
+          "end_char": 32
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "夜晚皮皮的小木屋卧室，床在左下、木窗在右上，床头灯在床边；窗外蓝灰夜色，同场景家具位置保持一致。",
+      "action": "画面必须具体对应旁白“墙上的树影慢慢淡了下去，窗外弯弯的月亮，一下子就看得更清楚了。”。在木屋卧室中只表现这句话正在发生的一个静态时刻，准确呈现所述角色、动作和松果小台灯/花朵灯罩等道具；勿添加未提及的剧情。人物和重要物件位于上方68%，底部留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_27.png",
+      "reference_manifest": "references/shot_27.json",
+      "image_status": "generated",
+      "actual_start_s": 190.08,
+      "actual_end_s": 200.08,
+      "speech_start_s": 190.5170208333333,
+      "speech_end_s": 199.5287493333333,
+      "visible_start_s": 189.60000000000002,
+      "visible_end_s": 200.56,
+      "visible_duration_s": 10.96
+    },
+    {
+      "id": 28,
+      "title": "房间一点儿也没有变得陌生。",
+      "text": "房间一点儿也没有变得陌生。",
+      "source_ranges": [
+        {
+          "unit_id": "u018",
+          "paragraph_id": "p009",
+          "start_char": 0,
+          "end_char": 13
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "夜晚皮皮的小木屋卧室，床在左下、木窗在右上，床头灯在床边；窗外蓝灰夜色，同场景家具位置保持一致。",
+      "action": "画面必须具体对应旁白“房间一点儿也没有变得陌生。”。在木屋卧室中只表现这句话正在发生的一个静态时刻，准确呈现所述角色、动作和松果小台灯/花朵灯罩等道具；勿添加未提及的剧情。人物和重要物件位于上方68%，底部留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_28.png",
+      "reference_manifest": "references/shot_28.json",
+      "image_status": "generated",
+      "actual_start_s": 200.08,
+      "actual_end_s": 204.12,
+      "speech_start_s": 200.6322708333333,
+      "speech_end_s": 203.67160416666664,
+      "visible_start_s": 199.60000000000002,
+      "visible_end_s": 204.6,
+      "visible_duration_s": 5.0
+    },
+    {
+      "id": 29,
+      "title": "小床还在，软软的枕头还在，床边的",
+      "text": "小床还在，软软的枕头还在，床边的小椅子也稳稳地坐在原处。",
+      "source_ranges": [
+        {
+          "unit_id": "u019",
+          "paragraph_id": "p009",
+          "start_char": 0,
+          "end_char": 28
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "夜晚皮皮的小木屋卧室，床在左下、木窗在右上，床头灯在床边；窗外蓝灰夜色，同场景家具位置保持一致。",
+      "action": "画面必须具体对应旁白“小床还在，软软的枕头还在，床边的小椅子也稳稳地坐在原处。”。在木屋卧室中只表现这句话正在发生的一个静态时刻，准确呈现所述角色、动作和松果小台灯/花朵灯罩等道具；勿添加未提及的剧情。人物和重要物件位于上方68%，底部留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_29.png",
+      "reference_manifest": "references/shot_29.json",
+      "image_status": "generated",
+      "actual_start_s": 204.12,
+      "actual_end_s": 213.72,
+      "speech_start_s": 204.60506249999997,
+      "speech_end_s": 213.29337466666664,
+      "visible_start_s": 203.64000000000001,
+      "visible_end_s": 214.2,
+      "visible_duration_s": 10.56
+    },
+    {
+      "id": 30,
+      "title": " 皮皮轻轻说了一声：“谢谢你，小",
+      "text": "\n皮皮轻轻说了一声：“谢谢你，小灯，你也休息吧。”",
+      "source_ranges": [
+        {
+          "unit_id": "u020",
+          "paragraph_id": "p009",
+          "start_char": 0,
+          "end_char": 25
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "夜晚皮皮的小木屋卧室，床在左下、木窗在右上，床头灯在床边；窗外蓝灰夜色，同场景家具位置保持一致。",
+      "action": "画面必须具体对应旁白“皮皮轻轻说了一声：“谢谢你，小灯，你也休息吧。””。在木屋卧室中只表现这句话正在发生的一个静态时刻，准确呈现所述角色、动作和松果小台灯/花朵灯罩等道具；勿添加未提及的剧情。人物和重要物件位于上方68%，底部留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_30.png",
+      "reference_manifest": "references/shot_30.json",
+      "image_status": "generated",
+      "actual_start_s": 213.72,
+      "actual_end_s": 221.0,
+      "speech_start_s": 214.15781249999998,
+      "speech_end_s": 220.4415198333333,
+      "visible_start_s": 213.24,
+      "visible_end_s": 221.48,
+      "visible_duration_s": 8.24
+    },
+    {
+      "id": 31,
+      "title": "灯罩上只留下一圈淡淡的、像蜂蜜一",
+      "text": "灯罩上只留下一圈淡淡的、像蜂蜜一样的暖色。",
+      "source_ranges": [
+        {
+          "unit_id": "u021",
+          "paragraph_id": "p010",
+          "start_char": 0,
+          "end_char": 21
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "夜晚皮皮的小木屋卧室，床在左下、木窗在右上，床头灯在床边；窗外蓝灰夜色，同场景家具位置保持一致。",
+      "action": "画面必须具体对应旁白“灯罩上只留下一圈淡淡的、像蜂蜜一样的暖色。”。在木屋卧室中只表现这句话正在发生的一个静态时刻，准确呈现所述角色、动作和松果小台灯/花朵灯罩等道具；勿添加未提及的剧情。人物和重要物件位于上方68%，底部留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_31.png",
+      "reference_manifest": "references/shot_31.json",
+      "image_status": "generated",
+      "actual_start_s": 221.0,
+      "actual_end_s": 228.2,
+      "speech_start_s": 221.59339583333332,
+      "speech_end_s": 227.7405,
+      "visible_start_s": 220.52,
+      "visible_end_s": 228.67999999999998,
+      "visible_duration_s": 8.16
+    },
+    {
+      "id": 32,
+      "title": " 皮皮靠好枕头，闭上眼睛。",
+      "text": "\n皮皮靠好枕头，闭上眼睛。",
+      "source_ranges": [
+        {
+          "unit_id": "u022",
+          "paragraph_id": "p010",
+          "start_char": 0,
+          "end_char": 13
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "夜晚皮皮的小木屋卧室，床在左下、木窗在右上，床头灯在床边；窗外蓝灰夜色，同场景家具位置保持一致。",
+      "action": "画面必须具体对应旁白“皮皮靠好枕头，闭上眼睛。”。在木屋卧室中只表现这句话正在发生的一个静态时刻，准确呈现所述角色、动作和松果小台灯/花朵灯罩等道具；勿添加未提及的剧情。人物和重要物件位于上方68%，底部留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_32.png",
+      "reference_manifest": "references/shot_32.json",
+      "image_status": "generated",
+      "actual_start_s": 228.2,
+      "actual_end_s": 232.68,
+      "speech_start_s": 228.66947916666666,
+      "speech_end_s": 232.2034365,
+      "visible_start_s": 227.72,
+      "visible_end_s": 233.16,
+      "visible_duration_s": 5.44
+    },
+    {
+      "id": 33,
+      "title": "小灯陪着他一起安静下来，不再忙着",
+      "text": "小灯陪着他一起安静下来，不再忙着照亮整间屋子。",
+      "source_ranges": [
+        {
+          "unit_id": "u023",
+          "paragraph_id": "p010",
+          "start_char": 0,
+          "end_char": 23
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "夜晚皮皮的小木屋卧室，床在左下、木窗在右上，床头灯在床边；窗外蓝灰夜色，同场景家具位置保持一致。",
+      "action": "画面必须具体对应旁白“小灯陪着他一起安静下来，不再忙着照亮整间屋子。”。在木屋卧室中只表现这句话正在发生的一个静态时刻，准确呈现所述角色、动作和松果小台灯/花朵灯罩等道具；勿添加未提及的剧情。人物和重要物件位于上方68%，底部留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_33.png",
+      "reference_manifest": "references/shot_33.json",
+      "image_status": "generated",
+      "actual_start_s": 232.68,
+      "actual_end_s": 240.6,
+      "speech_start_s": 233.130125,
+      "speech_end_s": 240.04710316666666,
+      "visible_start_s": 232.20000000000002,
+      "visible_end_s": 241.07999999999998,
+      "visible_duration_s": 8.88
+    },
+    {
+      "id": 34,
+      "title": "小朋友，今天的忙碌和玩耍也可以慢",
+      "text": "小朋友，今天的忙碌和玩耍也可以慢慢收好了。",
+      "source_ranges": [
+        {
+          "unit_id": "u024",
+          "paragraph_id": "p011",
+          "start_char": 0,
+          "end_char": 21
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "夜晚皮皮的小木屋卧室，床在左下、木窗在右上，床头灯在床边；窗外蓝灰夜色，同场景家具位置保持一致。",
+      "action": "画面必须具体对应旁白“小朋友，今天的忙碌和玩耍也可以慢慢收好了。”。在木屋卧室中只表现这句话正在发生的一个静态时刻，准确呈现所述角色、动作和松果小台灯/花朵灯罩等道具；勿添加未提及的剧情。人物和重要物件位于上方68%，底部留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_34.png",
+      "reference_manifest": "references/shot_34.json",
+      "image_status": "generated",
+      "actual_start_s": 240.6,
+      "actual_end_s": 247.72,
+      "speech_start_s": 241.18656249999998,
+      "speech_end_s": 247.27370699999997,
+      "visible_start_s": 240.12,
+      "visible_end_s": 248.2,
+      "visible_duration_s": 8.08
+    },
+    {
+      "id": 35,
+      "title": " 让眼睛休息，让舒服留在身边。",
+      "text": "\n让眼睛休息，让舒服留在身边。",
+      "source_ranges": [
+        {
+          "unit_id": "u025",
+          "paragraph_id": "p011",
+          "start_char": 0,
+          "end_char": 15
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "夜晚皮皮的小木屋卧室，床在左下、木窗在右上，床头灯在床边；窗外蓝灰夜色，同场景家具位置保持一致。",
+      "action": "画面必须具体对应旁白“让眼睛休息，让舒服留在身边。”。在木屋卧室中只表现这句话正在发生的一个静态时刻，准确呈现所述角色、动作和松果小台灯/花朵灯罩等道具；勿添加未提及的剧情。人物和重要物件位于上方68%，底部留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_35.png",
+      "reference_manifest": "references/shot_35.json",
+      "image_status": "generated",
+      "actual_start_s": 247.72,
+      "actual_end_s": 252.72,
+      "speech_start_s": 248.1722708333333,
+      "speech_end_s": 252.25239549999998,
+      "visible_start_s": 247.24,
+      "visible_end_s": 253.2,
+      "visible_duration_s": 5.96
+    },
+    {
+      "id": 36,
+      "title": "轻轻闭上眼，晚安。",
+      "text": "轻轻闭上眼，晚安。",
+      "source_ranges": [
+        {
+          "unit_id": "u026",
+          "paragraph_id": "p011",
+          "start_char": 0,
+          "end_char": 9
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "夜晚皮皮的小木屋卧室，床在左下、木窗在右上，床头灯在床边；窗外蓝灰夜色，同场景家具位置保持一致。",
+      "action": "画面必须具体对应旁白“轻轻闭上眼，晚安。”。在木屋卧室中只表现这句话正在发生的一个静态时刻，准确呈现所述角色、动作和松果小台灯/花朵灯罩等道具；勿添加未提及的剧情。人物和重要物件位于上方68%，底部留字幕空间。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_36.png",
+      "reference_manifest": "references/shot_36.json",
+      "image_status": "generated",
+      "actual_start_s": 252.72,
+      "actual_end_s": 257.16,
+      "speech_start_s": 253.15116666666663,
+      "speech_end_s": 255.9922913333333,
+      "visible_start_s": 252.24,
+      "visible_end_s": 257.16,
+      "visible_duration_s": 4.92
+    }
+  ],
+  "actual_audio_measured": true,
+  "max_visible_duration_s": 11.68,
+  "cover_title": "小灯歇歇"
+}

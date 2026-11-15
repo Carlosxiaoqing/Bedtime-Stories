@@ -1,0 +1,12 @@
+{
+  "script_version": "v5",
+  "change_scope": "opening only",
+  "opening_paragraph_id": "p000",
+  "opening_shots": [
+    0,
+    1
+  ],
+  "body_text_unchanged_from": "v001",
+  "body_images_unchanged_from": "v001",
+  "reuse_manifest": "images/reuse-manifest.json"
+}

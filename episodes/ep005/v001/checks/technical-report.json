@@ -1,0 +1,51 @@
+{
+  "technical_checks": "passed",
+  "source_hanzi": 700,
+  "narration_coverage": 1.0,
+  "word_boundary_text_coverage": 1.0,
+  "subtitle_hanzi_coverage": 1.0,
+  "cues": 124,
+  "shots": 36,
+  "unique_active_plot_images": 36,
+  "historical_images_compared": 88,
+  "historical_plot_reuse": false,
+  "current_episode_cover_base_reuse": [
+    5
+  ],
+  "max_image_visible_s": 11.68,
+  "audio": {
+    "voice.wav": {
+      "peak": 17256,
+      "samples": 12343680
+    },
+    "music.wav": {
+      "peak": 364,
+      "samples": 12343680
+    },
+    "ambience.wav": {
+      "peak": 97,
+      "samples": 12343680
+    },
+    "mix.wav": {
+      "peak": 17228,
+      "samples": 12343680
+    }
+  },
+  "videos": {
+    "ep005.mp4": {
+      "bytes": 63166344,
+      "full_decode": "passed",
+      "frames": 6429,
+      "duration_s": 257.16
+    },
+    "ep005_clean.mp4": {
+      "bytes": 60948922,
+      "full_decode": "passed",
+      "frames": 6429,
+      "duration_s": 257.16
+    }
+  },
+  "full_human_listen_watch": "not_certified",
+  "user_acceptance": "pending",
+  "publication": "not_published"
+}

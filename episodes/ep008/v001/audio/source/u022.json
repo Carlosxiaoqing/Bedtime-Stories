@@ -1,0 +1,65 @@
+{
+  "text": "\n皮皮安稳地靠好，嘴角轻轻弯着。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "6069de46972a241f5a22906b2d6d3f5996ab1c9f4d70771f90e97c622715e8a0",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5384580,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7038330,
+      "duration": 4807500,
+      "text": "安稳"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11846250,
+      "duration": 1346250,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13384580,
+      "duration": 3461660,
+      "text": "靠"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16846250,
+      "duration": 5000000,
+      "text": "好"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25500000,
+      "duration": 7115410,
+      "text": "嘴角"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33000000,
+      "duration": 5192500,
+      "text": "轻轻"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 38384580,
+      "duration": 4038330,
+      "text": "弯"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 42422910,
+      "duration": 3269160,
+      "text": "着"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "source": "built-in image_gen",
+  "prompt_file": "prompts/shot_16.json",
+  "source_ranges": [
+    {
+      "unit_id": "u013",
+      "paragraph_id": "p006",
+      "start_char": 0,
+      "end_char": 25
+    }
+  ],
+  "reference_manifest": "reference_manifests/shot_16.json",
+  "sha256": "0c25ffbff24a862ae9e98a19c43a6fbe0bd48d5e1d0993ea49a7d57983bb85ad",
+  "size_px": [
+    941,
+    1672
+  ],
+  "review_status": "visually_reviewed_soup_scene"
+}

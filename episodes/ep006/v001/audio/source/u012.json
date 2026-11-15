@@ -1,0 +1,119 @@
+{
+  "text": "傍晚放学回到家，皮皮把那小段黄毛线和自己家里的毛线团放在一起。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "344f141a89824da010df37db469587faf644f84fa3a7c8c7c4ec5313851b50fd",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5961660,
+      "text": "傍晚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7422910,
+      "duration": 4807500,
+      "text": "放学"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12422910,
+      "duration": 5384580,
+      "text": "回到"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17807500,
+      "duration": 4615410,
+      "text": "家"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 28000000,
+      "duration": 5769160,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33961660,
+      "duration": 2500000,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36461660,
+      "duration": 1922910,
+      "text": "那"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 38577080,
+      "duration": 3269160,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 41846250,
+      "duration": 2692080,
+      "text": "段"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 44538330,
+      "duration": 10961660,
+      "text": "黄毛线"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 57038330,
+      "duration": 2500000,
+      "text": "和"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 59730830,
+      "duration": 5000000,
+      "text": "自己"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 64922910,
+      "duration": 4615410,
+      "text": "家里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 69538330,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 71077080,
+      "duration": 10769160,
+      "text": "毛线团"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 82230830,
+      "duration": 2692080,
+      "text": "放"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 84922910,
+      "duration": 1922910,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 87038330,
+      "duration": 7884580,
+      "text": "一起"
+    }
+  ]
+}

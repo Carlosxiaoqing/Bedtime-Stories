@@ -1,0 +1,89 @@
+{
+  "text": "灯罩上只留下一圈淡淡的、像蜂蜜一样的暖色。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "af1a6dd85426041d0e2f65afa55d853097f473ef771c5a1a34516e9d5f7e46e4",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 6346250,
+      "text": "灯罩"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7615410,
+      "duration": 5000000,
+      "text": "上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14153750,
+      "duration": 2692500,
+      "text": "只"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16846250,
+      "duration": 4807500,
+      "text": "留下"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21846250,
+      "duration": 1922910,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23769160,
+      "duration": 3077080,
+      "text": "圈"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27230830,
+      "duration": 6922910,
+      "text": "淡淡"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 34153750,
+      "duration": 2500000,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 40692500,
+      "duration": 3269160,
+      "text": "像"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 44153750,
+      "duration": 5384580,
+      "text": "蜂蜜"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 49730830,
+      "duration": 4230830,
+      "text": "一样"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 53961660,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 55307500,
+      "duration": 7692500,
+      "text": "暖色"
+    }
+  ]
+}

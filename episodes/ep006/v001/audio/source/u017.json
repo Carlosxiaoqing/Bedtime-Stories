@@ -1,0 +1,107 @@
+{
+  "text": "床边的小篮子里，正好躺着一块干净的棉布，像一个柔软的小窝。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "c340453b5009513f70c03817d4f85832400052a8962b78a8499c9acf9cd0e6ec",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 4038330,
+      "text": "床"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 5307500,
+      "duration": 2115410,
+      "text": "边"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7422910,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8961660,
+      "duration": 8461250,
+      "text": "小篮子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17422910,
+      "duration": 3653750,
+      "text": "里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25307500,
+      "duration": 6538330,
+      "text": "正好"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32038330,
+      "duration": 3077080,
+      "text": "躺"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 35115410,
+      "duration": 1346250,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36653750,
+      "duration": 5000000,
+      "text": "一块"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 42038330,
+      "duration": 5000000,
+      "text": "干净"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 47038330,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 48577080,
+      "duration": 8077080,
+      "text": "棉布"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 60692500,
+      "duration": 3077080,
+      "text": "像"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 63961660,
+      "duration": 3077080,
+      "text": "一个"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 67422910,
+      "duration": 5769160,
+      "text": "柔软"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 73384580,
+      "duration": 9615410,
+      "text": "的小窝"
+    }
+  ]
+}

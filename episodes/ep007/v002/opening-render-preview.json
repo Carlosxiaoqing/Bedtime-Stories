@@ -1,0 +1,108 @@
+{
+  "episode": "ep007",
+  "duration_s": 16.28,
+  "fps": 25,
+  "frames": 407,
+  "preview": true,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "shot_count": 2,
+  "crossfade_s": 0.96,
+  "curve": "linear",
+  "within_shot_motion": "none",
+  "subtitles_after_picture_transitions": true,
+  "clean": "/workspace/Bedtime-Stories/episodes/ep007/v002/ep007_preview16.28_clean.mp4",
+  "publish": "/workspace/Bedtime-Stories/episodes/ep007/v002/ep007_preview16.28.mp4",
+  "delivery_directory": "/workspace/Bedtime-Stories/episodes/ep007/v002",
+  "shots": [
+    {
+      "id": 1,
+      "title": "小朋友们，准备好听故事了吗？",
+      "text": "小朋友们，准备好听故事了吗？",
+      "source_ranges": [
+        {
+          "unit_id": "u001",
+          "paragraph_id": "p001",
+          "start_char": 0,
+          "end_char": 14
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "pipi_bedroom_night_opening",
+      "reality": "现实",
+      "action": "开场静态封面画面；呈现邀约听故事。",
+      "motion": "fixed",
+      "image": "images/opening.png",
+      "speech_start_s": 1.0,
+      "speech_end_s": 4.6634364999999995,
+      "actual_start_s": 0.0,
+      "actual_end_s": 5.12,
+      "visible_start_s": 0.0,
+      "visible_end_s": 5.6,
+      "visible_duration_s": 5.6
+    },
+    {
+      "id": 2,
+      "title": "今天的故事叫《窗帘的小摇篮》。夜风吹来时，窗帘会怎样轻轻摇动呢？",
+      "text": "今天的故事叫《窗帘的小摇篮》。夜风吹来时，窗帘会怎样轻轻摇动呢？",
+      "source_ranges": [
+        {
+          "unit_id": "u001",
+          "paragraph_id": "p001",
+          "start_char": 14,
+          "end_char": 46
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "pipi_bedroom_night_opening",
+      "reality": "现实",
+      "action": "切至夜间窗边静态插画，承接故事名与窗帘问题。",
+      "motion": "fixed",
+      "image": "images/window.png",
+      "speech_start_s": 5.5557285,
+      "speech_end_s": 15.3826865,
+      "actual_start_s": 5.12,
+      "actual_end_s": 16.28,
+      "visible_start_s": 4.640000000000001,
+      "visible_end_s": 16.28,
+      "visible_duration_s": 11.64
+    }
+  ],
+  "audio": "mix.wav",
+  "subtitles": "episode.ass",
+  "character_registry": "references/",
+  "fonts": [
+    {
+      "path": "fonts/Noto-Sans-copyright.txt",
+      "sha256": "075f91382875da1c4b491f1facf2586f55448705133264d98ce15cab6211b125"
+    },
+    {
+      "path": "fonts/NotoSansCJKsc-Bold.otf",
+      "sha256": "85c969dbb2f927c8dbbe440d5755b7c9a714f13a7a58339459df43cfff3583b3"
+    },
+    {
+      "path": "fonts/NotoSansCJKsc-Regular.otf",
+      "sha256": "82e9bdfd176ce68c51f6ff89ca7e2abae7fdb82b4591aa7338638598ae3c91c8"
+    },
+    {
+      "path": "fonts/Noto-CJK-copyright.txt",
+      "sha256": "849f4ea9c214fa4ac3593b770c699f387534b11ce671264c1b10d85bdcb5997b"
+    },
+    {
+      "path": "fonts/NotoSans-Regular.ttf",
+      "sha256": "89c3c497f618fdaa0b2d1e98fef93582f28c71debd2c4a8cdf41f190ced2909d"
+    }
+  ]
+}

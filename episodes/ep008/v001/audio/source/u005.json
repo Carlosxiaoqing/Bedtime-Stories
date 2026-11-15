@@ -1,0 +1,101 @@
+{
+  "text": "\n到了中午玩“过家家”的时候，皮皮特别认真地照顾胡萝卜玩偶。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "4730246b3ad234b1643723011db9f81a0f2ab02634429bad3246c9dfa0cb4d84",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2884580,
+      "text": "到"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4153750,
+      "duration": 1346250,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 5692500,
+      "duration": 5000000,
+      "text": "中午"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11077080,
+      "duration": 2884580,
+      "text": "玩"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13961660,
+      "duration": 1730830,
+      "text": "过"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15884580,
+      "duration": 6153750,
+      "text": "家家"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22038330,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23577080,
+      "duration": 7500000,
+      "text": "时候"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 35307500,
+      "duration": 4615410,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 40307500,
+      "duration": 5192500,
+      "text": "特别"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 45692500,
+      "duration": 5769160,
+      "text": "认真"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 51461660,
+      "duration": 1346250,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 53000000,
+      "duration": 6346250,
+      "text": "照顾"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 59730830,
+      "duration": 7115410,
+      "text": "胡萝卜"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 67038330,
+      "duration": 7692500,
+      "text": "玩偶"
+    }
+  ]
+}

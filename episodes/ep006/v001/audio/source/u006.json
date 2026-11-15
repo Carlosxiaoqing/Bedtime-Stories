@@ -1,0 +1,185 @@
+{
+  "text": "\n皮皮看见了，放下自己手里的黄毛线，迈着小步子走过去，轻声说：“团团，别急，我们不追它，我们坐下来慢慢绕。”",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "9dcee49bebbe5e1ed5eeaeeaf63972906fbf6620273e4a30a82d9e8b36ed3db2",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 4807500,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6269160,
+      "duration": 7307500,
+      "text": "看见"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13577080,
+      "duration": 3077080,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22038330,
+      "duration": 5384580,
+      "text": "放下"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27615410,
+      "duration": 4230830,
+      "text": "自己"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32038330,
+      "duration": 3269160,
+      "text": "手"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 35307500,
+      "duration": 1538330,
+      "text": "里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36846250,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 38384580,
+      "duration": 9807500,
+      "text": "黄毛线"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 53000000,
+      "duration": 2307500,
+      "text": "迈"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 55307500,
+      "duration": 1538330,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 57038330,
+      "duration": 3077080,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 60115410,
+      "duration": 3653750,
+      "text": "步子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 63961660,
+      "duration": 3269160,
+      "text": "走"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 67230830,
+      "duration": 6730830,
+      "text": "过去"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 78000000,
+      "duration": 5961660,
+      "text": "轻声"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 83961660,
+      "duration": 4615410,
+      "text": "说"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 92422910,
+      "duration": 9230830,
+      "text": "团团"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 104922910,
+      "duration": 3653750,
+      "text": "别"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 108577080,
+      "duration": 5000000,
+      "text": "急"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 117115410,
+      "duration": 3846250,
+      "text": "我们"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 121153750,
+      "duration": 2307500,
+      "text": "不"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 123461660,
+      "duration": 3269160,
+      "text": "追"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 126730830,
+      "duration": 4422910,
+      "text": "它"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 135769160,
+      "duration": 3461660,
+      "text": "我们"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 139422910,
+      "duration": 2884580,
+      "text": "坐"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 142307500,
+      "duration": 4230830,
+      "text": "下来"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 146922910,
+      "duration": 5577080,
+      "text": "慢慢"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 152500000,
+      "duration": 4422910,
+      "text": "绕"
+    }
+  ]
+}

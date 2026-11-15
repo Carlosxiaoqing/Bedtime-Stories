@@ -1,0 +1,113 @@
+{
+  "text": "\n皮皮先盖好暖黄色的毛毯，再把胡萝卜玩偶安顿在自己怀里。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "7a1218805b480d26e1660ac8dfbe09819980fb80bc06cb971d5124a18c3b8936",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5192500,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6846250,
+      "duration": 3076660,
+      "text": "先"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9922910,
+      "duration": 2307500,
+      "text": "盖"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12230830,
+      "duration": 3653750,
+      "text": "好"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16269160,
+      "duration": 2884580,
+      "text": "暖"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19153750,
+      "duration": 5961660,
+      "text": "黄色"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25115410,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26461660,
+      "duration": 7884580,
+      "text": "毛毯"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 39346250,
+      "duration": 2307500,
+      "text": "再"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 41653750,
+      "duration": 1922910,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 43769160,
+      "duration": 6730830,
+      "text": "胡萝卜"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 50692500,
+      "duration": 8269160,
+      "text": "玩偶"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 60500000,
+      "duration": 5577080,
+      "text": "安顿"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 66077080,
+      "duration": 2500000,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 68961660,
+      "duration": 4230830,
+      "text": "自己"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 73384580,
+      "duration": 4807500,
+      "text": "怀"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 78192500,
+      "duration": 3653750,
+      "text": "里"
+    }
+  ]
+}

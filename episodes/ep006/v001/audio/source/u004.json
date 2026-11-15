@@ -1,0 +1,161 @@
+{
+  "text": "可是小爪子一滑，“骨碌碌——”红毛线团掉在地上，顺着木地板一直滚到了滑梯下面，拖出了一条长长的红尾巴。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "0fde490b940a3a2234906e5554d10f41932f78a62df02ea4b1c04e0a72e58fb8",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 4422910,
+      "text": "可是"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6077080,
+      "duration": 2884580,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8961660,
+      "duration": 4807500,
+      "text": "爪子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13961660,
+      "duration": 2500000,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16461660,
+      "duration": 5384580,
+      "text": "滑"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25115410,
+      "duration": 9422910,
+      "text": "骨碌碌"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 39346250,
+      "duration": 12115410,
+      "text": "红毛线团"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 51846250,
+      "duration": 2307500,
+      "text": "掉"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 54153750,
+      "duration": 2307500,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 56653750,
+      "duration": 7692500,
+      "text": "地上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 69538330,
+      "duration": 4038330,
+      "text": "顺着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 73769160,
+      "duration": 2115410,
+      "text": "木"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 76077080,
+      "duration": 7692500,
+      "text": "地板"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 85307500,
+      "duration": 5577080,
+      "text": "一直"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 91077080,
+      "duration": 3076660,
+      "text": "滚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 94153750,
+      "duration": 2307500,
+      "text": "到"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 96461660,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 98000000,
+      "duration": 5384580,
+      "text": "滑梯"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 103577080,
+      "duration": 7884580,
+      "text": "下面"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 115384580,
+      "duration": 5769160,
+      "text": "拖出"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 121153750,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 122500000,
+      "duration": 5769160,
+      "text": "一条"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 128653750,
+      "duration": 7115410,
+      "text": "长长"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 135769160,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 137500000,
+      "duration": 9615410,
+      "text": "红尾巴"
+    }
+  ]
+}

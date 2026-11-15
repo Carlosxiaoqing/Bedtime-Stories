@@ -1,0 +1,89 @@
+{
+  "text": "他闭上眼睛，只留下长耳朵，听一听屋里安静的风声。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "3c1c0e621792591bcb5c9af36a63c6c5e5a032215f7d96d6b31cb4b007cd0f56",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2307500,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3769160,
+      "duration": 13846250,
+      "text": "闭上眼睛"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20307500,
+      "duration": 2692500,
+      "text": "只"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23000000,
+      "duration": 4807500,
+      "text": "留下"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 28192500,
+      "duration": 5192080,
+      "text": "长耳"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33384580,
+      "duration": 4230830,
+      "text": "朵"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 41846250,
+      "duration": 2500000,
+      "text": "听"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 44346250,
+      "duration": 1730830,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 46077080,
+      "duration": 2692500,
+      "text": "听"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 49153750,
+      "duration": 5000000,
+      "text": "屋里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 54538330,
+      "duration": 5769160,
+      "text": "安静"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 60307500,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 62038330,
+      "duration": 7115410,
+      "text": "风声"
+    }
+  ]
+}

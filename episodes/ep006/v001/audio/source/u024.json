@@ -1,0 +1,59 @@
+{
+  "text": "\n小朋友，把今天轻轻放到一边吧。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "c5bb6b9e759ce2932d7815b8a3afc3b7cfd4b2d48e8f36527fddeaf9d6354d83",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 11346250,
+      "text": "小朋友"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15884580,
+      "duration": 2115410,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18192500,
+      "duration": 5192500,
+      "text": "今天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23769160,
+      "duration": 6153750,
+      "text": "轻轻"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30115410,
+      "duration": 2692080,
+      "text": "放"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32807500,
+      "duration": 1730830,
+      "text": "到"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 34730830,
+      "duration": 5192080,
+      "text": "一边"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 39922910,
+      "duration": 3461660,
+      "text": "吧"
+    }
+  ]
+}

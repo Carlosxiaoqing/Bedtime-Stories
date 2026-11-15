@@ -1,0 +1,77 @@
+{
+  "text": "”\n皮皮摸了摸有点发酸的小腿，摇了摇头。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "c156cb3c0d1edf31ce0c9173847c92e0ef2fd1f0be8cb803f09721953cd7fe89",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5192500,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6846250,
+      "duration": 2884580,
+      "text": "摸"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9730830,
+      "duration": 1730830,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11461660,
+      "duration": 4422910,
+      "text": "摸"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16269160,
+      "duration": 5577080,
+      "text": "有点"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22038330,
+      "duration": 5000000,
+      "text": "发酸"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27038330,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 28384580,
+      "duration": 8269160,
+      "text": "小腿"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 40115410,
+      "duration": 3077080,
+      "text": "摇"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 43192500,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 44538330,
+      "duration": 9038330,
+      "text": "摇头"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "text": "\n皮皮想起了白天山羊老师说的话。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "abaeaa2307c49db326ba2a7ad623e6c73ded0dd445e1c6f3ce784d707c5d2de0",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5577080,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7038330,
+      "duration": 5961660,
+      "text": "想起"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13000000,
+      "duration": 1922910,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15115410,
+      "duration": 5769160,
+      "text": "白天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21269160,
+      "duration": 5577080,
+      "text": "山羊"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27038330,
+      "duration": 5577080,
+      "text": "老师"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32615410,
+      "duration": 2884580,
+      "text": "说"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 35692500,
+      "duration": 6346250,
+      "text": "的话"
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "text": "\n窗外的晚风把树叶拢在一起，屋里的毛线，也已经收好了自己的小路。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "fbfb697aff74020f7e12f987ceeec205ad1c928cad44765070274fc9d04daaac",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5961660,
+      "text": "窗外"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7230830,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8769160,
+      "duration": 8653750,
+      "text": "晚风"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18961660,
+      "duration": 2307500,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21461660,
+      "duration": 5961660,
+      "text": "树叶"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27807500,
+      "duration": 2500000,
+      "text": "拢"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30307500,
+      "duration": 2500000,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33000000,
+      "duration": 7500000,
+      "text": "一起"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 45115410,
+      "duration": 4422910,
+      "text": "屋里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 49538330,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 51077080,
+      "duration": 8461660,
+      "text": "毛线"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 63384580,
+      "duration": 1922910,
+      "text": "也"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 65500000,
+      "duration": 4038330,
+      "text": "已经"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 69730830,
+      "duration": 6538330,
+      "text": "收好"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 76269160,
+      "duration": 1346250,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 78000000,
+      "duration": 3653750,
+      "text": "自己"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 81653750,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 83192500,
+      "duration": 7692500,
+      "text": "小路"
+    }
+  ]
+}

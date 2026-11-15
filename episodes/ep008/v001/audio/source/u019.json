@@ -1,0 +1,215 @@
+{
+  "text": "他没有再去柜子里找新毯子，而是把胡萝卜玩偶轻轻挪近了一点，放进自己的臂弯里，让暖暖的大毛毯，同时盖住他们两个。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "684838036a4fa4480d616f4ca074cb6c5dd2d26f18760593bc88a1cc2e930bd5",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2500000,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3769160,
+      "duration": 4038330,
+      "text": "没有"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8000000,
+      "duration": 2692500,
+      "text": "再"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10692500,
+      "duration": 1922910,
+      "text": "去"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12807500,
+      "duration": 5000000,
+      "text": "柜子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17807500,
+      "duration": 1922910,
+      "text": "里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20115410,
+      "duration": 2307500,
+      "text": "找"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22615410,
+      "duration": 3269160,
+      "text": "新"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25884580,
+      "duration": 8269160,
+      "text": "毯子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 40115410,
+      "duration": 4230830,
+      "text": "而是"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 44538330,
+      "duration": 1730830,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 46653750,
+      "duration": 7115410,
+      "text": "胡萝卜"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 53961660,
+      "duration": 7884580,
+      "text": "玩偶"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 63384580,
+      "duration": 6153750,
+      "text": "轻轻"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 69730830,
+      "duration": 2500000,
+      "text": "挪"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 72230830,
+      "duration": 2692080,
+      "text": "近"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 74922910,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 76269160,
+      "duration": 6922910,
+      "text": "一点"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 88577080,
+      "duration": 5577080,
+      "text": "放进"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 94538330,
+      "duration": 3653750,
+      "text": "自己"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 98192500,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 99922910,
+      "duration": 6922910,
+      "text": "臂弯"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 106846250,
+      "duration": 3269160,
+      "text": "里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 114038330,
+      "duration": 3269160,
+      "text": "让"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 117500000,
+      "duration": 5769160,
+      "text": "暖暖"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 123269160,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 124807500,
+      "duration": 2692500,
+      "text": "大"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 127500000,
+      "duration": 8077080,
+      "text": "毛毯"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 139807500,
+      "duration": 7692500,
+      "text": "同时"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 147692500,
+      "duration": 3269160,
+      "text": "盖"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 150961660,
+      "duration": 1922910,
+      "text": "住"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 153077080,
+      "duration": 3461660,
+      "text": "他们"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 156730830,
+      "duration": 3846250,
+      "text": "两"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 160577080,
+      "duration": 4038330,
+      "text": "个"
+    }
+  ]
+}

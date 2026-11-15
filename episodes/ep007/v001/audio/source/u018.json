@@ -1,0 +1,59 @@
+{
+  "text": "皮皮把自己的暖黄色毛毯拉好。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "cda28f3944d13bf65debd09239d772043dd42f9a7cfc742ba3e9de2a39576e82",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5577080,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7230830,
+      "duration": 2307500,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9730830,
+      "duration": 4615410,
+      "text": "自己"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14346250,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16077080,
+      "duration": 9807500,
+      "text": "暖黄色"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26077080,
+      "duration": 5769160,
+      "text": "毛毯"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32038330,
+      "duration": 2884580,
+      "text": "拉"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 34922910,
+      "duration": 5769160,
+      "text": "好"
+    }
+  ]
+}

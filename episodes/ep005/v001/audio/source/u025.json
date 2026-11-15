@@ -1,0 +1,59 @@
+{
+  "text": "\n让眼睛休息，让舒服留在身边。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "17f44d62f81aca6000722807d275aba57301eee02d05503d6d9cb70565310f6b",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2884580,
+      "text": "让"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4346250,
+      "duration": 5192500,
+      "text": "眼睛"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9730830,
+      "duration": 8461660,
+      "text": "休息"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21846250,
+      "duration": 2307500,
+      "text": "让"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24346250,
+      "duration": 5192500,
+      "text": "舒服"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 29922910,
+      "duration": 2115410,
+      "text": "留"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32038330,
+      "duration": 2307500,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 34538330,
+      "duration": 7692500,
+      "text": "身边"
+    }
+  ]
+}

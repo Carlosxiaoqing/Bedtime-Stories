@@ -1,0 +1,9 @@
+{
+  "status": "technical_checks_passed_waiting_human_review",
+  "episode": "ep005", "version": "v001", "title": "小灯也想歇一会儿", "script_version": "v4",
+  "narration_complete": true, "hanzi": 700, "duration_s": 257.16,
+  "shot_count": 36, "active_images_ready": 36, "remaining_shots": [], "subtitles_cues": 124,
+  "technical_checks": "passed", "full_human_listen_watch": "not_certified",
+  "user_acceptance": "pending", "publication": "not_published", "acceptance_record": null,
+  "record": "RECORD.md", "delivery": "../../Outputs/2026-11-12/ep005-v001"
+}

@@ -1,0 +1,59 @@
+{
+  "text": "皮皮会怎样照顾玩偶，也照顾好自己呢？",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "7dbfa1c71734b09aae8ddff79e8cd03badf9da418ac8a233cdd84d80480b0eab",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5000000,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6653750,
+      "duration": 2307500,
+      "text": "会"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9153750,
+      "duration": 5961660,
+      "text": "怎样"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15307500,
+      "duration": 4422910,
+      "text": "照顾"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19922910,
+      "duration": 7692500,
+      "text": "玩偶"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30884580,
+      "duration": 1922910,
+      "text": "也"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33000000,
+      "duration": 14038330,
+      "text": "照顾好自己"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 47038330,
+      "duration": 3846250,
+      "text": "呢"
+    }
+  ]
+}

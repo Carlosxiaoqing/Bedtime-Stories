@@ -1,0 +1,22 @@
+{
+  "episode": "ep007",
+  "version": "v002",
+  "script_version": "v5",
+  "source_script": "source-script.json",
+  "base_episode_version": "../v001",
+  "added_opening_text": "小朋友们，准备好听故事了吗？今天的故事叫《窗帘的小摇篮》。夜风吹来时，窗帘会怎样轻轻摇动呢？",
+  "opening_audio": "audio/voice.wav",
+  "opening_subtitles": "episode.ass",
+  "opening_shots": 2,
+  "opening_duration_s": 16.32,
+  "full_video_duration_s": 274.52,
+  "full_video_frames": 6863,
+  "fps": 25,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "publish": "/workspace/Bedtime-Stories/Outputs/2026-11-12/ep007-v002/ep007.mp4",
+  "clean": "/workspace/Bedtime-Stories/Outputs/2026-11-12/ep007-v002/ep007_clean.mp4",
+  "assembly": "prepend the independently rendered v5 opening segment, then stream-copy the complete v001 video segment; the v001 story picture and audio payload remain unchanged after the AAC priming packet"
+}

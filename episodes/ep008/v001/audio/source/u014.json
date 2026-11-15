@@ -1,0 +1,125 @@
+{
+  "text": "皮皮把方巾折得方方正正，用小爪子轻轻压平两个角，让玩偶躺上去。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "7427598aae1ca10125af0d277598fc0309e1f3c396a0c068b3ac0eef0a33bebe",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5384580,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7038330,
+      "duration": 2115410,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9346250,
+      "duration": 6346250,
+      "text": "方巾"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16077080,
+      "duration": 2307500,
+      "text": "折"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18384580,
+      "duration": 1346250,
+      "text": "得"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20115410,
+      "duration": 12115410,
+      "text": "方方正正"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 37038330,
+      "duration": 2692500,
+      "text": "用"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 39730830,
+      "duration": 3269160,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 43000000,
+      "duration": 8269160,
+      "text": "爪子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 52807500,
+      "duration": 5769160,
+      "text": "轻轻"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 58769160,
+      "duration": 3077080,
+      "text": "压"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 61846250,
+      "duration": 3077080,
+      "text": "平"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 65307500,
+      "duration": 2884580,
+      "text": "两"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 68192500,
+      "duration": 1538330,
+      "text": "个"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 69730830,
+      "duration": 4807500,
+      "text": "角"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 78577080,
+      "duration": 2500000,
+      "text": "让"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 81269160,
+      "duration": 4807500,
+      "text": "玩偶"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 86461660,
+      "duration": 3461250,
+      "text": "躺"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 89922910,
+      "duration": 7884580,
+      "text": "上去"
+    }
+  ]
+}

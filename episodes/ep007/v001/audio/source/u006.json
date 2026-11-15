@@ -1,0 +1,173 @@
+{
+  "text": "皮皮躺在旁边的吊床上，他没有使劲蹬腿，而是把小爪子放在肚皮上，等着森林里的微风吹过来。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "9da5feb58fc4b151a33feed268488955e5acab6b7cec02a83b41337d1287103b",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5384580,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6846250,
+      "duration": 3269160,
+      "text": "躺"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10115410,
+      "duration": 1922910,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12230830,
+      "duration": 5961660,
+      "text": "旁边"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18192500,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19730830,
+      "duration": 7307500,
+      "text": "吊床"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27038330,
+      "duration": 4615410,
+      "text": "上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 35115410,
+      "duration": 2307500,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 37615410,
+      "duration": 3653750,
+      "text": "没有"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 41461660,
+      "duration": 6153750,
+      "text": "使劲"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 47807500,
+      "duration": 8077080,
+      "text": "蹬腿"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 61077080,
+      "duration": 4422910,
+      "text": "而是"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 65500000,
+      "duration": 1922910,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 67807500,
+      "duration": 3269160,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 71077080,
+      "duration": 6153750,
+      "text": "爪子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 77615410,
+      "duration": 2692080,
+      "text": "放"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 80307500,
+      "duration": 2115410,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 82615410,
+      "duration": 7115410,
+      "text": "肚皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 89730830,
+      "duration": 4615410,
+      "text": "上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 98269160,
+      "duration": 3077080,
+      "text": "等"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 101346250,
+      "duration": 1538330,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 103077080,
+      "duration": 6153750,
+      "text": "森林"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 109230830,
+      "duration": 1730830,
+      "text": "里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 110961660,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 112692500,
+      "duration": 6538330,
+      "text": "微风"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 119615410,
+      "duration": 3653750,
+      "text": "吹"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 123269160,
+      "duration": 6538330,
+      "text": "过来"
+    }
+  ]
+}

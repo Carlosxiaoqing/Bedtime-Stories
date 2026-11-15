@@ -1,0 +1,21 @@
+{
+  "status": "technical_checks_passed_waiting_human_review",
+  "episode": "ep006",
+  "version": "v002",
+  "title": "毛线团找到了小窝",
+  "script_version": "v5",
+  "narration_complete": true,
+  "hanzi": 746,
+  "duration_s": 275.12,
+  "shot_count": 38,
+  "opening_shots": 2,
+  "active_images_ready": 38,
+  "remaining_shots": [],
+  "subtitles_cues": 133,
+  "technical_checks": "passed",
+  "full_human_listen_watch": "not_certified",
+  "user_acceptance": "pending",
+  "publication": "not_published",
+  "record": "RECORD.md",
+  "delivery": "../../Outputs/2026-11-12/ep006-v002"
+}

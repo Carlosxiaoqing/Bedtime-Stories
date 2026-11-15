@@ -1,0 +1,59 @@
+{
+  "text": "皮皮钻进温暖的被窝，抱住胡萝卜玩偶。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "ef9b229a72bac26f89d15d36ff567376d947b06b142f8d6473e79ed02900269b",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5384580,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6846250,
+      "duration": 5961660,
+      "text": "钻进"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13192500,
+      "duration": 5384580,
+      "text": "温暖"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18577080,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20115410,
+      "duration": 7692500,
+      "text": "被窝"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31653750,
+      "duration": 6153750,
+      "text": "抱住"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 38000000,
+      "duration": 7307500,
+      "text": "胡萝卜"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 45500000,
+      "duration": 7692500,
+      "text": "玩偶"
+    }
+  ]
+}

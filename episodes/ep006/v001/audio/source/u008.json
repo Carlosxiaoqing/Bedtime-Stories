@@ -1,0 +1,71 @@
+{
+  "text": "\n绕一圈，地上的长线就短了一点。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "9bedb0d087c7c68f4cf5a22bf8604634f954dd2b1a34763caa9cf3af2a6c7836",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 3461660,
+      "text": "绕"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4730830,
+      "duration": 2115410,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6846250,
+      "duration": 5384580,
+      "text": "圈"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16653750,
+      "duration": 5192500,
+      "text": "地上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21846250,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23192500,
+      "duration": 7307500,
+      "text": "长线"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30884580,
+      "duration": 1538330,
+      "text": "就"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32422910,
+      "duration": 3077080,
+      "text": "短"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 35500000,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36846250,
+      "duration": 6730830,
+      "text": "一点"
+    }
+  ]
+}

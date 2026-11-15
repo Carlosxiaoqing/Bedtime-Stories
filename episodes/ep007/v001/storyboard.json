@@ -1,0 +1,1035 @@
+{
+  "episode": "ep007",
+  "version": "v001",
+  "cover_title": "帘摇入梦",
+  "shot_count": 31,
+  "status": "rendered_technical_passed",
+  "timing_basis": "actual_audio_measured",
+  "shots": [
+    {
+      "id": 1,
+      "title": "今天皮皮在森林学堂的院子里发现了一个新奇的好",
+      "text": "今天皮皮在森林学堂的院子里发现了一个新奇的好地方。",
+      "source_ranges": [
+        {
+          "unit_id": "u001",
+          "paragraph_id": "p001",
+          "start_char": 0,
+          "end_char": 25
+        }
+      ],
+      "characters": [
+        "pipi",
+        "goat_teacher"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "goat_teacher": "default_v001"
+      },
+      "setting": "forest_school_yard_birch_hammocks",
+      "reality": "现实",
+      "action": "依照对应口播呈现这一时刻，角色、动作与道具状态逐镜连续；固定静态水彩构图。",
+      "motion": "fixed",
+      "image": "images/shot_01.png",
+      "reference_manifest": "reference_manifests/shot_01.json",
+      "speech_start_s": 1.0,
+      "speech_end_s": 8.156666666666666,
+      "actual_start_s": 0.0,
+      "actual_end_s": 8.6,
+      "visible_start_s": 0.0,
+      "visible_end_s": 9.08,
+      "visible_duration_s": 9.08
+    },
+    {
+      "id": 2,
+      "title": "那是山羊老师在两棵白桦树之间，用宽宽的棉布挂",
+      "text": "那是山羊老师在两棵白桦树之间，用宽宽的棉布挂起来的几张小吊床，",
+      "source_ranges": [
+        {
+          "unit_id": "u002",
+          "paragraph_id": "p001",
+          "start_char": 0,
+          "end_char": 31
+        }
+      ],
+      "characters": [
+        "pipi",
+        "goat_teacher"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "goat_teacher": "default_v001"
+      },
+      "setting": "forest_school_yard_birch_hammocks",
+      "reality": "现实",
+      "action": "依照对应口播呈现这一时刻，角色、动作与道具状态逐镜连续；固定静态水彩构图。",
+      "motion": "fixed",
+      "image": "images/shot_02.png",
+      "reference_manifest": "reference_manifests/shot_02.json",
+      "speech_start_s": 9.02325,
+      "speech_end_s": 18.344228833333336,
+      "actual_start_s": 8.6,
+      "actual_end_s": 18.52,
+      "visible_start_s": 8.12,
+      "visible_end_s": 19.0,
+      "visible_duration_s": 10.88
+    },
+    {
+      "id": 3,
+      "title": "专门给小朋友们在户外听风休息用的。",
+      "text": "专门给小朋友们在户外听风休息用的。",
+      "source_ranges": [
+        {
+          "unit_id": "u002",
+          "paragraph_id": "p001",
+          "start_char": 31,
+          "end_char": 48
+        }
+      ],
+      "characters": [
+        "pipi",
+        "goat_teacher"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "goat_teacher": "default_v001"
+      },
+      "setting": "forest_school_yard_birch_hammocks",
+      "reality": "现实",
+      "action": "依照对应口播呈现这一时刻，角色、动作与道具状态逐镜连续；固定静态水彩构图。",
+      "motion": "fixed",
+      "image": "images/shot_03.png",
+      "reference_manifest": "reference_manifests/shot_03.json",
+      "speech_start_s": 18.717311833333333,
+      "speech_end_s": 23.544228833333335,
+      "actual_start_s": 18.52,
+      "actual_end_s": 23.96,
+      "visible_start_s": 18.04,
+      "visible_end_s": 24.44,
+      "visible_duration_s": 6.4
+    },
+    {
+      "id": 4,
+      "title": "上午做完体操后，皮皮、小刺猬栗栗，还有小熊绒",
+      "text": "上午做完体操后，皮皮、小刺猬栗栗，还有小熊绒绒，一人爬上了一张小吊床。",
+      "source_ranges": [
+        {
+          "unit_id": "u003",
+          "paragraph_id": "p002",
+          "start_char": 0,
+          "end_char": 35
+        }
+      ],
+      "characters": [
+        "pipi",
+        "lili",
+        "rongrong"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "lili": "default_v001",
+        "rongrong": "default_v001"
+      },
+      "setting": "forest_school_yard_birch_hammocks",
+      "reality": "现实",
+      "action": "依照对应口播呈现这一时刻，角色、动作与道具状态逐镜连续；固定静态水彩构图。",
+      "motion": "fixed",
+      "image": "images/shot_04.png",
+      "reference_manifest": "reference_manifests/shot_04.json",
+      "speech_start_s": 24.403375000000004,
+      "speech_end_s": 34.98962466666667,
+      "actual_start_s": 23.96,
+      "actual_end_s": 35.44,
+      "visible_start_s": 23.48,
+      "visible_end_s": 35.919999999999995,
+      "visible_duration_s": 12.44
+    },
+    {
+      "id": 5,
+      "title": "小熊绒绒力气大，刚躺上去的时候，用脚使劲一蹬",
+      "text": "小熊绒绒力气大，刚躺上去的时候，用脚使劲一蹬，吊床晃得高高的。",
+      "source_ranges": [
+        {
+          "unit_id": "u004",
+          "paragraph_id": "p002",
+          "start_char": 0,
+          "end_char": 31
+        }
+      ],
+      "characters": [
+        "pipi",
+        "lili",
+        "rongrong"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "lili": "default_v001",
+        "rongrong": "default_v001"
+      },
+      "setting": "forest_school_yard_birch_hammocks",
+      "reality": "现实",
+      "action": "依照对应口播呈现这一时刻，角色、动作与道具状态逐镜连续；固定静态水彩构图。",
+      "motion": "fixed",
+      "image": "images/shot_05.png",
+      "reference_manifest": "reference_manifests/shot_05.json",
+      "speech_start_s": 35.88804166666667,
+      "speech_end_s": 44.914811500000006,
+      "actual_start_s": 35.44,
+      "actual_end_s": 45.36,
+      "visible_start_s": 34.96,
+      "visible_end_s": 45.839999999999996,
+      "visible_duration_s": 10.88
+    },
+    {
+      "id": 6,
+      "title": "可晃了几下，绒绒就觉得有点头晕，不知道怎么让",
+      "text": "可晃了几下，绒绒就觉得有点头晕，不知道怎么让自己安静下来。",
+      "source_ranges": [
+        {
+          "unit_id": "u005",
+          "paragraph_id": "p002",
+          "start_char": 0,
+          "end_char": 29
+        }
+      ],
+      "characters": [
+        "pipi",
+        "lili",
+        "rongrong"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "lili": "default_v001",
+        "rongrong": "default_v001"
+      },
+      "setting": "forest_school_yard_birch_hammocks",
+      "reality": "现实",
+      "action": "依照对应口播呈现这一时刻，角色、动作与道具状态逐镜连续；固定静态水彩构图。",
+      "motion": "fixed",
+      "image": "images/shot_06.png",
+      "reference_manifest": "reference_manifests/shot_06.json",
+      "speech_start_s": 45.82175000000001,
+      "speech_end_s": 53.656770166666675,
+      "actual_start_s": 45.36,
+      "actual_end_s": 54.12,
+      "visible_start_s": 44.88,
+      "visible_end_s": 54.599999999999994,
+      "visible_duration_s": 9.72
+    },
+    {
+      "id": 7,
+      "title": "皮皮躺在旁边的吊床上，他没有使劲蹬腿，而是把",
+      "text": "皮皮躺在旁边的吊床上，他没有使劲蹬腿，而是把小爪子放在肚皮上，",
+      "source_ranges": [
+        {
+          "unit_id": "u006",
+          "paragraph_id": "p003",
+          "start_char": 0,
+          "end_char": 31
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "forest_school_yard_birch_hammocks",
+      "reality": "现实",
+      "action": "依照对应口播呈现这一时刻，角色、动作与道具状态逐镜连续；固定静态水彩构图。",
+      "motion": "fixed",
+      "image": "images/shot_07.png",
+      "reference_manifest": "reference_manifests/shot_07.json",
+      "speech_start_s": 54.557145833333344,
+      "speech_end_s": 63.84031150000001,
+      "actual_start_s": 54.12,
+      "actual_end_s": 64.04,
+      "visible_start_s": 53.64,
+      "visible_end_s": 64.52000000000001,
+      "visible_duration_s": 10.88
+    },
+    {
+      "id": 8,
+      "title": "等着森林里的微风吹过来。",
+      "text": "等着森林里的微风吹过来。",
+      "source_ranges": [
+        {
+          "unit_id": "u006",
+          "paragraph_id": "p003",
+          "start_char": 31,
+          "end_char": 43
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "forest_school_yard_birch_hammocks",
+      "reality": "现实",
+      "action": "依照对应口播呈现这一时刻，角色、动作与道具状态逐镜连续；固定静态水彩构图。",
+      "motion": "fixed",
+      "image": "images/shot_08.png",
+      "reference_manifest": "reference_manifests/shot_08.json",
+      "speech_start_s": 64.23260350000001,
+      "speech_end_s": 67.38643650000002,
+      "actual_start_s": 64.04,
+      "actual_end_s": 67.84,
+      "visible_start_s": 63.56000000000001,
+      "visible_end_s": 68.32000000000001,
+      "visible_duration_s": 4.76
+    },
+    {
+      "id": 9,
+      "title": "一阵很小的风经过白桦树叶，吹了吹皮皮的吊床。",
+      "text": "一阵很小的风经过白桦树叶，吹了吹皮皮的吊床。",
+      "source_ranges": [
+        {
+          "unit_id": "u007",
+          "paragraph_id": "p003",
+          "start_char": 0,
+          "end_char": 22
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "forest_school_yard_birch_hammocks",
+      "reality": "现实",
+      "action": "依照对应口播呈现这一时刻，角色、动作与道具状态逐镜连续；固定静态水彩构图。",
+      "motion": "fixed",
+      "image": "images/shot_09.png",
+      "reference_manifest": "reference_manifests/shot_09.json",
+      "speech_start_s": 68.25797916666667,
+      "speech_end_s": 74.97987433333334,
+      "actual_start_s": 67.84,
+      "actual_end_s": 75.44,
+      "visible_start_s": 67.36,
+      "visible_end_s": 75.92,
+      "visible_duration_s": 8.56
+    },
+    {
+      "id": 10,
+      "title": "吊床轻轻往左晃了一点，又慢慢往右落了回来。",
+      "text": "吊床轻轻往左晃了一点，又慢慢往右落了回来。",
+      "source_ranges": [
+        {
+          "unit_id": "u008",
+          "paragraph_id": "p003",
+          "start_char": 0,
+          "end_char": 21
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "forest_school_yard_birch_hammocks",
+      "reality": "现实",
+      "action": "依照对应口播呈现这一时刻，角色、动作与道具状态逐镜连续；固定静态水彩构图。",
+      "motion": "fixed",
+      "image": "images/shot_10.png",
+      "reference_manifest": "reference_manifests/shot_10.json",
+      "speech_start_s": 75.90379166666668,
+      "speech_end_s": 81.80204166666668,
+      "actual_start_s": 75.44,
+      "actual_end_s": 82.24,
+      "visible_start_s": 74.96,
+      "visible_end_s": 82.72,
+      "visible_duration_s": 7.76
+    },
+    {
+      "id": 11,
+      "title": "皮皮轻声对小熊说：“绒绒，你把脚丫收进来，交",
+      "text": "皮皮轻声对小熊说：“绒绒，你把脚丫收进来，交给风来推，就会很舒服啦。",
+      "source_ranges": [
+        {
+          "unit_id": "u009",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 34
+        }
+      ],
+      "characters": [
+        "pipi",
+        "rongrong"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "rongrong": "default_v001"
+      },
+      "setting": "forest_school_yard_birch_hammocks",
+      "reality": "现实",
+      "action": "依照对应口播呈现这一时刻，角色、动作与道具状态逐镜连续；固定静态水彩构图。",
+      "motion": "fixed",
+      "image": "images/shot_11.png",
+      "reference_manifest": "reference_manifests/shot_11.json",
+      "speech_start_s": 82.71370833333334,
+      "speech_end_s": 92.57618683333334,
+      "actual_start_s": 82.24,
+      "actual_end_s": 93.04,
+      "visible_start_s": 81.75999999999999,
+      "visible_end_s": 93.52000000000001,
+      "visible_duration_s": 11.76
+    },
+    {
+      "id": 12,
+      "title": "”\n小熊绒绒照着皮皮的话，把大大的脚掌放进吊",
+      "text": "”\n小熊绒绒照着皮皮的话，把大大的脚掌放进吊床里。",
+      "source_ranges": [
+        {
+          "unit_id": "u010",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 25
+        }
+      ],
+      "characters": [
+        "pipi",
+        "rongrong"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "rongrong": "default_v001"
+      },
+      "setting": "forest_school_yard_birch_hammocks",
+      "reality": "现实",
+      "action": "依照对应口播呈现这一时刻，角色、动作与道具状态逐镜连续；固定静态水彩构图。",
+      "motion": "fixed",
+      "image": "images/shot_12.png",
+      "reference_manifest": "reference_manifests/shot_12.json",
+      "speech_start_s": 93.47893750000001,
+      "speech_end_s": 100.34564516666669,
+      "actual_start_s": 93.04,
+      "actual_end_s": 100.76,
+      "visible_start_s": 92.56,
+      "visible_end_s": 101.24000000000001,
+      "visible_duration_s": 8.68
+    },
+    {
+      "id": 13,
+      "title": "果然，微风再来的时候，三张小吊床就像三片大叶",
+      "text": "果然，微风再来的时候，三张小吊床就像三片大叶子一样，",
+      "source_ranges": [
+        {
+          "unit_id": "u011",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 26
+        }
+      ],
+      "characters": [
+        "pipi",
+        "rongrong"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "rongrong": "default_v001"
+      },
+      "setting": "forest_school_yard_birch_hammocks",
+      "reality": "现实",
+      "action": "依照对应口播呈现这一时刻，角色、动作与道具状态逐镜连续；固定静态水彩构图。",
+      "motion": "fixed",
+      "image": "images/shot_13.png",
+      "reference_manifest": "reference_manifests/shot_13.json",
+      "speech_start_s": 101.20450000000001,
+      "speech_end_s": 109.46204100000001,
+      "actual_start_s": 100.76,
+      "actual_end_s": 109.76,
+      "visible_start_s": 100.28,
+      "visible_end_s": 110.24000000000001,
+      "visible_duration_s": 9.96
+    },
+    {
+      "id": 14,
+      "title": "按照同一种慢吞吞的节奏，一左，一右，轻轻摇晃",
+      "text": "按照同一种慢吞吞的节奏，一左，一右，轻轻摇晃。",
+      "source_ranges": [
+        {
+          "unit_id": "u011",
+          "paragraph_id": "p004",
+          "start_char": 26,
+          "end_char": 49
+        }
+      ],
+      "characters": [
+        "pipi",
+        "rongrong"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "rongrong": "default_v001"
+      },
+      "setting": "forest_school_yard_birch_hammocks",
+      "reality": "现实",
+      "action": "依照对应口播呈现这一时刻，角色、动作与道具状态逐镜连续；固定静态水彩构图。",
+      "motion": "fixed",
+      "image": "images/shot_14.png",
+      "reference_manifest": "reference_manifests/shot_14.json",
+      "speech_start_s": 110.01970800000001,
+      "speech_end_s": 117.00816600000002,
+      "actual_start_s": 109.76,
+      "actual_end_s": 117.44,
+      "visible_start_s": 109.28,
+      "visible_end_s": 117.92,
+      "visible_duration_s": 8.64
+    },
+    {
+      "id": 15,
+      "title": "没有谁在比赛谁晃得高，也没有谁在数数，大家听",
+      "text": "没有谁在比赛谁晃得高，也没有谁在数数，大家听着头顶树叶“沙沙”的响声，舒服得直打哈欠。",
+      "source_ranges": [
+        {
+          "unit_id": "u012",
+          "paragraph_id": "p005",
+          "start_char": 0,
+          "end_char": 43
+        }
+      ],
+      "characters": [
+        "pipi",
+        "lili",
+        "rongrong"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "lili": "default_v001",
+        "rongrong": "default_v001"
+      },
+      "setting": "forest_school_yard_birch_hammocks",
+      "reality": "现实",
+      "action": "依照对应口播呈现这一时刻，角色、动作与道具状态逐镜连续；固定静态水彩构图。",
+      "motion": "fixed",
+      "image": "images/shot_15.png",
+      "reference_manifest": "reference_manifests/shot_15.json",
+      "speech_start_s": 117.89193750000001,
+      "speech_end_s": 130.52137366666668,
+      "actual_start_s": 117.44,
+      "actual_end_s": 130.92,
+      "visible_start_s": 116.96,
+      "visible_end_s": 131.39999999999998,
+      "visible_duration_s": 14.44
+    },
+    {
+      "id": 16,
+      "title": "傍晚回到家，皮皮喝了一碗热乎乎的南瓜汤，洗漱",
+      "text": "傍晚回到家，皮皮喝了一碗热乎乎的南瓜汤，洗漱干净，",
+      "source_ranges": [
+        {
+          "unit_id": "u013",
+          "paragraph_id": "p006",
+          "start_char": 0,
+          "end_char": 25
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "pipi_home_window_night",
+      "reality": "现实",
+      "action": "依照对应口播呈现这一时刻，角色、动作与道具状态逐镜连续；固定静态水彩构图。",
+      "motion": "fixed",
+      "image": "images/shot_16.png",
+      "reference_manifest": "reference_manifests/shot_16.json",
+      "speech_start_s": 131.35681250000002,
+      "speech_end_s": 138.61945833333334,
+      "actual_start_s": 130.92,
+      "actual_end_s": 138.84,
+      "visible_start_s": 130.44,
+      "visible_end_s": 139.32,
+      "visible_duration_s": 8.88
+    },
+    {
+      "id": 17,
+      "title": "早早地躺进了自己的小木床里。",
+      "text": "早早地躺进了自己的小木床里。",
+      "source_ranges": [
+        {
+          "unit_id": "u013",
+          "paragraph_id": "p006",
+          "start_char": 25,
+          "end_char": 39
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "pipi_home_window_night",
+      "reality": "现实",
+      "action": "依照对应口播呈现这一时刻，角色、动作与道具状态逐镜连续；固定静态水彩构图。",
+      "motion": "fixed",
+      "image": "images/shot_17.png",
+      "reference_manifest": "reference_manifests/shot_17.json",
+      "speech_start_s": 139.08099933333335,
+      "speech_end_s": 142.56174933333335,
+      "actual_start_s": 138.84,
+      "actual_end_s": 143.0,
+      "visible_start_s": 138.36,
+      "visible_end_s": 143.48,
+      "visible_duration_s": 5.12
+    },
+    {
+      "id": 18,
+      "title": "他侧过头，看见窗边的叶子花窗帘，正被外面的夜",
+      "text": "他侧过头，看见窗边的叶子花窗帘，正被外面的夜风吹得鼓起一点，又轻轻地落下来。",
+      "source_ranges": [
+        {
+          "unit_id": "u014",
+          "paragraph_id": "p006",
+          "start_char": 0,
+          "end_char": 38
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "pipi_home_window_night",
+      "reality": "现实",
+      "action": "依照对应口播呈现这一时刻，角色、动作与道具状态逐镜连续；固定静态水彩构图。",
+      "motion": "fixed",
+      "image": "images/shot_18.png",
+      "reference_manifest": "reference_manifests/shot_18.json",
+      "speech_start_s": 143.43745833333335,
+      "speech_end_s": 154.60341566666668,
+      "actual_start_s": 143.0,
+      "actual_end_s": 155.04,
+      "visible_start_s": 142.52,
+      "visible_end_s": 155.51999999999998,
+      "visible_duration_s": 13.0
+    },
+    {
+      "id": 19,
+      "title": "那道弯弯的窗帘布纹，多像白天在白桦树下坐过的",
+      "text": "那道弯弯的窗帘布纹，多像白天在白桦树下坐过的小吊床呀。",
+      "source_ranges": [
+        {
+          "unit_id": "u015",
+          "paragraph_id": "p007",
+          "start_char": 0,
+          "end_char": 27
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "pipi_home_window_night",
+      "reality": "现实",
+      "action": "依照对应口播呈现这一时刻，角色、动作与道具状态逐镜连续；固定静态水彩构图。",
+      "motion": "fixed",
+      "image": "images/shot_19.png",
+      "reference_manifest": "reference_manifests/shot_19.json",
+      "speech_start_s": 155.49852083333334,
+      "speech_end_s": 163.45472850000002,
+      "actual_start_s": 155.04,
+      "actual_end_s": 163.92,
+      "visible_start_s": 154.56,
+      "visible_end_s": 164.39999999999998,
+      "visible_duration_s": 9.84
+    },
+    {
+      "id": 20,
+      "title": "一阵很小的夜风从窗缝经过，帘角没有跑远，只在",
+      "text": "一阵很小的夜风从窗缝经过，帘角没有跑远，只在原地慢慢地晃。",
+      "source_ranges": [
+        {
+          "unit_id": "u016",
+          "paragraph_id": "p007",
+          "start_char": 0,
+          "end_char": 29
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "pipi_home_window_night",
+      "reality": "现实",
+      "action": "依照对应口播呈现这一时刻，角色、动作与道具状态逐镜连续；固定静态水彩构图。",
+      "motion": "fixed",
+      "image": "images/shot_20.png",
+      "reference_manifest": "reference_manifests/shot_20.json",
+      "speech_start_s": 164.35629166666666,
+      "speech_end_s": 173.19256183333334,
+      "actual_start_s": 163.92,
+      "actual_end_s": 173.6,
+      "visible_start_s": 163.44,
+      "visible_end_s": 174.07999999999998,
+      "visible_duration_s": 10.64
+    },
+    {
+      "id": 21,
+      "title": "皮皮看着它，还想起白天草叶托着小露珠轻轻摇晃",
+      "text": "皮皮看着它，还想起白天草叶托着小露珠轻轻摇晃的样子。",
+      "source_ranges": [
+        {
+          "unit_id": "u017",
+          "paragraph_id": "p007",
+          "start_char": 0,
+          "end_char": 26
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "pipi_home_window_night",
+      "reality": "现实",
+      "action": "依照对应口播呈现这一时刻，角色、动作与道具状态逐镜连续；固定静态水彩构图。",
+      "motion": "fixed",
+      "image": "images/shot_21.png",
+      "reference_manifest": "reference_manifests/shot_21.json",
+      "speech_start_s": 174.04725,
+      "speech_end_s": 181.86981116666666,
+      "actual_start_s": 173.6,
+      "actual_end_s": 182.32,
+      "visible_start_s": 173.12,
+      "visible_end_s": 182.79999999999998,
+      "visible_duration_s": 9.68
+    },
+    {
+      "id": 22,
+      "title": "皮皮把自己的暖黄色毛毯拉好。",
+      "text": "皮皮把自己的暖黄色毛毯拉好。",
+      "source_ranges": [
+        {
+          "unit_id": "u018",
+          "paragraph_id": "p008",
+          "start_char": 0,
+          "end_char": 14
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "pipi_home_window_night",
+      "reality": "现实",
+      "action": "依照对应口播呈现这一时刻，角色、动作与道具状态逐镜连续；固定静态水彩构图。",
+      "motion": "fixed",
+      "image": "images/shot_22.png",
+      "reference_manifest": "reference_manifests/shot_22.json",
+      "speech_start_s": 182.76287499999998,
+      "speech_end_s": 186.6737903333333,
+      "actual_start_s": 182.32,
+      "actual_end_s": 187.08,
+      "visible_start_s": 181.84,
+      "visible_end_s": 187.56,
+      "visible_duration_s": 5.72
+    },
+    {
+      "id": 23,
+      "title": "窗帘照看着窗边，毛毯照看着他暖暖的小脚丫。",
+      "text": "窗帘照看着窗边，毛毯照看着他暖暖的小脚丫。",
+      "source_ranges": [
+        {
+          "unit_id": "u019",
+          "paragraph_id": "p008",
+          "start_char": 0,
+          "end_char": 21
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "pipi_home_window_night",
+      "reality": "现实",
+      "action": "依照对应口播呈现这一时刻，角色、动作与道具状态逐镜连续；固定静态水彩构图。",
+      "motion": "fixed",
+      "image": "images/shot_23.png",
+      "reference_manifest": "reference_manifests/shot_23.json",
+      "speech_start_s": 187.522,
+      "speech_end_s": 193.895624,
+      "actual_start_s": 187.08,
+      "actual_end_s": 194.36,
+      "visible_start_s": 186.60000000000002,
+      "visible_end_s": 194.84,
+      "visible_duration_s": 8.24
+    },
+    {
+      "id": 24,
+      "title": "风停了一小会儿，窗帘便乖乖地靠住窗框，像坐回",
+      "text": "风停了一小会儿，窗帘便乖乖地靠住窗框，像坐回了熟悉的椅子；",
+      "source_ranges": [
+        {
+          "unit_id": "u020",
+          "paragraph_id": "p008",
+          "start_char": 0,
+          "end_char": 29
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "pipi_home_window_night",
+      "reality": "现实",
+      "action": "依照对应口播呈现这一时刻，角色、动作与道具状态逐镜连续；固定静态水彩构图。",
+      "motion": "fixed",
+      "image": "images/shot_24.png",
+      "reference_manifest": "reference_manifests/shot_24.json",
+      "speech_start_s": 194.81816666666666,
+      "speech_end_s": 203.052291,
+      "actual_start_s": 194.36,
+      "actual_end_s": 203.36,
+      "visible_start_s": 193.88000000000002,
+      "visible_end_s": 203.84,
+      "visible_duration_s": 9.96
+    },
+    {
+      "id": 25,
+      "title": "风又轻轻来过，帘角就缓缓抬起，",
+      "text": "风又轻轻来过，帘角就缓缓抬起，",
+      "source_ranges": [
+        {
+          "unit_id": "u020",
+          "paragraph_id": "p008",
+          "start_char": 29,
+          "end_char": 44
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "pipi_home_window_night",
+      "reality": "现实",
+      "action": "依照对应口播呈现这一时刻，角色、动作与道具状态逐镜连续；固定静态水彩构图。",
+      "motion": "fixed",
+      "image": "images/shot_25.png",
+      "reference_manifest": "reference_manifests/shot_25.json",
+      "speech_start_s": 203.62920799999998,
+      "speech_end_s": 208.309958,
+      "actual_start_s": 203.36,
+      "actual_end_s": 208.52,
+      "visible_start_s": 202.88000000000002,
+      "visible_end_s": 209.0,
+      "visible_duration_s": 6.12
+    },
+    {
+      "id": 26,
+      "title": "像一只温柔的小摇篮。",
+      "text": "像一只温柔的小摇篮。",
+      "source_ranges": [
+        {
+          "unit_id": "u020",
+          "paragraph_id": "p008",
+          "start_char": 44,
+          "end_char": 54
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "pipi_home_window_night",
+      "reality": "现实",
+      "action": "依照对应口播呈现这一时刻，角色、动作与道具状态逐镜连续；固定静态水彩构图。",
+      "motion": "fixed",
+      "image": "images/shot_26.png",
+      "reference_manifest": "reference_manifests/shot_26.json",
+      "speech_start_s": 208.713833,
+      "speech_end_s": 211.15612399999998,
+      "actual_start_s": 208.52,
+      "actual_end_s": 211.72,
+      "visible_start_s": 208.04000000000002,
+      "visible_end_s": 212.2,
+      "visible_duration_s": 4.16
+    },
+    {
+      "id": 27,
+      "title": "没有声音催它快一点，屋里安静极了。",
+      "text": "没有声音催它快一点，屋里安静极了。",
+      "source_ranges": [
+        {
+          "unit_id": "u021",
+          "paragraph_id": "p009",
+          "start_char": 0,
+          "end_char": 17
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "pipi_home_window_night",
+      "reality": "现实",
+      "action": "依照对应口播呈现这一时刻，角色、动作与道具状态逐镜连续；固定静态水彩构图。",
+      "motion": "fixed",
+      "image": "images/shot_27.png",
+      "reference_manifest": "reference_manifests/shot_27.json",
+      "speech_start_s": 212.28447916666664,
+      "speech_end_s": 216.93114483333332,
+      "actual_start_s": 211.72,
+      "actual_end_s": 217.4,
+      "visible_start_s": 211.24,
+      "visible_end_s": 217.88,
+      "visible_duration_s": 6.64
+    },
+    {
+      "id": 28,
+      "title": "皮皮的眼皮越来越沉，呼吸也跟着窗帘摇晃的节奏",
+      "text": "皮皮的眼皮越来越沉，呼吸也跟着窗帘摇晃的节奏，变得悠长而平稳。",
+      "source_ranges": [
+        {
+          "unit_id": "u022",
+          "paragraph_id": "p009",
+          "start_char": 0,
+          "end_char": 31
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "pipi_home_window_night",
+      "reality": "现实",
+      "action": "依照对应口播呈现这一时刻，角色、动作与道具状态逐镜连续；固定静态水彩构图。",
+      "motion": "fixed",
+      "image": "images/shot_28.png",
+      "reference_manifest": "reference_manifests/shot_28.json",
+      "speech_start_s": 217.83487499999998,
+      "speech_end_s": 227.17652016666665,
+      "actual_start_s": 217.4,
+      "actual_end_s": 227.64,
+      "visible_start_s": 216.92000000000002,
+      "visible_end_s": 228.11999999999998,
+      "visible_duration_s": 11.2
+    },
+    {
+      "id": 29,
+      "title": "他闭上眼睛，只留下长耳朵，听一听屋里安静的风",
+      "text": "他闭上眼睛，只留下长耳朵，听一听屋里安静的风声。",
+      "source_ranges": [
+        {
+          "unit_id": "u023",
+          "paragraph_id": "p010",
+          "start_char": 0,
+          "end_char": 24
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "pipi_home_window_night",
+      "reality": "现实",
+      "action": "依照对应口播呈现这一时刻，角色、动作与道具状态逐镜连续；固定静态水彩构图。",
+      "motion": "fixed",
+      "image": "images/shot_29.png",
+      "reference_manifest": "reference_manifests/shot_29.json",
+      "speech_start_s": 228.0680833333333,
+      "speech_end_s": 234.82845733333332,
+      "actual_start_s": 227.64,
+      "actual_end_s": 235.32,
+      "visible_start_s": 227.16,
+      "visible_end_s": 235.79999999999998,
+      "visible_duration_s": 8.64
+    },
+    {
+      "id": 30,
+      "title": "小朋友，也让你的身体像躺在小摇篮里一样，舒服",
+      "text": "小朋友，也让你的身体像躺在小摇篮里一样，舒服地歇着吧。",
+      "source_ranges": [
+        {
+          "unit_id": "u024",
+          "paragraph_id": "p010",
+          "start_char": 0,
+          "end_char": 27
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "pipi_home_window_night",
+      "reality": "现实",
+      "action": "依照对应口播呈现这一时刻，角色、动作与道具状态逐镜连续；固定静态水彩构图。",
+      "motion": "fixed",
+      "image": "images/shot_30.png",
+      "reference_manifest": "reference_manifests/shot_30.json",
+      "speech_start_s": 235.77491666666663,
+      "speech_end_s": 243.58564549999997,
+      "actual_start_s": 235.32,
+      "actual_end_s": 244.04,
+      "visible_start_s": 234.84,
+      "visible_end_s": 244.51999999999998,
+      "visible_duration_s": 9.68
+    },
+    {
+      "id": 31,
+      "title": "轻轻的，慢慢的，今晚不用赶路，晚安。",
+      "text": "轻轻的，慢慢的，今晚不用赶路，晚安。",
+      "source_ranges": [
+        {
+          "unit_id": "u025",
+          "paragraph_id": "p010",
+          "start_char": 0,
+          "end_char": 18
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "pipi_home_window_night",
+      "reality": "现实",
+      "action": "依照对应口播呈现这一时刻，角色、动作与道具状态逐镜连续；固定静态水彩构图。",
+      "motion": "fixed",
+      "image": "images/shot_31.png",
+      "reference_manifest": "reference_manifests/shot_31.json",
+      "speech_start_s": 244.46812499999996,
+      "speech_end_s": 249.9832701666666,
+      "actual_start_s": 244.04,
+      "actual_end_s": 258.2,
+      "visible_start_s": 243.56,
+      "visible_end_s": 258.2,
+      "visible_duration_s": 14.64
+    }
+  ],
+  "total_duration_s": 258.2,
+  "actual_audio_measured": true,
+  "max_visible_duration_s": 14.64
+}

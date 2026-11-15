@@ -1,0 +1,7 @@
+{
+  "date": "2026-11-12", "episode": "ep005", "service": "Microsoft Edge TTS",
+  "user_authorization": "你先验证配音吧，没问题的话就开始制作",
+  "purpose": "合成第005集完整口播并制作视频",
+  "voice": "zh-CN-XiaoxiaoNeural", "rate": "-35%", "pitch": "-2Hz", "volume": "+0%",
+  "sample_rate": 48000, "result": "succeeded", "units": 26, "duration_s": 257.16, "text_coverage": 1.0
+}

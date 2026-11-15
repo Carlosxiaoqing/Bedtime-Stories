@@ -1,0 +1,77 @@
+{
+  "text": "小朋友，今天的忙碌和玩耍也可以慢慢收好了。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "2a68a9b153a18ec7be7db6890b037425a8c52526e8f981d8706630efda8992a3",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 10577080,
+      "text": "小朋友"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16269160,
+      "duration": 4807500,
+      "text": "今天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21077080,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22422910,
+      "duration": 5192500,
+      "text": "忙碌"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 28000000,
+      "duration": 1730830,
+      "text": "和"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 29922910,
+      "duration": 9230830,
+      "text": "玩耍"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 40692500,
+      "duration": 1922910,
+      "text": "也"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 42615410,
+      "duration": 3461660,
+      "text": "可以"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 46461660,
+      "duration": 5000000,
+      "text": "慢慢"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 51653750,
+      "duration": 7307500,
+      "text": "收好"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 58961660,
+      "duration": 3269160,
+      "text": "了"
+    }
+  ]
+}
