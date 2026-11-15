@@ -1,0 +1,15 @@
+{
+  "shot_id": 42,
+  "source": "OpenAI image_gen; continuity-directed redraw",
+  "image_path": "images/shot_42.png",
+  "sha256": "2c28f33b610c52f4882633aaa0cae813e4458f18e6770d1f61b89f6d3e4af4e5",
+  "prompt": "prompts/shot_42.txt",
+  "reference_inputs": [
+    "episodes/ep011/v001/images/shot_42.png",
+    "assets/bedroom_props_anchor.png",
+    "images/shot_38.png",
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+  ],
+  "human_visual_review": "passed; see continuity.json",
+  "image_status": "generated_and_visual_reviewed_v002"
+}

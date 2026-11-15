@@ -1,0 +1,95 @@
+{
+  "text": "皮皮穿着他最喜欢的蓝色小布鞋，走在队伍的中间。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "d19f937c6727b099a1e63eb45b3be65e06c03103c6317493bffadbdb59e25a0c",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5769160,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7230830,
+      "duration": 4615410,
+      "text": "穿着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11846250,
+      "duration": 3077080,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15115410,
+      "duration": 4038330,
+      "text": "最"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19153750,
+      "duration": 5192500,
+      "text": "喜欢"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24346250,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26077080,
+      "duration": 5192500,
+      "text": "蓝色"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31461660,
+      "duration": 3076660,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 34538330,
+      "duration": 7500000,
+      "text": "布鞋"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 46269160,
+      "duration": 3077080,
+      "text": "走"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 49346250,
+      "duration": 2500000,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 52230830,
+      "duration": 4230830,
+      "text": "队伍"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 56461660,
+      "duration": 1730830,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 58384580,
+      "duration": 8077080,
+      "text": "中间"
+    }
+  ]
+}

@@ -1,0 +1,1056 @@
+{
+  "episode": "ep010",
+  "version": "v001",
+  "script_version": "v5",
+  "status": "draft_not_audio_locked",
+  "narration_complete": true,
+  "shot_count": 36,
+  "total_duration_s": null,
+  "cover_title": "晚安书签",
+  "shots": [
+    {
+      "id": 0,
+      "title": "小朋友们，准备好听故事了吗？今天",
+      "text": "小朋友们，准备好听故事了吗？今天的故事叫《晚安小书签》。",
+      "source_ranges": [
+        {
+          "unit_id": "p000",
+          "paragraph_id": "p000",
+          "start_char": 0,
+          "end_char": 28
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "独立片头：温暖夜色中的森林绘本讲述角，柔和蓝金色水彩；与正文图分开，不复用封面。",
+      "action": "小朋友们，准备好听故事了吗？今天的故事叫《晚安小书签》。 画面只呈现对应叙事节点；皮皮的眼神、耳姿和爪子动作贴合当下情节，表情克制自然。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_00.png",
+      "reference_manifest": "references/shot_00.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "opening_introduction",
+      "illustration_requirement": "standalone"
+    },
+    {
+      "id": 1,
+      "title": "皮皮在图书大篷车里挑了一本故事书",
+      "text": "皮皮在图书大篷车里挑了一本故事书，读不完的故事能安心留到明天吗？",
+      "source_ranges": [
+        {
+          "unit_id": "p000",
+          "paragraph_id": "p000",
+          "start_char": 28,
+          "end_char": 60
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "独立片头：温暖夜色中的森林绘本讲述角，柔和蓝金色水彩；与正文图分开，不复用封面。",
+      "action": "皮皮在图书大篷车里挑了一本故事书，读不完的故事能安心留到明天吗？ 画面只呈现对应叙事节点；皮皮的眼神、耳姿和爪子动作贴合当下情节，表情克制自然。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_01.png",
+      "reference_manifest": "references/shot_01.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "opening_introduction",
+      "illustration_requirement": "standalone"
+    },
+    {
+      "id": 2,
+      "title": "每个星期五的下午，猫头鹰阿姨都会",
+      "text": "每个星期五的下午，猫头鹰阿姨都会推着她的“叮当图书大篷车”来到森林学堂门口。",
+      "source_ranges": [
+        {
+          "unit_id": "p001",
+          "paragraph_id": "p001",
+          "start_char": 0,
+          "end_char": 38
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "星期五下午的森林学堂门口，叮当图书大篷车停靠；日光柔和、林间有书香般的花朵。",
+      "action": "每个星期五的下午，猫头鹰阿姨都会推着她的“叮当图书大篷车”来到森林学堂门口。 画面只呈现对应叙事节点；皮皮的眼神、耳姿和爪子动作贴合当下情节，表情克制自然。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_02.png",
+      "reference_manifest": "references/shot_02.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "body",
+      "illustration_requirement": "plot"
+    },
+    {
+      "id": 3,
+      "title": " 车上装满了厚厚的立体书、会发出",
+      "text": "\n车上装满了厚厚的立体书、会发出香味的花朵画册，",
+      "source_ranges": [
+        {
+          "unit_id": "p001",
+          "paragraph_id": "p001",
+          "start_char": 38,
+          "end_char": 62
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "星期五下午的森林学堂门口，叮当图书大篷车停靠；日光柔和、林间有书香般的花朵。",
+      "action": " 车上装满了厚厚的立体书、会发出香味的花朵画册， 画面只呈现对应叙事节点；皮皮的眼神、耳姿和爪子动作贴合当下情节，表情克制自然。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_03.png",
+      "reference_manifest": "references/shot_03.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "body",
+      "illustration_requirement": "plot"
+    },
+    {
+      "id": 4,
+      "title": "还有长长的森林冒险故事。",
+      "text": "还有长长的森林冒险故事。",
+      "source_ranges": [
+        {
+          "unit_id": "p001",
+          "paragraph_id": "p001",
+          "start_char": 62,
+          "end_char": 74
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "星期五下午的森林学堂门口，叮当图书大篷车停靠；日光柔和、林间有书香般的花朵。",
+      "action": "还有长长的森林冒险故事。 画面只呈现对应叙事节点；皮皮的眼神、耳姿和爪子动作贴合当下情节，表情克制自然。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_04.png",
+      "reference_manifest": "references/shot_04.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "body",
+      "illustration_requirement": "plot"
+    },
+    {
+      "id": 5,
+      "title": "今天，皮皮从大篷车上借到了一本他",
+      "text": "今天，皮皮从大篷车上借到了一本他期待了好久的绘本，",
+      "source_ranges": [
+        {
+          "unit_id": "p002",
+          "paragraph_id": "p002",
+          "start_char": 0,
+          "end_char": 25
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "由森林学堂转到皮皮家卧室；夜晚床头小灯、绘本与床头柜，连续镜头保持房间布局一致。",
+      "action": "今天，皮皮从大篷车上借到了一本他期待了好久的绘本， 画面只呈现对应叙事节点；皮皮的眼神、耳姿和爪子动作贴合当下情节，表情克制自然。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_05.png",
+      "reference_manifest": "references/shot_05.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "body",
+      "illustration_requirement": "plot"
+    },
+    {
+      "id": 6,
+      "title": "名字叫《月光下的秘密花园》。 一",
+      "text": "名字叫《月光下的秘密花园》。\n一回到家，吃过晚饭，",
+      "source_ranges": [
+        {
+          "unit_id": "p002",
+          "paragraph_id": "p002",
+          "start_char": 25,
+          "end_char": 50
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "由森林学堂转到皮皮家卧室；夜晚床头小灯、绘本与床头柜，连续镜头保持房间布局一致。",
+      "action": "名字叫《月光下的秘密花园》。 一回到家，吃过晚饭， 画面只呈现对应叙事节点；皮皮的眼神、耳姿和爪子动作贴合当下情节，表情克制自然。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_06.png",
+      "reference_manifest": "references/shot_06.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "body",
+      "illustration_requirement": "plot"
+    },
+    {
+      "id": 7,
+      "title": "皮皮就迫不及待地坐在床头的小灯下",
+      "text": "皮皮就迫不及待地坐在床头的小灯下翻开了它。",
+      "source_ranges": [
+        {
+          "unit_id": "p002",
+          "paragraph_id": "p002",
+          "start_char": 50,
+          "end_char": 71
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "由森林学堂转到皮皮家卧室；夜晚床头小灯、绘本与床头柜，连续镜头保持房间布局一致。",
+      "action": "皮皮就迫不及待地坐在床头的小灯下翻开了它。 画面只呈现对应叙事节点；皮皮的眼神、耳姿和爪子动作贴合当下情节，表情克制自然。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_07.png",
+      "reference_manifest": "references/shot_07.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "body",
+      "illustration_requirement": "plot"
+    },
+    {
+      "id": 8,
+      "title": "绘本里的图画真美呀！第一页是一道",
+      "text": "绘本里的图画真美呀！第一页是一道爬满牵牛花的木栅栏，",
+      "source_ranges": [
+        {
+          "unit_id": "p003",
+          "paragraph_id": "p003",
+          "start_char": 0,
+          "end_char": 26
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "绘本想象中的秘密花园画页：牵牛花木栅栏、彩色鹅卵石小溪和藤蔓小门；构图明确是书页里的画中世界。",
+      "action": "绘本里的图画真美呀！第一页是一道爬满牵牛花的木栅栏， 画面只呈现对应叙事节点；皮皮的眼神、耳姿和爪子动作贴合当下情节，表情克制自然。",
+      "reality": "book_world",
+      "motion": "fixed",
+      "image": "images/shot_08.png",
+      "reference_manifest": "references/shot_08.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "body",
+      "illustration_requirement": "plot"
+    },
+    {
+      "id": 9,
+      "title": "第二页是一条铺着彩色鹅卵石的小溪",
+      "text": "第二页是一条铺着彩色鹅卵石的小溪。皮皮伸出小爪子，",
+      "source_ranges": [
+        {
+          "unit_id": "p003",
+          "paragraph_id": "p003",
+          "start_char": 26,
+          "end_char": 51
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "绘本想象中的秘密花园画页：牵牛花木栅栏、彩色鹅卵石小溪和藤蔓小门；构图明确是书页里的画中世界。",
+      "action": "第二页是一条铺着彩色鹅卵石的小溪。皮皮伸出小爪子， 画面只呈现对应叙事节点；皮皮的眼神、耳姿和爪子动作贴合当下情节，表情克制自然。",
+      "reality": "book_world",
+      "motion": "fixed",
+      "image": "images/shot_09.png",
+      "reference_manifest": "references/shot_09.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "body",
+      "illustration_requirement": "plot"
+    },
+    {
+      "id": 10,
+      "title": "顺着鹅卵石小路一页一页往下翻。 ",
+      "text": "顺着鹅卵石小路一页一页往下翻。\n翻到正好一半的时候，",
+      "source_ranges": [
+        {
+          "unit_id": "p003",
+          "paragraph_id": "p003",
+          "start_char": 51,
+          "end_char": 77
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "绘本想象中的秘密花园画页：牵牛花木栅栏、彩色鹅卵石小溪和藤蔓小门；构图明确是书页里的画中世界。",
+      "action": "顺着鹅卵石小路一页一页往下翻。 翻到正好一半的时候， 画面只呈现对应叙事节点；皮皮的眼神、耳姿和爪子动作贴合当下情节，表情克制自然。",
+      "reality": "book_world",
+      "motion": "fixed",
+      "image": "images/shot_10.png",
+      "reference_manifest": "references/shot_10.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "body",
+      "illustration_requirement": "plot"
+    },
+    {
+      "id": 11,
+      "title": "画上出现了一扇半掩着的藤蔓小门，",
+      "text": "画上出现了一扇半掩着的藤蔓小门，门后面就是那座从来没人去过的秘密花园。",
+      "source_ranges": [
+        {
+          "unit_id": "p003",
+          "paragraph_id": "p003",
+          "start_char": 77,
+          "end_char": 112
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "绘本想象中的秘密花园画页：牵牛花木栅栏、彩色鹅卵石小溪和藤蔓小门；构图明确是书页里的画中世界。",
+      "action": "画上出现了一扇半掩着的藤蔓小门，门后面就是那座从来没人去过的秘密花园。 画面只呈现对应叙事节点；皮皮的眼神、耳姿和爪子动作贴合当下情节，表情克制自然。",
+      "reality": "book_world",
+      "motion": "fixed",
+      "image": "images/shot_11.png",
+      "reference_manifest": "references/shot_11.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "body",
+      "illustration_requirement": "plot"
+    },
+    {
+      "id": 12,
+      "title": "皮皮好想翻开下一页看看里面有什么",
+      "text": "皮皮好想翻开下一页看看里面有什么呀，",
+      "source_ranges": [
+        {
+          "unit_id": "p004",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 18
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "夜晚卧室床边，皮皮读书至困倦；窗外弯月、床头灯和摊开的绘本保持连续。",
+      "action": "皮皮好想翻开下一页看看里面有什么呀， 画面只呈现对应叙事节点；皮皮的眼神、耳姿和爪子动作贴合当下情节，表情克制自然。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_12.png",
+      "reference_manifest": "references/shot_12.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "body",
+      "illustration_requirement": "plot"
+    },
+    {
+      "id": 13,
+      "title": "可是这时，他打了一个长长的哈欠，",
+      "text": "可是这时，他打了一个长长的哈欠，眼皮有点发沉了。",
+      "source_ranges": [
+        {
+          "unit_id": "p004",
+          "paragraph_id": "p004",
+          "start_char": 18,
+          "end_char": 42
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "夜晚卧室床边，皮皮读书至困倦；窗外弯月、床头灯和摊开的绘本保持连续。",
+      "action": "可是这时，他打了一个长长的哈欠，眼皮有点发沉了。 画面只呈现对应叙事节点；皮皮的眼神、耳姿和爪子动作贴合当下情节，表情克制自然。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_13.png",
+      "reference_manifest": "references/shot_13.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "body",
+      "illustration_requirement": "plot"
+    },
+    {
+      "id": 14,
+      "title": "抬头一看，窗外已经升起了弯弯的月",
+      "text": "抬头一看，窗外已经升起了弯弯的月亮，到了该睡觉的时间。",
+      "source_ranges": [
+        {
+          "unit_id": "p004",
+          "paragraph_id": "p004",
+          "start_char": 42,
+          "end_char": 69
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "夜晚卧室床边，皮皮读书至困倦；窗外弯月、床头灯和摊开的绘本保持连续。",
+      "action": "抬头一看，窗外已经升起了弯弯的月亮，到了该睡觉的时间。 画面只呈现对应叙事节点；皮皮的眼神、耳姿和爪子动作贴合当下情节，表情克制自然。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_14.png",
+      "reference_manifest": "references/shot_14.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "body",
+      "illustration_requirement": "plot"
+    },
+    {
+      "id": 15,
+      "title": " 皮皮摸了摸那页厚厚的画纸，心里",
+      "text": "\n皮皮摸了摸那页厚厚的画纸，心里有点舍不得马上合上，",
+      "source_ranges": [
+        {
+          "unit_id": "p004",
+          "paragraph_id": "p004",
+          "start_char": 69,
+          "end_char": 95
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "夜晚卧室床边，皮皮读书至困倦；窗外弯月、床头灯和摊开的绘本保持连续。",
+      "action": " 皮皮摸了摸那页厚厚的画纸，心里有点舍不得马上合上， 画面只呈现对应叙事节点；皮皮的眼神、耳姿和爪子动作贴合当下情节，表情克制自然。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_15.png",
+      "reference_manifest": "references/shot_15.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "body",
+      "illustration_requirement": "plot"
+    },
+    {
+      "id": 16,
+      "title": "他怕今天不看完，明天就找不到这扇",
+      "text": "他怕今天不看完，明天就找不到这扇藤蔓小门了。",
+      "source_ranges": [
+        {
+          "unit_id": "p004",
+          "paragraph_id": "p004",
+          "start_char": 95,
+          "end_char": 117
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "夜晚卧室床边，皮皮读书至困倦；窗外弯月、床头灯和摊开的绘本保持连续。",
+      "action": "他怕今天不看完，明天就找不到这扇藤蔓小门了。 画面只呈现对应叙事节点；皮皮的眼神、耳姿和爪子动作贴合当下情节，表情克制自然。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_16.png",
+      "reference_manifest": "references/shot_16.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "body",
+      "illustration_requirement": "plot"
+    },
+    {
+      "id": 17,
+      "title": "就在这时，皮皮想起了猫头鹰阿姨借",
+      "text": "就在这时，皮皮想起了猫头鹰阿姨借书给他时，",
+      "source_ranges": [
+        {
+          "unit_id": "p005",
+          "paragraph_id": "p005",
+          "start_char": 0,
+          "end_char": 21
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "卧室床边近景，浅绿色棉布书签与绣花小叶子被皮皮发现。",
+      "action": "就在这时，皮皮想起了猫头鹰阿姨借书给他时， 画面只呈现对应叙事节点；皮皮的眼神、耳姿和爪子动作贴合当下情节，表情克制自然。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_17.png",
+      "reference_manifest": "references/shot_17.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "body",
+      "illustration_requirement": "plot"
+    },
+    {
+      "id": 18,
+      "title": "随书送给他的一条柔软的棉布书签。",
+      "text": "随书送给他的一条柔软的棉布书签。\n书签是浅绿色的，",
+      "source_ranges": [
+        {
+          "unit_id": "p005",
+          "paragraph_id": "p005",
+          "start_char": 21,
+          "end_char": 46
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "卧室床边近景，浅绿色棉布书签与绣花小叶子被皮皮发现。",
+      "action": "随书送给他的一条柔软的棉布书签。 书签是浅绿色的， 画面只呈现对应叙事节点；皮皮的眼神、耳姿和爪子动作贴合当下情节，表情克制自然。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_18.png",
+      "reference_manifest": "references/shot_18.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "body",
+      "illustration_requirement": "plot"
+    },
+    {
+      "id": 19,
+      "title": "一端还用绒线绣着一片小小的叶子。",
+      "text": "一端还用绒线绣着一片小小的叶子。",
+      "source_ranges": [
+        {
+          "unit_id": "p005",
+          "paragraph_id": "p005",
+          "start_char": 46,
+          "end_char": 62
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "卧室床边近景，浅绿色棉布书签与绣花小叶子被皮皮发现。",
+      "action": "一端还用绒线绣着一片小小的叶子。 画面只呈现对应叙事节点；皮皮的眼神、耳姿和爪子动作贴合当下情节，表情克制自然。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_19.png",
+      "reference_manifest": "references/shot_19.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "body",
+      "illustration_requirement": "plot"
+    },
+    {
+      "id": 20,
+      "title": "皮皮拿起布书签，轻轻地把它夹在画",
+      "text": "皮皮拿起布书签，轻轻地把它夹在画着藤蔓小门的那一页，",
+      "source_ranges": [
+        {
+          "unit_id": "p006",
+          "paragraph_id": "p006",
+          "start_char": 0,
+          "end_char": 26
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "床头摊开的绘本和藤蔓小门画页；书签叶子停在门边，想象世界与真实书页清楚区分。",
+      "action": "皮皮拿起布书签，轻轻地把它夹在画着藤蔓小门的那一页， 画面只呈现对应叙事节点；皮皮的眼神、耳姿和爪子动作贴合当下情节，表情克制自然。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_20.png",
+      "reference_manifest": "references/shot_20.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "body",
+      "illustration_requirement": "plot"
+    },
+    {
+      "id": 21,
+      "title": "让那片绣花小叶子，刚好停在花园的",
+      "text": "让那片绣花小叶子，刚好停在花园的门口。",
+      "source_ranges": [
+        {
+          "unit_id": "p006",
+          "paragraph_id": "p006",
+          "start_char": 26,
+          "end_char": 45
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "床头摊开的绘本和藤蔓小门画页；书签叶子停在门边，想象世界与真实书页清楚区分。",
+      "action": "让那片绣花小叶子，刚好停在花园的门口。 画面只呈现对应叙事节点；皮皮的眼神、耳姿和爪子动作贴合当下情节，表情克制自然。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_21.png",
+      "reference_manifest": "references/shot_21.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "body",
+      "illustration_requirement": "plot"
+    },
+    {
+      "id": 22,
+      "title": " 这样一来，小叶子就会替他守着这",
+      "text": "\n这样一来，小叶子就会替他守着这扇门。秘密花园不用赶在今晚急匆匆地逛完，",
+      "source_ranges": [
+        {
+          "unit_id": "p006",
+          "paragraph_id": "p006",
+          "start_char": 45,
+          "end_char": 81
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "床头摊开的绘本和藤蔓小门画页；书签叶子停在门边，想象世界与真实书页清楚区分。",
+      "action": " 这样一来，小叶子就会替他守着这扇门。秘密花园不用赶在今晚急匆匆地逛完， 画面只呈现对应叙事节点；皮皮的眼神、耳姿和爪子动作贴合当下情节，表情克制自然。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_22.png",
+      "reference_manifest": "references/shot_22.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "body",
+      "illustration_requirement": "plot"
+    },
+    {
+      "id": 23,
+      "title": "鹅卵石小路也不会在夜里走丢，明天",
+      "text": "鹅卵石小路也不会在夜里走丢，明天一早翻开书，",
+      "source_ranges": [
+        {
+          "unit_id": "p006",
+          "paragraph_id": "p006",
+          "start_char": 81,
+          "end_char": 103
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "床头摊开的绘本和藤蔓小门画页；书签叶子停在门边，想象世界与真实书页清楚区分。",
+      "action": "鹅卵石小路也不会在夜里走丢，明天一早翻开书， 画面只呈现对应叙事节点；皮皮的眼神、耳姿和爪子动作贴合当下情节，表情克制自然。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_23.png",
+      "reference_manifest": "references/shot_23.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "body",
+      "illustration_requirement": "plot"
+    },
+    {
+      "id": 24,
+      "title": "就能稳稳地找到这里。",
+      "text": "就能稳稳地找到这里。",
+      "source_ranges": [
+        {
+          "unit_id": "p006",
+          "paragraph_id": "p006",
+          "start_char": 103,
+          "end_char": 113
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "床头摊开的绘本和藤蔓小门画页；书签叶子停在门边，想象世界与真实书页清楚区分。",
+      "action": "就能稳稳地找到这里。 画面只呈现对应叙事节点；皮皮的眼神、耳姿和爪子动作贴合当下情节，表情克制自然。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_24.png",
+      "reference_manifest": "references/shot_24.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "body",
+      "illustration_requirement": "plot"
+    },
+    {
+      "id": 25,
+      "title": "皮皮放心地合上绘本，把它轻轻平放",
+      "text": "皮皮放心地合上绘本，把它轻轻平放在床头柜上。",
+      "source_ranges": [
+        {
+          "unit_id": "p007",
+          "paragraph_id": "p007",
+          "start_char": 0,
+          "end_char": 22
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "同一卧室床头；绘本合上放在床头柜，绿色书签露出，暖黄色毛毯和渐暗床头灯。",
+      "action": "皮皮放心地合上绘本，把它轻轻平放在床头柜上。 画面只呈现对应叙事节点；皮皮的眼神、耳姿和爪子动作贴合当下情节，表情克制自然。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_25.png",
+      "reference_manifest": "references/shot_25.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "body",
+      "illustration_requirement": "plot"
+    },
+    {
+      "id": 26,
+      "title": "绿色的布书签从书页间露出一小截，",
+      "text": "绿色的布书签从书页间露出一小截，像在安静地对他招手说“明天见”。",
+      "source_ranges": [
+        {
+          "unit_id": "p007",
+          "paragraph_id": "p007",
+          "start_char": 22,
+          "end_char": 54
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "同一卧室床头；绘本合上放在床头柜，绿色书签露出，暖黄色毛毯和渐暗床头灯。",
+      "action": "绿色的布书签从书页间露出一小截，像在安静地对他招手说“明天见”。 画面只呈现对应叙事节点；皮皮的眼神、耳姿和爪子动作贴合当下情节，表情克制自然。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_26.png",
+      "reference_manifest": "references/shot_26.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "body",
+      "illustration_requirement": "plot"
+    },
+    {
+      "id": 27,
+      "title": " 皮皮把床头灯调暗，拉好暖黄色的",
+      "text": "\n皮皮把床头灯调暗，拉好暖黄色的毛毯。书里的秘密花园留在了书里，",
+      "source_ranges": [
+        {
+          "unit_id": "p007",
+          "paragraph_id": "p007",
+          "start_char": 54,
+          "end_char": 86
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "同一卧室床头；绘本合上放在床头柜，绿色书签露出，暖黄色毛毯和渐暗床头灯。",
+      "action": " 皮皮把床头灯调暗，拉好暖黄色的毛毯。书里的秘密花园留在了书里， 画面只呈现对应叙事节点；皮皮的眼神、耳姿和爪子动作贴合当下情节，表情克制自然。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_27.png",
+      "reference_manifest": "references/shot_27.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "body",
+      "illustration_requirement": "plot"
+    },
+    {
+      "id": 28,
+      "title": "而他自己温暖的小床，就在身边。",
+      "text": "而他自己温暖的小床，就在身边。",
+      "source_ranges": [
+        {
+          "unit_id": "p007",
+          "paragraph_id": "p007",
+          "start_char": 86,
+          "end_char": 101
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "同一卧室床头；绘本合上放在床头柜，绿色书签露出，暖黄色毛毯和渐暗床头灯。",
+      "action": "而他自己温暖的小床，就在身边。 画面只呈现对应叙事节点；皮皮的眼神、耳姿和爪子动作贴合当下情节，表情克制自然。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_28.png",
+      "reference_manifest": "references/shot_28.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "body",
+      "illustration_requirement": "plot"
+    },
+    {
+      "id": 29,
+      "title": "窗外的月光溜进来，轻轻碰了碰绘本",
+      "text": "窗外的月光溜进来，轻轻碰了碰绘本的封面，",
+      "source_ranges": [
+        {
+          "unit_id": "p008",
+          "paragraph_id": "p008",
+          "start_char": 0,
+          "end_char": 20
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "安静夜晚卧室；月光落在合上的书上，胡萝卜玩偶靠枕，皮皮入睡。",
+      "action": "窗外的月光溜进来，轻轻碰了碰绘本的封面， 画面只呈现对应叙事节点；皮皮的眼神、耳姿和爪子动作贴合当下情节，表情克制自然。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_29.png",
+      "reference_manifest": "references/shot_29.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "body",
+      "illustration_requirement": "plot"
+    },
+    {
+      "id": 30,
+      "title": "没有再翻开下一页。胡萝卜玩偶也乖",
+      "text": "没有再翻开下一页。胡萝卜玩偶也乖乖地靠住了小枕头。",
+      "source_ranges": [
+        {
+          "unit_id": "p008",
+          "paragraph_id": "p008",
+          "start_char": 20,
+          "end_char": 45
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "安静夜晚卧室；月光落在合上的书上，胡萝卜玩偶靠枕，皮皮入睡。",
+      "action": "没有再翻开下一页。胡萝卜玩偶也乖乖地靠住了小枕头。 画面只呈现对应叙事节点；皮皮的眼神、耳姿和爪子动作贴合当下情节，表情克制自然。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_30.png",
+      "reference_manifest": "references/shot_30.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "body",
+      "illustration_requirement": "plot"
+    },
+    {
+      "id": 31,
+      "title": " 皮皮闭上眼睛，心里还留着那条通",
+      "text": "\n皮皮闭上眼睛，心里还留着那条通往花园的小路，",
+      "source_ranges": [
+        {
+          "unit_id": "p008",
+          "paragraph_id": "p008",
+          "start_char": 45,
+          "end_char": 68
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "安静夜晚卧室；月光落在合上的书上，胡萝卜玩偶靠枕，皮皮入睡。",
+      "action": " 皮皮闭上眼睛，心里还留着那条通往花园的小路， 画面只呈现对应叙事节点；皮皮的眼神、耳姿和爪子动作贴合当下情节，表情克制自然。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_31.png",
+      "reference_manifest": "references/shot_31.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "body",
+      "illustration_requirement": "plot"
+    },
+    {
+      "id": 32,
+      "title": "不过它已经不着急往前走了。",
+      "text": "不过它已经不着急往前走了。",
+      "source_ranges": [
+        {
+          "unit_id": "p008",
+          "paragraph_id": "p008",
+          "start_char": 68,
+          "end_char": 81
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "安静夜晚卧室；月光落在合上的书上，胡萝卜玩偶靠枕，皮皮入睡。",
+      "action": "不过它已经不着急往前走了。 画面只呈现对应叙事节点；皮皮的眼神、耳姿和爪子动作贴合当下情节，表情克制自然。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_32.png",
+      "reference_manifest": "references/shot_32.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "body",
+      "illustration_requirement": "plot"
+    },
+    {
+      "id": 33,
+      "title": "小朋友，今天还没玩够的游戏、还没",
+      "text": "小朋友，今天还没玩够的游戏、还没听完的故事，",
+      "source_ranges": [
+        {
+          "unit_id": "p009",
+          "paragraph_id": "p009",
+          "start_char": 0,
+          "end_char": 22
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "柔和的晚安收束画面，皮皮安稳睡在床边；留出简洁字幕安全区。",
+      "action": "小朋友，今天还没玩够的游戏、还没听完的故事， 画面只呈现对应叙事节点；皮皮的眼神、耳姿和爪子动作贴合当下情节，表情克制自然。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_33.png",
+      "reference_manifest": "references/shot_33.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "body",
+      "illustration_requirement": "plot"
+    },
+    {
+      "id": 34,
+      "title": "都可以交给明天继续。现在，夹好你",
+      "text": "都可以交给明天继续。现在，夹好你心里的晚安小书签，",
+      "source_ranges": [
+        {
+          "unit_id": "p009",
+          "paragraph_id": "p009",
+          "start_char": 22,
+          "end_char": 47
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "柔和的晚安收束画面，皮皮安稳睡在床边；留出简洁字幕安全区。",
+      "action": "都可以交给明天继续。现在，夹好你心里的晚安小书签， 画面只呈现对应叙事节点；皮皮的眼神、耳姿和爪子动作贴合当下情节，表情克制自然。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_34.png",
+      "reference_manifest": "references/shot_34.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "body",
+      "illustration_requirement": "plot"
+    },
+    {
+      "id": 35,
+      "title": "先把自己轻轻安顿好。晚安。",
+      "text": "先把自己轻轻安顿好。晚安。",
+      "source_ranges": [
+        {
+          "unit_id": "p009",
+          "paragraph_id": "p009",
+          "start_char": 47,
+          "end_char": 60
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "柔和的晚安收束画面，皮皮安稳睡在床边；留出简洁字幕安全区。",
+      "action": "先把自己轻轻安顿好。晚安。 画面只呈现对应叙事节点；皮皮的眼神、耳姿和爪子动作贴合当下情节，表情克制自然。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_35.png",
+      "reference_manifest": "references/shot_35.json",
+      "image_status": "not_started",
+      "source_version": "v5",
+      "source_paragraph_kind": "body",
+      "illustration_requirement": "plot"
+    }
+  ]
+}

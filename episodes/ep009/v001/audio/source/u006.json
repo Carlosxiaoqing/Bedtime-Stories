@@ -1,0 +1,143 @@
+{
+  "text": "皮皮的小布鞋今天可真忙呀，带着他爬小坡、跨树根，走了好远好远的路。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "d382bfd9440dd2ea0ef4a5dc4417c872f9a62a4cbcc68dd6c9c198284ae40b3e",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 6922910,
+      "text": "皮皮的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8384580,
+      "duration": 2884580,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11269160,
+      "duration": 7115410,
+      "text": "布鞋"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19922910,
+      "duration": 5000000,
+      "text": "今天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25307500,
+      "duration": 2115410,
+      "text": "可"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27422910,
+      "duration": 2884580,
+      "text": "真"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30500000,
+      "duration": 3846250,
+      "text": "忙"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 34346250,
+      "duration": 3846250,
+      "text": "呀"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 43577080,
+      "duration": 2692080,
+      "text": "带"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 46269160,
+      "duration": 1538330,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 47807500,
+      "duration": 1730830,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 49922910,
+      "duration": 10961660,
+      "text": "爬小坡"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 63577080,
+      "duration": 2884580,
+      "text": "跨"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 66461660,
+      "duration": 7115410,
+      "text": "树根"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 78192500,
+      "duration": 2500000,
+      "text": "走"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 80692500,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 82038330,
+      "duration": 3077080,
+      "text": "好"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 85115410,
+      "duration": 2500000,
+      "text": "远"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 87615410,
+      "duration": 3269160,
+      "text": "好"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 90884580,
+      "duration": 3653750,
+      "text": "远"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 94538330,
+      "duration": 1730830,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 96269160,
+      "duration": 3269160,
+      "text": "路"
+    }
+  ]
+}

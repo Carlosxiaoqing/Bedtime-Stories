@@ -1,0 +1,14 @@
+{
+  "shot_id": 13,
+  "reference_inputs": [
+    "/workspace/Bedtime-Stories/episodes/ep011/v002/images/shot_12.png",
+    "/workspace/Bedtime-Stories/episodes/ep011/v002/images/shot_07.png",
+    "/workspace/Bedtime-Stories/episodes/ep011/v002/assets/chair_cushion_anchor.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+  ],
+  "output": "images/shot_13.png",
+  "source": "continuity-directed v002 image generation",
+  "review": "redraw_reference_chain_approved",
+  "continuity_status": "reviewed"
+}

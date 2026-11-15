@@ -1,0 +1,149 @@
+{
+  "text": "小朋友，你的小床上也有专属于你的舒服小位置。慢慢躺好，不用挤，也不用赶。晚安，做个甜甜的梦。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "be215df29b6a4329b25ea4cc6baf083398013b246e2418b2da0816b3a9b29023",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 11346250,
+      "text": "小朋友"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17422910,
+      "duration": 1153750,
+      "text": "你"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18577080,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20115410,
+      "duration": 6922910,
+      "text": "小床"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27038330,
+      "duration": 5000000,
+      "text": "上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33577080,
+      "duration": 4230410,
+      "text": "也有"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 37807500,
+      "duration": 10769160,
+      "text": "专属于你"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 48577080,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 50307500,
+      "duration": 4230830,
+      "text": "舒服"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 54730830,
+      "duration": 3461660,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 58192500,
+      "duration": 8077080,
+      "text": "位置"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 75192500,
+      "duration": 5192500,
+      "text": "慢慢"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 80577080,
+      "duration": 8653750,
+      "text": "躺好"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 92692500,
+      "duration": 5576660,
+      "text": "不用"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 98269160,
+      "duration": 4615410,
+      "text": "挤"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 105961660,
+      "duration": 1922910,
+      "text": "也"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 108077080,
+      "duration": 5000000,
+      "text": "不用"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 113077080,
+      "duration": 4038330,
+      "text": "赶"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 125769160,
+      "duration": 7307500,
+      "text": "晚安"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 137692500,
+      "duration": 2692080,
+      "text": "做"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 140384580,
+      "duration": 1153750,
+      "text": "个"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 141922910,
+      "duration": 3461660,
+      "text": "甜"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 145384580,
+      "duration": 8269160,
+      "text": "甜的梦"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+Edit to ensure only Pipipi is in the bedroom; preserve canonical bed objects.

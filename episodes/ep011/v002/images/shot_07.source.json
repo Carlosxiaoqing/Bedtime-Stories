@@ -1,0 +1,15 @@
+{
+  "shot_id": 7,
+  "source": "OpenAI image_gen; continuity-directed redraw",
+  "image_path": "images/shot_07.png",
+  "sha256": "0e09110b0b93359afea637ac247f56d8b1f6b75053f33d7973b0015d69c3ac7c",
+  "prompt": "prompts/shot_07.txt",
+  "reference_inputs": [
+    "episodes/ep011/v002/images/shot_31.png",
+    "episodes/ep011/v002/assets/porch_anchor.png",
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+  ],
+  "image_status": "generated_continuity_reviewed",
+  "human_visual_review": "passed; Pipi places berries in canonical oval ceramic dish on canonical round wooden table; no added furniture or tablecloth"
+}

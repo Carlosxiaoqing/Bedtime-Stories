@@ -1,0 +1,16 @@
+{
+  "shot_id": 18,
+  "source": "OpenAI image_gen; continuity-directed scene redraw",
+  "image_path": "images/shot_18.png",
+  "sha256": "92e721d762af90fc4fb14f6b8e4a6db267714dbfb7979fa777de77156688a80e",
+  "prompt": "prompts/shot_18.txt",
+  "reference_inputs": [
+    "episodes/ep011/v002/images/shot_17.png",
+    "episodes/ep011/v002/images/shot_07.png",
+    "episodes/ep011/v002/assets/chair_cushion_anchor.png",
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+  ],
+  "image_status": "generated_continuity_reviewed",
+  "human_visual_review": "passed; dish returned to same table, Pipi crouches, Lili remains seated; porch assets stable"
+}

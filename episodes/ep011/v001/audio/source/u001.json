@@ -1,0 +1,191 @@
+{
+  "text": "小朋友们，准备好听故事了吗？今天的故事叫《小刺猬的软座位》。栗栗来做客，皮皮会怎样为好朋友找到舒服的位置呢？",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "94658b4db7724f161ff9e061f01b35502ad73637cf4c6f74107741b38e08f993",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 8846250,
+      "text": "小朋友"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10115410,
+      "duration": 3846250,
+      "text": "们"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17422910,
+      "duration": 3846250,
+      "text": "准备"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21461660,
+      "duration": 5769160,
+      "text": "好听"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27422910,
+      "duration": 5192500,
+      "text": "故事"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32615410,
+      "duration": 1346250,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33961660,
+      "duration": 4038330,
+      "text": "吗"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 46922910,
+      "duration": 5769160,
+      "text": "今天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 52692500,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 54038330,
+      "duration": 5000000,
+      "text": "故事"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 59230830,
+      "duration": 5000000,
+      "text": "叫"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 65769160,
+      "duration": 3653750,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 69422910,
+      "duration": 5000000,
+      "text": "刺猬"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 74422910,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 75961660,
+      "duration": 3461250,
+      "text": "软"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 79422910,
+      "duration": 7500000,
+      "text": "座位"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 95577080,
+      "duration": 4807500,
+      "text": "栗栗"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 100577080,
+      "duration": 2115410,
+      "text": "来"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 102884580,
+      "duration": 7884580,
+      "text": "做客"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 115192500,
+      "duration": 5192500,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 120577080,
+      "duration": 2307500,
+      "text": "会"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 123077080,
+      "duration": 4807500,
+      "text": "怎样"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 127884580,
+      "duration": 1730830,
+      "text": "为"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 129807500,
+      "duration": 3077080,
+      "text": "好"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 132884580,
+      "duration": 7692500,
+      "text": "朋友"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 142115410,
+      "duration": 4807500,
+      "text": "找到"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 147307500,
+      "duration": 5192500,
+      "text": "舒服"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 152500000,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 154038330,
+      "duration": 5384580,
+      "text": "位置"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 159422910,
+      "duration": 3269160,
+      "text": "呢"
+    }
+  ]
+}

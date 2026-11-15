@@ -1,0 +1,81 @@
+{
+  "episode": "ep011",
+  "version": "v002",
+  "stage": "partial_image_continuity_review",
+  "status": "partial_pass; not render-ready",
+  "reviewed_images": {
+    "shot02": "passed: empty porch and no story seat objects",
+    "shots12_to_16": "passed: same wooden chair and rounded-square ivory cushion; only pressure/posture changes",
+    "shots38_to_43": "passed: Pipipi only; Lili absent; checkered pillow, warm yellow blanket and one carrot plush remain consistent"
+  },
+  "not_reviewed_or_rejected": {
+    "shots09_to_11": "regenerate: seat furniture mismatch; first-pass shot10/11 rejected",
+    "shots21_to_37": "regenerate listed objects and complete prop/contact review",
+    "other_reused_shots": "pending full contact-sheet audit"
+  },
+  "contact_sheets": [
+    "checks/continuity-bedroom-partial.jpg",
+    "checks/continuity-cushion-partial.jpg",
+    "checks/continuity-porch-partial.jpg"
+  ],
+  "render_blocked_until": "all pending image regeneration and full 44-shot contact sheet review pass",
+  "additional_regeneration_required_from_reuse_audit": [
+    17,
+    18,
+    19,
+    20,
+    30,
+    31
+  ],
+  "images_pending": [
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37
+  ],
+  "note": "Visual audit rejected v001 reuse candidates 17-20 due chair/cushion drift and 30-31 due tablecloth/berry container changes. All six are pending regeneration.",
+  "images_ready": [
+    2,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43
+  ],
+  "newly_passed_shots": [
+    9,
+    10,
+    11,
+    17,
+    18,
+    19,
+    20
+  ],
+  "last_review": "2026-11-13T04:33:00Z"
+}

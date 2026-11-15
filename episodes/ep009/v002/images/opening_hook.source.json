@@ -1,0 +1,12 @@
+{
+  "episode": "ep009",
+  "version": "v002",
+  "shot_id": 1,
+  "source_version": "v5",
+  "purpose": "new standalone opening illustration",
+  "generated_asset": true,
+  "source_image": "images/opening_hook.png",
+  "referenced_character_style_image": "../../../ep006/v002/images/shot_00.png",
+  "no_text": true,
+  "prompt": "Create a vertical 9:16 watercolor storybook illustration for the second standalone opening shot of a gentle Chinese bedtime story. Use the attached image only as a strict reference for Pipi's identity and the established soft watercolor finish: same small cream lop-eared rabbit with rounded plush-like proportions, navy nightcap with tiny golden stars. In a quiet bedroom at night, Pipi sits beside a small bedside rug and gently arranges a pair of soft little house slippers neatly side by side, then looks up with a calm inviting expression, suggesting that the day's walk can rest until tomorrow. Introductory symbolic composition; do not recreate a specific existing storyboard frame. Keep Pipi and slippers in upper two-thirds, lower third uncluttered and softly textured for subtitles. Warm lamp glow and quiet moonlit window. No text, letters, watermark, or other characters."
+}

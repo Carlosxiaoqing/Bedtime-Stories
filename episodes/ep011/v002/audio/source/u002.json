@@ -1,0 +1,323 @@
+{
+  "text": "今天皮皮做了一件很有成就感的事——他邀请好朋友小刺猬栗栗，放学后到自己的小木屋来做客。\n为了迎接栗栗，皮皮下午一回家，就把门廊打扫得干干净净，还在小木桌上摆好了洗干净的红浆果。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "cf8e014236c1f66bb3684703cba3356ff0f3b4c806951de2ef6a89b01876dad2",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5769160,
+      "text": "今天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7230830,
+      "duration": 6730830,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14346250,
+      "duration": 2692080,
+      "text": "做"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17038330,
+      "duration": 961660,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18192500,
+      "duration": 2115000,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20307500,
+      "duration": 2692500,
+      "text": "件"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23384580,
+      "duration": 2500000,
+      "text": "很"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25884580,
+      "duration": 2307500,
+      "text": "有"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 28384580,
+      "duration": 8269160,
+      "text": "成就感"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36653750,
+      "duration": 1730830,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 38384580,
+      "duration": 4807500,
+      "text": "事"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 48192500,
+      "duration": 2307500,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 50500000,
+      "duration": 6922910,
+      "text": "邀请"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 57807500,
+      "duration": 2884580,
+      "text": "好"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 60692500,
+      "duration": 4807500,
+      "text": "朋友"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 65884580,
+      "duration": 3077080,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 68961660,
+      "duration": 5192500,
+      "text": "刺猬"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 74346250,
+      "duration": 6922910,
+      "text": "栗栗"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 85000000,
+      "duration": 6153750,
+      "text": "放学"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 91153750,
+      "duration": 5000000,
+      "text": "后"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 96538330,
+      "duration": 2307500,
+      "text": "到"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 99038330,
+      "duration": 3846250,
+      "text": "自己"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 102884580,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 104422910,
+      "duration": 3269160,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 107692500,
+      "duration": 7115410,
+      "text": "木屋"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 116346250,
+      "duration": 2307500,
+      "text": "来"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 118846250,
+      "duration": 7692500,
+      "text": "做客"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 135384580,
+      "duration": 4038330,
+      "text": "为了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 139615410,
+      "duration": 5769160,
+      "text": "迎接"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 145577080,
+      "duration": 7115410,
+      "text": "栗栗"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 155961660,
+      "duration": 5000000,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 161153750,
+      "duration": 5384580,
+      "text": "下午"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 166730830,
+      "duration": 2115410,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 168846250,
+      "duration": 7500000,
+      "text": "回家"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 180577080,
+      "duration": 2307500,
+      "text": "就"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 182884580,
+      "duration": 2115410,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 185192500,
+      "duration": 5769160,
+      "text": "门廊"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 191346250,
+      "duration": 5384580,
+      "text": "打扫"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 196730830,
+      "duration": 1346250,
+      "text": "得"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 198461660,
+      "duration": 12500000,
+      "text": "干干净净"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 214422910,
+      "duration": 3269160,
+      "text": "还"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 217692500,
+      "duration": 2307500,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 220192500,
+      "duration": 3076660,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 223269160,
+      "duration": 5000000,
+      "text": "木桌"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 228461660,
+      "duration": 5192500,
+      "text": "上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 235192500,
+      "duration": 2307500,
+      "text": "摆"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 237500000,
+      "duration": 3077080,
+      "text": "好"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 240577080,
+      "duration": 1346250,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 242307500,
+      "duration": 3077080,
+      "text": "洗"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 245384580,
+      "duration": 5769160,
+      "text": "干净"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 251153750,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 252692500,
+      "duration": 11538330,
+      "text": "红浆果"
+    }
+  ]
+}

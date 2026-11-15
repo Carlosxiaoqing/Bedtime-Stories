@@ -1,0 +1,19 @@
+{
+  "source": "built-in image_gen",
+  "prompt_file": "prompts/shot_07.json",
+  "source_ranges": [
+    {
+      "unit_id": "u005",
+      "paragraph_id": "p002",
+      "start_char": 0,
+      "end_char": 27
+    }
+  ],
+  "reference_manifest": "reference_manifests/shot_07.json",
+  "sha256": "489ed3445f1842fa00f3b599a56a5ef0586fde9cc95e8a7ef77dbb46b00fea4d",
+  "size_px": [
+    941,
+    1672
+  ],
+  "review_status": "generated_pending_visual_review"
+}

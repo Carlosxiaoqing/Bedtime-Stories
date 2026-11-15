@@ -1,0 +1,16 @@
+{
+  "shot_id": 25,
+  "source": "OpenAI image_gen; continuity-directed scene redraw",
+  "image_path": "images/shot_25.png",
+  "sha256": "caed282bc2558d350e4f6f2aa3406853851ba3aea225e3d3a152a46940031ee9",
+  "prompt": "prompts/shot_25.txt",
+  "reference_inputs": [
+    "episodes/ep011/v002/images/shot_24.png",
+    "episodes/ep011/v002/images/shot_23.png",
+    "episodes/ep011/v002/assets/stool_cloth_anchor.png",
+    "episodes/ep011/v002/images/shot_07.png",
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+  ],
+  "image_status": "generated_continuity_reviewed",
+  "human_visual_review": "passed; cloth flat on original low stool, basket returned under table, chair bare and berry dish unchanged"
+}

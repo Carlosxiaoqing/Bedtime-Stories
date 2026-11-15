@@ -1,0 +1,14 @@
+{
+  "shot_id": 28,
+  "source": "OpenAI image_gen; targeted backpack continuity edit",
+  "image_path": "images/shot_28.png",
+  "sha256": "c03fc7a164b87ea6f235e20b297426bf45938c486aef96ac7587bb9d89d78ab3",
+  "prompt": "prompts/shot_28.txt",
+  "reference_inputs": [
+    "episodes/ep011/v002/images/shot_28.png (pre-edit frame)",
+    "episodes/ep011/v002/assets/porch_anchor.png",
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+  ],
+  "image_status": "generated_continuity_reviewed",
+  "human_visual_review": "passed; Lili feet grounded on same stool/cloth, backpack inside"
+}

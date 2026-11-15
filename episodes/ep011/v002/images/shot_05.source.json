@@ -1,0 +1,14 @@
+{
+  "shot_id": 5,
+  "source": "OpenAI image_gen; targeted cottage continuity edit",
+  "image_path": "images/shot_05.png",
+  "sha256": "10485a55e0007702673d53de5b99b0c637b8a26997308a120d7a5f3e3f09292a",
+  "prompt": "prompts/shot_05.txt",
+  "reference_inputs": [
+    "episodes/ep011/v002/images/shot_05.png (pre-edit frame)",
+    "episodes/ep011/v002/images/shot_04.png",
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+  ],
+  "image_status": "generated_continuity_reviewed"
+}

@@ -1,0 +1,14 @@
+{
+  "shot_id": 2,
+  "source": "OpenAI image_gen; continuity-directed redraw",
+  "image_path": "images/shot_02.png",
+  "sha256": "d6db16986b66f9a8466bbb98ccf0094a0887a62e9c5ec7c124acaaa380f63e4f",
+  "prompt": "prompts/shot_02.txt",
+  "reference_inputs": [
+    "episodes/ep011/v002/images/shot_01.png",
+    "episodes/ep011/v002/images/shot_07.png",
+    "episodes/ep011/v002/assets/porch_anchor.png"
+  ],
+  "image_status": "generated_continuity_reviewed",
+  "human_visual_review": "passed; empty fixed porch retains canonical berry table and dish, no premature seats"
+}

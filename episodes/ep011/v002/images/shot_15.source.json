@@ -1,0 +1,16 @@
+{
+  "shot_id": 15,
+  "source": "OpenAI image_gen; continuity-directed scene redraw",
+  "image_path": "images/shot_15.png",
+  "sha256": "a2c6ce40259f67903be607744550e60eedb32acc7d6b5f823604e597ec3f7542",
+  "prompt": "prompts/shot_15.txt",
+  "reference_inputs": [
+    "episodes/ep011/v002/images/shot_14.png",
+    "episodes/ep011/v002/images/shot_07.png",
+    "episodes/ep011/v002/assets/chair_cushion_anchor.png",
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+  ],
+  "image_status": "generated_continuity_reviewed",
+  "human_visual_review": "passed; hedgehog seated and touching backrest with spines; rabbit points gently from floor; no backpack"
+}

@@ -1,0 +1,227 @@
+{
+  "text": "皮皮坐在床沿上，低头一看，发现脱下来的两只小拖鞋，一只鞋尖朝着窗户，一只鞋尖朝着房门，东倒西歪的，好像还想往外跑呢。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "443466cfc8fa14094c5d3a84c3b6683a25663a7519266caed795929f142dc9db",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5577080,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7230830,
+      "duration": 2307500,
+      "text": "坐"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9538330,
+      "duration": 1922910,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11653750,
+      "duration": 7115410,
+      "text": "床沿"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18769160,
+      "duration": 4807500,
+      "text": "上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27038330,
+      "duration": 5769160,
+      "text": "低头"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33000000,
+      "duration": 2307500,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 35307500,
+      "duration": 4230830,
+      "text": "看"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 44730830,
+      "duration": 5384580,
+      "text": "发现"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 50500000,
+      "duration": 2884580,
+      "text": "脱"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 53384580,
+      "duration": 4615410,
+      "text": "下来"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 58000000,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 59538330,
+      "duration": 2692500,
+      "text": "两"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 62230830,
+      "duration": 1730830,
+      "text": "只"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 64153750,
+      "duration": 2884580,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 67038330,
+      "duration": 8461660,
+      "text": "拖鞋"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 79730830,
+      "duration": 1922910,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 81653750,
+      "duration": 1730830,
+      "text": "只"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 83577080,
+      "duration": 7884580,
+      "text": "鞋尖"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 91846250,
+      "duration": 5000000,
+      "text": "朝着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 97038330,
+      "duration": 8653750,
+      "text": "窗户"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 109615410,
+      "duration": 2500000,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 112115410,
+      "duration": 2115410,
+      "text": "只"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 114230830,
+      "duration": 4230830,
+      "text": "鞋"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 118653750,
+      "duration": 3077080,
+      "text": "尖"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 121730830,
+      "duration": 4422910,
+      "text": "朝着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 126346250,
+      "duration": 8077080,
+      "text": "房门"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 137500000,
+      "duration": 12500000,
+      "text": "东倒西歪"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 150000000,
+      "duration": 3077080,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 157692500,
+      "duration": 4230830,
+      "text": "好像"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 162115410,
+      "duration": 2307500,
+      "text": "还"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 164422910,
+      "duration": 2500000,
+      "text": "想"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 166922910,
+      "duration": 2115410,
+      "text": "往"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 169230830,
+      "duration": 2500000,
+      "text": "外"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 171730830,
+      "duration": 4230830,
+      "text": "跑"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 175961660,
+      "duration": 3461660,
+      "text": "呢"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "text": "左边一只，右边一只。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "57346a941427022c5b96f375829abe87f2e91891540b489fa9c907d980adaa98",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5769160,
+      "text": "左边"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7230830,
+      "duration": 2500000,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9730830,
+      "duration": 4422910,
+      "text": "只"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18000000,
+      "duration": 5577080,
+      "text": "右边"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23769160,
+      "duration": 2115410,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25884580,
+      "duration": 4807500,
+      "text": "只"
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "text": "就在这时，皮皮想起了猫头鹰阿姨借书给他时，随书送给他的一条柔软的棉布书签。\n书签是浅绿色的，一端还用绒线绣着一片小小的叶子。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "6261c7009a1124476bfd3c96b00a16becad5dd29cb84e7980c65402ee4a36062",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2692500,
+      "text": "就"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3961660,
+      "duration": 2307500,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6461660,
+      "duration": 8461660,
+      "text": "这时"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18961660,
+      "duration": 5192500,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24346250,
+      "duration": 5769160,
+      "text": "想起"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30115410,
+      "duration": 1346250,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31846250,
+      "duration": 9230830,
+      "text": "猫头鹰"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 41269160,
+      "duration": 5384580,
+      "text": "阿姨"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 47038330,
+      "duration": 5769160,
+      "text": "借书"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 53000000,
+      "duration": 2115410,
+      "text": "给"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 55115410,
+      "duration": 2884580,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 58000000,
+      "duration": 5000000,
+      "text": "时"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 67807500,
+      "duration": 3269160,
+      "text": "随"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 71077080,
+      "duration": 3653750,
+      "text": "书"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 74922910,
+      "duration": 5000000,
+      "text": "送给"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 80115410,
+      "duration": 1922910,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 82038330,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 83577080,
+      "duration": 5000000,
+      "text": "一条"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 88961660,
+      "duration": 5769160,
+      "text": "柔软"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 94730830,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 96461660,
+      "duration": 5577080,
+      "text": "棉布"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 102230830,
+      "duration": 8077080,
+      "text": "书签"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 119422910,
+      "duration": 6730830,
+      "text": "书签"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 126153750,
+      "duration": 1922910,
+      "text": "是"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 128269160,
+      "duration": 4230830,
+      "text": "浅"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 132500000,
+      "duration": 6538330,
+      "text": "绿色"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 139038330,
+      "duration": 3077080,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 147115410,
+      "duration": 4615410,
+      "text": "一端"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 152115410,
+      "duration": 2500000,
+      "text": "还"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 154615410,
+      "duration": 2115410,
+      "text": "用"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 156922910,
+      "duration": 8269160,
+      "text": "绒线"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 166538330,
+      "duration": 3269160,
+      "text": "绣"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 169807500,
+      "duration": 1153750,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 171153750,
+      "duration": 4807500,
+      "text": "一片"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 176346250,
+      "duration": 6153750,
+      "text": "小小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 182500000,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 184038330,
+      "duration": 6730830,
+      "text": "叶子"
+    }
+  ]
+}

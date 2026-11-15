@@ -1,0 +1,149 @@
+{
+  "text": "他弯下腰，用小爪子把两只拖鞋轻轻挪过来，让它们并排坐在床边的小地毯上。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "d3acee460ef835198abab69b99493fa1488d859cac86b3eeef979ba7a8e1660f",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2307500,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3577080,
+      "duration": 2692500,
+      "text": "弯"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6461660,
+      "duration": 7884580,
+      "text": "下腰"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19153750,
+      "duration": 2500000,
+      "text": "用"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21846250,
+      "duration": 3269160,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25115410,
+      "duration": 8461660,
+      "text": "爪子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 35115410,
+      "duration": 2115410,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 37422910,
+      "duration": 5192500,
+      "text": "两只"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 42807500,
+      "duration": 6346250,
+      "text": "拖鞋"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 49538330,
+      "duration": 5769160,
+      "text": "轻轻"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 55500000,
+      "duration": 3269160,
+      "text": "挪"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 58769160,
+      "duration": 6153750,
+      "text": "过来"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 69922910,
+      "duration": 2500000,
+      "text": "让"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 72422910,
+      "duration": 4615410,
+      "text": "它们"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 77422910,
+      "duration": 2500000,
+      "text": "并"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 80115410,
+      "duration": 5961660,
+      "text": "排坐"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 86077080,
+      "duration": 2500000,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 88961660,
+      "duration": 3653750,
+      "text": "床"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 92615410,
+      "duration": 2307500,
+      "text": "边"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 94922910,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 96653750,
+      "duration": 3077080,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 99730830,
+      "duration": 6346250,
+      "text": "地毯"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 106077080,
+      "duration": 4807500,
+      "text": "上"
+    }
+  ]
+}

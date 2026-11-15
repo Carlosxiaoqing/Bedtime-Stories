@@ -1,0 +1,385 @@
+{
+  "schema_version": 3,
+  "script_version": "v4",
+  "id": "ep009",
+  "episode": 9,
+  "title": "拖鞋排排坐",
+  "theme": "把白天留在床边",
+  "language": "zh-CN",
+  "production_scope": "adopted_user_long_script",
+  "status": "technical_passed_human_watch_pending",
+  "narration_paragraphs": [
+    {
+      "id": "p001",
+      "text": "今天早上，阳光像金色的蜂蜜一样洒在森林里，山羊老师带着学堂的小朋友们，去小木桥那边远足。\n出门前，山羊老师教大家唱了一首《排排坐，慢慢走》的歌谣：“小脚丫，一对对，走起路来不掉队；左一步，右一步，累了就回小窝睡。”"
+    },
+    {
+      "id": "p002",
+      "text": "皮皮穿着他最喜欢的蓝色小布鞋，走在队伍的中间。前面是摇着大尾巴的小松鼠团团，后面是迈着小碎步的小刺猬栗栗。\n他们走过了长满蒲公英的草地，走过了“咚咚”响的小木桥，还在大榕树下捡了许多好看的树叶。"
+    },
+    {
+      "id": "p003",
+      "text": "皮皮的小布鞋今天可真忙呀，带着他爬小坡、跨树根，走了好远好远的路。\n等傍晚回到小木屋门口时，皮皮脱下外面的小布鞋，换上了屋里软绵绵的毛绒小拖鞋。"
+    },
+    {
+      "id": "p004",
+      "text": "吃过晚饭，皮皮又穿着小拖鞋在屋里忙活了一阵子：他先走到小书架旁，把今天捡到的树叶夹进画册里；又走到有月光的窗边，给小花盆浇了一点点水。\n终于到了睡觉的时间。皮皮坐在床沿上，低头一看，发现脱下来的两只小拖鞋，一只鞋尖朝着窗户，一只鞋尖朝着房门，东倒西歪的，好像还想往外跑呢。"
+    },
+    {
+      "id": "p005",
+      "text": "皮皮笑了，他想起白天远足时大家排队唱歌的样子。\n他弯下腰，用小爪子把两只拖鞋轻轻挪过来，让它们并排坐在床边的小地毯上。"
+    },
+    {
+      "id": "p006",
+      "text": "左边一只，右边一只。圆圆的鞋尖朝着同一个方向，紧紧挨着，就像白天远足时他和栗栗并肩坐在一起一样，变成了两个安静的好朋友。\n皮皮把毛茸茸的小脚丫收进被窝里，暖暖的黄毛毯马上落下来，给小脚腾出了最舒服的位置。"
+    },
+    {
+      "id": "p007",
+      "text": "小拖鞋今晚不用再出发了。明天的小路还没有打开，而今天的小路，已经稳稳当当地走完了。\n皮皮靠好枕头，听见晚风在门外停了一停，屋里再也没有新的脚步声。"
+    },
+    {
+      "id": "p008",
+      "text": "他抱着胡萝卜玩偶，慢慢闭上眼睛。小拖鞋乖乖地坐在床下，陪着小木床一起歇息。\n小朋友，你的小脚丫今天也走了很远的路吧。现在，把鞋子留在床边，让小脚在被窝里暖暖地休息。晚安，我们明天再慢慢出发。"
+    }
+  ],
+  "cn_characters": 654,
+  "narration_sha256": "52666b0aa9a309f46c83955cdc112b9f07a50937df95336c02a43907540e3fe6",
+  "source": {
+    "path": "/Users/ww/Downloads/100集睡前故事合集.md",
+    "sha256": "3feafa137e94824baccf8b6e3f3f24bac3e97714b2e201fcc48d461d8969c302",
+    "original_narration_sha256": "52666b0aa9a309f46c83955cdc112b9f07a50937df95336c02a43907540e3fe6",
+    "original_paragraph_count": 8
+  },
+  "revision_record": [],
+  "duration_policy": {
+    "basis": "complete_narration_at_current_voice_settings",
+    "limit_s": null,
+    "delete_for_duration": false,
+    "time_stretch": false
+  },
+  "voice": {
+    "config": "03_素材与参数/配音与声音参数.json",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-35%",
+    "pitch": "-2Hz",
+    "volume": "+0%",
+    "sample_rate": 48000
+  },
+  "actual_duration_s": 248.2,
+  "character_registry": "03_素材与参数/用户长稿v4角色图库.json",
+  "storyboard": {
+    "status": "locked",
+    "shots": [
+      {
+        "id": 1,
+        "image": "images/shot_01.png",
+        "actual_start_s": 0.0,
+        "actual_end_s": 7.8,
+        "visible_start_s": 0.0,
+        "visible_end_s": 8.28
+      },
+      {
+        "id": 2,
+        "image": "images/shot_02.png",
+        "actual_start_s": 7.8,
+        "actual_end_s": 15.52,
+        "visible_start_s": 7.32,
+        "visible_end_s": 16.0
+      },
+      {
+        "id": 3,
+        "image": "images/shot_03.png",
+        "actual_start_s": 15.52,
+        "actual_end_s": 25.96,
+        "visible_start_s": 15.04,
+        "visible_end_s": 26.44
+      },
+      {
+        "id": 4,
+        "image": "images/shot_04.png",
+        "actual_start_s": 25.96,
+        "actual_end_s": 34.92,
+        "visible_start_s": 25.48,
+        "visible_end_s": 35.4
+      },
+      {
+        "id": 5,
+        "image": "images/shot_05.png",
+        "actual_start_s": 34.92,
+        "actual_end_s": 42.44,
+        "visible_start_s": 34.440000000000005,
+        "visible_end_s": 42.919999999999995
+      },
+      {
+        "id": 6,
+        "image": "images/shot_06.png",
+        "actual_start_s": 42.44,
+        "actual_end_s": 52.48,
+        "visible_start_s": 41.96,
+        "visible_end_s": 52.959999999999994
+      },
+      {
+        "id": 7,
+        "image": "images/shot_07.png",
+        "actual_start_s": 52.48,
+        "actual_end_s": 59.92,
+        "visible_start_s": 52.0,
+        "visible_end_s": 60.4
+      },
+      {
+        "id": 8,
+        "image": "images/shot_08.png",
+        "actual_start_s": 59.92,
+        "actual_end_s": 65.08,
+        "visible_start_s": 59.440000000000005,
+        "visible_end_s": 65.56
+      },
+      {
+        "id": 9,
+        "image": "images/shot_09.png",
+        "actual_start_s": 65.08,
+        "actual_end_s": 75.88,
+        "visible_start_s": 64.6,
+        "visible_end_s": 76.36
+      },
+      {
+        "id": 10,
+        "image": "images/shot_10.png",
+        "actual_start_s": 75.88,
+        "actual_end_s": 83.24,
+        "visible_start_s": 75.39999999999999,
+        "visible_end_s": 83.72
+      },
+      {
+        "id": 11,
+        "image": "images/shot_11.png",
+        "actual_start_s": 83.24,
+        "actual_end_s": 88.16,
+        "visible_start_s": 82.75999999999999,
+        "visible_end_s": 88.64
+      },
+      {
+        "id": 12,
+        "image": "images/shot_12.png",
+        "actual_start_s": 88.16,
+        "actual_end_s": 98.52,
+        "visible_start_s": 87.67999999999999,
+        "visible_end_s": 99.0
+      },
+      {
+        "id": 13,
+        "image": "images/shot_13.png",
+        "actual_start_s": 98.52,
+        "actual_end_s": 106.0,
+        "visible_start_s": 98.03999999999999,
+        "visible_end_s": 106.48
+      },
+      {
+        "id": 14,
+        "image": "images/shot_14.png",
+        "actual_start_s": 106.0,
+        "actual_end_s": 109.88,
+        "visible_start_s": 105.52,
+        "visible_end_s": 110.36
+      },
+      {
+        "id": 15,
+        "image": "images/shot_15.png",
+        "actual_start_s": 109.88,
+        "actual_end_s": 113.44,
+        "visible_start_s": 109.39999999999999,
+        "visible_end_s": 113.92
+      },
+      {
+        "id": 16,
+        "image": "images/shot_16.png",
+        "actual_start_s": 113.44,
+        "actual_end_s": 121.52,
+        "visible_start_s": 112.96,
+        "visible_end_s": 122.0
+      },
+      {
+        "id": 17,
+        "image": "images/shot_17.png",
+        "actual_start_s": 121.52,
+        "actual_end_s": 132.16,
+        "visible_start_s": 121.03999999999999,
+        "visible_end_s": 132.64
+      },
+      {
+        "id": 18,
+        "image": "images/shot_18.png",
+        "actual_start_s": 132.16,
+        "actual_end_s": 140.28,
+        "visible_start_s": 131.68,
+        "visible_end_s": 140.76
+      },
+      {
+        "id": 19,
+        "image": "images/shot_19.png",
+        "actual_start_s": 140.28,
+        "actual_end_s": 147.44,
+        "visible_start_s": 139.8,
+        "visible_end_s": 147.92
+      },
+      {
+        "id": 20,
+        "image": "images/shot_20.png",
+        "actual_start_s": 147.44,
+        "actual_end_s": 152.2,
+        "visible_start_s": 146.96,
+        "visible_end_s": 152.67999999999998
+      },
+      {
+        "id": 21,
+        "image": "images/shot_21.png",
+        "actual_start_s": 152.2,
+        "actual_end_s": 156.12,
+        "visible_start_s": 151.72,
+        "visible_end_s": 156.6
+      },
+      {
+        "id": 22,
+        "image": "images/shot_22.png",
+        "actual_start_s": 156.12,
+        "actual_end_s": 162.24,
+        "visible_start_s": 155.64000000000001,
+        "visible_end_s": 162.72
+      },
+      {
+        "id": 23,
+        "image": "images/shot_23.png",
+        "actual_start_s": 162.24,
+        "actual_end_s": 168.24,
+        "visible_start_s": 161.76000000000002,
+        "visible_end_s": 168.72
+      },
+      {
+        "id": 24,
+        "image": "images/shot_24.png",
+        "actual_start_s": 168.24,
+        "actual_end_s": 171.88,
+        "visible_start_s": 167.76000000000002,
+        "visible_end_s": 172.35999999999999
+      },
+      {
+        "id": 25,
+        "image": "images/shot_25.png",
+        "actual_start_s": 171.88,
+        "actual_end_s": 177.12,
+        "visible_start_s": 171.4,
+        "visible_end_s": 177.6
+      },
+      {
+        "id": 26,
+        "image": "images/shot_26.png",
+        "actual_start_s": 177.12,
+        "actual_end_s": 185.12,
+        "visible_start_s": 176.64000000000001,
+        "visible_end_s": 185.6
+      },
+      {
+        "id": 27,
+        "image": "images/shot_27.png",
+        "actual_start_s": 185.12,
+        "actual_end_s": 189.6,
+        "visible_start_s": 184.64000000000001,
+        "visible_end_s": 190.07999999999998
+      },
+      {
+        "id": 28,
+        "image": "images/shot_28.png",
+        "actual_start_s": 189.6,
+        "actual_end_s": 195.28,
+        "visible_start_s": 189.12,
+        "visible_end_s": 195.76
+      },
+      {
+        "id": 29,
+        "image": "images/shot_29.png",
+        "actual_start_s": 195.28,
+        "actual_end_s": 198.64,
+        "visible_start_s": 194.8,
+        "visible_end_s": 199.11999999999998
+      },
+      {
+        "id": 30,
+        "image": "images/shot_30.png",
+        "actual_start_s": 198.64,
+        "actual_end_s": 204.96,
+        "visible_start_s": 198.16,
+        "visible_end_s": 205.44
+      },
+      {
+        "id": 31,
+        "image": "images/shot_31.png",
+        "actual_start_s": 204.96,
+        "actual_end_s": 208.68,
+        "visible_start_s": 204.48000000000002,
+        "visible_end_s": 209.16
+      },
+      {
+        "id": 32,
+        "image": "images/shot_32.png",
+        "actual_start_s": 208.68,
+        "actual_end_s": 214.12,
+        "visible_start_s": 208.20000000000002,
+        "visible_end_s": 214.6
+      },
+      {
+        "id": 33,
+        "image": "images/shot_33.png",
+        "actual_start_s": 214.12,
+        "actual_end_s": 221.16,
+        "visible_start_s": 213.64000000000001,
+        "visible_end_s": 221.64
+      },
+      {
+        "id": 34,
+        "image": "images/shot_34.png",
+        "actual_start_s": 221.16,
+        "actual_end_s": 227.6,
+        "visible_start_s": 220.68,
+        "visible_end_s": 228.07999999999998
+      },
+      {
+        "id": 35,
+        "image": "images/shot_35.png",
+        "actual_start_s": 227.6,
+        "actual_end_s": 235.88,
+        "visible_start_s": 227.12,
+        "visible_end_s": 236.35999999999999
+      },
+      {
+        "id": 36,
+        "image": "images/shot_36.png",
+        "actual_start_s": 235.88,
+        "actual_end_s": 248.2,
+        "visible_start_s": 235.4,
+        "visible_end_s": 248.2
+      }
+    ],
+    "timing_basis": "actual_audio",
+    "preferred_hold_s": [
+      8,
+      10
+    ],
+    "review_above_s": 15,
+    "short_action_hold_s": [
+      3,
+      5
+    ]
+  },
+  "material_state": {
+    "voice": "generated",
+    "character_references": "loaded_and_recorded",
+    "illustrations": "36_generated_and_reviewed",
+    "cover": "generated_and_phone_reviewed",
+    "pinyin_review": "coverage_and_context_review_completed_audio_listen_pending",
+    "render": "completed",
+    "technical_check": "passed",
+    "human_watch": "not_certified",
+    "user_acceptance": "pending",
+    "publication": "not_published"
+  }
+}

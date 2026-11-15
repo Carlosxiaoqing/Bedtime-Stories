@@ -1,0 +1,155 @@
+{
+  "text": "等傍晚回到小木屋门口时，皮皮脱下外面的小布鞋，换上了屋里软绵绵的毛绒小拖鞋。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "a5366483cfeeb312a72fcd7572ee81e22177fd41fb87486a3adcd56a8ee136ad",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 2884580,
+      "text": "等"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4346250,
+      "duration": 5577080,
+      "text": "傍晚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10115410,
+      "duration": 4807500,
+      "text": "回到"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15307500,
+      "duration": 3269160,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18577080,
+      "duration": 4230830,
+      "text": "木屋"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23000000,
+      "duration": 6538330,
+      "text": "门口"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 29538330,
+      "duration": 5192500,
+      "text": "时"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 38961660,
+      "duration": 5192500,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 44346250,
+      "duration": 2500000,
+      "text": "脱"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 46846250,
+      "duration": 2884580,
+      "text": "下"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 50115410,
+      "duration": 4807500,
+      "text": "外面"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 54922910,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 56269160,
+      "duration": 3077080,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 59346250,
+      "duration": 7500000,
+      "text": "布鞋"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 71846250,
+      "duration": 2884580,
+      "text": "换"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 74730830,
+      "duration": 2500000,
+      "text": "上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 77230830,
+      "duration": 1346250,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 78769160,
+      "duration": 7115410,
+      "text": "屋里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 86269160,
+      "duration": 8269160,
+      "text": "软绵绵"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 94538330,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 96269160,
+      "duration": 3077080,
+      "text": "毛"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 99346250,
+      "duration": 2500000,
+      "text": "绒"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 102038330,
+      "duration": 2884580,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 104922910,
+      "duration": 9422910,
+      "text": "拖鞋"
+    }
+  ]
+}

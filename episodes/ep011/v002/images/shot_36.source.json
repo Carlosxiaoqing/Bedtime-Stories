@@ -1,0 +1,14 @@
+{
+  "shot_id": 36,
+  "source": "OpenAI image_gen; targeted backpack continuity edit",
+  "image_path": "images/shot_36.png",
+  "sha256": "2803214e6d7fca5df13318c8093680585457b61c456af7cda62b757188211ce5",
+  "prompt": "prompts/shot_36.txt",
+  "reference_inputs": [
+    "episodes/ep011/v002/images/shot_36.png (pre-edit frame)",
+    "episodes/ep011/v002/assets/porch_anchor.png",
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+  ],
+  "image_status": "generated_continuity_reviewed",
+  "human_visual_review": "passed; same cloth returned flat to same stool; backpack inside"
+}

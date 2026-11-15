@@ -1,0 +1,1382 @@
+{
+  "episode": "ep009",
+  "duration_s": 264.68,
+  "fps": 25,
+  "frames": 6617,
+  "preview": false,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "shot_count": 38,
+  "crossfade_s": 0.96,
+  "curve": "linear",
+  "within_shot_motion": "none",
+  "subtitles_after_picture_transitions": true,
+  "clean": "/workspace/Bedtime-Stories/Outputs/2026-11-12/ep009-v002/ep009_clean.mp4",
+  "publish": "/workspace/Bedtime-Stories/Outputs/2026-11-12/ep009-v002/ep009.mp4",
+  "delivery_directory": "/workspace/Bedtime-Stories/Outputs/2026-11-12/ep009-v002",
+  "shots": [
+    {
+      "id": 0,
+      "title": "故事问候与标题",
+      "text": "小朋友们，准备好听故事了吗？今天的故事叫《拖鞋排排坐》。",
+      "source_ranges": [
+        {
+          "unit_id": "u000",
+          "paragraph_id": "p000",
+          "start_char": 0,
+          "end_char": 28
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "夜晚温暖安静的床边绘本讲述角，独立于正文场景。",
+      "action": "皮皮戴着星星睡帽，面向小朋友微笑并轻轻抬爪打招呼；不出现剧情道具。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/shot_00.png",
+      "reference_manifest": "references/shot_00.json",
+      "image_status": "generated",
+      "source_version": "v5",
+      "source_paragraph_kind": "opening_introduction",
+      "illustration_requirement": "standalone",
+      "speech_start_s": 1.0,
+      "speech_end_s": 9.1903535,
+      "actual_start_s": 0.0,
+      "actual_end_s": 9.44,
+      "visible_start_s": 0.0,
+      "visible_end_s": 9.92,
+      "visible_duration_s": 9.92
+    },
+    {
+      "id": 1,
+      "title": "主题引子",
+      "text": "白天走过的小路，到了晚上，怎样安静地留在床边呢？",
+      "source_ranges": [
+        {
+          "unit_id": "u000b",
+          "paragraph_id": "p000",
+          "start_char": 0,
+          "end_char": 24
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "夜晚温暖安静的床边绘本讲述角，独立的主题引子画面，不复刻正文镜头。",
+      "action": "皮皮在床边把两只柔软小拖鞋并排放好，再抬头温和地看向观众，象征白天走过的小路可以安心留到明天。",
+      "reality": "real",
+      "motion": "fixed",
+      "image": "images/opening_hook.png",
+      "reference_manifest": "references/shot_01.json",
+      "image_status": "generated",
+      "source_version": "v5",
+      "source_paragraph_kind": "opening_introduction",
+      "illustration_requirement": "standalone",
+      "speech_start_s": 9.711854166666667,
+      "speech_end_s": 16.339123999999998,
+      "actual_start_s": 9.44,
+      "actual_end_s": 16.92,
+      "visible_start_s": 8.959999999999999,
+      "visible_end_s": 17.400000000000002,
+      "visible_duration_s": 8.44
+    },
+    {
+      "id": 2,
+      "title": "今天早上，阳光像金色的蜂蜜一样洒在森林里，",
+      "text": "今天早上，阳光像金色的蜂蜜一样洒在森林里，",
+      "source_ranges": [
+        {
+          "unit_id": "u001",
+          "paragraph_id": "p001",
+          "start_char": 0,
+          "end_char": 21
+        }
+      ],
+      "characters": [
+        "pipi",
+        "goat_teacher",
+        "tuantuan",
+        "lili"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "goat_teacher": "default_v001",
+        "tuantuan": "default_v001",
+        "lili": "default_v001"
+      },
+      "setting": "sunny_forest_school_hiking_route",
+      "reality": "现实",
+      "action": "依据口播绘制当下真实场景：今天早上，阳光像金色的蜂蜜一样洒在森林里，。鞋子、人物位置和天气状态须与相邻镜头连续；固定静态水彩。",
+      "motion": "fixed",
+      "image": "images/shot_01.png",
+      "reference_manifest": "references/shot_01.json",
+      "speech_start_s": 17.48314583333333,
+      "speech_end_s": 24.046019499999996,
+      "actual_start_s": 16.92,
+      "actual_end_s": 24.28,
+      "visible_start_s": 16.44,
+      "visible_end_s": 24.76,
+      "visible_duration_s": 8.32,
+      "source_version": "v001",
+      "source_paragraph_kind": "story_body"
+    },
+    {
+      "id": 3,
+      "title": "山羊老师带着学堂的小朋友们，去小木桥那边远足。",
+      "text": "山羊老师带着学堂的小朋友们，去小木桥那边远足。",
+      "source_ranges": [
+        {
+          "unit_id": "u001",
+          "paragraph_id": "p001",
+          "start_char": 21,
+          "end_char": 44
+        }
+      ],
+      "characters": [
+        "pipi",
+        "goat_teacher",
+        "tuantuan",
+        "lili"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "goat_teacher": "default_v001",
+        "tuantuan": "default_v001",
+        "lili": "default_v001"
+      },
+      "setting": "sunny_forest_school_hiking_route",
+      "reality": "现实",
+      "action": "依据口播绘制当下真实场景：山羊老师带着学堂的小朋友们，去小木桥那边远足。。鞋子、人物位置和天气状态须与相邻镜头连续；固定静态水彩。",
+      "motion": "fixed",
+      "image": "images/shot_02.png",
+      "reference_manifest": "references/shot_02.json",
+      "speech_start_s": 24.546020499999997,
+      "speech_end_s": 31.438353499999998,
+      "actual_start_s": 24.28,
+      "actual_end_s": 32.0,
+      "visible_start_s": 23.8,
+      "visible_end_s": 32.48,
+      "visible_duration_s": 8.68,
+      "source_version": "v001",
+      "source_paragraph_kind": "story_body"
+    },
+    {
+      "id": 4,
+      "title": "出门前，山羊老师教大家唱了一首《排排坐，慢慢走》",
+      "text": "出门前，山羊老师教大家唱了一首《排排坐，慢慢走》的歌谣：“小脚丫，",
+      "source_ranges": [
+        {
+          "unit_id": "u002",
+          "paragraph_id": "p001",
+          "start_char": 0,
+          "end_char": 33
+        }
+      ],
+      "characters": [
+        "pipi",
+        "goat_teacher",
+        "tuantuan",
+        "lili"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "goat_teacher": "default_v001",
+        "tuantuan": "default_v001",
+        "lili": "default_v001"
+      },
+      "setting": "sunny_forest_school_hiking_route",
+      "reality": "现实",
+      "action": "依据口播绘制当下真实场景：出门前，山羊老师教大家唱了一首《排排坐，慢慢走》的歌谣：“小脚丫，。鞋子、人物位置和天气状态须与相邻镜头连续；固定静态水彩。",
+      "motion": "fixed",
+      "image": "images/shot_03.png",
+      "reference_manifest": "references/shot_03.json",
+      "speech_start_s": 32.564562499999994,
+      "speech_end_s": 42.264520499999996,
+      "actual_start_s": 32.0,
+      "actual_end_s": 42.44,
+      "visible_start_s": 31.52,
+      "visible_end_s": 42.919999999999995,
+      "visible_duration_s": 11.4,
+      "source_version": "v001",
+      "source_paragraph_kind": "story_body"
+    },
+    {
+      "id": 5,
+      "title": "一对对，走起路来不掉队；左一步，右一步，累了就回",
+      "text": "一对对，走起路来不掉队；左一步，右一步，累了就回小窝睡。”",
+      "source_ranges": [
+        {
+          "unit_id": "u002",
+          "paragraph_id": "p001",
+          "start_char": 33,
+          "end_char": 62
+        }
+      ],
+      "characters": [
+        "pipi",
+        "goat_teacher",
+        "tuantuan",
+        "lili"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "goat_teacher": "default_v001",
+        "tuantuan": "default_v001",
+        "lili": "default_v001"
+      },
+      "setting": "sunny_forest_school_hiking_route",
+      "reality": "现实",
+      "action": "依据口播绘制当下真实场景：一对对，走起路来不掉队；左一步，右一步，累了就回小窝睡。”。鞋子、人物位置和天气状态须与相邻镜头连续；固定静态水彩。",
+      "motion": "fixed",
+      "image": "images/shot_04.png",
+      "reference_manifest": "references/shot_04.json",
+      "speech_start_s": 42.629895499999996,
+      "speech_end_s": 50.9837285,
+      "actual_start_s": 42.44,
+      "actual_end_s": 51.4,
+      "visible_start_s": 41.96,
+      "visible_end_s": 51.879999999999995,
+      "visible_duration_s": 9.92,
+      "source_version": "v001",
+      "source_paragraph_kind": "story_body"
+    },
+    {
+      "id": 6,
+      "title": "皮皮穿着他最喜欢的蓝色小布鞋，走在队伍的中间。",
+      "text": "皮皮穿着他最喜欢的蓝色小布鞋，走在队伍的中间。",
+      "source_ranges": [
+        {
+          "unit_id": "u003",
+          "paragraph_id": "p002",
+          "start_char": 0,
+          "end_char": 23
+        }
+      ],
+      "characters": [
+        "pipi",
+        "tuantuan",
+        "lili"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "tuantuan": "default_v001",
+        "lili": "default_v001"
+      },
+      "setting": "sunny_forest_school_hiking_route",
+      "reality": "现实",
+      "action": "依据口播绘制当下真实场景：皮皮穿着他最喜欢的蓝色小布鞋，走在队伍的中间。。鞋子、人物位置和天气状态须与相邻镜头连续；固定静态水彩。",
+      "motion": "fixed",
+      "image": "images/shot_05.png",
+      "reference_manifest": "references/shot_05.json",
+      "speech_start_s": 51.84981249999999,
+      "speech_end_s": 58.34547849999999,
+      "actual_start_s": 51.4,
+      "actual_end_s": 58.92,
+      "visible_start_s": 50.92,
+      "visible_end_s": 59.4,
+      "visible_duration_s": 8.48,
+      "source_version": "v001",
+      "source_paragraph_kind": "story_body"
+    },
+    {
+      "id": 7,
+      "title": "前面是摇着大尾巴的小松鼠团团，后面是迈着小碎步的",
+      "text": "前面是摇着大尾巴的小松鼠团团，后面是迈着小碎步的小刺猬栗栗。",
+      "source_ranges": [
+        {
+          "unit_id": "u004",
+          "paragraph_id": "p002",
+          "start_char": 0,
+          "end_char": 30
+        }
+      ],
+      "characters": [
+        "pipi",
+        "tuantuan",
+        "lili"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "tuantuan": "default_v001",
+        "lili": "default_v001"
+      },
+      "setting": "sunny_forest_school_hiking_route",
+      "reality": "现实",
+      "action": "依据口播绘制当下真实场景：前面是摇着大尾巴的小松鼠团团，后面是迈着小碎步的小刺猬栗栗。。鞋子、人物位置和天气状态须与相邻镜头连续；固定静态水彩。",
+      "motion": "fixed",
+      "image": "images/shot_06.png",
+      "reference_manifest": "references/shot_06.json",
+      "speech_start_s": 59.48116666666666,
+      "speech_end_s": 68.51047816666666,
+      "actual_start_s": 58.92,
+      "actual_end_s": 68.96,
+      "visible_start_s": 58.440000000000005,
+      "visible_end_s": 69.44,
+      "visible_duration_s": 11.0,
+      "source_version": "v001",
+      "source_paragraph_kind": "story_body"
+    },
+    {
+      "id": 8,
+      "title": "他们走过了长满蒲公英的草地，走过了“咚咚”响的小",
+      "text": "他们走过了长满蒲公英的草地，走过了“咚咚”响的小木桥，",
+      "source_ranges": [
+        {
+          "unit_id": "u005",
+          "paragraph_id": "p002",
+          "start_char": 0,
+          "end_char": 27
+        }
+      ],
+      "characters": [
+        "pipi",
+        "tuantuan",
+        "lili"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "tuantuan": "default_v001",
+        "lili": "default_v001"
+      },
+      "setting": "sunny_forest_school_hiking_route",
+      "reality": "现实",
+      "action": "依据口播绘制当下真实场景：他们走过了长满蒲公英的草地，走过了“咚咚”响的小木桥，。鞋子、人物位置和天气状态须与相邻镜头连续；固定静态水彩。",
+      "motion": "fixed",
+      "image": "images/shot_07.png",
+      "reference_manifest": "references/shot_07.json",
+      "speech_start_s": 69.407625,
+      "speech_end_s": 76.19141566666666,
+      "actual_start_s": 68.96,
+      "actual_end_s": 76.4,
+      "visible_start_s": 68.47999999999999,
+      "visible_end_s": 76.88000000000001,
+      "visible_duration_s": 8.4,
+      "source_version": "v001",
+      "source_paragraph_kind": "story_body"
+    },
+    {
+      "id": 9,
+      "title": "还在大榕树下捡了许多好看的树叶。",
+      "text": "还在大榕树下捡了许多好看的树叶。",
+      "source_ranges": [
+        {
+          "unit_id": "u005",
+          "paragraph_id": "p002",
+          "start_char": 27,
+          "end_char": 43
+        }
+      ],
+      "characters": [
+        "pipi",
+        "tuantuan",
+        "lili"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "tuantuan": "default_v001",
+        "lili": "default_v001"
+      },
+      "setting": "sunny_forest_school_hiking_route",
+      "reality": "现实",
+      "action": "依据口播绘制当下真实场景：还在大榕树下捡了许多好看的树叶。。鞋子、人物位置和天气状态须与相邻镜头连续；固定静态水彩。",
+      "motion": "fixed",
+      "image": "images/shot_08.png",
+      "reference_manifest": "references/shot_08.json",
+      "speech_start_s": 76.60291666666666,
+      "speech_end_s": 81.10295766666667,
+      "actual_start_s": 76.4,
+      "actual_end_s": 81.56,
+      "visible_start_s": 75.92,
+      "visible_end_s": 82.04,
+      "visible_duration_s": 6.12,
+      "source_version": "v001",
+      "source_paragraph_kind": "story_body"
+    },
+    {
+      "id": 10,
+      "title": "皮皮的小布鞋今天可真忙呀，带着他爬小坡、跨树根，",
+      "text": "皮皮的小布鞋今天可真忙呀，带着他爬小坡、跨树根，走了好远好远的路。",
+      "source_ranges": [
+        {
+          "unit_id": "u006",
+          "paragraph_id": "p003",
+          "start_char": 0,
+          "end_char": 33
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "evening_cottage_entry",
+      "reality": "现实",
+      "action": "依据口播绘制当下真实场景：皮皮的小布鞋今天可真忙呀，带着他爬小坡、跨树根，走了好远好远的路。。鞋子、人物位置和天气状态须与相邻镜头连续；固定静态水彩。",
+      "motion": "fixed",
+      "image": "images/shot_09.png",
+      "reference_manifest": "references/shot_09.json",
+      "speech_start_s": 81.9981875,
+      "speech_end_s": 91.80356116666667,
+      "actual_start_s": 81.56,
+      "actual_end_s": 92.36,
+      "visible_start_s": 81.08,
+      "visible_end_s": 92.84,
+      "visible_duration_s": 11.76,
+      "source_version": "v001",
+      "source_paragraph_kind": "story_body"
+    },
+    {
+      "id": 11,
+      "title": "等傍晚回到小木屋门口时，皮皮脱下外面的小布鞋，",
+      "text": "等傍晚回到小木屋门口时，皮皮脱下外面的小布鞋，",
+      "source_ranges": [
+        {
+          "unit_id": "u007",
+          "paragraph_id": "p003",
+          "start_char": 0,
+          "end_char": 23
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "evening_cottage_entry",
+      "reality": "现实",
+      "action": "依据口播绘制当下真实场景：等傍晚回到小木屋门口时，皮皮脱下外面的小布鞋，。鞋子、人物位置和天气状态须与相邻镜头连续；固定静态水彩。",
+      "motion": "fixed",
+      "image": "images/shot_10.png",
+      "reference_manifest": "references/shot_10.json",
+      "speech_start_s": 92.94197916666667,
+      "speech_end_s": 99.46658333333333,
+      "actual_start_s": 92.36,
+      "actual_end_s": 99.72,
+      "visible_start_s": 91.88,
+      "visible_end_s": 100.2,
+      "visible_duration_s": 8.32,
+      "source_version": "v001",
+      "source_paragraph_kind": "story_body"
+    },
+    {
+      "id": 12,
+      "title": "换上了屋里软绵绵的毛绒小拖鞋。",
+      "text": "换上了屋里软绵绵的毛绒小拖鞋。",
+      "source_ranges": [
+        {
+          "unit_id": "u007",
+          "paragraph_id": "p003",
+          "start_char": 23,
+          "end_char": 38
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "evening_cottage_entry",
+      "reality": "现实",
+      "action": "依据口播绘制当下真实场景：换上了屋里软绵绵的毛绒小拖鞋。。鞋子、人物位置和天气状态须与相邻镜头连续；固定静态水彩。",
+      "motion": "fixed",
+      "image": "images/shot_11.png",
+      "reference_manifest": "references/shot_11.json",
+      "speech_start_s": 99.96658333333333,
+      "speech_end_s": 104.21654033333334,
+      "actual_start_s": 99.72,
+      "actual_end_s": 104.64,
+      "visible_start_s": 99.24,
+      "visible_end_s": 105.12,
+      "visible_duration_s": 5.88,
+      "source_version": "v001",
+      "source_paragraph_kind": "story_body"
+    },
+    {
+      "id": 13,
+      "title": "吃过晚饭，皮皮又穿着小拖鞋在屋里忙活了一阵子：他",
+      "text": "吃过晚饭，皮皮又穿着小拖鞋在屋里忙活了一阵子：他先走到小书架旁，",
+      "source_ranges": [
+        {
+          "unit_id": "u008",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 32
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "pipi_bedroom_night",
+      "reality": "现实",
+      "action": "依据口播绘制当下真实场景：吃过晚饭，皮皮又穿着小拖鞋在屋里忙活了一阵子：他先走到小书架旁，。鞋子、人物位置和天气状态须与相邻镜头连续；固定静态水彩。",
+      "motion": "fixed",
+      "image": "images/shot_12.png",
+      "reference_manifest": "references/shot_12.json",
+      "speech_start_s": 105.09097916666667,
+      "speech_end_s": 114.817458,
+      "actual_start_s": 104.64,
+      "actual_end_s": 115.0,
+      "visible_start_s": 104.16,
+      "visible_end_s": 115.48,
+      "visible_duration_s": 11.32,
+      "source_version": "v001",
+      "source_paragraph_kind": "story_body"
+    },
+    {
+      "id": 14,
+      "title": "把今天捡到的树叶夹进画册里；又走到有月光的窗边，",
+      "text": "把今天捡到的树叶夹进画册里；又走到有月光的窗边，",
+      "source_ranges": [
+        {
+          "unit_id": "u008",
+          "paragraph_id": "p004",
+          "start_char": 32,
+          "end_char": 56
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "warm_cottage_evening",
+      "reality": "现实",
+      "action": "依据口播绘制当下真实场景：把今天捡到的树叶夹进画册里；又走到有月光的窗边，。鞋子、人物位置和天气状态须与相邻镜头连续；固定静态水彩。",
+      "motion": "fixed",
+      "image": "images/shot_13.png",
+      "reference_manifest": "references/shot_13.json",
+      "speech_start_s": 115.17125,
+      "speech_end_s": 122.325124,
+      "actual_start_s": 115.0,
+      "actual_end_s": 122.48,
+      "visible_start_s": 114.52,
+      "visible_end_s": 122.96000000000001,
+      "visible_duration_s": 8.44,
+      "source_version": "v001",
+      "source_paragraph_kind": "story_body"
+    },
+    {
+      "id": 15,
+      "title": "给小花盆浇了一点点水。",
+      "text": "给小花盆浇了一点点水。",
+      "source_ranges": [
+        {
+          "unit_id": "u008",
+          "paragraph_id": "p004",
+          "start_char": 56,
+          "end_char": 67
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "warm_cottage_evening",
+      "reality": "现实",
+      "action": "依据口播绘制当下真实场景：给小花盆浇了一点点水。。鞋子、人物位置和天气状态须与相邻镜头连续；固定静态水彩。",
+      "motion": "fixed",
+      "image": "images/shot_14.png",
+      "reference_manifest": "references/shot_14.json",
+      "speech_start_s": 122.652041,
+      "speech_end_s": 125.805875,
+      "actual_start_s": 122.48,
+      "actual_end_s": 126.36,
+      "visible_start_s": 122.0,
+      "visible_end_s": 126.84,
+      "visible_duration_s": 4.84,
+      "source_version": "v001",
+      "source_paragraph_kind": "story_body"
+    },
+    {
+      "id": 16,
+      "title": "终于到了睡觉的时间。",
+      "text": "终于到了睡觉的时间。",
+      "source_ranges": [
+        {
+          "unit_id": "u009",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 10
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "pipi_bedroom_night",
+      "reality": "现实",
+      "action": "依据口播绘制当下真实场景：终于到了睡觉的时间。。鞋子、人物位置和天气状态须与相邻镜头连续；固定静态水彩。",
+      "motion": "fixed",
+      "image": "images/shot_15.png",
+      "reference_manifest": "references/shot_15.json",
+      "speech_start_s": 126.88585416666666,
+      "speech_end_s": 129.45277049999999,
+      "actual_start_s": 126.36,
+      "actual_end_s": 129.92,
+      "visible_start_s": 125.88,
+      "visible_end_s": 130.39999999999998,
+      "visible_duration_s": 4.52,
+      "source_version": "v001",
+      "source_paragraph_kind": "story_body"
+    },
+    {
+      "id": 17,
+      "title": "皮皮坐在床沿上，低头一看，发现脱下来的两只小拖鞋",
+      "text": "皮皮坐在床沿上，低头一看，发现脱下来的两只小拖鞋，",
+      "source_ranges": [
+        {
+          "unit_id": "u010",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 25
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "pipi_bedroom_night",
+      "reality": "现实",
+      "action": "依据口播绘制当下真实场景：皮皮坐在床沿上，低头一看，发现脱下来的两只小拖鞋，。鞋子、人物位置和天气状态须与相邻镜头连续；固定静态水彩。",
+      "motion": "fixed",
+      "image": "images/shot_16.png",
+      "reference_manifest": "references/shot_16.json",
+      "speech_start_s": 130.3879375,
+      "speech_end_s": 137.78620733333332,
+      "actual_start_s": 129.92,
+      "actual_end_s": 138.0,
+      "visible_start_s": 129.44,
+      "visible_end_s": 138.48,
+      "visible_duration_s": 9.04,
+      "source_version": "v001",
+      "source_paragraph_kind": "story_body"
+    },
+    {
+      "id": 18,
+      "title": "一只鞋尖朝着窗户，一只鞋尖朝着房门，东倒西歪的，",
+      "text": "一只鞋尖朝着窗户，一只鞋尖朝着房门，东倒西歪的，好像还想往外跑呢。",
+      "source_ranges": [
+        {
+          "unit_id": "u010",
+          "paragraph_id": "p004",
+          "start_char": 25,
+          "end_char": 58
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "pipi_bedroom_night",
+      "reality": "现实",
+      "action": "依据口播绘制当下真实场景：一只鞋尖朝着窗户，一只鞋尖朝着房门，东倒西歪的，好像还想往外跑呢。。鞋子、人物位置和天气状态须与相邻镜头连续；固定静态水彩。",
+      "motion": "fixed",
+      "image": "images/shot_17.png",
+      "reference_manifest": "references/shot_17.json",
+      "speech_start_s": 138.20929133333334,
+      "speech_end_s": 148.17854033333333,
+      "actual_start_s": 138.0,
+      "actual_end_s": 148.64,
+      "visible_start_s": 137.52,
+      "visible_end_s": 149.11999999999998,
+      "visible_duration_s": 11.6,
+      "source_version": "v001",
+      "source_paragraph_kind": "story_body"
+    },
+    {
+      "id": 19,
+      "title": "皮皮笑了，他想起白天远足时大家排队唱歌的样子。",
+      "text": "皮皮笑了，他想起白天远足时大家排队唱歌的样子。",
+      "source_ranges": [
+        {
+          "unit_id": "u011",
+          "paragraph_id": "p005",
+          "start_char": 0,
+          "end_char": 23
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "pipi_bedroom_night",
+      "reality": "现实",
+      "action": "依据口播绘制当下真实场景：皮皮笑了，他想起白天远足时大家排队唱歌的样子。。鞋子、人物位置和天气状态须与相邻镜头连续；固定静态水彩。",
+      "motion": "fixed",
+      "image": "images/shot_18.png",
+      "reference_manifest": "references/shot_18.json",
+      "speech_start_s": 149.08620833333333,
+      "speech_end_s": 156.17783266666666,
+      "actual_start_s": 148.64,
+      "actual_end_s": 156.76,
+      "visible_start_s": 148.16,
+      "visible_end_s": 157.23999999999998,
+      "visible_duration_s": 9.08,
+      "source_version": "v001",
+      "source_paragraph_kind": "story_body"
+    },
+    {
+      "id": 20,
+      "title": "他弯下腰，用小爪子把两只拖鞋轻轻挪过来，",
+      "text": "他弯下腰，用小爪子把两只拖鞋轻轻挪过来，",
+      "source_ranges": [
+        {
+          "unit_id": "u012",
+          "paragraph_id": "p005",
+          "start_char": 0,
+          "end_char": 20
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "pipi_bedroom_night",
+      "reality": "现实",
+      "action": "依据口播绘制当下真实场景：他弯下腰，用小爪子把两只拖鞋轻轻挪过来，。鞋子、人物位置和天气状态须与相邻镜头连续；固定静态水彩。",
+      "motion": "fixed",
+      "image": "images/shot_19.png",
+      "reference_manifest": "references/shot_19.json",
+      "speech_start_s": 157.32202083333334,
+      "speech_end_s": 163.65954100000002,
+      "actual_start_s": 156.76,
+      "actual_end_s": 163.92,
+      "visible_start_s": 156.28,
+      "visible_end_s": 164.39999999999998,
+      "visible_duration_s": 8.12,
+      "source_version": "v001",
+      "source_paragraph_kind": "story_body"
+    },
+    {
+      "id": 21,
+      "title": "让它们并排坐在床边的小地毯上。",
+      "text": "让它们并排坐在床边的小地毯上。",
+      "source_ranges": [
+        {
+          "unit_id": "u012",
+          "paragraph_id": "p005",
+          "start_char": 20,
+          "end_char": 35
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "pipi_bedroom_night",
+      "reality": "现实",
+      "action": "依据口播绘制当下真实场景：让它们并排坐在床边的小地毯上。。鞋子、人物位置和天气状态须与相邻镜头连续；固定静态水彩。",
+      "motion": "fixed",
+      "image": "images/shot_20.png",
+      "reference_manifest": "references/shot_20.json",
+      "speech_start_s": 164.15954100000002,
+      "speech_end_s": 168.255708,
+      "actual_start_s": 163.92,
+      "actual_end_s": 168.68,
+      "visible_start_s": 163.44,
+      "visible_end_s": 169.16,
+      "visible_duration_s": 5.72,
+      "source_version": "v001",
+      "source_paragraph_kind": "story_body"
+    },
+    {
+      "id": 22,
+      "title": "左边一只，右边一只。",
+      "text": "左边一只，右边一只。",
+      "source_ranges": [
+        {
+          "unit_id": "u013",
+          "paragraph_id": "p006",
+          "start_char": 0,
+          "end_char": 10
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "pipi_bedroom_night",
+      "reality": "现实",
+      "action": "依据口播绘制当下真实场景：左边一只，右边一只。。鞋子、人物位置和天气状态须与相邻镜头连续；固定静态水彩。",
+      "motion": "fixed",
+      "image": "images/shot_21.png",
+      "reference_manifest": "references/shot_21.json",
+      "speech_start_s": 169.10556250000002,
+      "speech_end_s": 172.03854133333334,
+      "actual_start_s": 168.68,
+      "actual_end_s": 172.6,
+      "visible_start_s": 168.20000000000002,
+      "visible_end_s": 173.07999999999998,
+      "visible_duration_s": 4.88,
+      "source_version": "v001",
+      "source_paragraph_kind": "story_body"
+    },
+    {
+      "id": 23,
+      "title": "圆圆的鞋尖朝着同一个方向，紧紧挨着，",
+      "text": "圆圆的鞋尖朝着同一个方向，紧紧挨着，",
+      "source_ranges": [
+        {
+          "unit_id": "u014",
+          "paragraph_id": "p006",
+          "start_char": 0,
+          "end_char": 18
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "pipi_bedroom_night",
+      "reality": "现实",
+      "action": "依据口播绘制当下真实场景：圆圆的鞋尖朝着同一个方向，紧紧挨着，。鞋子、人物位置和天气状态须与相邻镜头连续；固定静态水彩。",
+      "motion": "fixed",
+      "image": "images/shot_22.png",
+      "reference_manifest": "references/shot_22.json",
+      "speech_start_s": 173.1616666666667,
+      "speech_end_s": 178.4667486666667,
+      "actual_start_s": 172.6,
+      "actual_end_s": 178.72,
+      "visible_start_s": 172.12,
+      "visible_end_s": 179.2,
+      "visible_duration_s": 7.08,
+      "source_version": "v001",
+      "source_paragraph_kind": "story_body"
+    },
+    {
+      "id": 24,
+      "title": "就像白天远足时他和栗栗并肩坐在一起一样，",
+      "text": "就像白天远足时他和栗栗并肩坐在一起一样，",
+      "source_ranges": [
+        {
+          "unit_id": "u014",
+          "paragraph_id": "p006",
+          "start_char": 18,
+          "end_char": 38
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "pipi_bedroom_night",
+      "reality": "现实",
+      "action": "依据口播绘制当下真实场景：就像白天远足时他和栗栗并肩坐在一起一样，。鞋子、人物位置和天气状态须与相邻镜头连续；固定静态水彩。",
+      "motion": "fixed",
+      "image": "images/shot_23.png",
+      "reference_manifest": "references/shot_23.json",
+      "speech_start_s": 178.9859996666667,
+      "speech_end_s": 184.5629156666667,
+      "actual_start_s": 178.72,
+      "actual_end_s": 184.72,
+      "visible_start_s": 178.24,
+      "visible_end_s": 185.2,
+      "visible_duration_s": 6.96,
+      "source_version": "v001",
+      "source_paragraph_kind": "story_body"
+    },
+    {
+      "id": 25,
+      "title": "变成了两个安静的好朋友。",
+      "text": "变成了两个安静的好朋友。",
+      "source_ranges": [
+        {
+          "unit_id": "u014",
+          "paragraph_id": "p006",
+          "start_char": 38,
+          "end_char": 50
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "pipi_bedroom_night",
+      "reality": "现实",
+      "action": "依据口播绘制当下真实场景：变成了两个安静的好朋友。。鞋子、人物位置和天气状态须与相邻镜头连续；固定静态水彩。",
+      "motion": "fixed",
+      "image": "images/shot_24.png",
+      "reference_manifest": "references/shot_24.json",
+      "speech_start_s": 184.89754166666668,
+      "speech_end_s": 187.9359996666667,
+      "actual_start_s": 184.72,
+      "actual_end_s": 188.36,
+      "visible_start_s": 184.24,
+      "visible_end_s": 188.84,
+      "visible_duration_s": 4.6,
+      "source_version": "v001",
+      "source_paragraph_kind": "story_body"
+    },
+    {
+      "id": 26,
+      "title": "皮皮把毛茸茸的小脚丫收进被窝里，",
+      "text": "皮皮把毛茸茸的小脚丫收进被窝里，",
+      "source_ranges": [
+        {
+          "unit_id": "u015",
+          "paragraph_id": "p006",
+          "start_char": 0,
+          "end_char": 16
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "pipi_bedroom_night",
+      "reality": "现实",
+      "action": "依据口播绘制当下真实场景：皮皮把毛茸茸的小脚丫收进被窝里，。鞋子、人物位置和天气状态须与相邻镜头连续；固定静态水彩。",
+      "motion": "fixed",
+      "image": "images/shot_25.png",
+      "reference_manifest": "references/shot_25.json",
+      "speech_start_s": 188.78772916666668,
+      "speech_end_s": 193.3392281666667,
+      "actual_start_s": 188.36,
+      "actual_end_s": 193.6,
+      "visible_start_s": 187.88000000000002,
+      "visible_end_s": 194.07999999999998,
+      "visible_duration_s": 6.2,
+      "source_version": "v001",
+      "source_paragraph_kind": "story_body"
+    },
+    {
+      "id": 27,
+      "title": "暖暖的黄毛毯马上落下来，给小脚腾出了最舒服的位置",
+      "text": "暖暖的黄毛毯马上落下来，给小脚腾出了最舒服的位置。",
+      "source_ranges": [
+        {
+          "unit_id": "u015",
+          "paragraph_id": "p006",
+          "start_char": 16,
+          "end_char": 41
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "pipi_bedroom_night",
+      "reality": "现实",
+      "action": "依据口播绘制当下真实场景：暖暖的黄毛毯马上落下来，给小脚腾出了最舒服的位置。。鞋子、人物位置和天气状态须与相邻镜头连续；固定静态水彩。",
+      "motion": "fixed",
+      "image": "images/shot_26.png",
+      "reference_manifest": "references/shot_26.json",
+      "speech_start_s": 193.89689516666667,
+      "speech_end_s": 201.13535316666668,
+      "actual_start_s": 193.6,
+      "actual_end_s": 201.6,
+      "visible_start_s": 193.12,
+      "visible_end_s": 202.07999999999998,
+      "visible_duration_s": 8.96,
+      "source_version": "v001",
+      "source_paragraph_kind": "story_body"
+    },
+    {
+      "id": 28,
+      "title": "小拖鞋今晚不用再出发了。",
+      "text": "小拖鞋今晚不用再出发了。",
+      "source_ranges": [
+        {
+          "unit_id": "u016",
+          "paragraph_id": "p007",
+          "start_char": 0,
+          "end_char": 12
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "pipi_bedroom_night",
+      "reality": "现实",
+      "action": "依据口播绘制当下真实场景：小拖鞋今晚不用再出发了。。鞋子、人物位置和天气状态须与相邻镜头连续；固定静态水彩。",
+      "motion": "fixed",
+      "image": "images/shot_27.png",
+      "reference_manifest": "references/shot_27.json",
+      "speech_start_s": 202.03702083333334,
+      "speech_end_s": 205.52781216666668,
+      "actual_start_s": 201.6,
+      "actual_end_s": 206.08,
+      "visible_start_s": 201.12,
+      "visible_end_s": 206.56,
+      "visible_duration_s": 5.44,
+      "source_version": "v001",
+      "source_paragraph_kind": "story_body"
+    },
+    {
+      "id": 29,
+      "title": "明天的小路还没有打开，而今天的小路，",
+      "text": "明天的小路还没有打开，而今天的小路，",
+      "source_ranges": [
+        {
+          "unit_id": "u017",
+          "paragraph_id": "p007",
+          "start_char": 0,
+          "end_char": 18
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "pipi_bedroom_night",
+      "reality": "现实",
+      "action": "依据口播绘制当下真实场景：明天的小路还没有打开，而今天的小路，。鞋子、人物位置和天气状态须与相邻镜头连续；固定静态水彩。",
+      "motion": "fixed",
+      "image": "images/shot_28.png",
+      "reference_manifest": "references/shot_28.json",
+      "speech_start_s": 206.63524933333335,
+      "speech_end_s": 211.59683333333334,
+      "actual_start_s": 206.08,
+      "actual_end_s": 211.76,
+      "visible_start_s": 205.60000000000002,
+      "visible_end_s": 212.23999999999998,
+      "visible_duration_s": 6.64,
+      "source_version": "v001",
+      "source_paragraph_kind": "story_body"
+    },
+    {
+      "id": 30,
+      "title": "已经稳稳当当地走完了。",
+      "text": "已经稳稳当当地走完了。",
+      "source_ranges": [
+        {
+          "unit_id": "u017",
+          "paragraph_id": "p007",
+          "start_char": 18,
+          "end_char": 29
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "pipi_bedroom_night",
+      "reality": "现实",
+      "action": "依据口播绘制当下真实场景：已经稳稳当当地走完了。。鞋子、人物位置和天气状态须与相邻镜头连续；固定静态水彩。",
+      "motion": "fixed",
+      "image": "images/shot_29.png",
+      "reference_manifest": "references/shot_29.json",
+      "speech_start_s": 211.90449933333335,
+      "speech_end_s": 214.69295733333334,
+      "actual_start_s": 211.76,
+      "actual_end_s": 215.12,
+      "visible_start_s": 211.28,
+      "visible_end_s": 215.6,
+      "visible_duration_s": 4.32,
+      "source_version": "v001",
+      "source_paragraph_kind": "story_body"
+    },
+    {
+      "id": 31,
+      "title": "皮皮靠好枕头，听见晚风在门外停了一停，",
+      "text": "皮皮靠好枕头，听见晚风在门外停了一停，",
+      "source_ranges": [
+        {
+          "unit_id": "u018",
+          "paragraph_id": "p007",
+          "start_char": 0,
+          "end_char": 19
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "pipi_bedroom_night",
+      "reality": "现实",
+      "action": "依据口播绘制当下真实场景：皮皮靠好枕头，听见晚风在门外停了一停，。鞋子、人物位置和天气状态须与相邻镜头连续；固定静态水彩。",
+      "motion": "fixed",
+      "image": "images/shot_30.png",
+      "reference_manifest": "references/shot_30.json",
+      "speech_start_s": 215.58210416666668,
+      "speech_end_s": 221.21131250000002,
+      "actual_start_s": 215.12,
+      "actual_end_s": 221.44,
+      "visible_start_s": 214.64000000000001,
+      "visible_end_s": 221.92,
+      "visible_duration_s": 7.28,
+      "source_version": "v001",
+      "source_paragraph_kind": "story_body"
+    },
+    {
+      "id": 32,
+      "title": "屋里再也没有新的脚步声。",
+      "text": "屋里再也没有新的脚步声。",
+      "source_ranges": [
+        {
+          "unit_id": "u018",
+          "paragraph_id": "p007",
+          "start_char": 19,
+          "end_char": 31
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "pipi_bedroom_night",
+      "reality": "现实",
+      "action": "依据口播绘制当下真实场景：屋里再也没有新的脚步声。。鞋子、人物位置和天气状态须与相邻镜头连续；固定静态水彩。",
+      "motion": "fixed",
+      "image": "images/shot_31.png",
+      "reference_manifest": "references/shot_31.json",
+      "speech_start_s": 221.6921035,
+      "speech_end_s": 224.73056150000002,
+      "actual_start_s": 221.44,
+      "actual_end_s": 225.2,
+      "visible_start_s": 220.96,
+      "visible_end_s": 225.67999999999998,
+      "visible_duration_s": 4.72,
+      "source_version": "v001",
+      "source_paragraph_kind": "story_body"
+    },
+    {
+      "id": 33,
+      "title": "他抱着胡萝卜玩偶，慢慢闭上眼睛。",
+      "text": "他抱着胡萝卜玩偶，慢慢闭上眼睛。",
+      "source_ranges": [
+        {
+          "unit_id": "u019",
+          "paragraph_id": "p008",
+          "start_char": 0,
+          "end_char": 16
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "pipi_bedroom_night",
+      "reality": "现实",
+      "action": "依据口播绘制当下真实场景：他抱着胡萝卜玩偶，慢慢闭上眼睛。。鞋子、人物位置和天气状态须与相邻镜头连续；固定静态水彩。",
+      "motion": "fixed",
+      "image": "images/shot_32.png",
+      "reference_manifest": "references/shot_32.json",
+      "speech_start_s": 225.63275000000002,
+      "speech_end_s": 230.16083233333336,
+      "actual_start_s": 225.2,
+      "actual_end_s": 230.6,
+      "visible_start_s": 224.72,
+      "visible_end_s": 231.07999999999998,
+      "visible_duration_s": 6.36,
+      "source_version": "v001",
+      "source_paragraph_kind": "story_body"
+    },
+    {
+      "id": 34,
+      "title": "小拖鞋乖乖地坐在床下，陪着小木床一起歇息。",
+      "text": "小拖鞋乖乖地坐在床下，陪着小木床一起歇息。",
+      "source_ranges": [
+        {
+          "unit_id": "u020",
+          "paragraph_id": "p008",
+          "start_char": 0,
+          "end_char": 21
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "pipi_bedroom_night",
+      "reality": "现实",
+      "action": "依据口播绘制当下真实场景：小拖鞋乖乖地坐在床下，陪着小木床一起歇息。。鞋子、人物位置和天气状态须与相邻镜头连续；固定静态水彩。",
+      "motion": "fixed",
+      "image": "images/shot_33.png",
+      "reference_manifest": "references/shot_33.json",
+      "speech_start_s": 231.07864583333335,
+      "speech_end_s": 237.1793951666667,
+      "actual_start_s": 230.6,
+      "actual_end_s": 237.64,
+      "visible_start_s": 230.12,
+      "visible_end_s": 238.11999999999998,
+      "visible_duration_s": 8.0,
+      "source_version": "v001",
+      "source_paragraph_kind": "story_body"
+    },
+    {
+      "id": 35,
+      "title": "小朋友，你的小脚丫今天也走了很远的路吧。",
+      "text": "小朋友，你的小脚丫今天也走了很远的路吧。",
+      "source_ranges": [
+        {
+          "unit_id": "u021",
+          "paragraph_id": "p008",
+          "start_char": 0,
+          "end_char": 20
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "pipi_bedroom_night",
+      "reality": "现实",
+      "action": "依据口播绘制当下真实场景：小朋友，你的小脚丫今天也走了很远的路吧。。鞋子、人物位置和天气状态须与相邻镜头连续；固定静态水彩。",
+      "motion": "fixed",
+      "image": "images/shot_34.png",
+      "reference_manifest": "references/shot_34.json",
+      "speech_start_s": 238.09527083333336,
+      "speech_end_s": 243.64087500000002,
+      "actual_start_s": 237.64,
+      "actual_end_s": 244.08,
+      "visible_start_s": 237.16,
+      "visible_end_s": 244.56,
+      "visible_duration_s": 7.4,
+      "source_version": "v001",
+      "source_paragraph_kind": "story_body"
+    },
+    {
+      "id": 36,
+      "title": "现在，把鞋子留在床边，让小脚在被窝里暖暖地休息。",
+      "text": "现在，把鞋子留在床边，让小脚在被窝里暖暖地休息。",
+      "source_ranges": [
+        {
+          "unit_id": "u022",
+          "paragraph_id": "p008",
+          "start_char": 0,
+          "end_char": 24
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "pipi_bedroom_night",
+      "reality": "现实",
+      "action": "依据口播绘制当下真实场景：现在，把鞋子留在床边，让小脚在被窝里暖暖地休息。。鞋子、人物位置和天气状态须与相邻镜头连续；固定静态水彩。",
+      "motion": "fixed",
+      "image": "images/shot_35.png",
+      "reference_manifest": "references/shot_35.json",
+      "speech_start_s": 244.54362500000002,
+      "speech_end_s": 251.88920800000002,
+      "actual_start_s": 244.08,
+      "actual_end_s": 252.36,
+      "visible_start_s": 243.60000000000002,
+      "visible_end_s": 252.84,
+      "visible_duration_s": 9.24,
+      "source_version": "v001",
+      "source_paragraph_kind": "story_body"
+    },
+    {
+      "id": 37,
+      "title": "晚安，我们明天再慢慢出发。",
+      "text": "晚安，我们明天再慢慢出发。",
+      "source_ranges": [
+        {
+          "unit_id": "u023",
+          "paragraph_id": "p008",
+          "start_char": 0,
+          "end_char": 13
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "pipi_bedroom_night",
+      "reality": "现实",
+      "action": "依据口播绘制当下真实场景：晚安，我们明天再慢慢出发。。鞋子、人物位置和天气状态须与相邻镜头连续；固定静态水彩。",
+      "motion": "fixed",
+      "image": "images/shot_36.png",
+      "reference_manifest": "references/shot_36.json",
+      "speech_start_s": 252.8200416666667,
+      "speech_end_s": 256.4492076666667,
+      "actual_start_s": 252.36,
+      "actual_end_s": 264.68,
+      "visible_start_s": 251.88000000000002,
+      "visible_end_s": 264.68,
+      "visible_duration_s": 12.8,
+      "source_version": "v001",
+      "source_paragraph_kind": "story_body"
+    }
+  ],
+  "audio": "mix.wav",
+  "subtitles": "episode.ass",
+  "character_registry": "references/",
+  "fonts": [
+    {
+      "path": "fonts/NotoSansCJKsc-Bold.otf",
+      "sha256": "85c969dbb2f927c8dbbe440d5755b7c9a714f13a7a58339459df43cfff3583b3"
+    },
+    {
+      "path": "fonts/Noto-Sans-copyright.txt",
+      "sha256": "075f91382875da1c4b491f1facf2586f55448705133264d98ce15cab6211b125"
+    },
+    {
+      "path": "fonts/NotoSans-Regular.ttf",
+      "sha256": "89c3c497f618fdaa0b2d1e98fef93582f28c71debd2c4a8cdf41f190ced2909d"
+    },
+    {
+      "path": "fonts/NotoSansCJKsc-Regular.otf",
+      "sha256": "82e9bdfd176ce68c51f6ff89ca7e2abae7fdb82b4591aa7338638598ae3c91c8"
+    },
+    {
+      "path": "fonts/Noto-CJK-copyright.txt",
+      "sha256": "849f4ea9c214fa4ac3593b770c699f387534b11ce671264c1b10d85bdcb5997b"
+    }
+  ]
+}

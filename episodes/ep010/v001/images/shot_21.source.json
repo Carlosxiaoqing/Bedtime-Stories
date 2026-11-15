@@ -1,0 +1,10 @@
+{
+  "source": "OpenAI image_gen",
+  "prompt_file": "prompts/shot_21.txt",
+  "sha256": "8bc9608253c7d53ba6acf86f6054892e3b063b4bff5861934ce67c05b669b32d",
+  "size": [
+    992,
+    1586
+  ],
+  "review": "visually_reviewed_contact_sheet"
+}

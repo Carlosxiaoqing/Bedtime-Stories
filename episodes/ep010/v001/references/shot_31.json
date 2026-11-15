@@ -1,0 +1,15 @@
+{
+  "characters": [
+    {
+      "character_id": "pipi",
+      "path": "references/pipi_identity_v001.png",
+      "version": "v001",
+      "sha256": "6f754c72b9fa7281790bb1fce42bb18701ea055446fda2cdec7ae58b92232674"
+    }
+  ],
+  "image_dimensions": [
+    941,
+    1672
+  ],
+  "image_sha256": "3e67339bebbe316b6867591e8510f22acfc54c56493906b6d8322751e24101d5"
+}

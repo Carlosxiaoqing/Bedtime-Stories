@@ -1,0 +1,395 @@
+{
+  "text": "皮皮放心地合上绘本，把它轻轻平放在床头柜上。绿色的布书签从书页间露出一小截，像在安静地对他招手说“明天见”。\n皮皮把床头灯调暗，拉好暖黄色的毛毯。书里的秘密花园留在了书里，而他自己温暖的小床，就在身边。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "9a7fb9457f077944fe479a4311667e90026888a087f9a115822f7c665d1ac17c",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5577080,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7230830,
+      "duration": 5769160,
+      "text": "放心"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13000000,
+      "duration": 1346250,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14730830,
+      "duration": 5769160,
+      "text": "合上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20500000,
+      "duration": 6922910,
+      "text": "绘本"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31846250,
+      "duration": 2115410,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33961660,
+      "duration": 2115410,
+      "text": "它"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36269160,
+      "duration": 5769160,
+      "text": "轻轻"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 42038330,
+      "duration": 7692500,
+      "text": "平放"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 51269160,
+      "duration": 2884580,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 54538330,
+      "duration": 9807500,
+      "text": "床头柜"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 64346250,
+      "duration": 4615410,
+      "text": "上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 77884580,
+      "duration": 6153750,
+      "text": "绿色"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 84038330,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 85577080,
+      "duration": 1922910,
+      "text": "布"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 87500000,
+      "duration": 8269160,
+      "text": "书签"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 97307500,
+      "duration": 3269160,
+      "text": "从"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 100769160,
+      "duration": 5769160,
+      "text": "书页"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 106538330,
+      "duration": 3461660,
+      "text": "间"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 110384580,
+      "duration": 3846250,
+      "text": "露出"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 114422910,
+      "duration": 1922910,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 116346250,
+      "duration": 3269160,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 119615410,
+      "duration": 5000000,
+      "text": "截"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 129807500,
+      "duration": 2884580,
+      "text": "像"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 132692500,
+      "duration": 1730830,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 134615410,
+      "duration": 7115410,
+      "text": "安静"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 141730830,
+      "duration": 3653750,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 146922910,
+      "duration": 2115410,
+      "text": "对"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 149038330,
+      "duration": 1922910,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 151153750,
+      "duration": 5961660,
+      "text": "招手"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 157115410,
+      "duration": 5192500,
+      "text": "说"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 163846250,
+      "duration": 6538330,
+      "text": "明天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 170384580,
+      "duration": 4230830,
+      "text": "见"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 183269160,
+      "duration": 5000000,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 188653750,
+      "duration": 1922910,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 190769160,
+      "duration": 6153750,
+      "text": "床头"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 197115410,
+      "duration": 2692080,
+      "text": "灯"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 199807500,
+      "duration": 3269160,
+      "text": "调"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 203077080,
+      "duration": 3846250,
+      "text": "暗"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 211538330,
+      "duration": 2307500,
+      "text": "拉"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 213846250,
+      "duration": 4038330,
+      "text": "好"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 218269160,
+      "duration": 3077080,
+      "text": "暖"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 221346250,
+      "duration": 6153750,
+      "text": "黄色"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 227500000,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 228846250,
+      "duration": 7884580,
+      "text": "毛毯"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 245577080,
+      "duration": 4230410,
+      "text": "书"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 249807500,
+      "duration": 1730830,
+      "text": "里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 251538330,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 253269160,
+      "duration": 14038330,
+      "text": "秘密花园"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 268846250,
+      "duration": 2692080,
+      "text": "留"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 271538330,
+      "duration": 2692500,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 274230830,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 275577080,
+      "duration": 4422910,
+      "text": "书"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 280000000,
+      "duration": 3653750,
+      "text": "里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 288269160,
+      "duration": 2500000,
+      "text": "而"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 290769160,
+      "duration": 2115410,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 293077080,
+      "duration": 4230830,
+      "text": "自己"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 297692080,
+      "duration": 5577080,
+      "text": "温暖"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 303269160,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 304615410,
+      "duration": 3461660,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 308077080,
+      "duration": 6153750,
+      "text": "床"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 317307500,
+      "duration": 2307500,
+      "text": "就"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 319615410,
+      "duration": 2307500,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 322115410,
+      "duration": 8077080,
+      "text": "身边"
+    }
+  ]
+}

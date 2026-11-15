@@ -1,0 +1,15 @@
+{
+  "shot_id": 4,
+  "source": "OpenAI image_gen; continuity-directed redraw",
+  "image_path": "images/shot_04.png",
+  "sha256": "9733e9b69ec9be3efa974699271f1119a72c02fd04dbc8e4d2e094fab2dd3d5c",
+  "prompt": "prompts/shot_04.txt",
+  "reference_inputs": [
+    "episodes/ep011/v002/images/shot_01.png",
+    "episodes/ep011/v002/assets/porch_anchor.png",
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+  ],
+  "image_status": "generated_continuity_reviewed",
+  "human_visual_review": "passed; Pipi alone after the invitation, Lili absent; backpack stays inside"
+}

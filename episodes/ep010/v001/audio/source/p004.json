@@ -1,0 +1,413 @@
+{
+  "text": "皮皮好想翻开下一页看看里面有什么呀，可是这时，他打了一个长长的哈欠，眼皮有点发沉了。抬头一看，窗外已经升起了弯弯的月亮，到了该睡觉的时间。\n皮皮摸了摸那页厚厚的画纸，心里有点舍不得马上合上，他怕今天不看完，明天就找不到这扇藤蔓小门了。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "308d6d739a6a6f41b6012cbe561d8d275d314e02297505630ec03545e6aecfb0",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 4230830,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 5692500,
+      "duration": 3269160,
+      "text": "好"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8961660,
+      "duration": 3077080,
+      "text": "想"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12230830,
+      "duration": 4615410,
+      "text": "翻开"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17230830,
+      "duration": 3846250,
+      "text": "下"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21077080,
+      "duration": 1922910,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23000000,
+      "duration": 4230830,
+      "text": "页"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 28769160,
+      "duration": 5384580,
+      "text": "看看"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 34346250,
+      "duration": 7115410,
+      "text": "里面"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 42807500,
+      "duration": 2115410,
+      "text": "有"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 45115410,
+      "duration": 3653750,
+      "text": "什么"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 48769160,
+      "duration": 3846250,
+      "text": "呀"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 57807500,
+      "duration": 4038330,
+      "text": "可是"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 62038330,
+      "duration": 8461660,
+      "text": "这时"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 73577080,
+      "duration": 2115410,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 75884580,
+      "duration": 2884580,
+      "text": "打"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 78769160,
+      "duration": 961660,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 79922910,
+      "duration": 2692500,
+      "text": "一个"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 83000000,
+      "duration": 6730830,
+      "text": "长长"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 89730830,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 91269160,
+      "duration": 7692500,
+      "text": "哈欠"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 102884580,
+      "duration": 5961660,
+      "text": "眼皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 109230830,
+      "duration": 4422910,
+      "text": "有点"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 113846250,
+      "duration": 6730830,
+      "text": "发沉"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 120577080,
+      "duration": 3653750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 132692500,
+      "duration": 5769160,
+      "text": "抬头"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 138653750,
+      "duration": 2115410,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 140769160,
+      "duration": 4422910,
+      "text": "看"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 150384580,
+      "duration": 7115410,
+      "text": "窗外"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 157884580,
+      "duration": 4038330,
+      "text": "已经"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 162115410,
+      "duration": 5384580,
+      "text": "升起"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 167500000,
+      "duration": 1538330,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 169422910,
+      "duration": 14422910,
+      "text": "弯弯的月亮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 187692500,
+      "duration": 2692080,
+      "text": "到"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 190384580,
+      "duration": 1346250,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 192115410,
+      "duration": 2115410,
+      "text": "该"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 194422910,
+      "duration": 6153750,
+      "text": "睡觉"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 200577080,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 201922910,
+      "duration": 7500000,
+      "text": "时间"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 218269160,
+      "duration": 3269160,
+      "text": "皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 221538330,
+      "duration": 5577080,
+      "text": "皮摸"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 227115410,
+      "duration": 1730830,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 228846250,
+      "duration": 2884580,
+      "text": "摸"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 231922910,
+      "duration": 2692500,
+      "text": "那"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 234615410,
+      "duration": 2884580,
+      "text": "页"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 237500000,
+      "duration": 5577080,
+      "text": "厚厚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 243077080,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 244807500,
+      "duration": 8653750,
+      "text": "画纸"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 258461660,
+      "duration": 4422910,
+      "text": "心里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 263077080,
+      "duration": 12884580,
+      "text": "有点舍不得"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 276346250,
+      "duration": 6153750,
+      "text": "马上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 282692500,
+      "duration": 8077080,
+      "text": "合上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 295384580,
+      "duration": 1922910,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 297307500,
+      "duration": 2115410,
+      "text": "怕"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 299615410,
+      "duration": 5577080,
+      "text": "今天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 305384580,
+      "duration": 1730830,
+      "text": "不"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 307115410,
+      "duration": 7692500,
+      "text": "看完"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 318461660,
+      "duration": 6922910,
+      "text": "明天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 325577080,
+      "duration": 1922910,
+      "text": "就"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 327692080,
+      "duration": 2884580,
+      "text": "找"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 330577080,
+      "duration": 1345830,
+      "text": "不"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 331922910,
+      "duration": 2307500,
+      "text": "到"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 334422910,
+      "duration": 2115410,
+      "text": "这"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 336538330,
+      "duration": 2884580,
+      "text": "扇"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 339422910,
+      "duration": 5000000,
+      "text": "藤蔓"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 344615410,
+      "duration": 6346250,
+      "text": "小门"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 350961660,
+      "duration": 3653750,
+      "text": "了"
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "text": "皮皮把毛茸茸的小脚丫收进被窝里，暖暖的黄毛毯马上落下来，给小脚腾出了最舒服的位置。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "5d6298c502db58776de3358f06ec23a16d2ff85dd0f489b1cad307d2fd357ee6",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5192500,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6846250,
+      "duration": 2115410,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9153750,
+      "duration": 7692500,
+      "text": "毛茸茸"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16846250,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18192500,
+      "duration": 10769160,
+      "text": "小脚丫"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30500000,
+      "duration": 3269160,
+      "text": "收"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33769160,
+      "duration": 5000000,
+      "text": "进被"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 38961660,
+      "duration": 8077080,
+      "text": "窝里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 52615410,
+      "duration": 5192080,
+      "text": "暖暖"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 57807500,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 59153750,
+      "duration": 9422910,
+      "text": "黄毛毯"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 68961660,
+      "duration": 6730830,
+      "text": "马上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 75884580,
+      "duration": 2692500,
+      "text": "落"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 78577080,
+      "duration": 6922910,
+      "text": "下来"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 89422910,
+      "duration": 2692500,
+      "text": "给"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 92115410,
+      "duration": 8461660,
+      "text": "小脚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 100961660,
+      "duration": 3461250,
+      "text": "腾"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 104422910,
+      "duration": 1922910,
+      "text": "出"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 106346250,
+      "duration": 1346250,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 108077080,
+      "duration": 3076660,
+      "text": "最"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 111153750,
+      "duration": 5192500,
+      "text": "舒服"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 116346250,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 117884580,
+      "duration": 7115410,
+      "text": "位置"
+    }
+  ]
+}

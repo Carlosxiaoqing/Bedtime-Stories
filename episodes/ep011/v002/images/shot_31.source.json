@@ -1,0 +1,14 @@
+{
+  "shot_id": 31,
+  "source": "OpenAI image_gen; targeted backpack continuity edit",
+  "image_path": "images/shot_31.png",
+  "sha256": "d536146b8357e9456a7771b7d0934778ae1d753421ee5b57842f3c8fee6bd3f4",
+  "prompt": "prompts/shot_31.txt",
+  "reference_inputs": [
+    "episodes/ep011/v002/images/shot_31.png (pre-edit frame)",
+    "episodes/ep011/v002/assets/porch_anchor.png",
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+  ],
+  "image_status": "generated_continuity_reviewed",
+  "human_visual_review": "passed; berry action and same porch assets; backpack inside"
+}

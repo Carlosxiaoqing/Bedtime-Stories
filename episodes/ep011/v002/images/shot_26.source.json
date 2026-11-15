@@ -1,0 +1,16 @@
+{
+  "shot_id": 26,
+  "source": "OpenAI image_gen; continuity-directed scene redraw",
+  "image_path": "images/shot_26.png",
+  "sha256": "af251f6bdeb9ac73a15237e47e38b9ca430a9ab4cab67c2956fe575c184defc7",
+  "prompt": "prompts/shot_26.txt",
+  "reference_inputs": [
+    "episodes/ep011/v002/images/shot_25.png",
+    "episodes/ep011/v002/assets/stool_cloth_anchor.png",
+    "episodes/ep011/v002/images/shot_07.png",
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+  ],
+  "image_status": "generated_continuity_reviewed",
+  "human_visual_review": "passed; Pipi invites, Lili remains standing; same cloth-covered stool, bare chair and table contents persist"
+}

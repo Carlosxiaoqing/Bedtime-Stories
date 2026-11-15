@@ -1,0 +1,14 @@
+{
+  "shot_id": 34,
+  "source": "OpenAI image_gen; targeted backpack continuity edit",
+  "image_path": "images/shot_34.png",
+  "sha256": "4c3f7473e372e4449955cc7ccfb05108b7770ec435b38c367bec0a387b17ae4e",
+  "prompt": "prompts/shot_34.txt",
+  "reference_inputs": [
+    "episodes/ep011/v002/images/shot_34.png (pre-edit frame)",
+    "episodes/ep011/v002/assets/porch_anchor.png",
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+  ],
+  "image_status": "generated_continuity_reviewed",
+  "human_visual_review": "passed; Lili folds same cloth from same stool, backpack inside"
+}

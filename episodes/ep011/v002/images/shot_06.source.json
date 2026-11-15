@@ -1,0 +1,15 @@
+{
+  "shot_id": 6,
+  "source": "OpenAI image_gen; continuity-directed redraw",
+  "image_path": "images/shot_06.png",
+  "sha256": "b4d0202ee03d1b34acf6803406aed5eaaeb0cbe20e64f6d4b6e0b54382f7ba78",
+  "prompt": "prompts/shot_06.txt",
+  "reference_inputs": [
+    "episodes/ep011/v002/images/shot_31.png",
+    "episodes/ep011/v002/assets/porch_anchor.png",
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+  ],
+  "image_status": "generated_continuity_reviewed",
+  "human_visual_review": "passed; Pipi alone sweeps, backpack inside, table bare before berry setup"
+}

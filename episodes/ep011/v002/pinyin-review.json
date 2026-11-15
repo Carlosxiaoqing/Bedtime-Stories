@@ -1,0 +1,483 @@
+{
+  "hanzi": 811,
+  "cues": 143,
+  "pinyin_coverage": 1.0,
+  "context_review": "completed_against_episode_text",
+  "target_font_px": {
+    "hanzi": 76,
+    "pinyin": 48
+  },
+  "libass_fontsize_calibration": {
+    "hanzi": 114,
+    "pinyin": 66,
+    "reason": "match actual rasterized glyph scale to bundled-font 76px/48px reference; libass normalizes font metrics"
+  },
+  "audio_pronunciation_listen_review": "not_certified",
+  "overrides": [
+    {
+      "phrase": "舒服",
+      "pinyin": [
+        "shū",
+        "fu"
+      ],
+      "context": "小朋友们，准备好听故事了吗？今天的故事叫《小刺猬的软座位》。栗栗来做客，皮皮会怎样为好朋友找到舒服的位置呢？",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "朋友",
+      "pinyin": [
+        "péng",
+        "you"
+      ],
+      "context": "小朋友们，准备好听故事了吗？今天的故事叫《小刺猬的软座位》。栗栗来做客，皮皮会怎样为好朋友找到舒服的位置呢？",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "朋友",
+      "pinyin": [
+        "péng",
+        "you"
+      ],
+      "context": "小朋友们，准备好听故事了吗？今天的故事叫《小刺猬的软座位》。栗栗来做客，皮皮会怎样为好朋友找到舒服的位置呢？",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "小朋友们，准备好听故事了吗？今天的故事叫《小刺猬的软座位》。栗栗来做客，皮皮会怎样为好朋友找到舒服的位置呢？",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "栗栗",
+      "pinyin": [
+        "lì",
+        "lì"
+      ],
+      "context": "小朋友们，准备好听故事了吗？今天的故事叫《小刺猬的软座位》。栗栗来做客，皮皮会怎样为好朋友找到舒服的位置呢？",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "刺猬",
+      "pinyin": [
+        "cì",
+        "wei"
+      ],
+      "context": "小朋友们，准备好听故事了吗？今天的故事叫《小刺猬的软座位》。栗栗来做客，皮皮会怎样为好朋友找到舒服的位置呢？",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "朋友",
+      "pinyin": [
+        "péng",
+        "you"
+      ],
+      "context": "今天皮皮做了一件很有成就感的事——他邀请好朋友小刺猬栗栗，放学后到自己的小木屋来做客。\n为了迎接栗栗，皮皮下午一回家，就把门廊打扫得干干净净，还在小木桌上摆好了洗干净的红浆果。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "今天皮皮做了一件很有成就感的事——他邀请好朋友小刺猬栗栗，放学后到自己的小木屋来做客。\n为了迎接栗栗，皮皮下午一回家，就把门廊打扫得干干净净，还在小木桌上摆好了洗干净的红浆果。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "今天皮皮做了一件很有成就感的事——他邀请好朋友小刺猬栗栗，放学后到自己的小木屋来做客。\n为了迎接栗栗，皮皮下午一回家，就把门廊打扫得干干净净，还在小木桌上摆好了洗干净的红浆果。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "栗栗",
+      "pinyin": [
+        "lì",
+        "lì"
+      ],
+      "context": "今天皮皮做了一件很有成就感的事——他邀请好朋友小刺猬栗栗，放学后到自己的小木屋来做客。\n为了迎接栗栗，皮皮下午一回家，就把门廊打扫得干干净净，还在小木桌上摆好了洗干净的红浆果。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "栗栗",
+      "pinyin": [
+        "lì",
+        "lì"
+      ],
+      "context": "今天皮皮做了一件很有成就感的事——他邀请好朋友小刺猬栗栗，放学后到自己的小木屋来做客。\n为了迎接栗栗，皮皮下午一回家，就把门廊打扫得干干净净，还在小木桌上摆好了洗干净的红浆果。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "刺猬",
+      "pinyin": [
+        "cì",
+        "wei"
+      ],
+      "context": "今天皮皮做了一件很有成就感的事——他邀请好朋友小刺猬栗栗，放学后到自己的小木屋来做客。\n为了迎接栗栗，皮皮下午一回家，就把门廊打扫得干干净净，还在小木桌上摆好了洗干净的红浆果。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "背着",
+      "pinyin": [
+        "bēi",
+        "zhe"
+      ],
+      "context": "傍晚的时候，栗栗背着他那身褐色的小刺，害羞地走上了小木屋的门廊。\n皮皮热情地搬出一把带靠背的小木椅，还特意从屋里抱来了一只最高、最蓬松的鹅毛大坐垫放在上面，说：“栗栗，快请坐！”",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "傍晚的时候，栗栗背着他那身褐色的小刺，害羞地走上了小木屋的门廊。\n皮皮热情地搬出一把带靠背的小木椅，还特意从屋里抱来了一只最高、最蓬松的鹅毛大坐垫放在上面，说：“栗栗，快请坐！”",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "栗栗",
+      "pinyin": [
+        "lì",
+        "lì"
+      ],
+      "context": "傍晚的时候，栗栗背着他那身褐色的小刺，害羞地走上了小木屋的门廊。\n皮皮热情地搬出一把带靠背的小木椅，还特意从屋里抱来了一只最高、最蓬松的鹅毛大坐垫放在上面，说：“栗栗，快请坐！”",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "栗栗",
+      "pinyin": [
+        "lì",
+        "lì"
+      ],
+      "context": "傍晚的时候，栗栗背着他那身褐色的小刺，害羞地走上了小木屋的门廊。\n皮皮热情地搬出一把带靠背的小木椅，还特意从屋里抱来了一只最高、最蓬松的鹅毛大坐垫放在上面，说：“栗栗，快请坐！”",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "摇晃",
+      "pinyin": [
+        "yáo",
+        "huàng"
+      ],
+      "context": "栗栗小心地爬上鹅毛大坐垫。可是大坐垫太软、太高了，栗栗圆滚滚的身子一坐上去，就像坐在一团不听话的云朵上，摇摇晃晃的，两只小短腿悬在半空中够不着地；而且他一往后靠，背上的小刺就会“咔嚓”一下顶在木椅背上，弄得他只好拘束地挺直腰板，不停地悄悄换姿势。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "栗栗",
+      "pinyin": [
+        "lì",
+        "lì"
+      ],
+      "context": "栗栗小心地爬上鹅毛大坐垫。可是大坐垫太软、太高了，栗栗圆滚滚的身子一坐上去，就像坐在一团不听话的云朵上，摇摇晃晃的，两只小短腿悬在半空中够不着地；而且他一往后靠，背上的小刺就会“咔嚓”一下顶在木椅背上，弄得他只好拘束地挺直腰板，不停地悄悄换姿势。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "栗栗",
+      "pinyin": [
+        "lì",
+        "lì"
+      ],
+      "context": "栗栗小心地爬上鹅毛大坐垫。可是大坐垫太软、太高了，栗栗圆滚滚的身子一坐上去，就像坐在一团不听话的云朵上，摇摇晃晃的，两只小短腿悬在半空中够不着地；而且他一往后靠，背上的小刺就会“咔嚓”一下顶在木椅背上，弄得他只好拘束地挺直腰板，不停地悄悄换姿势。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "朋友",
+      "pinyin": [
+        "péng",
+        "you"
+      ],
+      "context": "皮皮端着浆果走过来，敏锐地发现了好朋友的不自在。\n他没有催栗栗快吃果子，而是蹲下来观察了一下，恍然大悟：“啊，这个垫子太高啦，而且椅背挡着你的小刺了，对不对？”",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮端着浆果走过来，敏锐地发现了好朋友的不自在。\n他没有催栗栗快吃果子，而是蹲下来观察了一下，恍然大悟：“啊，这个垫子太高啦，而且椅背挡着你的小刺了，对不对？”",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "栗栗",
+      "pinyin": [
+        "lì",
+        "lì"
+      ],
+      "context": "皮皮端着浆果走过来，敏锐地发现了好朋友的不自在。\n他没有催栗栗快吃果子，而是蹲下来观察了一下，恍然大悟：“啊，这个垫子太高啦，而且椅背挡着你的小刺了，对不对？”",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "个",
+      "pinyin": [
+        "ge"
+      ],
+      "context": "皮皮端着浆果走过来，敏锐地发现了好朋友的不自在。\n他没有催栗栗快吃果子，而是蹲下来观察了一下，恍然大悟：“啊，这个垫子太高啦，而且椅背挡着你的小刺了，对不对？”",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮没有再把垫子堆高。他把蓬松的大坐垫抱走，换了一张矮矮的、没有靠背的圆木凳，又从篮子里找出一块厚实又平整的粗棉软布，四四方方地铺在矮凳面上。\n“栗栗，你再试试这个座位？”皮皮温柔地邀请道。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮没有再把垫子堆高。他把蓬松的大坐垫抱走，换了一张矮矮的、没有靠背的圆木凳，又从篮子里找出一块厚实又平整的粗棉软布，四四方方地铺在矮凳面上。\n“栗栗，你再试试这个座位？”皮皮温柔地邀请道。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "栗栗",
+      "pinyin": [
+        "lì",
+        "lì"
+      ],
+      "context": "皮皮没有再把垫子堆高。他把蓬松的大坐垫抱走，换了一张矮矮的、没有靠背的圆木凳，又从篮子里找出一块厚实又平整的粗棉软布，四四方方地铺在矮凳面上。\n“栗栗，你再试试这个座位？”皮皮温柔地邀请道。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "铺在",
+      "pinyin": [
+        "pū",
+        "zài"
+      ],
+      "context": "皮皮没有再把垫子堆高。他把蓬松的大坐垫抱走，换了一张矮矮的、没有靠背的圆木凳，又从篮子里找出一块厚实又平整的粗棉软布，四四方方地铺在矮凳面上。\n“栗栗，你再试试这个座位？”皮皮温柔地邀请道。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "温柔地",
+      "pinyin": [
+        "wēn",
+        "róu",
+        "de"
+      ],
+      "context": "皮皮没有再把垫子堆高。他把蓬松的大坐垫抱走，换了一张矮矮的、没有靠背的圆木凳，又从篮子里找出一块厚实又平整的粗棉软布，四四方方地铺在矮凳面上。\n“栗栗，你再试试这个座位？”皮皮温柔地邀请道。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "个",
+      "pinyin": [
+        "ge"
+      ],
+      "context": "皮皮没有再把垫子堆高。他把蓬松的大坐垫抱走，换了一张矮矮的、没有靠背的圆木凳，又从篮子里找出一块厚实又平整的粗棉软布，四四方方地铺在矮凳面上。\n“栗栗，你再试试这个座位？”皮皮温柔地邀请道。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "栗栗",
+      "pinyin": [
+        "lì",
+        "lì"
+      ],
+      "context": "栗栗慢慢地坐了上去。这回，他的小脚丫稳稳地踩在了门廊的木地板上，背后的小刺也可以自在地舒展着，再也不会挤在椅背上了。\n栗栗开心地舒了一口气，拿起一颗红浆果放进嘴里，甜得眼睛都弯成了月牙。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "栗栗",
+      "pinyin": [
+        "lì",
+        "lì"
+      ],
+      "context": "栗栗慢慢地坐了上去。这回，他的小脚丫稳稳地踩在了门廊的木地板上，背后的小刺也可以自在地舒展着，再也不会挤在椅背上了。\n栗栗开心地舒了一口气，拿起一颗红浆果放进嘴里，甜得眼睛都弯成了月牙。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "并排",
+      "pinyin": [
+        "bìng",
+        "pái"
+      ],
+      "context": "两位好朋友并排坐在门廊下，安安静静地看了一会儿傍晚的天空。谁也没有急着说很多话，粉红色的晚霞和云朵慢悠悠地从屋顶飘过。\n天快黑的时候，栗栗准备回家了，他礼貌地把那块软布仔细叠好。皮皮摆摆小爪子，笑着说：“不用收走呀，就放在这儿，明天你来玩，还给你留着这个专属座位。”",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "爪子",
+      "pinyin": [
+        "zhuǎ",
+        "zi"
+      ],
+      "context": "两位好朋友并排坐在门廊下，安安静静地看了一会儿傍晚的天空。谁也没有急着说很多话，粉红色的晚霞和云朵慢悠悠地从屋顶飘过。\n天快黑的时候，栗栗准备回家了，他礼貌地把那块软布仔细叠好。皮皮摆摆小爪子，笑着说：“不用收走呀，就放在这儿，明天你来玩，还给你留着这个专属座位。”",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "朋友",
+      "pinyin": [
+        "péng",
+        "you"
+      ],
+      "context": "两位好朋友并排坐在门廊下，安安静静地看了一会儿傍晚的天空。谁也没有急着说很多话，粉红色的晚霞和云朵慢悠悠地从屋顶飘过。\n天快黑的时候，栗栗准备回家了，他礼貌地把那块软布仔细叠好。皮皮摆摆小爪子，笑着说：“不用收走呀，就放在这儿，明天你来玩，还给你留着这个专属座位。”",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "一会儿",
+      "pinyin": [
+        "yí",
+        "huìr",
+        "r"
+      ],
+      "context": "两位好朋友并排坐在门廊下，安安静静地看了一会儿傍晚的天空。谁也没有急着说很多话，粉红色的晚霞和云朵慢悠悠地从屋顶飘过。\n天快黑的时候，栗栗准备回家了，他礼貌地把那块软布仔细叠好。皮皮摆摆小爪子，笑着说：“不用收走呀，就放在这儿，明天你来玩，还给你留着这个专属座位。”",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "这儿",
+      "pinyin": [
+        "zhèr",
+        "r"
+      ],
+      "context": "两位好朋友并排坐在门廊下，安安静静地看了一会儿傍晚的天空。谁也没有急着说很多话，粉红色的晚霞和云朵慢悠悠地从屋顶飘过。\n天快黑的时候，栗栗准备回家了，他礼貌地把那块软布仔细叠好。皮皮摆摆小爪子，笑着说：“不用收走呀，就放在这儿，明天你来玩，还给你留着这个专属座位。”",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "两位好朋友并排坐在门廊下，安安静静地看了一会儿傍晚的天空。谁也没有急着说很多话，粉红色的晚霞和云朵慢悠悠地从屋顶飘过。\n天快黑的时候，栗栗准备回家了，他礼貌地把那块软布仔细叠好。皮皮摆摆小爪子，笑着说：“不用收走呀，就放在这儿，明天你来玩，还给你留着这个专属座位。”",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "栗栗",
+      "pinyin": [
+        "lì",
+        "lì"
+      ],
+      "context": "两位好朋友并排坐在门廊下，安安静静地看了一会儿傍晚的天空。谁也没有急着说很多话，粉红色的晚霞和云朵慢悠悠地从屋顶飘过。\n天快黑的时候，栗栗准备回家了，他礼貌地把那块软布仔细叠好。皮皮摆摆小爪子，笑着说：“不用收走呀，就放在这儿，明天你来玩，还给你留着这个专属座位。”",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "个",
+      "pinyin": [
+        "ge"
+      ],
+      "context": "两位好朋友并排坐在门廊下，安安静静地看了一会儿傍晚的天空。谁也没有急着说很多话，粉红色的晚霞和云朵慢悠悠地从屋顶飘过。\n天快黑的时候，栗栗准备回家了，他礼貌地把那块软布仔细叠好。皮皮摆摆小爪子，笑着说：“不用收走呀，就放在这儿，明天你来玩，还给你留着这个专属座位。”",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "胡萝卜",
+      "pinyin": [
+        "hú",
+        "luó",
+        "bo"
+      ],
+      "context": "送走栗栗后，门廊彻底安静了下来。皮皮走进卧室，在躺下前，也特意把自己的小枕头往里挪了挪，给长长的兔耳朵留出了一个不会被折到的舒服地方。\n他钻进暖黄毛毯，抱着胡萝卜玩偶闭上眼睛。每个人都有最适合自己的舒服位置，今天栗栗找到了，皮皮也找到了。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "舒服",
+      "pinyin": [
+        "shū",
+        "fu"
+      ],
+      "context": "送走栗栗后，门廊彻底安静了下来。皮皮走进卧室，在躺下前，也特意把自己的小枕头往里挪了挪，给长长的兔耳朵留出了一个不会被折到的舒服地方。\n他钻进暖黄毛毯，抱着胡萝卜玩偶闭上眼睛。每个人都有最适合自己的舒服位置，今天栗栗找到了，皮皮也找到了。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "舒服",
+      "pinyin": [
+        "shū",
+        "fu"
+      ],
+      "context": "送走栗栗后，门廊彻底安静了下来。皮皮走进卧室，在躺下前，也特意把自己的小枕头往里挪了挪，给长长的兔耳朵留出了一个不会被折到的舒服地方。\n他钻进暖黄毛毯，抱着胡萝卜玩偶闭上眼睛。每个人都有最适合自己的舒服位置，今天栗栗找到了，皮皮也找到了。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "地方",
+      "pinyin": [
+        "dì",
+        "fang"
+      ],
+      "context": "送走栗栗后，门廊彻底安静了下来。皮皮走进卧室，在躺下前，也特意把自己的小枕头往里挪了挪，给长长的兔耳朵留出了一个不会被折到的舒服地方。\n他钻进暖黄毛毯，抱着胡萝卜玩偶闭上眼睛。每个人都有最适合自己的舒服位置，今天栗栗找到了，皮皮也找到了。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "送走栗栗后，门廊彻底安静了下来。皮皮走进卧室，在躺下前，也特意把自己的小枕头往里挪了挪，给长长的兔耳朵留出了一个不会被折到的舒服地方。\n他钻进暖黄毛毯，抱着胡萝卜玩偶闭上眼睛。每个人都有最适合自己的舒服位置，今天栗栗找到了，皮皮也找到了。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "送走栗栗后，门廊彻底安静了下来。皮皮走进卧室，在躺下前，也特意把自己的小枕头往里挪了挪，给长长的兔耳朵留出了一个不会被折到的舒服地方。\n他钻进暖黄毛毯，抱着胡萝卜玩偶闭上眼睛。每个人都有最适合自己的舒服位置，今天栗栗找到了，皮皮也找到了。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "栗栗",
+      "pinyin": [
+        "lì",
+        "lì"
+      ],
+      "context": "送走栗栗后，门廊彻底安静了下来。皮皮走进卧室，在躺下前，也特意把自己的小枕头往里挪了挪，给长长的兔耳朵留出了一个不会被折到的舒服地方。\n他钻进暖黄毛毯，抱着胡萝卜玩偶闭上眼睛。每个人都有最适合自己的舒服位置，今天栗栗找到了，皮皮也找到了。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "栗栗",
+      "pinyin": [
+        "lì",
+        "lì"
+      ],
+      "context": "送走栗栗后，门廊彻底安静了下来。皮皮走进卧室，在躺下前，也特意把自己的小枕头往里挪了挪，给长长的兔耳朵留出了一个不会被折到的舒服地方。\n他钻进暖黄毛毯，抱着胡萝卜玩偶闭上眼睛。每个人都有最适合自己的舒服位置，今天栗栗找到了，皮皮也找到了。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "个",
+      "pinyin": [
+        "ge"
+      ],
+      "context": "送走栗栗后，门廊彻底安静了下来。皮皮走进卧室，在躺下前，也特意把自己的小枕头往里挪了挪，给长长的兔耳朵留出了一个不会被折到的舒服地方。\n他钻进暖黄毛毯，抱着胡萝卜玩偶闭上眼睛。每个人都有最适合自己的舒服位置，今天栗栗找到了，皮皮也找到了。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "个",
+      "pinyin": [
+        "ge"
+      ],
+      "context": "送走栗栗后，门廊彻底安静了下来。皮皮走进卧室，在躺下前，也特意把自己的小枕头往里挪了挪，给长长的兔耳朵留出了一个不会被折到的舒服地方。\n他钻进暖黄毛毯，抱着胡萝卜玩偶闭上眼睛。每个人都有最适合自己的舒服位置，今天栗栗找到了，皮皮也找到了。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "舒服",
+      "pinyin": [
+        "shū",
+        "fu"
+      ],
+      "context": "小朋友，你的小床上也有专属于你的舒服小位置。慢慢躺好，不用挤，也不用赶。晚安，做个甜甜的梦。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "朋友",
+      "pinyin": [
+        "péng",
+        "you"
+      ],
+      "context": "小朋友，你的小床上也有专属于你的舒服小位置。慢慢躺好，不用挤，也不用赶。晚安，做个甜甜的梦。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "个",
+      "pinyin": [
+        "ge"
+      ],
+      "context": "小朋友，你的小床上也有专属于你的舒服小位置。慢慢躺好，不用挤，也不用赶。晚安，做个甜甜的梦。",
+      "review": "context_checked_not_audio_listen_certification"
+    }
+  ]
+}

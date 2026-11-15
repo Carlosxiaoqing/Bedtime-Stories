@@ -1,0 +1,3881 @@
+{
+  "episode": "ep011",
+  "version": "v001",
+  "script_version": "v5",
+  "status": "draft_not_audio_locked",
+  "narration_complete": true,
+  "shot_count": 44,
+  "total_duration_s": null,
+  "actual_audio_measured": false,
+  "shots": [
+    {
+      "id": 1,
+      "title": "片头问候",
+      "text": "小朋友们，准备好听故事了吗？",
+      "source_ranges": [
+        {
+          "unit_id": "u001",
+          "paragraph_id": "p000",
+          "start_char": 0,
+          "end_char": 14
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "木屋门廊：门在后侧偏左、小木桌在右侧、木栏在前侧；下午暖光逐步转为傍晚粉霞、暮色。",
+      "action": "片头问候：皮皮在门廊前微笑看向观众，双爪自然放身前。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": true,
+      "image": "images/shot_01.png",
+      "reference_manifest": "references/shot_01.json",
+      "image_status": "not_generated",
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_duration_s": null,
+      "visual_constraints": "片头问候：皮皮在门廊前微笑看向观众，双爪自然放身前。 保持角色身份；按本镜叙事设计目光、耳姿与表情，不复制参考图默认神情。无文字、水印、拼贴；关键动作在y1312以上。门廊室内不背书包，书包留屋内门边；栗栗不额外携带包。",
+      "reference_inputs_verified": {
+        "registry": "/workspace/Bedtime-Stories/03_素材与参数/用户长稿v4角色图库.json",
+        "referenced_image_paths": [
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ],
+        "characters": [
+          {
+            "id": "pipi",
+            "name": "皮皮",
+            "identity_version": "v001",
+            "identity_paths": [
+              "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+            ],
+            "identity_anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+            "outfit": {
+              "id": "day_v001",
+              "description": "换装表左：灰蓝短背带裤、米色上衣、蓝布鞋、小黄书包，无帽；仅画这套服装，不复制表中其他兔子。",
+              "files": [
+                {
+                  "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+                  "sha256": "30cb3e6f07e625bbe629ac7ff37d2fa0819de8c3aff1e0305d01447cefd85897",
+                  "size": [
+                    1536,
+                    1024
+                  ],
+                  "format": "PNG",
+                  "source": "built-in image_gen",
+                  "review": "assistant_visually_reviewed",
+                  "user_acceptance": "not_recorded",
+                  "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/pipi_wardrobe.json",
+                  "reference_inputs": [
+                    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                  ]
+                }
+              ]
+            }
+          }
+        ],
+        "instructions": "将referenced_image_paths原样传入图像工具；引用图只作身份或服装依据。只画本镜入镜角色，勿复制参考表里的多个人物或背景。",
+        "user_visual_acceptance": "approved_for_initial_production_use"
+      }
+    },
+    {
+      "id": 2,
+      "title": "片头主题",
+      "text": "今天的故事叫《小刺猬的软座位》。",
+      "source_ranges": [
+        {
+          "unit_id": "u001",
+          "paragraph_id": "p000",
+          "start_char": 14,
+          "end_char": 30
+        }
+      ],
+      "characters": [],
+      "outfits": {},
+      "setting": "木屋门廊：门在后侧偏左、小木桌在右侧、木栏在前侧；下午暖光逐步转为傍晚粉霞、暮色。",
+      "action": "片头主题：门廊空椅与软布特写，不出现文字或人物，不提前演出结局。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": true,
+      "image": "images/shot_02.png",
+      "reference_manifest": "references/shot_02.json",
+      "image_status": "not_generated",
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_duration_s": null,
+      "visual_constraints": "片头主题：门廊空椅与软布特写，不出现文字或人物，不提前演出结局。 保持角色身份；按本镜叙事设计目光、耳姿与表情，不复制参考图默认神情。无文字、水印、拼贴；关键动作在y1312以上。门廊室内不背书包，书包留屋内门边；栗栗不额外携带包。",
+      "reference_inputs_verified": {
+        "registry": "/workspace/Bedtime-Stories/03_素材与参数/用户长稿v4角色图库.json",
+        "referenced_image_paths": [],
+        "characters": [],
+        "instructions": "将referenced_image_paths原样传入图像工具；引用图只作身份或服装依据。只画本镜入镜角色，勿复制参考表里的多个人物或背景。",
+        "user_visual_acceptance": "approved_for_initial_production_use"
+      }
+    },
+    {
+      "id": 3,
+      "title": "片头提问",
+      "text": "栗栗来做客，皮皮会怎样为好朋友找到舒服的位置呢？",
+      "source_ranges": [
+        {
+          "unit_id": "u001",
+          "paragraph_id": "p000",
+          "start_char": 30,
+          "end_char": 54
+        }
+      ],
+      "characters": [
+        "pipi",
+        "lili"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "lili": "default_v001"
+      },
+      "setting": "木屋门廊：门在后侧偏左、小木桌在右侧、木栏在前侧；下午暖光逐步转为傍晚粉霞、暮色。",
+      "action": "片头提问：皮皮好奇地看向走近门廊的栗栗；栗栗略含羞，轻轻抬爪招呼。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": true,
+      "image": "images/shot_03.png",
+      "reference_manifest": "references/shot_03.json",
+      "image_status": "not_generated",
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_duration_s": null,
+      "visual_constraints": "片头提问：皮皮好奇地看向走近门廊的栗栗；栗栗略含羞，轻轻抬爪招呼。 保持角色身份；按本镜叙事设计目光、耳姿与表情，不复制参考图默认神情。无文字、水印、拼贴；关键动作在y1312以上。门廊室内不背书包，书包留屋内门边；栗栗不额外携带包。",
+      "reference_inputs_verified": {
+        "registry": "/workspace/Bedtime-Stories/03_素材与参数/用户长稿v4角色图库.json",
+        "referenced_image_paths": [
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+        ],
+        "characters": [
+          {
+            "id": "pipi",
+            "name": "皮皮",
+            "identity_version": "v001",
+            "identity_paths": [
+              "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+            ],
+            "identity_anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+            "outfit": {
+              "id": "day_v001",
+              "description": "换装表左：灰蓝短背带裤、米色上衣、蓝布鞋、小黄书包，无帽；仅画这套服装，不复制表中其他兔子。",
+              "files": [
+                {
+                  "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+                  "sha256": "30cb3e6f07e625bbe629ac7ff37d2fa0819de8c3aff1e0305d01447cefd85897",
+                  "size": [
+                    1536,
+                    1024
+                  ],
+                  "format": "PNG",
+                  "source": "built-in image_gen",
+                  "review": "assistant_visually_reviewed",
+                  "user_acceptance": "not_recorded",
+                  "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/pipi_wardrobe.json",
+                  "reference_inputs": [
+                    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "id": "lili",
+            "name": "栗栗",
+            "identity_version": "v001",
+            "identity_paths": [
+              "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+            ],
+            "identity_anchors": "浅棕圆脸、深棕短而圆润背刺、小黑鼻。",
+            "outfit": {
+              "id": "default_v001",
+              "description": "灰绿色小背心",
+              "files": [
+                {
+                  "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png",
+                  "sha256": "41b97e6934d4ec71687b09c479370d029743a367d90cbe990ac51344ed0e54de",
+                  "size": [
+                    1216,
+                    1294
+                  ],
+                  "format": "PNG",
+                  "source": "built-in image_gen",
+                  "review": "assistant_visually_reviewed",
+                  "user_acceptance": "not_recorded",
+                  "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/lili.json",
+                  "reference_inputs": [
+                    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                  ]
+                }
+              ]
+            }
+          }
+        ],
+        "instructions": "将referenced_image_paths原样传入图像工具；引用图只作身份或服装依据。只画本镜入镜角色，勿复制参考表里的多个人物或背景。",
+        "user_visual_acceptance": "approved_for_initial_production_use"
+      }
+    },
+    {
+      "id": 4,
+      "title": "皮皮站在木屋门口，眼神明亮、嘴角上扬，为",
+      "text": "今天皮皮做了一件很有成就感的事——",
+      "source_ranges": [
+        {
+          "unit_id": "u002",
+          "paragraph_id": "p001",
+          "start_char": 0,
+          "end_char": 17
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "放学后的木屋附近小路；皮皮邀请栗栗稍后来家中作客，不添加其他角色。",
+      "action": "皮皮站在木屋门口，眼神明亮、嘴角上扬，为邀请朋友而自豪。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_04.png",
+      "reference_manifest": "references/shot_04.json",
+      "image_status": "not_generated",
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_duration_s": null,
+      "visual_constraints": "皮皮站在木屋门口，眼神明亮、嘴角上扬，为邀请朋友而自豪。 保持角色身份；按本镜叙事设计目光、耳姿与表情，不复制参考图默认神情。无文字、水印、拼贴；关键动作在y1312以上。门廊室内不背书包，书包留屋内门边；栗栗不额外携带包。",
+      "reference_inputs_verified": {
+        "registry": "/workspace/Bedtime-Stories/03_素材与参数/用户长稿v4角色图库.json",
+        "referenced_image_paths": [
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ],
+        "characters": [
+          {
+            "id": "pipi",
+            "name": "皮皮",
+            "identity_version": "v001",
+            "identity_paths": [
+              "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+            ],
+            "identity_anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+            "outfit": {
+              "id": "day_v001",
+              "description": "换装表左：灰蓝短背带裤、米色上衣、蓝布鞋、小黄书包，无帽；仅画这套服装，不复制表中其他兔子。",
+              "files": [
+                {
+                  "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+                  "sha256": "30cb3e6f07e625bbe629ac7ff37d2fa0819de8c3aff1e0305d01447cefd85897",
+                  "size": [
+                    1536,
+                    1024
+                  ],
+                  "format": "PNG",
+                  "source": "built-in image_gen",
+                  "review": "assistant_visually_reviewed",
+                  "user_acceptance": "not_recorded",
+                  "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/pipi_wardrobe.json",
+                  "reference_inputs": [
+                    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                  ]
+                }
+              ]
+            }
+          }
+        ],
+        "instructions": "将referenced_image_paths原样传入图像工具；引用图只作身份或服装依据。只画本镜入镜角色，勿复制参考表里的多个人物或背景。",
+        "user_visual_acceptance": "approved_for_initial_production_use"
+      }
+    },
+    {
+      "id": 5,
+      "title": "皮皮向栗栗发出邀请，微笑伸爪；栗栗惊喜地",
+      "text": "他邀请好朋友小刺猬栗栗，放学后到自己的小木屋来做客。",
+      "source_ranges": [
+        {
+          "unit_id": "u002",
+          "paragraph_id": "p001",
+          "start_char": 17,
+          "end_char": 43
+        }
+      ],
+      "characters": [
+        "pipi",
+        "lili"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "lili": "default_v001"
+      },
+      "setting": "放学后的木屋附近小路；皮皮邀请栗栗稍后来家中作客，不添加其他角色。",
+      "action": "皮皮向栗栗发出邀请，微笑伸爪；栗栗惊喜地抬眼，双爪轻合。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_05.png",
+      "reference_manifest": "references/shot_05.json",
+      "image_status": "not_generated",
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_duration_s": null,
+      "visual_constraints": "皮皮向栗栗发出邀请，微笑伸爪；栗栗惊喜地抬眼，双爪轻合。 保持角色身份；按本镜叙事设计目光、耳姿与表情，不复制参考图默认神情。无文字、水印、拼贴；关键动作在y1312以上。门廊室内不背书包，书包留屋内门边；栗栗不额外携带包。",
+      "reference_inputs_verified": {
+        "registry": "/workspace/Bedtime-Stories/03_素材与参数/用户长稿v4角色图库.json",
+        "referenced_image_paths": [
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+        ],
+        "characters": [
+          {
+            "id": "pipi",
+            "name": "皮皮",
+            "identity_version": "v001",
+            "identity_paths": [
+              "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+            ],
+            "identity_anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+            "outfit": {
+              "id": "day_v001",
+              "description": "换装表左：灰蓝短背带裤、米色上衣、蓝布鞋、小黄书包，无帽；仅画这套服装，不复制表中其他兔子。",
+              "files": [
+                {
+                  "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+                  "sha256": "30cb3e6f07e625bbe629ac7ff37d2fa0819de8c3aff1e0305d01447cefd85897",
+                  "size": [
+                    1536,
+                    1024
+                  ],
+                  "format": "PNG",
+                  "source": "built-in image_gen",
+                  "review": "assistant_visually_reviewed",
+                  "user_acceptance": "not_recorded",
+                  "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/pipi_wardrobe.json",
+                  "reference_inputs": [
+                    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "id": "lili",
+            "name": "栗栗",
+            "identity_version": "v001",
+            "identity_paths": [
+              "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+            ],
+            "identity_anchors": "浅棕圆脸、深棕短而圆润背刺、小黑鼻。",
+            "outfit": {
+              "id": "default_v001",
+              "description": "灰绿色小背心",
+              "files": [
+                {
+                  "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png",
+                  "sha256": "41b97e6934d4ec71687b09c479370d029743a367d90cbe990ac51344ed0e54de",
+                  "size": [
+                    1216,
+                    1294
+                  ],
+                  "format": "PNG",
+                  "source": "built-in image_gen",
+                  "review": "assistant_visually_reviewed",
+                  "user_acceptance": "not_recorded",
+                  "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/lili.json",
+                  "reference_inputs": [
+                    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                  ]
+                }
+              ]
+            }
+          }
+        ],
+        "instructions": "将referenced_image_paths原样传入图像工具；引用图只作身份或服装依据。只画本镜入镜角色，勿复制参考表里的多个人物或背景。",
+        "user_visual_acceptance": "approved_for_initial_production_use"
+      }
+    },
+    {
+      "id": 6,
+      "title": "下午，皮皮认真低头扫门廊，耳朵自然下垂，",
+      "text": "\n为了迎接栗栗，皮皮下午一回家，就把门廊打扫得干干净净，",
+      "source_ranges": [
+        {
+          "unit_id": "u002",
+          "paragraph_id": "p001",
+          "start_char": 43,
+          "end_char": 71
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "木屋门廊：门在后侧偏左、小木桌在右侧、木栏在前侧；下午暖光逐步转为傍晚粉霞、暮色。",
+      "action": "下午，皮皮认真低头扫门廊，耳朵自然下垂，小黄书包放在屋内门旁。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_06.png",
+      "reference_manifest": "references/shot_06.json",
+      "image_status": "not_generated",
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_duration_s": null,
+      "visual_constraints": "下午，皮皮认真低头扫门廊，耳朵自然下垂，小黄书包放在屋内门旁。 保持角色身份；按本镜叙事设计目光、耳姿与表情，不复制参考图默认神情。无文字、水印、拼贴；关键动作在y1312以上。门廊室内不背书包，书包留屋内门边；栗栗不额外携带包。",
+      "reference_inputs_verified": {
+        "registry": "/workspace/Bedtime-Stories/03_素材与参数/用户长稿v4角色图库.json",
+        "referenced_image_paths": [
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ],
+        "characters": [
+          {
+            "id": "pipi",
+            "name": "皮皮",
+            "identity_version": "v001",
+            "identity_paths": [
+              "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+            ],
+            "identity_anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+            "outfit": {
+              "id": "day_v001",
+              "description": "换装表左：灰蓝短背带裤、米色上衣、蓝布鞋、小黄书包，无帽；仅画这套服装，不复制表中其他兔子。",
+              "files": [
+                {
+                  "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+                  "sha256": "30cb3e6f07e625bbe629ac7ff37d2fa0819de8c3aff1e0305d01447cefd85897",
+                  "size": [
+                    1536,
+                    1024
+                  ],
+                  "format": "PNG",
+                  "source": "built-in image_gen",
+                  "review": "assistant_visually_reviewed",
+                  "user_acceptance": "not_recorded",
+                  "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/pipi_wardrobe.json",
+                  "reference_inputs": [
+                    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                  ]
+                }
+              ]
+            }
+          }
+        ],
+        "instructions": "将referenced_image_paths原样传入图像工具；引用图只作身份或服装依据。只画本镜入镜角色，勿复制参考表里的多个人物或背景。",
+        "user_visual_acceptance": "approved_for_initial_production_use"
+      }
+    },
+    {
+      "id": 7,
+      "title": "皮皮把洗净的红浆果摆上小木桌，满意地看着",
+      "text": "还在小木桌上摆好了洗干净的红浆果。",
+      "source_ranges": [
+        {
+          "unit_id": "u002",
+          "paragraph_id": "p001",
+          "start_char": 71,
+          "end_char": 88
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "day_v001"
+      },
+      "setting": "木屋门廊：门在后侧偏左、小木桌在右侧、木栏在前侧；下午暖光逐步转为傍晚粉霞、暮色。",
+      "action": "皮皮把洗净的红浆果摆上小木桌，满意地看着果碟，桌面整洁。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_07.png",
+      "reference_manifest": "references/shot_07.json",
+      "image_status": "not_generated",
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_duration_s": null,
+      "visual_constraints": "皮皮把洗净的红浆果摆上小木桌，满意地看着果碟，桌面整洁。 保持角色身份；按本镜叙事设计目光、耳姿与表情，不复制参考图默认神情。无文字、水印、拼贴；关键动作在y1312以上。门廊室内不背书包，书包留屋内门边；栗栗不额外携带包。",
+      "reference_inputs_verified": {
+        "registry": "/workspace/Bedtime-Stories/03_素材与参数/用户长稿v4角色图库.json",
+        "referenced_image_paths": [
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ],
+        "characters": [
+          {
+            "id": "pipi",
+            "name": "皮皮",
+            "identity_version": "v001",
+            "identity_paths": [
+              "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+            ],
+            "identity_anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+            "outfit": {
+              "id": "day_v001",
+              "description": "换装表左：灰蓝短背带裤、米色上衣、蓝布鞋、小黄书包，无帽；仅画这套服装，不复制表中其他兔子。",
+              "files": [
+                {
+                  "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+                  "sha256": "30cb3e6f07e625bbe629ac7ff37d2fa0819de8c3aff1e0305d01447cefd85897",
+                  "size": [
+                    1536,
+                    1024
+                  ],
+                  "format": "PNG",
+                  "source": "built-in image_gen",
+                  "review": "assistant_visually_reviewed",
+                  "user_acceptance": "not_recorded",
+                  "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/pipi_wardrobe.json",
+                  "reference_inputs": [
+                    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                  ]
+                }
+              ]
+            }
+          }
+        ],
+        "instructions": "将referenced_image_paths原样传入图像工具；引用图只作身份或服装依据。只画本镜入镜角色，勿复制参考表里的多个人物或背景。",
+        "user_visual_acceptance": "approved_for_initial_production_use"
+      }
+    },
+    {
+      "id": 8,
+      "title": "傍晚，栗栗走上门廊，肩稍收、眼神腼腆望向",
+      "text": "傍晚的时候，栗栗背着他那身褐色的小刺，害羞地走上了小木屋的门廊。",
+      "source_ranges": [
+        {
+          "unit_id": "u003",
+          "paragraph_id": "p002",
+          "start_char": 0,
+          "end_char": 32
+        }
+      ],
+      "characters": [
+        "pipi",
+        "lili"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "lili": "default_v001"
+      },
+      "setting": "木屋门廊：门在后侧偏左、小木桌在右侧、木栏在前侧；下午暖光逐步转为傍晚粉霞、暮色。",
+      "action": "傍晚，栗栗走上门廊，肩稍收、眼神腼腆望向皮皮；深棕背刺圆润。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_08.png",
+      "reference_manifest": "references/shot_08.json",
+      "image_status": "not_generated",
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_duration_s": null,
+      "visual_constraints": "傍晚，栗栗走上门廊，肩稍收、眼神腼腆望向皮皮；深棕背刺圆润。 保持角色身份；按本镜叙事设计目光、耳姿与表情，不复制参考图默认神情。无文字、水印、拼贴；关键动作在y1312以上。门廊室内不背书包，书包留屋内门边；栗栗不额外携带包。",
+      "reference_inputs_verified": {
+        "registry": "/workspace/Bedtime-Stories/03_素材与参数/用户长稿v4角色图库.json",
+        "referenced_image_paths": [
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+        ],
+        "characters": [
+          {
+            "id": "pipi",
+            "name": "皮皮",
+            "identity_version": "v001",
+            "identity_paths": [
+              "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+            ],
+            "identity_anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+            "outfit": {
+              "id": "day_v001",
+              "description": "换装表左：灰蓝短背带裤、米色上衣、蓝布鞋、小黄书包，无帽；仅画这套服装，不复制表中其他兔子。",
+              "files": [
+                {
+                  "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+                  "sha256": "30cb3e6f07e625bbe629ac7ff37d2fa0819de8c3aff1e0305d01447cefd85897",
+                  "size": [
+                    1536,
+                    1024
+                  ],
+                  "format": "PNG",
+                  "source": "built-in image_gen",
+                  "review": "assistant_visually_reviewed",
+                  "user_acceptance": "not_recorded",
+                  "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/pipi_wardrobe.json",
+                  "reference_inputs": [
+                    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "id": "lili",
+            "name": "栗栗",
+            "identity_version": "v001",
+            "identity_paths": [
+              "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+            ],
+            "identity_anchors": "浅棕圆脸、深棕短而圆润背刺、小黑鼻。",
+            "outfit": {
+              "id": "default_v001",
+              "description": "灰绿色小背心",
+              "files": [
+                {
+                  "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png",
+                  "sha256": "41b97e6934d4ec71687b09c479370d029743a367d90cbe990ac51344ed0e54de",
+                  "size": [
+                    1216,
+                    1294
+                  ],
+                  "format": "PNG",
+                  "source": "built-in image_gen",
+                  "review": "assistant_visually_reviewed",
+                  "user_acceptance": "not_recorded",
+                  "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/lili.json",
+                  "reference_inputs": [
+                    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                  ]
+                }
+              ]
+            }
+          }
+        ],
+        "instructions": "将referenced_image_paths原样传入图像工具；引用图只作身份或服装依据。只画本镜入镜角色，勿复制参考表里的多个人物或背景。",
+        "user_visual_acceptance": "approved_for_initial_production_use"
+      }
+    },
+    {
+      "id": 9,
+      "title": "皮皮热情地搬出带靠背木椅，栗栗期待地注视",
+      "text": "\n皮皮热情地搬出一把带靠背的小木椅，",
+      "source_ranges": [
+        {
+          "unit_id": "u003",
+          "paragraph_id": "p002",
+          "start_char": 32,
+          "end_char": 50
+        }
+      ],
+      "characters": [
+        "pipi",
+        "lili"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "lili": "default_v001"
+      },
+      "setting": "木屋门廊：门在后侧偏左、小木桌在右侧、木栏在前侧；下午暖光逐步转为傍晚粉霞、暮色。",
+      "action": "皮皮热情地搬出带靠背木椅，栗栗期待地注视；低桌固定在门廊右侧。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_09.png",
+      "reference_manifest": "references/shot_09.json",
+      "image_status": "not_generated",
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_duration_s": null,
+      "visual_constraints": "皮皮热情地搬出带靠背木椅，栗栗期待地注视；低桌固定在门廊右侧。 保持角色身份；按本镜叙事设计目光、耳姿与表情，不复制参考图默认神情。无文字、水印、拼贴；关键动作在y1312以上。门廊室内不背书包，书包留屋内门边；栗栗不额外携带包。",
+      "reference_inputs_verified": {
+        "registry": "/workspace/Bedtime-Stories/03_素材与参数/用户长稿v4角色图库.json",
+        "referenced_image_paths": [
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+        ],
+        "characters": [
+          {
+            "id": "pipi",
+            "name": "皮皮",
+            "identity_version": "v001",
+            "identity_paths": [
+              "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+            ],
+            "identity_anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+            "outfit": {
+              "id": "day_v001",
+              "description": "换装表左：灰蓝短背带裤、米色上衣、蓝布鞋、小黄书包，无帽；仅画这套服装，不复制表中其他兔子。",
+              "files": [
+                {
+                  "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+                  "sha256": "30cb3e6f07e625bbe629ac7ff37d2fa0819de8c3aff1e0305d01447cefd85897",
+                  "size": [
+                    1536,
+                    1024
+                  ],
+                  "format": "PNG",
+                  "source": "built-in image_gen",
+                  "review": "assistant_visually_reviewed",
+                  "user_acceptance": "not_recorded",
+                  "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/pipi_wardrobe.json",
+                  "reference_inputs": [
+                    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "id": "lili",
+            "name": "栗栗",
+            "identity_version": "v001",
+            "identity_paths": [
+              "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+            ],
+            "identity_anchors": "浅棕圆脸、深棕短而圆润背刺、小黑鼻。",
+            "outfit": {
+              "id": "default_v001",
+              "description": "灰绿色小背心",
+              "files": [
+                {
+                  "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png",
+                  "sha256": "41b97e6934d4ec71687b09c479370d029743a367d90cbe990ac51344ed0e54de",
+                  "size": [
+                    1216,
+                    1294
+                  ],
+                  "format": "PNG",
+                  "source": "built-in image_gen",
+                  "review": "assistant_visually_reviewed",
+                  "user_acceptance": "not_recorded",
+                  "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/lili.json",
+                  "reference_inputs": [
+                    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                  ]
+                }
+              ]
+            }
+          }
+        ],
+        "instructions": "将referenced_image_paths原样传入图像工具；引用图只作身份或服装依据。只画本镜入镜角色，勿复制参考表里的多个人物或背景。",
+        "user_visual_acceptance": "approved_for_initial_production_use"
+      }
+    },
+    {
+      "id": 10,
+      "title": "皮皮抱来又高又蓬松的大鹅毛坐垫，专心放到",
+      "text": "还特意从屋里抱来了一只最高、最蓬松的鹅毛大坐垫放在上面，",
+      "source_ranges": [
+        {
+          "unit_id": "u003",
+          "paragraph_id": "p002",
+          "start_char": 50,
+          "end_char": 78
+        }
+      ],
+      "characters": [
+        "pipi",
+        "lili"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "lili": "default_v001"
+      },
+      "setting": "木屋门廊：门在后侧偏左、小木桌在右侧、木栏在前侧；下午暖光逐步转为傍晚粉霞、暮色。",
+      "action": "皮皮抱来又高又蓬松的大鹅毛坐垫，专心放到木椅座面。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_10.png",
+      "reference_manifest": "references/shot_10.json",
+      "image_status": "not_generated",
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_duration_s": null,
+      "visual_constraints": "皮皮抱来又高又蓬松的大鹅毛坐垫，专心放到木椅座面。 保持角色身份；按本镜叙事设计目光、耳姿与表情，不复制参考图默认神情。无文字、水印、拼贴；关键动作在y1312以上。门廊室内不背书包，书包留屋内门边；栗栗不额外携带包。",
+      "reference_inputs_verified": {
+        "registry": "/workspace/Bedtime-Stories/03_素材与参数/用户长稿v4角色图库.json",
+        "referenced_image_paths": [
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+        ],
+        "characters": [
+          {
+            "id": "pipi",
+            "name": "皮皮",
+            "identity_version": "v001",
+            "identity_paths": [
+              "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+            ],
+            "identity_anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+            "outfit": {
+              "id": "day_v001",
+              "description": "换装表左：灰蓝短背带裤、米色上衣、蓝布鞋、小黄书包，无帽；仅画这套服装，不复制表中其他兔子。",
+              "files": [
+                {
+                  "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+                  "sha256": "30cb3e6f07e625bbe629ac7ff37d2fa0819de8c3aff1e0305d01447cefd85897",
+                  "size": [
+                    1536,
+                    1024
+                  ],
+                  "format": "PNG",
+                  "source": "built-in image_gen",
+                  "review": "assistant_visually_reviewed",
+                  "user_acceptance": "not_recorded",
+                  "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/pipi_wardrobe.json",
+                  "reference_inputs": [
+                    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "id": "lili",
+            "name": "栗栗",
+            "identity_version": "v001",
+            "identity_paths": [
+              "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+            ],
+            "identity_anchors": "浅棕圆脸、深棕短而圆润背刺、小黑鼻。",
+            "outfit": {
+              "id": "default_v001",
+              "description": "灰绿色小背心",
+              "files": [
+                {
+                  "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png",
+                  "sha256": "41b97e6934d4ec71687b09c479370d029743a367d90cbe990ac51344ed0e54de",
+                  "size": [
+                    1216,
+                    1294
+                  ],
+                  "format": "PNG",
+                  "source": "built-in image_gen",
+                  "review": "assistant_visually_reviewed",
+                  "user_acceptance": "not_recorded",
+                  "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/lili.json",
+                  "reference_inputs": [
+                    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                  ]
+                }
+              ]
+            }
+          }
+        ],
+        "instructions": "将referenced_image_paths原样传入图像工具；引用图只作身份或服装依据。只画本镜入镜角色，勿复制参考表里的多个人物或背景。",
+        "user_visual_acceptance": "approved_for_initial_production_use"
+      }
+    },
+    {
+      "id": 11,
+      "title": "皮皮张开一只爪子指向椅子，热情微笑；栗栗",
+      "text": "说：“栗栗，快请坐！”",
+      "source_ranges": [
+        {
+          "unit_id": "u003",
+          "paragraph_id": "p002",
+          "start_char": 78,
+          "end_char": 89
+        }
+      ],
+      "characters": [
+        "pipi",
+        "lili"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "lili": "default_v001"
+      },
+      "setting": "木屋门廊：门在后侧偏左、小木桌在右侧、木栏在前侧；下午暖光逐步转为傍晚粉霞、暮色。",
+      "action": "皮皮张开一只爪子指向椅子，热情微笑；栗栗羞涩地点头。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_11.png",
+      "reference_manifest": "references/shot_11.json",
+      "image_status": "not_generated",
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_duration_s": null,
+      "visual_constraints": "皮皮张开一只爪子指向椅子，热情微笑；栗栗羞涩地点头。 保持角色身份；按本镜叙事设计目光、耳姿与表情，不复制参考图默认神情。无文字、水印、拼贴；关键动作在y1312以上。门廊室内不背书包，书包留屋内门边；栗栗不额外携带包。",
+      "reference_inputs_verified": {
+        "registry": "/workspace/Bedtime-Stories/03_素材与参数/用户长稿v4角色图库.json",
+        "referenced_image_paths": [
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+        ],
+        "characters": [
+          {
+            "id": "pipi",
+            "name": "皮皮",
+            "identity_version": "v001",
+            "identity_paths": [
+              "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+            ],
+            "identity_anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+            "outfit": {
+              "id": "day_v001",
+              "description": "换装表左：灰蓝短背带裤、米色上衣、蓝布鞋、小黄书包，无帽；仅画这套服装，不复制表中其他兔子。",
+              "files": [
+                {
+                  "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+                  "sha256": "30cb3e6f07e625bbe629ac7ff37d2fa0819de8c3aff1e0305d01447cefd85897",
+                  "size": [
+                    1536,
+                    1024
+                  ],
+                  "format": "PNG",
+                  "source": "built-in image_gen",
+                  "review": "assistant_visually_reviewed",
+                  "user_acceptance": "not_recorded",
+                  "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/pipi_wardrobe.json",
+                  "reference_inputs": [
+                    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "id": "lili",
+            "name": "栗栗",
+            "identity_version": "v001",
+            "identity_paths": [
+              "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+            ],
+            "identity_anchors": "浅棕圆脸、深棕短而圆润背刺、小黑鼻。",
+            "outfit": {
+              "id": "default_v001",
+              "description": "灰绿色小背心",
+              "files": [
+                {
+                  "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png",
+                  "sha256": "41b97e6934d4ec71687b09c479370d029743a367d90cbe990ac51344ed0e54de",
+                  "size": [
+                    1216,
+                    1294
+                  ],
+                  "format": "PNG",
+                  "source": "built-in image_gen",
+                  "review": "assistant_visually_reviewed",
+                  "user_acceptance": "not_recorded",
+                  "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/lili.json",
+                  "reference_inputs": [
+                    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                  ]
+                }
+              ]
+            }
+          }
+        ],
+        "instructions": "将referenced_image_paths原样传入图像工具；引用图只作身份或服装依据。只画本镜入镜角色，勿复制参考表里的多个人物或背景。",
+        "user_visual_acceptance": "approved_for_initial_production_use"
+      }
+    },
+    {
+      "id": 12,
+      "title": "栗栗小心爬上高软坐垫，爪子扶住边沿，眼睛",
+      "text": "栗栗小心地爬上鹅毛大坐垫。",
+      "source_ranges": [
+        {
+          "unit_id": "u004",
+          "paragraph_id": "p003",
+          "start_char": 0,
+          "end_char": 13
+        }
+      ],
+      "characters": [
+        "lili"
+      ],
+      "outfits": {
+        "lili": "default_v001"
+      },
+      "setting": "木屋门廊：门在后侧偏左、小木桌在右侧、木栏在前侧；下午暖光逐步转为傍晚粉霞、暮色。",
+      "action": "栗栗小心爬上高软坐垫，爪子扶住边沿，眼睛专注向下看。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_12.png",
+      "reference_manifest": "references/shot_12.json",
+      "image_status": "not_generated",
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_duration_s": null,
+      "visual_constraints": "栗栗小心爬上高软坐垫，爪子扶住边沿，眼睛专注向下看。 保持角色身份；按本镜叙事设计目光、耳姿与表情，不复制参考图默认神情。无文字、水印、拼贴；关键动作在y1312以上。门廊室内不背书包，书包留屋内门边；栗栗不额外携带包。",
+      "reference_inputs_verified": {
+        "registry": "/workspace/Bedtime-Stories/03_素材与参数/用户长稿v4角色图库.json",
+        "referenced_image_paths": [
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+        ],
+        "characters": [
+          {
+            "id": "lili",
+            "name": "栗栗",
+            "identity_version": "v001",
+            "identity_paths": [
+              "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+            ],
+            "identity_anchors": "浅棕圆脸、深棕短而圆润背刺、小黑鼻。",
+            "outfit": {
+              "id": "default_v001",
+              "description": "灰绿色小背心",
+              "files": [
+                {
+                  "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png",
+                  "sha256": "41b97e6934d4ec71687b09c479370d029743a367d90cbe990ac51344ed0e54de",
+                  "size": [
+                    1216,
+                    1294
+                  ],
+                  "format": "PNG",
+                  "source": "built-in image_gen",
+                  "review": "assistant_visually_reviewed",
+                  "user_acceptance": "not_recorded",
+                  "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/lili.json",
+                  "reference_inputs": [
+                    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                  ]
+                }
+              ]
+            }
+          }
+        ],
+        "instructions": "将referenced_image_paths原样传入图像工具；引用图只作身份或服装依据。只画本镜入镜角色，勿复制参考表里的多个人物或背景。",
+        "user_visual_acceptance": "approved_for_initial_production_use"
+      }
+    },
+    {
+      "id": 13,
+      "title": "栗栗陷入高蓬坐垫，身体微倾、眉眼不确定；",
+      "text": "可是大坐垫太软、太高了，栗栗圆滚滚的身子一坐上去，就像坐在一团不听话的云朵上，",
+      "source_ranges": [
+        {
+          "unit_id": "u004",
+          "paragraph_id": "p003",
+          "start_char": 13,
+          "end_char": 52
+        }
+      ],
+      "characters": [
+        "lili"
+      ],
+      "outfits": {
+        "lili": "default_v001"
+      },
+      "setting": "木屋门廊：门在后侧偏左、小木桌在右侧、木栏在前侧；下午暖光逐步转为傍晚粉霞、暮色。",
+      "action": "栗栗陷入高蓬坐垫，身体微倾、眉眼不确定；软垫显出不稳定的凹陷。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_13.png",
+      "reference_manifest": "references/shot_13.json",
+      "image_status": "not_generated",
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_duration_s": null,
+      "visual_constraints": "栗栗陷入高蓬坐垫，身体微倾、眉眼不确定；软垫显出不稳定的凹陷。 保持角色身份；按本镜叙事设计目光、耳姿与表情，不复制参考图默认神情。无文字、水印、拼贴；关键动作在y1312以上。门廊室内不背书包，书包留屋内门边；栗栗不额外携带包。",
+      "reference_inputs_verified": {
+        "registry": "/workspace/Bedtime-Stories/03_素材与参数/用户长稿v4角色图库.json",
+        "referenced_image_paths": [
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+        ],
+        "characters": [
+          {
+            "id": "lili",
+            "name": "栗栗",
+            "identity_version": "v001",
+            "identity_paths": [
+              "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+            ],
+            "identity_anchors": "浅棕圆脸、深棕短而圆润背刺、小黑鼻。",
+            "outfit": {
+              "id": "default_v001",
+              "description": "灰绿色小背心",
+              "files": [
+                {
+                  "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png",
+                  "sha256": "41b97e6934d4ec71687b09c479370d029743a367d90cbe990ac51344ed0e54de",
+                  "size": [
+                    1216,
+                    1294
+                  ],
+                  "format": "PNG",
+                  "source": "built-in image_gen",
+                  "review": "assistant_visually_reviewed",
+                  "user_acceptance": "not_recorded",
+                  "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/lili.json",
+                  "reference_inputs": [
+                    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                  ]
+                }
+              ]
+            }
+          }
+        ],
+        "instructions": "将referenced_image_paths原样传入图像工具；引用图只作身份或服装依据。只画本镜入镜角色，勿复制参考表里的多个人物或背景。",
+        "user_visual_acceptance": "approved_for_initial_production_use"
+      }
+    },
+    {
+      "id": 14,
+      "title": "侧面低机位",
+      "text": "摇摇晃晃的，两只小短腿悬在半空中够不着地；",
+      "source_ranges": [
+        {
+          "unit_id": "u004",
+          "paragraph_id": "p003",
+          "start_char": 52,
+          "end_char": 73
+        }
+      ],
+      "characters": [
+        "lili"
+      ],
+      "outfits": {
+        "lili": "default_v001"
+      },
+      "setting": "木屋门廊：门在后侧偏左、小木桌在右侧、木栏在前侧；下午暖光逐步转为傍晚粉霞、暮色。",
+      "action": "侧面低机位：栗栗两只短腿悬空，脚下与木地板有明显距离；不画多余脚。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_14.png",
+      "reference_manifest": "references/shot_14.json",
+      "image_status": "not_generated",
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_duration_s": null,
+      "visual_constraints": "侧面低机位：栗栗两只短腿悬空，脚下与木地板有明显距离；不画多余脚。 保持角色身份；按本镜叙事设计目光、耳姿与表情，不复制参考图默认神情。无文字、水印、拼贴；关键动作在y1312以上。门廊室内不背书包，书包留屋内门边；栗栗不额外携带包。",
+      "reference_inputs_verified": {
+        "registry": "/workspace/Bedtime-Stories/03_素材与参数/用户长稿v4角色图库.json",
+        "referenced_image_paths": [
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+        ],
+        "characters": [
+          {
+            "id": "lili",
+            "name": "栗栗",
+            "identity_version": "v001",
+            "identity_paths": [
+              "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+            ],
+            "identity_anchors": "浅棕圆脸、深棕短而圆润背刺、小黑鼻。",
+            "outfit": {
+              "id": "default_v001",
+              "description": "灰绿色小背心",
+              "files": [
+                {
+                  "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png",
+                  "sha256": "41b97e6934d4ec71687b09c479370d029743a367d90cbe990ac51344ed0e54de",
+                  "size": [
+                    1216,
+                    1294
+                  ],
+                  "format": "PNG",
+                  "source": "built-in image_gen",
+                  "review": "assistant_visually_reviewed",
+                  "user_acceptance": "not_recorded",
+                  "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/lili.json",
+                  "reference_inputs": [
+                    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                  ]
+                }
+              ]
+            }
+          }
+        ],
+        "instructions": "将referenced_image_paths原样传入图像工具；引用图只作身份或服装依据。只画本镜入镜角色，勿复制参考表里的多个人物或背景。",
+        "user_visual_acceptance": "approved_for_initial_production_use"
+      }
+    },
+    {
+      "id": 15,
+      "title": "侧后方特写",
+      "text": "而且他一往后靠，背上的小刺就会“咔嚓”一下顶在木椅背上，",
+      "source_ranges": [
+        {
+          "unit_id": "u004",
+          "paragraph_id": "p003",
+          "start_char": 73,
+          "end_char": 101
+        }
+      ],
+      "characters": [
+        "lili"
+      ],
+      "outfits": {
+        "lili": "default_v001"
+      },
+      "setting": "木屋门廊：门在后侧偏左、小木桌在右侧、木栏在前侧；下午暖光逐步转为傍晚粉霞、暮色。",
+      "action": "侧后方特写：栗栗轻靠时背刺碰木椅背，略皱眉、收紧肩，非惊吓或疼痛表演。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_15.png",
+      "reference_manifest": "references/shot_15.json",
+      "image_status": "not_generated",
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_duration_s": null,
+      "visual_constraints": "侧后方特写：栗栗轻靠时背刺碰木椅背，略皱眉、收紧肩，非惊吓或疼痛表演。 保持角色身份；按本镜叙事设计目光、耳姿与表情，不复制参考图默认神情。无文字、水印、拼贴；关键动作在y1312以上。门廊室内不背书包，书包留屋内门边；栗栗不额外携带包。",
+      "reference_inputs_verified": {
+        "registry": "/workspace/Bedtime-Stories/03_素材与参数/用户长稿v4角色图库.json",
+        "referenced_image_paths": [
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+        ],
+        "characters": [
+          {
+            "id": "lili",
+            "name": "栗栗",
+            "identity_version": "v001",
+            "identity_paths": [
+              "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+            ],
+            "identity_anchors": "浅棕圆脸、深棕短而圆润背刺、小黑鼻。",
+            "outfit": {
+              "id": "default_v001",
+              "description": "灰绿色小背心",
+              "files": [
+                {
+                  "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png",
+                  "sha256": "41b97e6934d4ec71687b09c479370d029743a367d90cbe990ac51344ed0e54de",
+                  "size": [
+                    1216,
+                    1294
+                  ],
+                  "format": "PNG",
+                  "source": "built-in image_gen",
+                  "review": "assistant_visually_reviewed",
+                  "user_acceptance": "not_recorded",
+                  "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/lili.json",
+                  "reference_inputs": [
+                    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                  ]
+                }
+              ]
+            }
+          }
+        ],
+        "instructions": "将referenced_image_paths原样传入图像工具；引用图只作身份或服装依据。只画本镜入镜角色，勿复制参考表里的多个人物或背景。",
+        "user_visual_acceptance": "approved_for_initial_production_use"
+      }
+    },
+    {
+      "id": 16,
+      "title": "栗栗拘束挺直腰板，爪子并拢放膝前，目光略",
+      "text": "弄得他只好拘束地挺直腰板，不停地悄悄换姿势。",
+      "source_ranges": [
+        {
+          "unit_id": "u004",
+          "paragraph_id": "p003",
+          "start_char": 101,
+          "end_char": 123
+        }
+      ],
+      "characters": [
+        "lili"
+      ],
+      "outfits": {
+        "lili": "default_v001"
+      },
+      "setting": "木屋门廊：门在后侧偏左、小木桌在右侧、木栏在前侧；下午暖光逐步转为傍晚粉霞、暮色。",
+      "action": "栗栗拘束挺直腰板，爪子并拢放膝前，目光略低；仍在同一高坐垫上。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_16.png",
+      "reference_manifest": "references/shot_16.json",
+      "image_status": "not_generated",
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_duration_s": null,
+      "visual_constraints": "栗栗拘束挺直腰板，爪子并拢放膝前，目光略低；仍在同一高坐垫上。 保持角色身份；按本镜叙事设计目光、耳姿与表情，不复制参考图默认神情。无文字、水印、拼贴；关键动作在y1312以上。门廊室内不背书包，书包留屋内门边；栗栗不额外携带包。",
+      "reference_inputs_verified": {
+        "registry": "/workspace/Bedtime-Stories/03_素材与参数/用户长稿v4角色图库.json",
+        "referenced_image_paths": [
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+        ],
+        "characters": [
+          {
+            "id": "lili",
+            "name": "栗栗",
+            "identity_version": "v001",
+            "identity_paths": [
+              "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+            ],
+            "identity_anchors": "浅棕圆脸、深棕短而圆润背刺、小黑鼻。",
+            "outfit": {
+              "id": "default_v001",
+              "description": "灰绿色小背心",
+              "files": [
+                {
+                  "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png",
+                  "sha256": "41b97e6934d4ec71687b09c479370d029743a367d90cbe990ac51344ed0e54de",
+                  "size": [
+                    1216,
+                    1294
+                  ],
+                  "format": "PNG",
+                  "source": "built-in image_gen",
+                  "review": "assistant_visually_reviewed",
+                  "user_acceptance": "not_recorded",
+                  "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/lili.json",
+                  "reference_inputs": [
+                    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                  ]
+                }
+              ]
+            }
+          }
+        ],
+        "instructions": "将referenced_image_paths原样传入图像工具；引用图只作身份或服装依据。只画本镜入镜角色，勿复制参考表里的多个人物或背景。",
+        "user_visual_acceptance": "approved_for_initial_production_use"
+      }
+    },
+    {
+      "id": 17,
+      "title": "皮皮端着果碟走近，看见栗栗拘谨的坐姿，笑",
+      "text": "皮皮端着浆果走过来，敏锐地发现了好朋友的不自在。",
+      "source_ranges": [
+        {
+          "unit_id": "u005",
+          "paragraph_id": "p004",
+          "start_char": 0,
+          "end_char": 24
+        }
+      ],
+      "characters": [
+        "pipi",
+        "lili"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "lili": "default_v001"
+      },
+      "setting": "木屋门廊：门在后侧偏左、小木桌在右侧、木栏在前侧；下午暖光逐步转为傍晚粉霞、暮色。",
+      "action": "皮皮端着果碟走近，看见栗栗拘谨的坐姿，笑容转为关切。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_17.png",
+      "reference_manifest": "references/shot_17.json",
+      "image_status": "not_generated",
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_duration_s": null,
+      "visual_constraints": "皮皮端着果碟走近，看见栗栗拘谨的坐姿，笑容转为关切。 保持角色身份；按本镜叙事设计目光、耳姿与表情，不复制参考图默认神情。无文字、水印、拼贴；关键动作在y1312以上。门廊室内不背书包，书包留屋内门边；栗栗不额外携带包。",
+      "reference_inputs_verified": {
+        "registry": "/workspace/Bedtime-Stories/03_素材与参数/用户长稿v4角色图库.json",
+        "referenced_image_paths": [
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+        ],
+        "characters": [
+          {
+            "id": "pipi",
+            "name": "皮皮",
+            "identity_version": "v001",
+            "identity_paths": [
+              "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+            ],
+            "identity_anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+            "outfit": {
+              "id": "day_v001",
+              "description": "换装表左：灰蓝短背带裤、米色上衣、蓝布鞋、小黄书包，无帽；仅画这套服装，不复制表中其他兔子。",
+              "files": [
+                {
+                  "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+                  "sha256": "30cb3e6f07e625bbe629ac7ff37d2fa0819de8c3aff1e0305d01447cefd85897",
+                  "size": [
+                    1536,
+                    1024
+                  ],
+                  "format": "PNG",
+                  "source": "built-in image_gen",
+                  "review": "assistant_visually_reviewed",
+                  "user_acceptance": "not_recorded",
+                  "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/pipi_wardrobe.json",
+                  "reference_inputs": [
+                    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "id": "lili",
+            "name": "栗栗",
+            "identity_version": "v001",
+            "identity_paths": [
+              "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+            ],
+            "identity_anchors": "浅棕圆脸、深棕短而圆润背刺、小黑鼻。",
+            "outfit": {
+              "id": "default_v001",
+              "description": "灰绿色小背心",
+              "files": [
+                {
+                  "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png",
+                  "sha256": "41b97e6934d4ec71687b09c479370d029743a367d90cbe990ac51344ed0e54de",
+                  "size": [
+                    1216,
+                    1294
+                  ],
+                  "format": "PNG",
+                  "source": "built-in image_gen",
+                  "review": "assistant_visually_reviewed",
+                  "user_acceptance": "not_recorded",
+                  "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/lili.json",
+                  "reference_inputs": [
+                    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                  ]
+                }
+              ]
+            }
+          }
+        ],
+        "instructions": "将referenced_image_paths原样传入图像工具；引用图只作身份或服装依据。只画本镜入镜角色，勿复制参考表里的多个人物或背景。",
+        "user_visual_acceptance": "approved_for_initial_production_use"
+      }
+    },
+    {
+      "id": 18,
+      "title": "皮皮把果碟放桌上后蹲下，仔细看栗栗悬空的",
+      "text": "\n他没有催栗栗快吃果子，而是蹲下来观察了一下，",
+      "source_ranges": [
+        {
+          "unit_id": "u005",
+          "paragraph_id": "p004",
+          "start_char": 24,
+          "end_char": 47
+        }
+      ],
+      "characters": [
+        "pipi",
+        "lili"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "lili": "default_v001"
+      },
+      "setting": "木屋门廊：门在后侧偏左、小木桌在右侧、木栏在前侧；下午暖光逐步转为傍晚粉霞、暮色。",
+      "action": "皮皮把果碟放桌上后蹲下，仔细看栗栗悬空的小脚；栗栗看向皮皮。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_18.png",
+      "reference_manifest": "references/shot_18.json",
+      "image_status": "not_generated",
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_duration_s": null,
+      "visual_constraints": "皮皮把果碟放桌上后蹲下，仔细看栗栗悬空的小脚；栗栗看向皮皮。 保持角色身份；按本镜叙事设计目光、耳姿与表情，不复制参考图默认神情。无文字、水印、拼贴；关键动作在y1312以上。门廊室内不背书包，书包留屋内门边；栗栗不额外携带包。",
+      "reference_inputs_verified": {
+        "registry": "/workspace/Bedtime-Stories/03_素材与参数/用户长稿v4角色图库.json",
+        "referenced_image_paths": [
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+        ],
+        "characters": [
+          {
+            "id": "pipi",
+            "name": "皮皮",
+            "identity_version": "v001",
+            "identity_paths": [
+              "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+            ],
+            "identity_anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+            "outfit": {
+              "id": "day_v001",
+              "description": "换装表左：灰蓝短背带裤、米色上衣、蓝布鞋、小黄书包，无帽；仅画这套服装，不复制表中其他兔子。",
+              "files": [
+                {
+                  "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+                  "sha256": "30cb3e6f07e625bbe629ac7ff37d2fa0819de8c3aff1e0305d01447cefd85897",
+                  "size": [
+                    1536,
+                    1024
+                  ],
+                  "format": "PNG",
+                  "source": "built-in image_gen",
+                  "review": "assistant_visually_reviewed",
+                  "user_acceptance": "not_recorded",
+                  "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/pipi_wardrobe.json",
+                  "reference_inputs": [
+                    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "id": "lili",
+            "name": "栗栗",
+            "identity_version": "v001",
+            "identity_paths": [
+              "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+            ],
+            "identity_anchors": "浅棕圆脸、深棕短而圆润背刺、小黑鼻。",
+            "outfit": {
+              "id": "default_v001",
+              "description": "灰绿色小背心",
+              "files": [
+                {
+                  "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png",
+                  "sha256": "41b97e6934d4ec71687b09c479370d029743a367d90cbe990ac51344ed0e54de",
+                  "size": [
+                    1216,
+                    1294
+                  ],
+                  "format": "PNG",
+                  "source": "built-in image_gen",
+                  "review": "assistant_visually_reviewed",
+                  "user_acceptance": "not_recorded",
+                  "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/lili.json",
+                  "reference_inputs": [
+                    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                  ]
+                }
+              ]
+            }
+          }
+        ],
+        "instructions": "将referenced_image_paths原样传入图像工具；引用图只作身份或服装依据。只画本镜入镜角色，勿复制参考表里的多个人物或背景。",
+        "user_visual_acceptance": "approved_for_initial_production_use"
+      }
+    },
+    {
+      "id": 19,
+      "title": "皮皮恍然明白，温柔指向高坐垫，眉眼舒展；",
+      "text": "恍然大悟：“啊，这个垫子太高啦，",
+      "source_ranges": [
+        {
+          "unit_id": "u005",
+          "paragraph_id": "p004",
+          "start_char": 47,
+          "end_char": 63
+        }
+      ],
+      "characters": [
+        "pipi",
+        "lili"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "lili": "default_v001"
+      },
+      "setting": "木屋门廊：门在后侧偏左、小木桌在右侧、木栏在前侧；下午暖光逐步转为傍晚粉霞、暮色。",
+      "action": "皮皮恍然明白，温柔指向高坐垫，眉眼舒展；栗栗略点头。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_19.png",
+      "reference_manifest": "references/shot_19.json",
+      "image_status": "not_generated",
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_duration_s": null,
+      "visual_constraints": "皮皮恍然明白，温柔指向高坐垫，眉眼舒展；栗栗略点头。 保持角色身份；按本镜叙事设计目光、耳姿与表情，不复制参考图默认神情。无文字、水印、拼贴；关键动作在y1312以上。门廊室内不背书包，书包留屋内门边；栗栗不额外携带包。",
+      "reference_inputs_verified": {
+        "registry": "/workspace/Bedtime-Stories/03_素材与参数/用户长稿v4角色图库.json",
+        "referenced_image_paths": [
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+        ],
+        "characters": [
+          {
+            "id": "pipi",
+            "name": "皮皮",
+            "identity_version": "v001",
+            "identity_paths": [
+              "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+            ],
+            "identity_anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+            "outfit": {
+              "id": "day_v001",
+              "description": "换装表左：灰蓝短背带裤、米色上衣、蓝布鞋、小黄书包，无帽；仅画这套服装，不复制表中其他兔子。",
+              "files": [
+                {
+                  "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+                  "sha256": "30cb3e6f07e625bbe629ac7ff37d2fa0819de8c3aff1e0305d01447cefd85897",
+                  "size": [
+                    1536,
+                    1024
+                  ],
+                  "format": "PNG",
+                  "source": "built-in image_gen",
+                  "review": "assistant_visually_reviewed",
+                  "user_acceptance": "not_recorded",
+                  "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/pipi_wardrobe.json",
+                  "reference_inputs": [
+                    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "id": "lili",
+            "name": "栗栗",
+            "identity_version": "v001",
+            "identity_paths": [
+              "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+            ],
+            "identity_anchors": "浅棕圆脸、深棕短而圆润背刺、小黑鼻。",
+            "outfit": {
+              "id": "default_v001",
+              "description": "灰绿色小背心",
+              "files": [
+                {
+                  "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png",
+                  "sha256": "41b97e6934d4ec71687b09c479370d029743a367d90cbe990ac51344ed0e54de",
+                  "size": [
+                    1216,
+                    1294
+                  ],
+                  "format": "PNG",
+                  "source": "built-in image_gen",
+                  "review": "assistant_visually_reviewed",
+                  "user_acceptance": "not_recorded",
+                  "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/lili.json",
+                  "reference_inputs": [
+                    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                  ]
+                }
+              ]
+            }
+          }
+        ],
+        "instructions": "将referenced_image_paths原样传入图像工具；引用图只作身份或服装依据。只画本镜入镜角色，勿复制参考表里的多个人物或背景。",
+        "user_visual_acceptance": "approved_for_initial_production_use"
+      }
+    },
+    {
+      "id": 20,
+      "title": "侧面双人中景",
+      "text": "而且椅背挡着你的小刺了，对不对？”",
+      "source_ranges": [
+        {
+          "unit_id": "u005",
+          "paragraph_id": "p004",
+          "start_char": 63,
+          "end_char": 80
+        }
+      ],
+      "characters": [
+        "pipi",
+        "lili"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "lili": "default_v001"
+      },
+      "setting": "木屋门廊：门在后侧偏左、小木桌在右侧、木栏在前侧；下午暖光逐步转为傍晚粉霞、暮色。",
+      "action": "侧面双人中景：皮皮指椅背与背刺之间的拥挤处，询问的目光；栗栗认同地望回。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_20.png",
+      "reference_manifest": "references/shot_20.json",
+      "image_status": "not_generated",
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_duration_s": null,
+      "visual_constraints": "侧面双人中景：皮皮指椅背与背刺之间的拥挤处，询问的目光；栗栗认同地望回。 保持角色身份；按本镜叙事设计目光、耳姿与表情，不复制参考图默认神情。无文字、水印、拼贴；关键动作在y1312以上。门廊室内不背书包，书包留屋内门边；栗栗不额外携带包。",
+      "reference_inputs_verified": {
+        "registry": "/workspace/Bedtime-Stories/03_素材与参数/用户长稿v4角色图库.json",
+        "referenced_image_paths": [
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+        ],
+        "characters": [
+          {
+            "id": "pipi",
+            "name": "皮皮",
+            "identity_version": "v001",
+            "identity_paths": [
+              "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+            ],
+            "identity_anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+            "outfit": {
+              "id": "day_v001",
+              "description": "换装表左：灰蓝短背带裤、米色上衣、蓝布鞋、小黄书包，无帽；仅画这套服装，不复制表中其他兔子。",
+              "files": [
+                {
+                  "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+                  "sha256": "30cb3e6f07e625bbe629ac7ff37d2fa0819de8c3aff1e0305d01447cefd85897",
+                  "size": [
+                    1536,
+                    1024
+                  ],
+                  "format": "PNG",
+                  "source": "built-in image_gen",
+                  "review": "assistant_visually_reviewed",
+                  "user_acceptance": "not_recorded",
+                  "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/pipi_wardrobe.json",
+                  "reference_inputs": [
+                    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "id": "lili",
+            "name": "栗栗",
+            "identity_version": "v001",
+            "identity_paths": [
+              "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+            ],
+            "identity_anchors": "浅棕圆脸、深棕短而圆润背刺、小黑鼻。",
+            "outfit": {
+              "id": "default_v001",
+              "description": "灰绿色小背心",
+              "files": [
+                {
+                  "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png",
+                  "sha256": "41b97e6934d4ec71687b09c479370d029743a367d90cbe990ac51344ed0e54de",
+                  "size": [
+                    1216,
+                    1294
+                  ],
+                  "format": "PNG",
+                  "source": "built-in image_gen",
+                  "review": "assistant_visually_reviewed",
+                  "user_acceptance": "not_recorded",
+                  "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/lili.json",
+                  "reference_inputs": [
+                    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                  ]
+                }
+              ]
+            }
+          }
+        ],
+        "instructions": "将referenced_image_paths原样传入图像工具；引用图只作身份或服装依据。只画本镜入镜角色，勿复制参考表里的多个人物或背景。",
+        "user_visual_acceptance": "approved_for_initial_production_use"
+      }
+    },
+    {
+      "id": 21,
+      "title": "皮皮停下继续添垫子的动作，认真思索低一些",
+      "text": "皮皮没有再把垫子堆高。",
+      "source_ranges": [
+        {
+          "unit_id": "u006",
+          "paragraph_id": "p005",
+          "start_char": 0,
+          "end_char": 11
+        }
+      ],
+      "characters": [
+        "pipi",
+        "lili"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "lili": "default_v001"
+      },
+      "setting": "木屋门廊：门在后侧偏左、小木桌在右侧、木栏在前侧；下午暖光逐步转为傍晚粉霞、暮色。",
+      "action": "皮皮停下继续添垫子的动作，认真思索低一些的座位，不出现叠高的新垫子。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_21.png",
+      "reference_manifest": "references/shot_21.json",
+      "image_status": "not_generated",
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_duration_s": null,
+      "visual_constraints": "皮皮停下继续添垫子的动作，认真思索低一些的座位，不出现叠高的新垫子。 保持角色身份；按本镜叙事设计目光、耳姿与表情，不复制参考图默认神情。无文字、水印、拼贴；关键动作在y1312以上。门廊室内不背书包，书包留屋内门边；栗栗不额外携带包。",
+      "reference_inputs_verified": {
+        "registry": "/workspace/Bedtime-Stories/03_素材与参数/用户长稿v4角色图库.json",
+        "referenced_image_paths": [
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+        ],
+        "characters": [
+          {
+            "id": "pipi",
+            "name": "皮皮",
+            "identity_version": "v001",
+            "identity_paths": [
+              "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+            ],
+            "identity_anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+            "outfit": {
+              "id": "day_v001",
+              "description": "换装表左：灰蓝短背带裤、米色上衣、蓝布鞋、小黄书包，无帽；仅画这套服装，不复制表中其他兔子。",
+              "files": [
+                {
+                  "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+                  "sha256": "30cb3e6f07e625bbe629ac7ff37d2fa0819de8c3aff1e0305d01447cefd85897",
+                  "size": [
+                    1536,
+                    1024
+                  ],
+                  "format": "PNG",
+                  "source": "built-in image_gen",
+                  "review": "assistant_visually_reviewed",
+                  "user_acceptance": "not_recorded",
+                  "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/pipi_wardrobe.json",
+                  "reference_inputs": [
+                    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "id": "lili",
+            "name": "栗栗",
+            "identity_version": "v001",
+            "identity_paths": [
+              "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+            ],
+            "identity_anchors": "浅棕圆脸、深棕短而圆润背刺、小黑鼻。",
+            "outfit": {
+              "id": "default_v001",
+              "description": "灰绿色小背心",
+              "files": [
+                {
+                  "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png",
+                  "sha256": "41b97e6934d4ec71687b09c479370d029743a367d90cbe990ac51344ed0e54de",
+                  "size": [
+                    1216,
+                    1294
+                  ],
+                  "format": "PNG",
+                  "source": "built-in image_gen",
+                  "review": "assistant_visually_reviewed",
+                  "user_acceptance": "not_recorded",
+                  "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/lili.json",
+                  "reference_inputs": [
+                    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                  ]
+                }
+              ]
+            }
+          }
+        ],
+        "instructions": "将referenced_image_paths原样传入图像工具；引用图只作身份或服装依据。只画本镜入镜角色，勿复制参考表里的多个人物或背景。",
+        "user_visual_acceptance": "approved_for_initial_production_use"
+      }
+    },
+    {
+      "id": 22,
+      "title": "栗栗已安全站在地板旁，皮皮抱走高蓬坐垫，",
+      "text": "他把蓬松的大坐垫抱走，",
+      "source_ranges": [
+        {
+          "unit_id": "u006",
+          "paragraph_id": "p005",
+          "start_char": 11,
+          "end_char": 22
+        }
+      ],
+      "characters": [
+        "pipi",
+        "lili"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "lili": "default_v001"
+      },
+      "setting": "木屋门廊：门在后侧偏左、小木桌在右侧、木栏在前侧；下午暖光逐步转为傍晚粉霞、暮色。",
+      "action": "栗栗已安全站在地板旁，皮皮抱走高蓬坐垫，木椅留在一侧。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_22.png",
+      "reference_manifest": "references/shot_22.json",
+      "image_status": "not_generated",
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_duration_s": null,
+      "visual_constraints": "栗栗已安全站在地板旁，皮皮抱走高蓬坐垫，木椅留在一侧。 保持角色身份；按本镜叙事设计目光、耳姿与表情，不复制参考图默认神情。无文字、水印、拼贴；关键动作在y1312以上。门廊室内不背书包，书包留屋内门边；栗栗不额外携带包。",
+      "reference_inputs_verified": {
+        "registry": "/workspace/Bedtime-Stories/03_素材与参数/用户长稿v4角色图库.json",
+        "referenced_image_paths": [
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+        ],
+        "characters": [
+          {
+            "id": "pipi",
+            "name": "皮皮",
+            "identity_version": "v001",
+            "identity_paths": [
+              "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+            ],
+            "identity_anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+            "outfit": {
+              "id": "day_v001",
+              "description": "换装表左：灰蓝短背带裤、米色上衣、蓝布鞋、小黄书包，无帽；仅画这套服装，不复制表中其他兔子。",
+              "files": [
+                {
+                  "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+                  "sha256": "30cb3e6f07e625bbe629ac7ff37d2fa0819de8c3aff1e0305d01447cefd85897",
+                  "size": [
+                    1536,
+                    1024
+                  ],
+                  "format": "PNG",
+                  "source": "built-in image_gen",
+                  "review": "assistant_visually_reviewed",
+                  "user_acceptance": "not_recorded",
+                  "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/pipi_wardrobe.json",
+                  "reference_inputs": [
+                    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "id": "lili",
+            "name": "栗栗",
+            "identity_version": "v001",
+            "identity_paths": [
+              "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+            ],
+            "identity_anchors": "浅棕圆脸、深棕短而圆润背刺、小黑鼻。",
+            "outfit": {
+              "id": "default_v001",
+              "description": "灰绿色小背心",
+              "files": [
+                {
+                  "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png",
+                  "sha256": "41b97e6934d4ec71687b09c479370d029743a367d90cbe990ac51344ed0e54de",
+                  "size": [
+                    1216,
+                    1294
+                  ],
+                  "format": "PNG",
+                  "source": "built-in image_gen",
+                  "review": "assistant_visually_reviewed",
+                  "user_acceptance": "not_recorded",
+                  "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/lili.json",
+                  "reference_inputs": [
+                    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                  ]
+                }
+              ]
+            }
+          }
+        ],
+        "instructions": "将referenced_image_paths原样传入图像工具；引用图只作身份或服装依据。只画本镜入镜角色，勿复制参考表里的多个人物或背景。",
+        "user_visual_acceptance": "approved_for_initial_production_use"
+      }
+    },
+    {
+      "id": 23,
+      "title": "皮皮搬来矮矮的无靠背圆木凳，神情笃定；旧",
+      "text": "换了一张矮矮的、没有靠背的圆木凳，",
+      "source_ranges": [
+        {
+          "unit_id": "u006",
+          "paragraph_id": "p005",
+          "start_char": 22,
+          "end_char": 39
+        }
+      ],
+      "characters": [
+        "pipi",
+        "lili"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "lili": "default_v001"
+      },
+      "setting": "木屋门廊：门在后侧偏左、小木桌在右侧、木栏在前侧；下午暖光逐步转为傍晚粉霞、暮色。",
+      "action": "皮皮搬来矮矮的无靠背圆木凳，神情笃定；旧木椅退到门廊左边。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_23.png",
+      "reference_manifest": "references/shot_23.json",
+      "image_status": "not_generated",
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_duration_s": null,
+      "visual_constraints": "皮皮搬来矮矮的无靠背圆木凳，神情笃定；旧木椅退到门廊左边。 保持角色身份；按本镜叙事设计目光、耳姿与表情，不复制参考图默认神情。无文字、水印、拼贴；关键动作在y1312以上。门廊室内不背书包，书包留屋内门边；栗栗不额外携带包。",
+      "reference_inputs_verified": {
+        "registry": "/workspace/Bedtime-Stories/03_素材与参数/用户长稿v4角色图库.json",
+        "referenced_image_paths": [
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+        ],
+        "characters": [
+          {
+            "id": "pipi",
+            "name": "皮皮",
+            "identity_version": "v001",
+            "identity_paths": [
+              "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+            ],
+            "identity_anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+            "outfit": {
+              "id": "day_v001",
+              "description": "换装表左：灰蓝短背带裤、米色上衣、蓝布鞋、小黄书包，无帽；仅画这套服装，不复制表中其他兔子。",
+              "files": [
+                {
+                  "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+                  "sha256": "30cb3e6f07e625bbe629ac7ff37d2fa0819de8c3aff1e0305d01447cefd85897",
+                  "size": [
+                    1536,
+                    1024
+                  ],
+                  "format": "PNG",
+                  "source": "built-in image_gen",
+                  "review": "assistant_visually_reviewed",
+                  "user_acceptance": "not_recorded",
+                  "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/pipi_wardrobe.json",
+                  "reference_inputs": [
+                    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "id": "lili",
+            "name": "栗栗",
+            "identity_version": "v001",
+            "identity_paths": [
+              "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+            ],
+            "identity_anchors": "浅棕圆脸、深棕短而圆润背刺、小黑鼻。",
+            "outfit": {
+              "id": "default_v001",
+              "description": "灰绿色小背心",
+              "files": [
+                {
+                  "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png",
+                  "sha256": "41b97e6934d4ec71687b09c479370d029743a367d90cbe990ac51344ed0e54de",
+                  "size": [
+                    1216,
+                    1294
+                  ],
+                  "format": "PNG",
+                  "source": "built-in image_gen",
+                  "review": "assistant_visually_reviewed",
+                  "user_acceptance": "not_recorded",
+                  "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/lili.json",
+                  "reference_inputs": [
+                    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                  ]
+                }
+              ]
+            }
+          }
+        ],
+        "instructions": "将referenced_image_paths原样传入图像工具；引用图只作身份或服装依据。只画本镜入镜角色，勿复制参考表里的多个人物或背景。",
+        "user_visual_acceptance": "approved_for_initial_production_use"
+      }
+    },
+    {
+      "id": 24,
+      "title": "皮皮从篮子中取出厚实平整的粗棉布，低头专",
+      "text": "又从篮子里找出一块厚实又平整的粗棉软布，",
+      "source_ranges": [
+        {
+          "unit_id": "u006",
+          "paragraph_id": "p005",
+          "start_char": 39,
+          "end_char": 59
+        }
+      ],
+      "characters": [
+        "pipi",
+        "lili"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "lili": "default_v001"
+      },
+      "setting": "木屋门廊：门在后侧偏左、小木桌在右侧、木栏在前侧；下午暖光逐步转为傍晚粉霞、暮色。",
+      "action": "皮皮从篮子中取出厚实平整的粗棉布，低头专注挑选，栗栗好奇看着。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_24.png",
+      "reference_manifest": "references/shot_24.json",
+      "image_status": "not_generated",
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_duration_s": null,
+      "visual_constraints": "皮皮从篮子中取出厚实平整的粗棉布，低头专注挑选，栗栗好奇看着。 保持角色身份；按本镜叙事设计目光、耳姿与表情，不复制参考图默认神情。无文字、水印、拼贴；关键动作在y1312以上。门廊室内不背书包，书包留屋内门边；栗栗不额外携带包。",
+      "reference_inputs_verified": {
+        "registry": "/workspace/Bedtime-Stories/03_素材与参数/用户长稿v4角色图库.json",
+        "referenced_image_paths": [
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+        ],
+        "characters": [
+          {
+            "id": "pipi",
+            "name": "皮皮",
+            "identity_version": "v001",
+            "identity_paths": [
+              "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+            ],
+            "identity_anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+            "outfit": {
+              "id": "day_v001",
+              "description": "换装表左：灰蓝短背带裤、米色上衣、蓝布鞋、小黄书包，无帽；仅画这套服装，不复制表中其他兔子。",
+              "files": [
+                {
+                  "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+                  "sha256": "30cb3e6f07e625bbe629ac7ff37d2fa0819de8c3aff1e0305d01447cefd85897",
+                  "size": [
+                    1536,
+                    1024
+                  ],
+                  "format": "PNG",
+                  "source": "built-in image_gen",
+                  "review": "assistant_visually_reviewed",
+                  "user_acceptance": "not_recorded",
+                  "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/pipi_wardrobe.json",
+                  "reference_inputs": [
+                    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "id": "lili",
+            "name": "栗栗",
+            "identity_version": "v001",
+            "identity_paths": [
+              "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+            ],
+            "identity_anchors": "浅棕圆脸、深棕短而圆润背刺、小黑鼻。",
+            "outfit": {
+              "id": "default_v001",
+              "description": "灰绿色小背心",
+              "files": [
+                {
+                  "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png",
+                  "sha256": "41b97e6934d4ec71687b09c479370d029743a367d90cbe990ac51344ed0e54de",
+                  "size": [
+                    1216,
+                    1294
+                  ],
+                  "format": "PNG",
+                  "source": "built-in image_gen",
+                  "review": "assistant_visually_reviewed",
+                  "user_acceptance": "not_recorded",
+                  "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/lili.json",
+                  "reference_inputs": [
+                    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                  ]
+                }
+              ]
+            }
+          }
+        ],
+        "instructions": "将referenced_image_paths原样传入图像工具；引用图只作身份或服装依据。只画本镜入镜角色，勿复制参考表里的多个人物或背景。",
+        "user_visual_acceptance": "approved_for_initial_production_use"
+      }
+    },
+    {
+      "id": 25,
+      "title": "俯视近景",
+      "text": "四四方方地铺在矮凳面上。",
+      "source_ranges": [
+        {
+          "unit_id": "u006",
+          "paragraph_id": "p005",
+          "start_char": 59,
+          "end_char": 71
+        }
+      ],
+      "characters": [
+        "pipi",
+        "lili"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "lili": "default_v001"
+      },
+      "setting": "木屋门廊：门在后侧偏左、小木桌在右侧、木栏在前侧；下午暖光逐步转为傍晚粉霞、暮色。",
+      "action": "俯视近景：皮皮双爪将方形粗棉布平铺在圆木凳上，布面平整不堆高。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_25.png",
+      "reference_manifest": "references/shot_25.json",
+      "image_status": "not_generated",
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_duration_s": null,
+      "visual_constraints": "俯视近景：皮皮双爪将方形粗棉布平铺在圆木凳上，布面平整不堆高。 保持角色身份；按本镜叙事设计目光、耳姿与表情，不复制参考图默认神情。无文字、水印、拼贴；关键动作在y1312以上。门廊室内不背书包，书包留屋内门边；栗栗不额外携带包。",
+      "reference_inputs_verified": {
+        "registry": "/workspace/Bedtime-Stories/03_素材与参数/用户长稿v4角色图库.json",
+        "referenced_image_paths": [
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+        ],
+        "characters": [
+          {
+            "id": "pipi",
+            "name": "皮皮",
+            "identity_version": "v001",
+            "identity_paths": [
+              "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+            ],
+            "identity_anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+            "outfit": {
+              "id": "day_v001",
+              "description": "换装表左：灰蓝短背带裤、米色上衣、蓝布鞋、小黄书包，无帽；仅画这套服装，不复制表中其他兔子。",
+              "files": [
+                {
+                  "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+                  "sha256": "30cb3e6f07e625bbe629ac7ff37d2fa0819de8c3aff1e0305d01447cefd85897",
+                  "size": [
+                    1536,
+                    1024
+                  ],
+                  "format": "PNG",
+                  "source": "built-in image_gen",
+                  "review": "assistant_visually_reviewed",
+                  "user_acceptance": "not_recorded",
+                  "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/pipi_wardrobe.json",
+                  "reference_inputs": [
+                    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "id": "lili",
+            "name": "栗栗",
+            "identity_version": "v001",
+            "identity_paths": [
+              "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+            ],
+            "identity_anchors": "浅棕圆脸、深棕短而圆润背刺、小黑鼻。",
+            "outfit": {
+              "id": "default_v001",
+              "description": "灰绿色小背心",
+              "files": [
+                {
+                  "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png",
+                  "sha256": "41b97e6934d4ec71687b09c479370d029743a367d90cbe990ac51344ed0e54de",
+                  "size": [
+                    1216,
+                    1294
+                  ],
+                  "format": "PNG",
+                  "source": "built-in image_gen",
+                  "review": "assistant_visually_reviewed",
+                  "user_acceptance": "not_recorded",
+                  "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/lili.json",
+                  "reference_inputs": [
+                    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                  ]
+                }
+              ]
+            }
+          }
+        ],
+        "instructions": "将referenced_image_paths原样传入图像工具；引用图只作身份或服装依据。只画本镜入镜角色，勿复制参考表里的多个人物或背景。",
+        "user_visual_acceptance": "approved_for_initial_production_use"
+      }
+    },
+    {
+      "id": 26,
+      "title": "皮皮蹲在矮凳旁，温柔微笑、掌心向上邀请栗",
+      "text": "\n“栗栗，你再试试这个座位？”皮皮温柔地邀请道。",
+      "source_ranges": [
+        {
+          "unit_id": "u006",
+          "paragraph_id": "p005",
+          "start_char": 71,
+          "end_char": 95
+        }
+      ],
+      "characters": [
+        "pipi",
+        "lili"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "lili": "default_v001"
+      },
+      "setting": "木屋门廊：门在后侧偏左、小木桌在右侧、木栏在前侧；下午暖光逐步转为傍晚粉霞、暮色。",
+      "action": "皮皮蹲在矮凳旁，温柔微笑、掌心向上邀请栗栗再试；栗栗放松肩膀。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_26.png",
+      "reference_manifest": "references/shot_26.json",
+      "image_status": "not_generated",
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_duration_s": null,
+      "visual_constraints": "皮皮蹲在矮凳旁，温柔微笑、掌心向上邀请栗栗再试；栗栗放松肩膀。 保持角色身份；按本镜叙事设计目光、耳姿与表情，不复制参考图默认神情。无文字、水印、拼贴；关键动作在y1312以上。门廊室内不背书包，书包留屋内门边；栗栗不额外携带包。",
+      "reference_inputs_verified": {
+        "registry": "/workspace/Bedtime-Stories/03_素材与参数/用户长稿v4角色图库.json",
+        "referenced_image_paths": [
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+        ],
+        "characters": [
+          {
+            "id": "pipi",
+            "name": "皮皮",
+            "identity_version": "v001",
+            "identity_paths": [
+              "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+            ],
+            "identity_anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+            "outfit": {
+              "id": "day_v001",
+              "description": "换装表左：灰蓝短背带裤、米色上衣、蓝布鞋、小黄书包，无帽；仅画这套服装，不复制表中其他兔子。",
+              "files": [
+                {
+                  "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+                  "sha256": "30cb3e6f07e625bbe629ac7ff37d2fa0819de8c3aff1e0305d01447cefd85897",
+                  "size": [
+                    1536,
+                    1024
+                  ],
+                  "format": "PNG",
+                  "source": "built-in image_gen",
+                  "review": "assistant_visually_reviewed",
+                  "user_acceptance": "not_recorded",
+                  "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/pipi_wardrobe.json",
+                  "reference_inputs": [
+                    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "id": "lili",
+            "name": "栗栗",
+            "identity_version": "v001",
+            "identity_paths": [
+              "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+            ],
+            "identity_anchors": "浅棕圆脸、深棕短而圆润背刺、小黑鼻。",
+            "outfit": {
+              "id": "default_v001",
+              "description": "灰绿色小背心",
+              "files": [
+                {
+                  "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png",
+                  "sha256": "41b97e6934d4ec71687b09c479370d029743a367d90cbe990ac51344ed0e54de",
+                  "size": [
+                    1216,
+                    1294
+                  ],
+                  "format": "PNG",
+                  "source": "built-in image_gen",
+                  "review": "assistant_visually_reviewed",
+                  "user_acceptance": "not_recorded",
+                  "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/lili.json",
+                  "reference_inputs": [
+                    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                  ]
+                }
+              ]
+            }
+          }
+        ],
+        "instructions": "将referenced_image_paths原样传入图像工具；引用图只作身份或服装依据。只画本镜入镜角色，勿复制参考表里的多个人物或背景。",
+        "user_visual_acceptance": "approved_for_initial_production_use"
+      }
+    },
+    {
+      "id": 27,
+      "title": "栗栗慢慢坐向铺布矮凳，双爪轻扶凳边，眼神",
+      "text": "栗栗慢慢地坐了上去。",
+      "source_ranges": [
+        {
+          "unit_id": "u007",
+          "paragraph_id": "p006",
+          "start_char": 0,
+          "end_char": 10
+        }
+      ],
+      "characters": [
+        "pipi",
+        "lili"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "lili": "default_v001"
+      },
+      "setting": "木屋门廊：门在后侧偏左、小木桌在右侧、木栏在前侧；下午暖光逐步转为傍晚粉霞、暮色。",
+      "action": "栗栗慢慢坐向铺布矮凳，双爪轻扶凳边，眼神专注，皮皮在旁耐心等候。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_27.png",
+      "reference_manifest": "references/shot_27.json",
+      "image_status": "not_generated",
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_duration_s": null,
+      "visual_constraints": "栗栗慢慢坐向铺布矮凳，双爪轻扶凳边，眼神专注，皮皮在旁耐心等候。 保持角色身份；按本镜叙事设计目光、耳姿与表情，不复制参考图默认神情。无文字、水印、拼贴；关键动作在y1312以上。门廊室内不背书包，书包留屋内门边；栗栗不额外携带包。",
+      "reference_inputs_verified": {
+        "registry": "/workspace/Bedtime-Stories/03_素材与参数/用户长稿v4角色图库.json",
+        "referenced_image_paths": [
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+        ],
+        "characters": [
+          {
+            "id": "pipi",
+            "name": "皮皮",
+            "identity_version": "v001",
+            "identity_paths": [
+              "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+            ],
+            "identity_anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+            "outfit": {
+              "id": "day_v001",
+              "description": "换装表左：灰蓝短背带裤、米色上衣、蓝布鞋、小黄书包，无帽；仅画这套服装，不复制表中其他兔子。",
+              "files": [
+                {
+                  "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+                  "sha256": "30cb3e6f07e625bbe629ac7ff37d2fa0819de8c3aff1e0305d01447cefd85897",
+                  "size": [
+                    1536,
+                    1024
+                  ],
+                  "format": "PNG",
+                  "source": "built-in image_gen",
+                  "review": "assistant_visually_reviewed",
+                  "user_acceptance": "not_recorded",
+                  "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/pipi_wardrobe.json",
+                  "reference_inputs": [
+                    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "id": "lili",
+            "name": "栗栗",
+            "identity_version": "v001",
+            "identity_paths": [
+              "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+            ],
+            "identity_anchors": "浅棕圆脸、深棕短而圆润背刺、小黑鼻。",
+            "outfit": {
+              "id": "default_v001",
+              "description": "灰绿色小背心",
+              "files": [
+                {
+                  "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png",
+                  "sha256": "41b97e6934d4ec71687b09c479370d029743a367d90cbe990ac51344ed0e54de",
+                  "size": [
+                    1216,
+                    1294
+                  ],
+                  "format": "PNG",
+                  "source": "built-in image_gen",
+                  "review": "assistant_visually_reviewed",
+                  "user_acceptance": "not_recorded",
+                  "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/lili.json",
+                  "reference_inputs": [
+                    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                  ]
+                }
+              ]
+            }
+          }
+        ],
+        "instructions": "将referenced_image_paths原样传入图像工具；引用图只作身份或服装依据。只画本镜入镜角色，勿复制参考表里的多个人物或背景。",
+        "user_visual_acceptance": "approved_for_initial_production_use"
+      }
+    },
+    {
+      "id": 28,
+      "title": "低位侧景",
+      "text": "这回，他的小脚丫稳稳地踩在了门廊的木地板上，",
+      "source_ranges": [
+        {
+          "unit_id": "u007",
+          "paragraph_id": "p006",
+          "start_char": 10,
+          "end_char": 32
+        }
+      ],
+      "characters": [
+        "lili"
+      ],
+      "outfits": {
+        "lili": "default_v001"
+      },
+      "setting": "木屋门廊：门在后侧偏左、小木桌在右侧、木栏在前侧；下午暖光逐步转为傍晚粉霞、暮色。",
+      "action": "低位侧景：栗栗双脚稳稳着地，小腿自然弯曲；凳高与圆凳结构清楚。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_28.png",
+      "reference_manifest": "references/shot_28.json",
+      "image_status": "not_generated",
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_duration_s": null,
+      "visual_constraints": "低位侧景：栗栗双脚稳稳着地，小腿自然弯曲；凳高与圆凳结构清楚。 保持角色身份；按本镜叙事设计目光、耳姿与表情，不复制参考图默认神情。无文字、水印、拼贴；关键动作在y1312以上。门廊室内不背书包，书包留屋内门边；栗栗不额外携带包。",
+      "reference_inputs_verified": {
+        "registry": "/workspace/Bedtime-Stories/03_素材与参数/用户长稿v4角色图库.json",
+        "referenced_image_paths": [
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+        ],
+        "characters": [
+          {
+            "id": "lili",
+            "name": "栗栗",
+            "identity_version": "v001",
+            "identity_paths": [
+              "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+            ],
+            "identity_anchors": "浅棕圆脸、深棕短而圆润背刺、小黑鼻。",
+            "outfit": {
+              "id": "default_v001",
+              "description": "灰绿色小背心",
+              "files": [
+                {
+                  "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png",
+                  "sha256": "41b97e6934d4ec71687b09c479370d029743a367d90cbe990ac51344ed0e54de",
+                  "size": [
+                    1216,
+                    1294
+                  ],
+                  "format": "PNG",
+                  "source": "built-in image_gen",
+                  "review": "assistant_visually_reviewed",
+                  "user_acceptance": "not_recorded",
+                  "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/lili.json",
+                  "reference_inputs": [
+                    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                  ]
+                }
+              ]
+            }
+          }
+        ],
+        "instructions": "将referenced_image_paths原样传入图像工具；引用图只作身份或服装依据。只画本镜入镜角色，勿复制参考表里的多个人物或背景。",
+        "user_visual_acceptance": "approved_for_initial_production_use"
+      }
+    },
+    {
+      "id": 29,
+      "title": "侧后方中景",
+      "text": "背后的小刺也可以自在地舒展着，再也不会挤在椅背上了。",
+      "source_ranges": [
+        {
+          "unit_id": "u007",
+          "paragraph_id": "p006",
+          "start_char": 32,
+          "end_char": 58
+        }
+      ],
+      "characters": [
+        "lili"
+      ],
+      "outfits": {
+        "lili": "default_v001"
+      },
+      "setting": "木屋门廊：门在后侧偏左、小木桌在右侧、木栏在前侧；下午暖光逐步转为傍晚粉霞、暮色。",
+      "action": "侧后方中景：栗栗坐无靠背矮凳，背刺自在展开，肩膀放松；旧椅在远处。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_29.png",
+      "reference_manifest": "references/shot_29.json",
+      "image_status": "not_generated",
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_duration_s": null,
+      "visual_constraints": "侧后方中景：栗栗坐无靠背矮凳，背刺自在展开，肩膀放松；旧椅在远处。 保持角色身份；按本镜叙事设计目光、耳姿与表情，不复制参考图默认神情。无文字、水印、拼贴；关键动作在y1312以上。门廊室内不背书包，书包留屋内门边；栗栗不额外携带包。",
+      "reference_inputs_verified": {
+        "registry": "/workspace/Bedtime-Stories/03_素材与参数/用户长稿v4角色图库.json",
+        "referenced_image_paths": [
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+        ],
+        "characters": [
+          {
+            "id": "lili",
+            "name": "栗栗",
+            "identity_version": "v001",
+            "identity_paths": [
+              "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+            ],
+            "identity_anchors": "浅棕圆脸、深棕短而圆润背刺、小黑鼻。",
+            "outfit": {
+              "id": "default_v001",
+              "description": "灰绿色小背心",
+              "files": [
+                {
+                  "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png",
+                  "sha256": "41b97e6934d4ec71687b09c479370d029743a367d90cbe990ac51344ed0e54de",
+                  "size": [
+                    1216,
+                    1294
+                  ],
+                  "format": "PNG",
+                  "source": "built-in image_gen",
+                  "review": "assistant_visually_reviewed",
+                  "user_acceptance": "not_recorded",
+                  "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/lili.json",
+                  "reference_inputs": [
+                    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                  ]
+                }
+              ]
+            }
+          }
+        ],
+        "instructions": "将referenced_image_paths原样传入图像工具；引用图只作身份或服装依据。只画本镜入镜角色，勿复制参考表里的多个人物或背景。",
+        "user_visual_acceptance": "approved_for_initial_production_use"
+      }
+    },
+    {
+      "id": 30,
+      "title": "栗栗舒气微笑，眉眼由拘谨变安心，皮皮欣慰",
+      "text": "\n栗栗开心地舒了一口气，",
+      "source_ranges": [
+        {
+          "unit_id": "u007",
+          "paragraph_id": "p006",
+          "start_char": 58,
+          "end_char": 70
+        }
+      ],
+      "characters": [
+        "pipi",
+        "lili"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "lili": "default_v001"
+      },
+      "setting": "木屋门廊：门在后侧偏左、小木桌在右侧、木栏在前侧；下午暖光逐步转为傍晚粉霞、暮色。",
+      "action": "栗栗舒气微笑，眉眼由拘谨变安心，皮皮欣慰地注视。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_30.png",
+      "reference_manifest": "references/shot_30.json",
+      "image_status": "not_generated",
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_duration_s": null,
+      "visual_constraints": "栗栗舒气微笑，眉眼由拘谨变安心，皮皮欣慰地注视。 保持角色身份；按本镜叙事设计目光、耳姿与表情，不复制参考图默认神情。无文字、水印、拼贴；关键动作在y1312以上。门廊室内不背书包，书包留屋内门边；栗栗不额外携带包。",
+      "reference_inputs_verified": {
+        "registry": "/workspace/Bedtime-Stories/03_素材与参数/用户长稿v4角色图库.json",
+        "referenced_image_paths": [
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+        ],
+        "characters": [
+          {
+            "id": "pipi",
+            "name": "皮皮",
+            "identity_version": "v001",
+            "identity_paths": [
+              "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+            ],
+            "identity_anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+            "outfit": {
+              "id": "day_v001",
+              "description": "换装表左：灰蓝短背带裤、米色上衣、蓝布鞋、小黄书包，无帽；仅画这套服装，不复制表中其他兔子。",
+              "files": [
+                {
+                  "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+                  "sha256": "30cb3e6f07e625bbe629ac7ff37d2fa0819de8c3aff1e0305d01447cefd85897",
+                  "size": [
+                    1536,
+                    1024
+                  ],
+                  "format": "PNG",
+                  "source": "built-in image_gen",
+                  "review": "assistant_visually_reviewed",
+                  "user_acceptance": "not_recorded",
+                  "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/pipi_wardrobe.json",
+                  "reference_inputs": [
+                    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "id": "lili",
+            "name": "栗栗",
+            "identity_version": "v001",
+            "identity_paths": [
+              "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+            ],
+            "identity_anchors": "浅棕圆脸、深棕短而圆润背刺、小黑鼻。",
+            "outfit": {
+              "id": "default_v001",
+              "description": "灰绿色小背心",
+              "files": [
+                {
+                  "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png",
+                  "sha256": "41b97e6934d4ec71687b09c479370d029743a367d90cbe990ac51344ed0e54de",
+                  "size": [
+                    1216,
+                    1294
+                  ],
+                  "format": "PNG",
+                  "source": "built-in image_gen",
+                  "review": "assistant_visually_reviewed",
+                  "user_acceptance": "not_recorded",
+                  "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/lili.json",
+                  "reference_inputs": [
+                    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                  ]
+                }
+              ]
+            }
+          }
+        ],
+        "instructions": "将referenced_image_paths原样传入图像工具；引用图只作身份或服装依据。只画本镜入镜角色，勿复制参考表里的多个人物或背景。",
+        "user_visual_acceptance": "approved_for_initial_production_use"
+      }
+    },
+    {
+      "id": 31,
+      "title": "栗栗拿一颗红浆果入口，眼睛开心弯成月牙，",
+      "text": "拿起一颗红浆果放进嘴里，甜得眼睛都弯成了月牙。",
+      "source_ranges": [
+        {
+          "unit_id": "u007",
+          "paragraph_id": "p006",
+          "start_char": 70,
+          "end_char": 93
+        }
+      ],
+      "characters": [
+        "lili"
+      ],
+      "outfits": {
+        "lili": "default_v001"
+      },
+      "setting": "木屋门廊：门在后侧偏左、小木桌在右侧、木栏在前侧；下午暖光逐步转为傍晚粉霞、暮色。",
+      "action": "栗栗拿一颗红浆果入口，眼睛开心弯成月牙，双脚仍稳稳着地。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_31.png",
+      "reference_manifest": "references/shot_31.json",
+      "image_status": "not_generated",
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_duration_s": null,
+      "visual_constraints": "栗栗拿一颗红浆果入口，眼睛开心弯成月牙，双脚仍稳稳着地。 保持角色身份；按本镜叙事设计目光、耳姿与表情，不复制参考图默认神情。无文字、水印、拼贴；关键动作在y1312以上。门廊室内不背书包，书包留屋内门边；栗栗不额外携带包。",
+      "reference_inputs_verified": {
+        "registry": "/workspace/Bedtime-Stories/03_素材与参数/用户长稿v4角色图库.json",
+        "referenced_image_paths": [
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+        ],
+        "characters": [
+          {
+            "id": "lili",
+            "name": "栗栗",
+            "identity_version": "v001",
+            "identity_paths": [
+              "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+            ],
+            "identity_anchors": "浅棕圆脸、深棕短而圆润背刺、小黑鼻。",
+            "outfit": {
+              "id": "default_v001",
+              "description": "灰绿色小背心",
+              "files": [
+                {
+                  "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png",
+                  "sha256": "41b97e6934d4ec71687b09c479370d029743a367d90cbe990ac51344ed0e54de",
+                  "size": [
+                    1216,
+                    1294
+                  ],
+                  "format": "PNG",
+                  "source": "built-in image_gen",
+                  "review": "assistant_visually_reviewed",
+                  "user_acceptance": "not_recorded",
+                  "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/lili.json",
+                  "reference_inputs": [
+                    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                  ]
+                }
+              ]
+            }
+          }
+        ],
+        "instructions": "将referenced_image_paths原样传入图像工具；引用图只作身份或服装依据。只画本镜入镜角色，勿复制参考表里的多个人物或背景。",
+        "user_visual_acceptance": "approved_for_initial_production_use"
+      }
+    },
+    {
+      "id": 32,
+      "title": "两位朋友并排坐门廊下，栗栗坐铺布矮凳，皮",
+      "text": "两位好朋友并排坐在门廊下，安安静静地看了一会儿傍晚的天空。",
+      "source_ranges": [
+        {
+          "unit_id": "u008",
+          "paragraph_id": "p007",
+          "start_char": 0,
+          "end_char": 29
+        }
+      ],
+      "characters": [
+        "pipi",
+        "lili"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "lili": "default_v001"
+      },
+      "setting": "木屋门廊：门在后侧偏左、小木桌在右侧、木栏在前侧；下午暖光逐步转为傍晚粉霞、暮色。",
+      "action": "两位朋友并排坐门廊下，栗栗坐铺布矮凳，皮皮坐旁边另一低凳，安静抬眼。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_32.png",
+      "reference_manifest": "references/shot_32.json",
+      "image_status": "not_generated",
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_duration_s": null,
+      "visual_constraints": "两位朋友并排坐门廊下，栗栗坐铺布矮凳，皮皮坐旁边另一低凳，安静抬眼。 保持角色身份；按本镜叙事设计目光、耳姿与表情，不复制参考图默认神情。无文字、水印、拼贴；关键动作在y1312以上。门廊室内不背书包，书包留屋内门边；栗栗不额外携带包。",
+      "reference_inputs_verified": {
+        "registry": "/workspace/Bedtime-Stories/03_素材与参数/用户长稿v4角色图库.json",
+        "referenced_image_paths": [
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+        ],
+        "characters": [
+          {
+            "id": "pipi",
+            "name": "皮皮",
+            "identity_version": "v001",
+            "identity_paths": [
+              "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+            ],
+            "identity_anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+            "outfit": {
+              "id": "day_v001",
+              "description": "换装表左：灰蓝短背带裤、米色上衣、蓝布鞋、小黄书包，无帽；仅画这套服装，不复制表中其他兔子。",
+              "files": [
+                {
+                  "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+                  "sha256": "30cb3e6f07e625bbe629ac7ff37d2fa0819de8c3aff1e0305d01447cefd85897",
+                  "size": [
+                    1536,
+                    1024
+                  ],
+                  "format": "PNG",
+                  "source": "built-in image_gen",
+                  "review": "assistant_visually_reviewed",
+                  "user_acceptance": "not_recorded",
+                  "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/pipi_wardrobe.json",
+                  "reference_inputs": [
+                    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "id": "lili",
+            "name": "栗栗",
+            "identity_version": "v001",
+            "identity_paths": [
+              "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+            ],
+            "identity_anchors": "浅棕圆脸、深棕短而圆润背刺、小黑鼻。",
+            "outfit": {
+              "id": "default_v001",
+              "description": "灰绿色小背心",
+              "files": [
+                {
+                  "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png",
+                  "sha256": "41b97e6934d4ec71687b09c479370d029743a367d90cbe990ac51344ed0e54de",
+                  "size": [
+                    1216,
+                    1294
+                  ],
+                  "format": "PNG",
+                  "source": "built-in image_gen",
+                  "review": "assistant_visually_reviewed",
+                  "user_acceptance": "not_recorded",
+                  "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/lili.json",
+                  "reference_inputs": [
+                    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                  ]
+                }
+              ]
+            }
+          }
+        ],
+        "instructions": "将referenced_image_paths原样传入图像工具；引用图只作身份或服装依据。只画本镜入镜角色，勿复制参考表里的多个人物或背景。",
+        "user_visual_acceptance": "approved_for_initial_production_use"
+      }
+    },
+    {
+      "id": 33,
+      "title": "从朋友背后看粉红晚霞缓慢飘过屋顶；两者肩",
+      "text": "谁也没有急着说很多话，粉红色的晚霞和云朵慢悠悠地从屋顶飘过。",
+      "source_ranges": [
+        {
+          "unit_id": "u008",
+          "paragraph_id": "p007",
+          "start_char": 29,
+          "end_char": 59
+        }
+      ],
+      "characters": [
+        "pipi",
+        "lili"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "lili": "default_v001"
+      },
+      "setting": "木屋门廊：门在后侧偏左、小木桌在右侧、木栏在前侧；下午暖光逐步转为傍晚粉霞、暮色。",
+      "action": "从朋友背后看粉红晚霞缓慢飘过屋顶；两者肩膀放松，彼此陪伴，无夸张动作。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_33.png",
+      "reference_manifest": "references/shot_33.json",
+      "image_status": "not_generated",
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_duration_s": null,
+      "visual_constraints": "从朋友背后看粉红晚霞缓慢飘过屋顶；两者肩膀放松，彼此陪伴，无夸张动作。 保持角色身份；按本镜叙事设计目光、耳姿与表情，不复制参考图默认神情。无文字、水印、拼贴；关键动作在y1312以上。门廊室内不背书包，书包留屋内门边；栗栗不额外携带包。",
+      "reference_inputs_verified": {
+        "registry": "/workspace/Bedtime-Stories/03_素材与参数/用户长稿v4角色图库.json",
+        "referenced_image_paths": [
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+        ],
+        "characters": [
+          {
+            "id": "pipi",
+            "name": "皮皮",
+            "identity_version": "v001",
+            "identity_paths": [
+              "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+            ],
+            "identity_anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+            "outfit": {
+              "id": "day_v001",
+              "description": "换装表左：灰蓝短背带裤、米色上衣、蓝布鞋、小黄书包，无帽；仅画这套服装，不复制表中其他兔子。",
+              "files": [
+                {
+                  "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+                  "sha256": "30cb3e6f07e625bbe629ac7ff37d2fa0819de8c3aff1e0305d01447cefd85897",
+                  "size": [
+                    1536,
+                    1024
+                  ],
+                  "format": "PNG",
+                  "source": "built-in image_gen",
+                  "review": "assistant_visually_reviewed",
+                  "user_acceptance": "not_recorded",
+                  "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/pipi_wardrobe.json",
+                  "reference_inputs": [
+                    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "id": "lili",
+            "name": "栗栗",
+            "identity_version": "v001",
+            "identity_paths": [
+              "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+            ],
+            "identity_anchors": "浅棕圆脸、深棕短而圆润背刺、小黑鼻。",
+            "outfit": {
+              "id": "default_v001",
+              "description": "灰绿色小背心",
+              "files": [
+                {
+                  "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png",
+                  "sha256": "41b97e6934d4ec71687b09c479370d029743a367d90cbe990ac51344ed0e54de",
+                  "size": [
+                    1216,
+                    1294
+                  ],
+                  "format": "PNG",
+                  "source": "built-in image_gen",
+                  "review": "assistant_visually_reviewed",
+                  "user_acceptance": "not_recorded",
+                  "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/lili.json",
+                  "reference_inputs": [
+                    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                  ]
+                }
+              ]
+            }
+          }
+        ],
+        "instructions": "将referenced_image_paths原样传入图像工具；引用图只作身份或服装依据。只画本镜入镜角色，勿复制参考表里的多个人物或背景。",
+        "user_visual_acceptance": "approved_for_initial_production_use"
+      }
+    },
+    {
+      "id": 34,
+      "title": "暮色加深，栗栗站起准备回家，低头认真叠软",
+      "text": "\n天快黑的时候，栗栗准备回家了，他礼貌地把那块软布仔细叠好。",
+      "source_ranges": [
+        {
+          "unit_id": "u008",
+          "paragraph_id": "p007",
+          "start_char": 59,
+          "end_char": 89
+        }
+      ],
+      "characters": [
+        "pipi",
+        "lili"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "lili": "default_v001"
+      },
+      "setting": "木屋门廊：门在后侧偏左、小木桌在右侧、木栏在前侧；下午暖光逐步转为傍晚粉霞、暮色。",
+      "action": "暮色加深，栗栗站起准备回家，低头认真叠软布，神情礼貌。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_34.png",
+      "reference_manifest": "references/shot_34.json",
+      "image_status": "not_generated",
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_duration_s": null,
+      "visual_constraints": "暮色加深，栗栗站起准备回家，低头认真叠软布，神情礼貌。 保持角色身份；按本镜叙事设计目光、耳姿与表情，不复制参考图默认神情。无文字、水印、拼贴；关键动作在y1312以上。门廊室内不背书包，书包留屋内门边；栗栗不额外携带包。",
+      "reference_inputs_verified": {
+        "registry": "/workspace/Bedtime-Stories/03_素材与参数/用户长稿v4角色图库.json",
+        "referenced_image_paths": [
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+        ],
+        "characters": [
+          {
+            "id": "pipi",
+            "name": "皮皮",
+            "identity_version": "v001",
+            "identity_paths": [
+              "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+            ],
+            "identity_anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+            "outfit": {
+              "id": "day_v001",
+              "description": "换装表左：灰蓝短背带裤、米色上衣、蓝布鞋、小黄书包，无帽；仅画这套服装，不复制表中其他兔子。",
+              "files": [
+                {
+                  "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+                  "sha256": "30cb3e6f07e625bbe629ac7ff37d2fa0819de8c3aff1e0305d01447cefd85897",
+                  "size": [
+                    1536,
+                    1024
+                  ],
+                  "format": "PNG",
+                  "source": "built-in image_gen",
+                  "review": "assistant_visually_reviewed",
+                  "user_acceptance": "not_recorded",
+                  "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/pipi_wardrobe.json",
+                  "reference_inputs": [
+                    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "id": "lili",
+            "name": "栗栗",
+            "identity_version": "v001",
+            "identity_paths": [
+              "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+            ],
+            "identity_anchors": "浅棕圆脸、深棕短而圆润背刺、小黑鼻。",
+            "outfit": {
+              "id": "default_v001",
+              "description": "灰绿色小背心",
+              "files": [
+                {
+                  "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png",
+                  "sha256": "41b97e6934d4ec71687b09c479370d029743a367d90cbe990ac51344ed0e54de",
+                  "size": [
+                    1216,
+                    1294
+                  ],
+                  "format": "PNG",
+                  "source": "built-in image_gen",
+                  "review": "assistant_visually_reviewed",
+                  "user_acceptance": "not_recorded",
+                  "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/lili.json",
+                  "reference_inputs": [
+                    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                  ]
+                }
+              ]
+            }
+          }
+        ],
+        "instructions": "将referenced_image_paths原样传入图像工具；引用图只作身份或服装依据。只画本镜入镜角色，勿复制参考表里的多个人物或背景。",
+        "user_visual_acceptance": "approved_for_initial_production_use"
+      }
+    },
+    {
+      "id": 35,
+      "title": "皮皮微笑摆爪示意不用收走，栗栗停下叠布、",
+      "text": "皮皮摆摆小爪子，笑着说：“不用收走呀，就放在这儿，",
+      "source_ranges": [
+        {
+          "unit_id": "u008",
+          "paragraph_id": "p007",
+          "start_char": 89,
+          "end_char": 114
+        }
+      ],
+      "characters": [
+        "pipi",
+        "lili"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "lili": "default_v001"
+      },
+      "setting": "木屋门廊：门在后侧偏左、小木桌在右侧、木栏在前侧；下午暖光逐步转为傍晚粉霞、暮色。",
+      "action": "皮皮微笑摆爪示意不用收走，栗栗停下叠布、抬头倾听。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_35.png",
+      "reference_manifest": "references/shot_35.json",
+      "image_status": "not_generated",
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_duration_s": null,
+      "visual_constraints": "皮皮微笑摆爪示意不用收走，栗栗停下叠布、抬头倾听。 保持角色身份；按本镜叙事设计目光、耳姿与表情，不复制参考图默认神情。无文字、水印、拼贴；关键动作在y1312以上。门廊室内不背书包，书包留屋内门边；栗栗不额外携带包。",
+      "reference_inputs_verified": {
+        "registry": "/workspace/Bedtime-Stories/03_素材与参数/用户长稿v4角色图库.json",
+        "referenced_image_paths": [
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+        ],
+        "characters": [
+          {
+            "id": "pipi",
+            "name": "皮皮",
+            "identity_version": "v001",
+            "identity_paths": [
+              "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+            ],
+            "identity_anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+            "outfit": {
+              "id": "day_v001",
+              "description": "换装表左：灰蓝短背带裤、米色上衣、蓝布鞋、小黄书包，无帽；仅画这套服装，不复制表中其他兔子。",
+              "files": [
+                {
+                  "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+                  "sha256": "30cb3e6f07e625bbe629ac7ff37d2fa0819de8c3aff1e0305d01447cefd85897",
+                  "size": [
+                    1536,
+                    1024
+                  ],
+                  "format": "PNG",
+                  "source": "built-in image_gen",
+                  "review": "assistant_visually_reviewed",
+                  "user_acceptance": "not_recorded",
+                  "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/pipi_wardrobe.json",
+                  "reference_inputs": [
+                    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "id": "lili",
+            "name": "栗栗",
+            "identity_version": "v001",
+            "identity_paths": [
+              "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+            ],
+            "identity_anchors": "浅棕圆脸、深棕短而圆润背刺、小黑鼻。",
+            "outfit": {
+              "id": "default_v001",
+              "description": "灰绿色小背心",
+              "files": [
+                {
+                  "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png",
+                  "sha256": "41b97e6934d4ec71687b09c479370d029743a367d90cbe990ac51344ed0e54de",
+                  "size": [
+                    1216,
+                    1294
+                  ],
+                  "format": "PNG",
+                  "source": "built-in image_gen",
+                  "review": "assistant_visually_reviewed",
+                  "user_acceptance": "not_recorded",
+                  "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/lili.json",
+                  "reference_inputs": [
+                    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                  ]
+                }
+              ]
+            }
+          }
+        ],
+        "instructions": "将referenced_image_paths原样传入图像工具；引用图只作身份或服装依据。只画本镜入镜角色，勿复制参考表里的多个人物或背景。",
+        "user_visual_acceptance": "approved_for_initial_production_use"
+      }
+    },
+    {
+      "id": 36,
+      "title": "皮皮轻指铺布矮凳，目光友善；栗栗笑着回应",
+      "text": "明天你来玩，还给你留着这个专属座位。”",
+      "source_ranges": [
+        {
+          "unit_id": "u008",
+          "paragraph_id": "p007",
+          "start_char": 114,
+          "end_char": 133
+        }
+      ],
+      "characters": [
+        "pipi",
+        "lili"
+      ],
+      "outfits": {
+        "pipi": "day_v001",
+        "lili": "default_v001"
+      },
+      "setting": "木屋门廊：门在后侧偏左、小木桌在右侧、木栏在前侧；下午暖光逐步转为傍晚粉霞、暮色。",
+      "action": "皮皮轻指铺布矮凳，目光友善；栗栗笑着回应，布重新留在凳面上。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_36.png",
+      "reference_manifest": "references/shot_36.json",
+      "image_status": "not_generated",
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_duration_s": null,
+      "visual_constraints": "皮皮轻指铺布矮凳，目光友善；栗栗笑着回应，布重新留在凳面上。 保持角色身份；按本镜叙事设计目光、耳姿与表情，不复制参考图默认神情。无文字、水印、拼贴；关键动作在y1312以上。门廊室内不背书包，书包留屋内门边；栗栗不额外携带包。",
+      "reference_inputs_verified": {
+        "registry": "/workspace/Bedtime-Stories/03_素材与参数/用户长稿v4角色图库.json",
+        "referenced_image_paths": [
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+        ],
+        "characters": [
+          {
+            "id": "pipi",
+            "name": "皮皮",
+            "identity_version": "v001",
+            "identity_paths": [
+              "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+            ],
+            "identity_anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+            "outfit": {
+              "id": "day_v001",
+              "description": "换装表左：灰蓝短背带裤、米色上衣、蓝布鞋、小黄书包，无帽；仅画这套服装，不复制表中其他兔子。",
+              "files": [
+                {
+                  "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+                  "sha256": "30cb3e6f07e625bbe629ac7ff37d2fa0819de8c3aff1e0305d01447cefd85897",
+                  "size": [
+                    1536,
+                    1024
+                  ],
+                  "format": "PNG",
+                  "source": "built-in image_gen",
+                  "review": "assistant_visually_reviewed",
+                  "user_acceptance": "not_recorded",
+                  "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/pipi_wardrobe.json",
+                  "reference_inputs": [
+                    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "id": "lili",
+            "name": "栗栗",
+            "identity_version": "v001",
+            "identity_paths": [
+              "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+            ],
+            "identity_anchors": "浅棕圆脸、深棕短而圆润背刺、小黑鼻。",
+            "outfit": {
+              "id": "default_v001",
+              "description": "灰绿色小背心",
+              "files": [
+                {
+                  "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png",
+                  "sha256": "41b97e6934d4ec71687b09c479370d029743a367d90cbe990ac51344ed0e54de",
+                  "size": [
+                    1216,
+                    1294
+                  ],
+                  "format": "PNG",
+                  "source": "built-in image_gen",
+                  "review": "assistant_visually_reviewed",
+                  "user_acceptance": "not_recorded",
+                  "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/lili.json",
+                  "reference_inputs": [
+                    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                  ]
+                }
+              ]
+            }
+          }
+        ],
+        "instructions": "将referenced_image_paths原样传入图像工具；引用图只作身份或服装依据。只画本镜入镜角色，勿复制参考表里的多个人物或背景。",
+        "user_visual_acceptance": "approved_for_initial_production_use"
+      }
+    },
+    {
+      "id": 37,
+      "title": "送别后的空门廊",
+      "text": "送走栗栗后，门廊彻底安静了下来。",
+      "source_ranges": [
+        {
+          "unit_id": "u009",
+          "paragraph_id": "p008",
+          "start_char": 0,
+          "end_char": 16
+        }
+      ],
+      "characters": [],
+      "outfits": {},
+      "setting": "木屋门廊，暮色；铺布圆矮凳仍在右侧小木桌旁，旧靠背木椅收在左侧。",
+      "action": "送别后的空门廊：铺布矮凳静置桌旁，红浆果小碟仍在，屋里透出暖光，无人物。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_37.png",
+      "reference_manifest": "references/shot_37.json",
+      "image_status": "not_generated",
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_duration_s": null,
+      "visual_constraints": "送别后的空门廊：铺布矮凳静置桌旁，红浆果小碟仍在，屋里透出暖光，无人物。 保持角色身份；按本镜叙事设计目光、耳姿与表情，不复制参考图默认神情。无文字、水印、拼贴；关键动作在y1312以上。门廊室内不背书包，书包留屋内门边；栗栗不额外携带包。",
+      "reference_inputs_verified": {
+        "registry": "/workspace/Bedtime-Stories/03_素材与参数/用户长稿v4角色图库.json",
+        "referenced_image_paths": [],
+        "characters": [],
+        "instructions": "将referenced_image_paths原样传入图像工具；引用图只作身份或服装依据。只画本镜入镜角色，勿复制参考表里的多个人物或背景。",
+        "user_visual_acceptance": "approved_for_initial_production_use"
+      }
+    },
+    {
+      "id": 38,
+      "title": "卧室",
+      "text": "皮皮走进卧室，在躺下前，也特意把自己的小枕头往里挪了挪，",
+      "source_ranges": [
+        {
+          "unit_id": "u009",
+          "paragraph_id": "p008",
+          "start_char": 16,
+          "end_char": 44
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "木屋卧室：木床靠左、枕头在床头、窗在右后方、床头暖灯；夜晚。",
+      "action": "卧室：皮皮已换星星睡帽，认真移动小枕头，双耳自然舒展，胡萝卜玩偶在床边。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_38.png",
+      "reference_manifest": "references/shot_38.json",
+      "image_status": "not_generated",
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_duration_s": null,
+      "visual_constraints": "卧室：皮皮已换星星睡帽，认真移动小枕头，双耳自然舒展，胡萝卜玩偶在床边。 保持角色身份；按本镜叙事设计目光、耳姿与表情，不复制参考图默认神情。无文字、水印、拼贴；关键动作在y1312以上。门廊室内不背书包，书包留屋内门边；栗栗不额外携带包。",
+      "reference_inputs_verified": {
+        "registry": "/workspace/Bedtime-Stories/03_素材与参数/用户长稿v4角色图库.json",
+        "referenced_image_paths": [
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ],
+        "characters": [
+          {
+            "id": "pipi",
+            "name": "皮皮",
+            "identity_version": "v001",
+            "identity_paths": [
+              "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+            ],
+            "identity_anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+            "outfit": {
+              "id": "sleep_v001",
+              "description": "换装表右：原深蓝星星睡帽和黄色帽球，保留原兔体型；玩偶和毛毯是另行配置的场景道具。",
+              "files": [
+                {
+                  "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+                  "sha256": "30cb3e6f07e625bbe629ac7ff37d2fa0819de8c3aff1e0305d01447cefd85897",
+                  "size": [
+                    1536,
+                    1024
+                  ],
+                  "format": "PNG",
+                  "source": "built-in image_gen",
+                  "review": "assistant_visually_reviewed",
+                  "user_acceptance": "not_recorded",
+                  "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/pipi_wardrobe.json",
+                  "reference_inputs": [
+                    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                  ]
+                }
+              ]
+            }
+          }
+        ],
+        "instructions": "将referenced_image_paths原样传入图像工具；引用图只作身份或服装依据。只画本镜入镜角色，勿复制参考表里的多个人物或背景。",
+        "user_visual_acceptance": "approved_for_initial_production_use"
+      }
+    },
+    {
+      "id": 39,
+      "title": "枕头侧面近景",
+      "text": "给长长的兔耳朵留出了一个不会被折到的舒服地方。",
+      "source_ranges": [
+        {
+          "unit_id": "u009",
+          "paragraph_id": "p008",
+          "start_char": 44,
+          "end_char": 67
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "木屋卧室：木床靠左、枕头在床头、窗在右后方、床头暖灯；夜晚。",
+      "action": "枕头侧面近景：皮皮试着躺下，长耳舒展在预留处，不被枕头折住，表情轻松。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_39.png",
+      "reference_manifest": "references/shot_39.json",
+      "image_status": "not_generated",
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_duration_s": null,
+      "visual_constraints": "枕头侧面近景：皮皮试着躺下，长耳舒展在预留处，不被枕头折住，表情轻松。 保持角色身份；按本镜叙事设计目光、耳姿与表情，不复制参考图默认神情。无文字、水印、拼贴；关键动作在y1312以上。门廊室内不背书包，书包留屋内门边；栗栗不额外携带包。",
+      "reference_inputs_verified": {
+        "registry": "/workspace/Bedtime-Stories/03_素材与参数/用户长稿v4角色图库.json",
+        "referenced_image_paths": [
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ],
+        "characters": [
+          {
+            "id": "pipi",
+            "name": "皮皮",
+            "identity_version": "v001",
+            "identity_paths": [
+              "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+            ],
+            "identity_anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+            "outfit": {
+              "id": "sleep_v001",
+              "description": "换装表右：原深蓝星星睡帽和黄色帽球，保留原兔体型；玩偶和毛毯是另行配置的场景道具。",
+              "files": [
+                {
+                  "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+                  "sha256": "30cb3e6f07e625bbe629ac7ff37d2fa0819de8c3aff1e0305d01447cefd85897",
+                  "size": [
+                    1536,
+                    1024
+                  ],
+                  "format": "PNG",
+                  "source": "built-in image_gen",
+                  "review": "assistant_visually_reviewed",
+                  "user_acceptance": "not_recorded",
+                  "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/pipi_wardrobe.json",
+                  "reference_inputs": [
+                    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                  ]
+                }
+              ]
+            }
+          }
+        ],
+        "instructions": "将referenced_image_paths原样传入图像工具；引用图只作身份或服装依据。只画本镜入镜角色，勿复制参考表里的多个人物或背景。",
+        "user_visual_acceptance": "approved_for_initial_production_use"
+      }
+    },
+    {
+      "id": 40,
+      "title": "皮皮钻进暖黄毯，抱住唯一一只胡萝卜玩偶，",
+      "text": "\n他钻进暖黄毛毯，抱着胡萝卜玩偶闭上眼睛。",
+      "source_ranges": [
+        {
+          "unit_id": "u009",
+          "paragraph_id": "p008",
+          "start_char": 67,
+          "end_char": 88
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "木屋卧室：木床靠左、枕头在床头、窗在右后方、床头暖灯；夜晚。",
+      "action": "皮皮钻进暖黄毯，抱住唯一一只胡萝卜玩偶，缓缓闭眼，嘴角安心。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_40.png",
+      "reference_manifest": "references/shot_40.json",
+      "image_status": "not_generated",
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_duration_s": null,
+      "visual_constraints": "皮皮钻进暖黄毯，抱住唯一一只胡萝卜玩偶，缓缓闭眼，嘴角安心。 保持角色身份；按本镜叙事设计目光、耳姿与表情，不复制参考图默认神情。无文字、水印、拼贴；关键动作在y1312以上。门廊室内不背书包，书包留屋内门边；栗栗不额外携带包。",
+      "reference_inputs_verified": {
+        "registry": "/workspace/Bedtime-Stories/03_素材与参数/用户长稿v4角色图库.json",
+        "referenced_image_paths": [
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ],
+        "characters": [
+          {
+            "id": "pipi",
+            "name": "皮皮",
+            "identity_version": "v001",
+            "identity_paths": [
+              "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+            ],
+            "identity_anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+            "outfit": {
+              "id": "sleep_v001",
+              "description": "换装表右：原深蓝星星睡帽和黄色帽球，保留原兔体型；玩偶和毛毯是另行配置的场景道具。",
+              "files": [
+                {
+                  "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+                  "sha256": "30cb3e6f07e625bbe629ac7ff37d2fa0819de8c3aff1e0305d01447cefd85897",
+                  "size": [
+                    1536,
+                    1024
+                  ],
+                  "format": "PNG",
+                  "source": "built-in image_gen",
+                  "review": "assistant_visually_reviewed",
+                  "user_acceptance": "not_recorded",
+                  "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/pipi_wardrobe.json",
+                  "reference_inputs": [
+                    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                  ]
+                }
+              ]
+            }
+          }
+        ],
+        "instructions": "将referenced_image_paths原样传入图像工具；引用图只作身份或服装依据。只画本镜入镜角色，勿复制参考表里的多个人物或背景。",
+        "user_visual_acceptance": "approved_for_initial_production_use"
+      }
+    },
+    {
+      "id": 41,
+      "title": "卧室中景",
+      "text": "每个人都有最适合自己的舒服位置，今天栗栗找到了，皮皮也找到了。",
+      "source_ranges": [
+        {
+          "unit_id": "u009",
+          "paragraph_id": "p008",
+          "start_char": 88,
+          "end_char": 119
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "木屋卧室：木床靠左、枕头在床头、窗在右后方、床头暖灯；夜晚。",
+      "action": "卧室中景：皮皮安稳躺好，枕头、耳朵与毯子关系清楚，眼睛闭合；不插入新情节。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_41.png",
+      "reference_manifest": "references/shot_41.json",
+      "image_status": "not_generated",
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_duration_s": null,
+      "visual_constraints": "卧室中景：皮皮安稳躺好，枕头、耳朵与毯子关系清楚，眼睛闭合；不插入新情节。 保持角色身份；按本镜叙事设计目光、耳姿与表情，不复制参考图默认神情。无文字、水印、拼贴；关键动作在y1312以上。门廊室内不背书包，书包留屋内门边；栗栗不额外携带包。",
+      "reference_inputs_verified": {
+        "registry": "/workspace/Bedtime-Stories/03_素材与参数/用户长稿v4角色图库.json",
+        "referenced_image_paths": [
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ],
+        "characters": [
+          {
+            "id": "pipi",
+            "name": "皮皮",
+            "identity_version": "v001",
+            "identity_paths": [
+              "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+            ],
+            "identity_anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+            "outfit": {
+              "id": "sleep_v001",
+              "description": "换装表右：原深蓝星星睡帽和黄色帽球，保留原兔体型；玩偶和毛毯是另行配置的场景道具。",
+              "files": [
+                {
+                  "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+                  "sha256": "30cb3e6f07e625bbe629ac7ff37d2fa0819de8c3aff1e0305d01447cefd85897",
+                  "size": [
+                    1536,
+                    1024
+                  ],
+                  "format": "PNG",
+                  "source": "built-in image_gen",
+                  "review": "assistant_visually_reviewed",
+                  "user_acceptance": "not_recorded",
+                  "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/pipi_wardrobe.json",
+                  "reference_inputs": [
+                    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                  ]
+                }
+              ]
+            }
+          }
+        ],
+        "instructions": "将referenced_image_paths原样传入图像工具；引用图只作身份或服装依据。只画本镜入镜角色，勿复制参考表里的多个人物或背景。",
+        "user_visual_acceptance": "approved_for_initial_production_use"
+      }
+    },
+    {
+      "id": 42,
+      "title": "床边侧景",
+      "text": "小朋友，你的小床上也有专属于你的舒服小位置。",
+      "source_ranges": [
+        {
+          "unit_id": "u010",
+          "paragraph_id": "p009",
+          "start_char": 0,
+          "end_char": 22
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "木屋卧室：木床靠左、枕头在床头、窗在右后方、床头暖灯；夜晚。",
+      "action": "床边侧景：皮皮安睡，长耳有独立空间，暖黄毯平整，胡萝卜玩偶贴在怀里。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_42.png",
+      "reference_manifest": "references/shot_42.json",
+      "image_status": "not_generated",
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_duration_s": null,
+      "visual_constraints": "床边侧景：皮皮安睡，长耳有独立空间，暖黄毯平整，胡萝卜玩偶贴在怀里。 保持角色身份；按本镜叙事设计目光、耳姿与表情，不复制参考图默认神情。无文字、水印、拼贴；关键动作在y1312以上。门廊室内不背书包，书包留屋内门边；栗栗不额外携带包。",
+      "reference_inputs_verified": {
+        "registry": "/workspace/Bedtime-Stories/03_素材与参数/用户长稿v4角色图库.json",
+        "referenced_image_paths": [
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ],
+        "characters": [
+          {
+            "id": "pipi",
+            "name": "皮皮",
+            "identity_version": "v001",
+            "identity_paths": [
+              "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+            ],
+            "identity_anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+            "outfit": {
+              "id": "sleep_v001",
+              "description": "换装表右：原深蓝星星睡帽和黄色帽球，保留原兔体型；玩偶和毛毯是另行配置的场景道具。",
+              "files": [
+                {
+                  "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+                  "sha256": "30cb3e6f07e625bbe629ac7ff37d2fa0819de8c3aff1e0305d01447cefd85897",
+                  "size": [
+                    1536,
+                    1024
+                  ],
+                  "format": "PNG",
+                  "source": "built-in image_gen",
+                  "review": "assistant_visually_reviewed",
+                  "user_acceptance": "not_recorded",
+                  "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/pipi_wardrobe.json",
+                  "reference_inputs": [
+                    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                  ]
+                }
+              ]
+            }
+          }
+        ],
+        "instructions": "将referenced_image_paths原样传入图像工具；引用图只作身份或服装依据。只画本镜入镜角色，勿复制参考表里的多个人物或背景。",
+        "user_visual_acceptance": "approved_for_initial_production_use"
+      }
+    },
+    {
+      "id": 43,
+      "title": "从门口看卧室，皮皮安静躺着，灯光柔和，人",
+      "text": "慢慢躺好，不用挤，也不用赶。",
+      "source_ranges": [
+        {
+          "unit_id": "u010",
+          "paragraph_id": "p009",
+          "start_char": 22,
+          "end_char": 36
+        }
+      ],
+      "characters": [
+        "pipi"
+      ],
+      "outfits": {
+        "pipi": "sleep_v001"
+      },
+      "setting": "木屋卧室：木床靠左、枕头在床头、窗在右后方、床头暖灯；夜晚。",
+      "action": "从门口看卧室，皮皮安静躺着，灯光柔和，人物与主要道具置于字幕区上方。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_43.png",
+      "reference_manifest": "references/shot_43.json",
+      "image_status": "not_generated",
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_duration_s": null,
+      "visual_constraints": "从门口看卧室，皮皮安静躺着，灯光柔和，人物与主要道具置于字幕区上方。 保持角色身份；按本镜叙事设计目光、耳姿与表情，不复制参考图默认神情。无文字、水印、拼贴；关键动作在y1312以上。门廊室内不背书包，书包留屋内门边；栗栗不额外携带包。",
+      "reference_inputs_verified": {
+        "registry": "/workspace/Bedtime-Stories/03_素材与参数/用户长稿v4角色图库.json",
+        "referenced_image_paths": [
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+          "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+        ],
+        "characters": [
+          {
+            "id": "pipi",
+            "name": "皮皮",
+            "identity_version": "v001",
+            "identity_paths": [
+              "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+            ],
+            "identity_anchors": "暖灰毛、圆脸、粉色小鼻、自然下垂长耳；身份不随活动和换装变化。",
+            "outfit": {
+              "id": "sleep_v001",
+              "description": "换装表右：原深蓝星星睡帽和黄色帽球，保留原兔体型；玩偶和毛毯是另行配置的场景道具。",
+              "files": [
+                {
+                  "path": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+                  "sha256": "30cb3e6f07e625bbe629ac7ff37d2fa0819de8c3aff1e0305d01447cefd85897",
+                  "size": [
+                    1536,
+                    1024
+                  ],
+                  "format": "PNG",
+                  "source": "built-in image_gen",
+                  "review": "assistant_visually_reviewed",
+                  "user_acceptance": "not_recorded",
+                  "prompt_file": "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/prompts/pipi_wardrobe.json",
+                  "reference_inputs": [
+                    "/Users/ww/视频/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+                  ]
+                }
+              ]
+            }
+          }
+        ],
+        "instructions": "将referenced_image_paths原样传入图像工具；引用图只作身份或服装依据。只画本镜入镜角色，勿复制参考表里的多个人物或背景。",
+        "user_visual_acceptance": "approved_for_initial_production_use"
+      }
+    },
+    {
+      "id": 44,
+      "title": "夜晚木屋外景，无人物；暖窗与灰蓝森林，用",
+      "text": "晚安，做个甜甜的梦。",
+      "source_ranges": [
+        {
+          "unit_id": "u010",
+          "paragraph_id": "p009",
+          "start_char": 36,
+          "end_char": 46
+        }
+      ],
+      "characters": [],
+      "outfits": {},
+      "setting": "夜晚木屋外部，暖窗、木门廊、灰蓝森林，安静无人物。",
+      "action": "夜晚木屋外景，无人物；暖窗与灰蓝森林，用于晚安及约八秒尾声，若实测超15秒再拆镜。",
+      "reality": "real",
+      "motion": "fixed",
+      "opening": false,
+      "image": "images/shot_44.png",
+      "reference_manifest": "references/shot_44.json",
+      "image_status": "not_generated",
+      "actual_start_s": null,
+      "actual_end_s": null,
+      "visible_duration_s": null,
+      "visual_constraints": "夜晚木屋外景，无人物；暖窗与灰蓝森林，用于晚安及约八秒尾声，若实测超15秒再拆镜。 保持角色身份；按本镜叙事设计目光、耳姿与表情，不复制参考图默认神情。无文字、水印、拼贴；关键动作在y1312以上。门廊室内不背书包，书包留屋内门边；栗栗不额外携带包。",
+      "reference_inputs_verified": {
+        "registry": "/workspace/Bedtime-Stories/03_素材与参数/用户长稿v4角色图库.json",
+        "referenced_image_paths": [],
+        "characters": [],
+        "instructions": "将referenced_image_paths原样传入图像工具；引用图只作身份或服装依据。只画本镜入镜角色，勿复制参考表里的多个人物或背景。",
+        "user_visual_acceptance": "approved_for_initial_production_use"
+      }
+    }
+  ]
+}

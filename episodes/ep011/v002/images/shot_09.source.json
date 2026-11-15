@@ -1,0 +1,15 @@
+{
+  "shot_id": 9,
+  "source": "OpenAI image_gen; targeted continuity edit",
+  "image_path": "images/shot_09.png",
+  "sha256": "0c0cd0bad2dba2a4ee7594400f2b639f7fe37e881433de043de9ebc5ef1b02da",
+  "prompt": "prompts/shot_09.txt",
+  "reference_inputs": [
+    "episodes/ep011/v002/images/shot_09.png",
+    "episodes/ep011/v002/assets/porch_anchor.png",
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+  ],
+  "image_status": "generated_continuity_reviewed",
+  "human_visual_review": "passed; rabbit carries the same bare chair, same backpack is left inside doorway, Lili watches"
+}

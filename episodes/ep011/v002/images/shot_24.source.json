@@ -1,0 +1,16 @@
+{
+  "shot_id": 24,
+  "source": "OpenAI image_gen; continuity-directed scene redraw",
+  "image_path": "images/shot_24.png",
+  "sha256": "57db1962e78e89570a1a4800231d2ac329cbe593abaa57fd596b03ba86ad108d",
+  "prompt": "prompts/shot_24.txt",
+  "reference_inputs": [
+    "episodes/ep011/v002/images/shot_23.png",
+    "episodes/ep011/v002/images/shot_07.png",
+    "episodes/ep011/v002/assets/stool_cloth_anchor.png",
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+  ],
+  "image_status": "generated_continuity_reviewed",
+  "human_visual_review": "passed; Pipi takes one plain oatmeal cloth from basket pulled out from under table; the temporary basket move is recorded in storyboard"
+}

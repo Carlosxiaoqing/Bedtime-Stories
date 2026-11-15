@@ -1,0 +1,14 @@
+{
+  "episode": "ep010",
+  "version": "v001",
+  "status": "technical_passed_pending_human_review_and_user_acceptance",
+  "source_script_version": "v5",
+  "narration_hanzi": 761,
+  "duration_s": 274.04,
+  "shot_count": 36,
+  "subtitle_cues": 130,
+  "technical_checks": "passed",
+  "human_listen_watch": "not_certified",
+  "user_acceptance": "pending",
+  "publication": "not_published"
+}

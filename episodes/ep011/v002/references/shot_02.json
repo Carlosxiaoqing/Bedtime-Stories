@@ -1,0 +1,12 @@
+{
+  "shot_id": 2,
+  "reference_inputs": [
+    "/workspace/Bedtime-Stories/episodes/ep011/v002/images/shot_01.png",
+    "/workspace/Bedtime-Stories/episodes/ep011/v002/images/shot_07.png",
+    "/workspace/Bedtime-Stories/episodes/ep011/v002/assets/porch_anchor.png"
+  ],
+  "output": "images/shot_02.png",
+  "source": "continuity-directed v002 image generation",
+  "review": "redraw_reference_chain_approved",
+  "continuity_status": "reviewed"
+}

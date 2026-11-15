@@ -1,0 +1,10 @@
+{
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "provider": "Microsoft Edge TTS",
+  "scope": "full v5 episode narration including p000",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "sample_rate": 48000,
+  "authorized_for_local_episode_production": true
+}

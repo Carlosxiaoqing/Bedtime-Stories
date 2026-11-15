@@ -1,0 +1,1 @@
+Original vertical watercolor illustration based on the exact source text and action in storyboard.json; preserve Pipi identity from references/pipi_identity_v001.png when visible; no lettering; leave subtitle-safe lower area.

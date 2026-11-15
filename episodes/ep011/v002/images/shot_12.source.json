@@ -1,0 +1,16 @@
+{
+  "shot_id": 12,
+  "source": "OpenAI image_gen; continuity-directed scene redraw, second pass",
+  "image_path": "images/shot_12.png",
+  "sha256": "29236e122bf5a34962b359cf4c1d811bba8d6ad1518e1ab497621f4d08ae417c",
+  "prompt": "prompts/shot_12.txt",
+  "reference_inputs": [
+    "episodes/ep011/v002/images/shot_11.png",
+    "episodes/ep011/v002/images/shot_07.png",
+    "episodes/ep011/v002/assets/chair_cushion_anchor.png",
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+  ],
+  "image_status": "generated_continuity_reviewed",
+  "human_visual_review": "passed; same rectangular-door porch and chair/cushion; Lili climbing; Pipi backpack remains inside"
+}

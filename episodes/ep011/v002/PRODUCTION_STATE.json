@@ -1,0 +1,21 @@
+{
+  "episode": "ep011",
+  "version": "v002",
+  "script_version": "v5",
+  "status": "rendered_technical_passed_human_review_pending",
+  "authorization": "user_requested_rebuild_with_continuity_requirements",
+  "source_version": "episodes/ep011/v001",
+  "voice_reused": true,
+  "voice_sha256": "995b0004f8499a5eb957230d7e4e1c986b02a4c8581e1cfdf2dd6658b764679c",
+  "continuity_preflight": "passed",
+  "image_generation": "complete; 44/44 unique images generated and reviewed",
+  "image_continuity_review": "passed_full_44_shot_contact_sheet",
+  "continuity_contact_sheet": "checks/storyboard_contact_reviewed.jpg",
+  "render": "complete",
+  "technical_checks": "passed; both videos fully decoded; 1080x1920, 25fps, 297.72s, 7443 frames, AAC 48kHz; 811/811 hanzi coverage; 143 subtitle cues",
+  "human_watch": "pending_full_listen_watch",
+  "user_acceptance": "pending",
+  "publication": "not_published",
+  "git_sync": "synced_to_main",
+  "delivery_directory": "Outputs/2026-11-13/ep011-v002"
+}

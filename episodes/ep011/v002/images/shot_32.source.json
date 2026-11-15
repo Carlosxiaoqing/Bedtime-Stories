@@ -1,0 +1,14 @@
+{
+  "shot_id": 32,
+  "source": "OpenAI image_gen; targeted backpack continuity edit",
+  "image_path": "images/shot_32.png",
+  "sha256": "72285cba5ea68796675b6940c97be3060d589e3f69feb6ca25e74265ba38fa8a",
+  "prompt": "prompts/shot_32.txt",
+  "reference_inputs": [
+    "episodes/ep011/v002/images/shot_32.png (pre-edit frame)",
+    "episodes/ep011/v002/assets/porch_anchor.png",
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+  ],
+  "image_status": "generated_continuity_reviewed",
+  "human_visual_review": "passed; Pipi sits on floor beside Lili on same stool/cloth; backpack inside"
+}

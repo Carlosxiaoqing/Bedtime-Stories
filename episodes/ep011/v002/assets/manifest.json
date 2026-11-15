@@ -1,0 +1,30 @@
+{
+  "PORCH_LAYOUT_01": {
+    "path": "assets/porch_anchor.png",
+    "sha256": "7658c8e7c5422c7e36d7897df5495bc30fa4c1ed73aef368ec2993e970463b39",
+    "description": "Canonical empty porch layout generated for this episode; door left, table right, foreground railing.",
+    "source": "OpenAI image_gen",
+    "review": "visually_reviewed"
+  },
+  "CHAIR_01+GOOSE_CUSHION_01": {
+    "path": "assets/chair_cushion_anchor.png",
+    "sha256": "64f3190dff731470c8e72d692d76e72f2bfda7891ae3666fd2e2f3d2e14e3e76",
+    "description": "One narrow-slat wood chair with one oversized ivory rounded-square goose-down cushion; exact identity reference.",
+    "source": "OpenAI image_gen",
+    "review": "visually_reviewed"
+  },
+  "STOOL_01+CLOTH_01": {
+    "path": "assets/stool_cloth_anchor.png",
+    "sha256": "e6baba3a2f6c1ed3482ae8d95a8978b323c4f47cab3c8776472924e64beadf49",
+    "description": "One low round backless wood stool with one flat plain oatmeal coarse-cotton square cloth; exact identity reference.",
+    "source": "OpenAI image_gen",
+    "review": "visually_reviewed"
+  },
+  "BEDROOM_PROPS": {
+    "path": "assets/bedroom_props_anchor.png",
+    "sha256": "a1ee008e459d90c8973ad6683e81a9cdc7f5264765fdb9baf43ad7f663ffe160",
+    "description": "One cream blue/yellow check pillow, one plain warm yellow blanket, one orange carrot plush with green leaves.",
+    "source": "OpenAI image_gen",
+    "review": "visually_reviewed"
+  }
+}

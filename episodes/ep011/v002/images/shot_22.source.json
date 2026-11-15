@@ -1,0 +1,16 @@
+{
+  "shot_id": 22,
+  "source": "OpenAI image_gen; continuity-directed scene redraw",
+  "image_path": "images/shot_22.png",
+  "sha256": "476f169a3758eb29b2325c7fdd0028a5735c8cebc8fdd1c59a22a1d2e8b5ac95",
+  "prompt": "prompts/shot_22.txt",
+  "reference_inputs": [
+    "episodes/ep011/v002/images/shot_21.png",
+    "episodes/ep011/v002/images/shot_07.png",
+    "episodes/ep011/v002/assets/chair_cushion_anchor.png",
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+  ],
+  "image_status": "generated_continuity_reviewed",
+  "human_visual_review": "passed; Lili stands, Pipi carries same cushion away, original chair bare, no stool yet"
+}

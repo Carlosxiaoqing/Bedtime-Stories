@@ -1,0 +1,15 @@
+{
+  "characters": [
+    {
+      "character_id": "owl_aunt",
+      "path": "references/owl_aunt_identity_v001.png",
+      "version": "v001",
+      "sha256": "71363a96a529a121c90801cb9f58066804effa12a2fd362cebda414d2d765ffa"
+    }
+  ],
+  "image_dimensions": [
+    941,
+    1672
+  ],
+  "image_sha256": "6b28fb79cee34aa102d54a652e970729f28fb9ad681f456fc4ddadc1beba34b3"
+}

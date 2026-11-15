@@ -1,0 +1,16 @@
+{
+  "shot_id": 8,
+  "source": "OpenAI image_gen; continuity-directed redraw",
+  "image_path": "images/shot_08.png",
+  "sha256": "6efabe8e504198d48d603826420fbd63fa56c3dacee130253fa1159742d93b7b",
+  "prompt": "prompts/shot_08.txt",
+  "reference_inputs": [
+    "episodes/ep011/v002/images/shot_07.png",
+    "episodes/ep011/v002/assets/porch_anchor.png",
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png",
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+  ],
+  "image_status": "generated_continuity_reviewed",
+  "human_visual_review": "passed; Lili arrives after berry setup; same dish/table, no early seats or duplicate props"
+}

@@ -1,0 +1,251 @@
+{
+  "text": "每个星期五的下午，猫头鹰阿姨都会推着她的“叮当图书大篷车”来到森林学堂门口。\n车上装满了厚厚的立体书、会发出香味的花朵画册，还有长长的森林冒险故事。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "fd251e68bc6e8e5e275090ffc1e2c2b44548beb8740c8c3cadb8f3a61c84fe33",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 3269160,
+      "text": "每"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4538330,
+      "duration": 1153750,
+      "text": "个"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 5884580,
+      "duration": 7692500,
+      "text": "星期五"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13577080,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15115410,
+      "duration": 8269160,
+      "text": "下午"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 28769160,
+      "duration": 7692500,
+      "text": "猫头鹰"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36653750,
+      "duration": 8269160,
+      "text": "阿姨"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 46461660,
+      "duration": 2692080,
+      "text": "都"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 49153750,
+      "duration": 2307500,
+      "text": "会"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 51653750,
+      "duration": 2884580,
+      "text": "推"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 54538330,
+      "duration": 1538330,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 56269160,
+      "duration": 2115410,
+      "text": "她"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 58384580,
+      "duration": 1922910,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 60692500,
+      "duration": 5384580,
+      "text": "叮当"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 66269160,
+      "duration": 5000000,
+      "text": "图书"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 71461660,
+      "duration": 11346250,
+      "text": "大篷车"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 83192500,
+      "duration": 5384580,
+      "text": "来到"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 88961660,
+      "duration": 5577080,
+      "text": "森林"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 94730830,
+      "duration": 5384580,
+      "text": "学堂"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 100307500,
+      "duration": 7884580,
+      "text": "门口"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 117307500,
+      "duration": 3461660,
+      "text": "车"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 120769160,
+      "duration": 4038330,
+      "text": "上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 125192500,
+      "duration": 5000000,
+      "text": "装满"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 130192500,
+      "duration": 1538330,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 132115410,
+      "duration": 3077080,
+      "text": "厚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 135192500,
+      "duration": 2692080,
+      "text": "厚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 137884580,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 139615410,
+      "duration": 10577080,
+      "text": "立体书"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 153269160,
+      "duration": 2500000,
+      "text": "会"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 155961660,
+      "duration": 5384580,
+      "text": "发出"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 161730830,
+      "duration": 6153750,
+      "text": "香味"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 167884580,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 169615410,
+      "duration": 4807500,
+      "text": "花朵"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 174615410,
+      "duration": 8077080,
+      "text": "画册"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 186922910,
+      "duration": 4038330,
+      "text": "还有"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 191346250,
+      "duration": 6730830,
+      "text": "长长"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 198077080,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 199807500,
+      "duration": 5192500,
+      "text": "森林"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 205384580,
+      "duration": 5961660,
+      "text": "冒险"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 211538330,
+      "duration": 7115410,
+      "text": "故事"
+    }
+  ]
+}

@@ -1,0 +1,467 @@
+{
+  "text": "栗栗小心地爬上鹅毛大坐垫。可是大坐垫太软、太高了，栗栗圆滚滚的身子一坐上去，就像坐在一团不听话的云朵上，摇摇晃晃的，两只小短腿悬在半空中够不着地；而且他一往后靠，背上的小刺就会“咔嚓”一下顶在木椅背上，弄得他只好拘束地挺直腰板，不停地悄悄换姿势。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "86b3128075cde8f0ce72aa08e638c7b244211f60021fbc0d0d71677fe41605ab",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5192500,
+      "text": "栗栗"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6846250,
+      "duration": 5961250,
+      "text": "小心"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12807500,
+      "duration": 1346250,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14346250,
+      "duration": 7307500,
+      "text": "爬上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22038330,
+      "duration": 5192500,
+      "text": "鹅毛"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27422910,
+      "duration": 2692500,
+      "text": "大"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30115410,
+      "duration": 7500000,
+      "text": "坐垫"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 46538330,
+      "duration": 4230830,
+      "text": "可是"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 51153750,
+      "duration": 2500000,
+      "text": "大"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 53653750,
+      "duration": 5000000,
+      "text": "坐垫"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 59038330,
+      "duration": 4038330,
+      "text": "太"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 63077080,
+      "duration": 4615410,
+      "text": "软"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 70577080,
+      "duration": 3461250,
+      "text": "太"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 74038330,
+      "duration": 4230830,
+      "text": "高"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 78269160,
+      "duration": 2884580,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 86922910,
+      "duration": 4615410,
+      "text": "栗栗"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 91922910,
+      "duration": 8269160,
+      "text": "圆滚滚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 100192500,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 101538330,
+      "duration": 5000000,
+      "text": "身子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 106922910,
+      "duration": 2115410,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 109038330,
+      "duration": 2692500,
+      "text": "坐"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 111730830,
+      "duration": 7307500,
+      "text": "上去"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 123077080,
+      "duration": 2307500,
+      "text": "就"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 125384580,
+      "duration": 3077080,
+      "text": "像"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 128653750,
+      "duration": 2307500,
+      "text": "坐"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 130961660,
+      "duration": 2307500,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 133461660,
+      "duration": 1922910,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 135384580,
+      "duration": 3653750,
+      "text": "团"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 139422910,
+      "duration": 1538330,
+      "text": "不"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 140961660,
+      "duration": 6153750,
+      "text": "听话"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 147115410,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 148653750,
+      "duration": 6153750,
+      "text": "云朵"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 154807500,
+      "duration": 4615410,
+      "text": "上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 162884580,
+      "duration": 13269160,
+      "text": "摇摇晃晃"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 176153750,
+      "duration": 3077080,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 184615410,
+      "duration": 3077080,
+      "text": "两"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 187692500,
+      "duration": 1730830,
+      "text": "只"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 189615410,
+      "duration": 2884580,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 192500000,
+      "duration": 8653750,
+      "text": "短腿"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 202692500,
+      "duration": 3461250,
+      "text": "悬"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 206153750,
+      "duration": 1922910,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 208269160,
+      "duration": 5769160,
+      "text": "半空"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 214038330,
+      "duration": 2500000,
+      "text": "中"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 216922910,
+      "duration": 6922910,
+      "text": "够不着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 223846250,
+      "duration": 4230830,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 233653750,
+      "duration": 4807500,
+      "text": "而且"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 238846250,
+      "duration": 1730830,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 240769160,
+      "duration": 1922910,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 242692500,
+      "duration": 5961660,
+      "text": "往后"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 248846250,
+      "duration": 4615410,
+      "text": "靠"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 256922910,
+      "duration": 3077080,
+      "text": "背"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 260000000,
+      "duration": 2307500,
+      "text": "上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 262307500,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 263653750,
+      "duration": 8846250,
+      "text": "小刺"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 274038330,
+      "duration": 2307500,
+      "text": "就"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 276346250,
+      "duration": 1922910,
+      "text": "会"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 278653750,
+      "duration": 5769160,
+      "text": "咔嚓"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 284615410,
+      "duration": 6538330,
+      "text": "一下"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 292692080,
+      "duration": 2884580,
+      "text": "顶"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 295577080,
+      "duration": 2307500,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 298077080,
+      "duration": 4422910,
+      "text": "木椅"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 302692080,
+      "duration": 3653750,
+      "text": "背"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 306346250,
+      "duration": 4422910,
+      "text": "上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 316538330,
+      "duration": 2307500,
+      "text": "弄"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 318846250,
+      "duration": 1538330,
+      "text": "得"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 320384580,
+      "duration": 2307500,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 323077080,
+      "duration": 5577080,
+      "text": "只好"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 328846250,
+      "duration": 6153750,
+      "text": "拘束"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 335000000,
+      "duration": 1346250,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 336730830,
+      "duration": 5192500,
+      "text": "挺直"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 342115410,
+      "duration": 7884580,
+      "text": "腰板"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 353461660,
+      "duration": 5576660,
+      "text": "不停"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 359038330,
+      "duration": 1538330,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 360961660,
+      "duration": 5961660,
+      "text": "悄悄"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 367115410,
+      "duration": 3653750,
+      "text": "换"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 370769160,
+      "duration": 8077080,
+      "text": "姿势"
+    }
+  ]
+}

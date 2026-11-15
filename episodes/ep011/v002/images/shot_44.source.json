@@ -1,0 +1,13 @@
+{
+  "shot_id": 44,
+  "source": "OpenAI image_gen; continuity-directed redraw",
+  "image_path": "images/shot_44.png",
+  "sha256": "ad8100fcf530d7ec6610be436c9d54e5c7662994a6cbd18850404353b541f2a3",
+  "prompt": "prompts/shot_44.txt",
+  "reference_inputs": [
+    "episodes/ep011/v002/images/shot_37.png",
+    "episodes/ep011/v002/assets/porch_anchor.png"
+  ],
+  "image_status": "generated_continuity_reviewed",
+  "human_visual_review": "passed; empty night exterior matches the same timber cottage porch and railing"
+}

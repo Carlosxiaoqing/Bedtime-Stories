@@ -1,0 +1,15 @@
+{
+  "shot_id": 37,
+  "source": "OpenAI image_gen; continuity-directed redraw",
+  "image_path": "images/shot_37.png",
+  "sha256": "2c3e63e6c23ef985bea489276cb89ac9dd2d3b41f7fd6020acbbb3146f0a5126",
+  "prompt": "prompts/shot_37.txt",
+  "reference_inputs": [
+    "episodes/ep011/v002/images/shot_36.png",
+    "episodes/ep011/v002/images/shot_29.png",
+    "episodes/ep011/v002/assets/stool_cloth_anchor.png",
+    "episodes/ep011/v002/assets/porch_anchor.png"
+  ],
+  "image_status": "generated_continuity_reviewed",
+  "human_visual_review": "passed; empty porch after Lili leaves; same stool and cloth, chair, table, berry dish and basket remain"
+}

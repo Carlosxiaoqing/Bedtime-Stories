@@ -1,0 +1,437 @@
+{
+  "text": "绘本里的图画真美呀！第一页是一道爬满牵牛花的木栅栏，第二页是一条铺着彩色鹅卵石的小溪。皮皮伸出小爪子，顺着鹅卵石小路一页一页往下翻。\n翻到正好一半的时候，画上出现了一扇半掩着的藤蔓小门，门后面就是那座从来没人去过的秘密花园。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "07503b4bd965eb37514ddd73bea10bb3706995ce4c6bf2fe00fae542f8a4b763",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5769160,
+      "text": "绘本"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7038330,
+      "duration": 1538330,
+      "text": "里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8577080,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10115410,
+      "duration": 7692500,
+      "text": "图画"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19346250,
+      "duration": 3653750,
+      "text": "真"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23000000,
+      "duration": 3269160,
+      "text": "美"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26269160,
+      "duration": 4422910,
+      "text": "呀"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 39615410,
+      "duration": 4807500,
+      "text": "第一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 44422910,
+      "duration": 4807500,
+      "text": "页"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 49615410,
+      "duration": 2307500,
+      "text": "是"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 52115410,
+      "duration": 1922910,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 54038330,
+      "duration": 3653750,
+      "text": "道"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 58077080,
+      "duration": 2884580,
+      "text": "爬"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 60961660,
+      "duration": 3077080,
+      "text": "满"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 64422910,
+      "duration": 8077080,
+      "text": "牵牛花"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 72500000,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 74230830,
+      "duration": 5000000,
+      "text": "木栅"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 79230830,
+      "duration": 5000000,
+      "text": "栏"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 89807500,
+      "duration": 4807500,
+      "text": "第二"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 94615410,
+      "duration": 5192500,
+      "text": "页"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 100192500,
+      "duration": 2115410,
+      "text": "是"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 102500000,
+      "duration": 6153750,
+      "text": "一条"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 109038330,
+      "duration": 2692500,
+      "text": "铺"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 111730830,
+      "duration": 1538330,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 113653750,
+      "duration": 6346250,
+      "text": "彩色"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 120192500,
+      "duration": 7692080,
+      "text": "鹅卵石"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 127884580,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 129422910,
+      "duration": 8461660,
+      "text": "小溪"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 146730830,
+      "duration": 5577080,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 152692500,
+      "duration": 5000000,
+      "text": "伸出"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 157884580,
+      "duration": 3269160,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 161153750,
+      "duration": 7884580,
+      "text": "爪子"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 174038330,
+      "duration": 4230830,
+      "text": "顺着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 178461660,
+      "duration": 5000000,
+      "text": "鹅卵"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 183653750,
+      "duration": 10577080,
+      "text": "石小路"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 195769160,
+      "duration": 2884580,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 198653750,
+      "duration": 2692500,
+      "text": "页"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 201538330,
+      "duration": 2115410,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 203653750,
+      "duration": 2307500,
+      "text": "页"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 206346250,
+      "duration": 6346250,
+      "text": "往下"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 212692500,
+      "duration": 4615410,
+      "text": "翻"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 225961660,
+      "duration": 5384580,
+      "text": "翻到"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 231730830,
+      "duration": 5192500,
+      "text": "正好"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 237115410,
+      "duration": 5961660,
+      "text": "一半"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 243077080,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 244422910,
+      "duration": 7884580,
+      "text": "时候"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 256538330,
+      "duration": 2692500,
+      "text": "画"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 259230830,
+      "duration": 3077080,
+      "text": "上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 262500000,
+      "duration": 5384580,
+      "text": "出现"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 267884580,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 269230830,
+      "duration": 2115410,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 271346250,
+      "duration": 4230830,
+      "text": "扇"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 275961660,
+      "duration": 3076660,
+      "text": "半"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 279038330,
+      "duration": 3077080,
+      "text": "掩"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 282115410,
+      "duration": 1538330,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 283653750,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 285384580,
+      "duration": 5961660,
+      "text": "藤蔓"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 291538330,
+      "duration": 8461660,
+      "text": "小门"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 303653750,
+      "duration": 2884580,
+      "text": "门"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 306730830,
+      "duration": 8461660,
+      "text": "后面"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 316730830,
+      "duration": 2500000,
+      "text": "就"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 319230830,
+      "duration": 1538330,
+      "text": "是"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 320961660,
+      "duration": 2692080,
+      "text": "那"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 323653750,
+      "duration": 2500000,
+      "text": "座"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 326538330,
+      "duration": 5577080,
+      "text": "从来"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 332307500,
+      "duration": 3269160,
+      "text": "没"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 335577080,
+      "duration": 4230830,
+      "text": "人"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 341346250,
+      "duration": 3076660,
+      "text": "去"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 344422910,
+      "duration": 2115410,
+      "text": "过"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 346538330,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 348269160,
+      "duration": 13461660,
+      "text": "秘密花园"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "shot_id": 41,
+  "source": "image_gen",
+  "image_path": "images/shot_41.png",
+  "sha256": "de8a7d4c3163a1df71b9edd03d4d04718bfb8df25affb7608f5730df821e2418",
+  "reference_manifest": "references/shot_41.json",
+  "reference_inputs": [
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+  ],
+  "human_image_review": "pending"
+}

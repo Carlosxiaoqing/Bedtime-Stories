@@ -1,0 +1,95 @@
+{
+  "text": "小拖鞋乖乖地坐在床下，陪着小木床一起歇息。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "f4d8cc94adb6a1790ec040c4e2ae5cae556abae74fd9cb37ccc46d7660934a4b",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 3846250,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 5115410,
+      "duration": 6730830,
+      "text": "拖鞋"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12230830,
+      "duration": 5576660,
+      "text": "乖乖"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17807500,
+      "duration": 1346250,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19538330,
+      "duration": 2307500,
+      "text": "坐"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21846250,
+      "duration": 1922910,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23961660,
+      "duration": 4038330,
+      "text": "床"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 28000000,
+      "duration": 4230830,
+      "text": "下"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36269160,
+      "duration": 2692500,
+      "text": "陪"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 38961660,
+      "duration": 1538330,
+      "text": "着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 40692500,
+      "duration": 3076660,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 43769160,
+      "duration": 5577080,
+      "text": "木床"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 49730830,
+      "duration": 5000000,
+      "text": "一起"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 54922910,
+      "duration": 7500000,
+      "text": "歇息"
+    }
+  ]
+}

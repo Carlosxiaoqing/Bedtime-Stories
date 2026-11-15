@@ -1,0 +1,53 @@
+{
+  "technical_checks": "passed",
+  "source_hanzi": 761,
+  "narration_coverage": 1.0,
+  "word_boundary_text_coverage": 1.0,
+  "subtitle_hanzi_coverage": 1.0,
+  "cues": 130,
+  "shots": 36,
+  "unique_active_plot_images": 36,
+  "historical_images_compared": 377,
+  "historical_plot_reuse": false,
+  "same_episode_previous_version_images_available": 0,
+  "same_episode_previous_version_images_reused": [],
+  "current_episode_cover_base_reuse": [
+    35
+  ],
+  "max_image_visible_s": 12.64,
+  "audio": {
+    "voice.wav": {
+      "peak": 18083,
+      "samples": 13153920
+    },
+    "music.wav": {
+      "peak": 364,
+      "samples": 13153920
+    },
+    "ambience.wav": {
+      "peak": 97,
+      "samples": 13153920
+    },
+    "mix.wav": {
+      "peak": 17818,
+      "samples": 13153920
+    }
+  },
+  "videos": {
+    "ep010.mp4": {
+      "bytes": 78737794,
+      "full_decode": "passed",
+      "frames": 6851,
+      "duration_s": 274.04
+    },
+    "ep010_clean.mp4": {
+      "bytes": 75257525,
+      "full_decode": "passed",
+      "frames": 6851,
+      "duration_s": 274.04
+    }
+  },
+  "full_human_listen_watch": "not_certified",
+  "user_acceptance": "pending",
+  "publication": "not_published"
+}

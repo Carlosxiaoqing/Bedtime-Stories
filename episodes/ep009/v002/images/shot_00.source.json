@@ -1,0 +1,12 @@
+{
+  "episode": "ep009",
+  "version": "v002",
+  "shot_id": 0,
+  "source_version": "v5",
+  "purpose": "new standalone opening illustration",
+  "generated_asset": true,
+  "source_image": "images/shot_00.png",
+  "referenced_character_style_image": "../../../ep006/v002/images/shot_00.png",
+  "no_text": true,
+  "prompt": "Create a vertical 9:16 watercolor storybook illustration for a gentle Chinese bedtime story opening greeting. Use the attached image only as a strict character/style reference: same small cream-colored lop-eared rabbit Pipi, rounded plush-like proportions, calm kind eyes, navy blue nightcap with tiny golden stars, subtle warm watercolor paper texture. New composition: Pipi sits in a peaceful wooden bedroom at night, looks toward the viewer with a small welcoming smile and raises one paw to greet children before the story. Warm bedside lamp and a quiet moonlit window, simple uncluttered atmosphere. Character in upper two-thirds and lower third open/soft for subtitles. No slippers, shoes, books, story props, extra characters, text, letters, or watermark."
+}

@@ -1,0 +1,13 @@
+{
+  "shot_id": 39,
+  "reference_inputs": [
+    "/workspace/Bedtime-Stories/episodes/ep011/v001/images/shot_39.png",
+    "/workspace/Bedtime-Stories/episodes/ep011/v002/images/shot_38.png",
+    "/workspace/Bedtime-Stories/episodes/ep011/v002/assets/bedroom_props_anchor.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+  ],
+  "output": "images/shot_39.png",
+  "source": "continuity-directed v002 image generation",
+  "review": "not_human_reviewed",
+  "continuity_status": "reviewed"
+}

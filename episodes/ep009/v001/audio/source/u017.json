@@ -1,0 +1,101 @@
+{
+  "text": "明天的小路还没有打开，而今天的小路，已经稳稳当当地走完了。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "f2c5eff5724a9d6dcb9b97f30e6dfcd71495610ab79e3ac2ff0a0695559e6445",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5577080,
+      "text": "明天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6846250,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8192500,
+      "duration": 7307500,
+      "text": "小路"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15884580,
+      "duration": 2115410,
+      "text": "还"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18192500,
+      "duration": 3269160,
+      "text": "没有"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21653750,
+      "duration": 7692500,
+      "text": "打开"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33961660,
+      "duration": 2692500,
+      "text": "而"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36846250,
+      "duration": 5000000,
+      "text": "今天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 41846250,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 43192500,
+      "duration": 7692500,
+      "text": "小路"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 53961660,
+      "duration": 4230830,
+      "text": "已经"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 58577080,
+      "duration": 11730410,
+      "text": "稳稳当当"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 70307500,
+      "duration": 1346250,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 71846250,
+      "duration": 6730830,
+      "text": "走完"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 78577080,
+      "duration": 3269160,
+      "text": "了"
+    }
+  ]
+}

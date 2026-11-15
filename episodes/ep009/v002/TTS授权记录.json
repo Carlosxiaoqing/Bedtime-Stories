@@ -1,0 +1,6 @@
+{
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "provider": "Microsoft Edge TTS",
+  "scope": "original v1 narration reused; new v5 p000 intro synthesized",
+  "authorized_for_local_episode_production": true
+}

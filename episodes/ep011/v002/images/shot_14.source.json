@@ -1,0 +1,16 @@
+{
+  "shot_id": 14,
+  "source": "OpenAI image_gen; continuity-directed scene redraw",
+  "image_path": "images/shot_14.png",
+  "sha256": "4c71f221a2511d05559c142321b5e819e2aabc0b95b4a71f74fe52e5f167a623",
+  "prompt": "prompts/shot_14.txt",
+  "reference_inputs": [
+    "episodes/ep011/v002/images/shot_13.png",
+    "episodes/ep011/v002/images/shot_07.png",
+    "episodes/ep011/v002/assets/chair_cushion_anchor.png",
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+  ],
+  "image_status": "generated_continuity_reviewed",
+  "human_visual_review": "passed; Lili hedgehog seated with feet suspended on same cushion and chair; same porch/table; Pipi backpack indoors"
+}

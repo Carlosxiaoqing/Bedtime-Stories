@@ -1,0 +1,329 @@
+{
+  "text": "傍晚的时候，栗栗背着他那身褐色的小刺，害羞地走上了小木屋的门廊。\n皮皮热情地搬出一把带靠背的小木椅，还特意从屋里抱来了一只最高、最蓬松的鹅毛大坐垫放在上面，说：“栗栗，快请坐！”",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "d91852078a063cf9ec3dae99c9ba1a607f9e525fdfb64336c24d7e8ef344eef2",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 5961660,
+      "text": "傍晚"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7230830,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8769160,
+      "duration": 7500000,
+      "text": "时候"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20884580,
+      "duration": 5192500,
+      "text": "栗栗"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26077080,
+      "duration": 5577080,
+      "text": "背着"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31846250,
+      "duration": 2307500,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 34153750,
+      "duration": 2115410,
+      "text": "那"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36269160,
+      "duration": 3077080,
+      "text": "身"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 39730830,
+      "duration": 5961660,
+      "text": "褐色"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 45692500,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 47230830,
+      "duration": 8461660,
+      "text": "小刺"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 61077080,
+      "duration": 5961250,
+      "text": "害羞"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 67038330,
+      "duration": 1538330,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 68961660,
+      "duration": 5576660,
+      "text": "走上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 74538330,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 76077080,
+      "duration": 3076660,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 79153750,
+      "duration": 4230830,
+      "text": "木屋"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 83384580,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 84922910,
+      "duration": 8077080,
+      "text": "门廊"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 102115410,
+      "duration": 5192500,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 107692500,
+      "duration": 5769160,
+      "text": "热情"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 113461660,
+      "duration": 1538330,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 115384580,
+      "duration": 4615410,
+      "text": "搬出"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 120192500,
+      "duration": 1922910,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 122115410,
+      "duration": 2307500,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 124807500,
+      "duration": 2500000,
+      "text": "带"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 127307500,
+      "duration": 5384580,
+      "text": "靠背"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 132692500,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 134038330,
+      "duration": 3653750,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 137692500,
+      "duration": 7692500,
+      "text": "木椅"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 150192500,
+      "duration": 2500000,
+      "text": "还"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 152692500,
+      "duration": 7884580,
+      "text": "特意"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 160769160,
+      "duration": 3461660,
+      "text": "从"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 164230830,
+      "duration": 7884580,
+      "text": "屋里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 172500000,
+      "duration": 3269160,
+      "text": "抱"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 175769160,
+      "duration": 2307500,
+      "text": "来"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 178077080,
+      "duration": 961660,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 179230830,
+      "duration": 1922910,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 181153750,
+      "duration": 2115410,
+      "text": "只"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 183653750,
+      "duration": 7884580,
+      "text": "最高"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 194807500,
+      "duration": 3461660,
+      "text": "最"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 198269160,
+      "duration": 5769160,
+      "text": "蓬松"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 204038330,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 205961660,
+      "duration": 4807500,
+      "text": "鹅毛"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 210961660,
+      "duration": 2692080,
+      "text": "大"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 213653750,
+      "duration": 6730830,
+      "text": "坐垫"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 220769160,
+      "duration": 2307500,
+      "text": "放"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 223077080,
+      "duration": 1538330,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 224807500,
+      "duration": 7500000,
+      "text": "上面"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 236730830,
+      "duration": 4422910,
+      "text": "说"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 245961660,
+      "duration": 6922910,
+      "text": "栗栗"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 255769160,
+      "duration": 2692500,
+      "text": "快"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 258653750,
+      "duration": 7884580,
+      "text": "请坐"
+    }
+  ]
+}

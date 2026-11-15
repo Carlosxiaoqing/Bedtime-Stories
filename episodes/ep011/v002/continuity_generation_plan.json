@@ -1,0 +1,383 @@
+{
+  "episode": "ep011",
+  "version": "v002",
+  "status": "all_44_images_ready_and_full_contact_sheet_passed",
+  "created_on": "2026-11-13",
+  "user_request": "Rebuild episode 11 following mandatory continuity process",
+  "image_generation_resets_in_seconds_reported": 6101,
+  "images_ready": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44
+  ],
+  "images_pending": [],
+  "images_reuse_candidate": [],
+  "reference_policy": {
+    "9:12": [
+      "images/shot_12.png",
+      "assets/chair_cushion_anchor.png",
+      "pipi identity ref",
+      "lili identity ref"
+    ],
+    "21:23": [
+      "assets/porch_anchor.png",
+      "assets/chair_cushion_anchor.png",
+      "assets/stool_cloth_anchor.png",
+      "character identity refs as visible"
+    ],
+    "24:37": [
+      "assets/porch_anchor.png",
+      "assets/stool_cloth_anchor.png",
+      "character identity refs as visible"
+    ],
+    "12:20": [
+      "shot 12-16 canonical ivory goose cushion on the same chair; shots 17-20 required regenerated to match these exact assets"
+    ],
+    "7:31": [
+      "shot07 canonical white ceramic oval berry dish on bare TABLE_01; shots30-31 revised to preserve this dish/table state"
+    ]
+  },
+  "prompts": {
+    "9": "Edit the attached porch frame. Keep the exact same character placement and identities shown in the current frame: the light cream rabbit Pipi is carrying the chair; the brown-spined hedgehog Lili stands watching with empty paws. Do not swap them. Keep Pipi in the same cream shirt, grey-blue short overalls, blue shoes and yellow backpack; no hat. Use shot12 as the exact chair design reference: the ONE same narrow-slat warm-brown chair with straight square legs and flat rectangular back. Remove the cushion completely. In this shot the chair seat is bare, clearly visible, with no cushion on it and no cushion anywhere in the frame; the cushion has not been brought out yet. No stool, bench or second chair. Preserve the porch layout and watercolor storybook look, no text, vertical 9:16.",
+    "10": "Edit/recreate the porch moment using shot12 and the chair-cushion anchor as strict exact furniture references. Reproduce the ONE same narrow-slat warm-brown wooden chair exactly: straight square legs and simple flat rectangular back, NO armrests, no alternate chair. Place the ONE same high ivory rounded-square fluffy goose-down cushion with cream piping and identical seams directly on its seat. Pipi lowers this same cushion onto the chair while Lili watches. No other seat or cushion. Pipi must wear exactly the outfit from the Pipi wardrobe reference: cream shirt, grey-blue short overalls, blue shoes and small yellow backpack; NO hat or headwear. Lili keeps her default outfit and identity. Gentle watercolor storybook style, fixed porch layout, no text, vertical 9:16.",
+    "11": "Edit/recreate the porch moment using shot12 and the chair-cushion anchor as strict exact furniture references. Reproduce the ONE same narrow-slat warm-brown wooden chair exactly, with straight square legs and simple flat rectangular back, NO armrests and no alternate back. The ONE same high ivory rounded-square fluffy goose-down cushion with cream piping and seams remains directly on its seat. Pipi gestures for Lili to sit beside it; Lili is standing and nodding, not seated yet. No stool, bench, second seat or extra cushion. Pipi must wear exactly the outfit from the Pipi wardrobe reference: cream shirt, grey-blue short overalls, blue shoes and small yellow backpack; NO hat or headwear. Lili keeps her default outfit and identity. Gentle watercolor storybook style, fixed porch layout, no text, vertical 9:16.",
+    "21": "Create a new frame continuing from shot20. Pipi is the cream rabbit wearing the cream shirt, grey-blue overalls and blue shoes (no hat); Lili is the brown-spined hedgehog in her olive vest. Pipi listens as Lili explains the seat problem. Lili remains seated on the ONE same narrow-slat warm-brown chair and the same high ivory rounded-square goose-down cushion shown in shot20 and the chair anchor. Keep backrest visible; same piping, seams and cushion thickness. No stool, no extra seat. Maintain the fixed porch layout, watercolor, no text, vertical 9:16.",
+    "22": "Create a new frame continuing from approved shot21 and the exact chair anchor. Pipi is the cream rabbit in grey-blue overalls, blue shoes and yellow backpack, no hat; Lili is the brown-spined hedgehog in an olive vest. Lili has stepped safely down and stands on the porch floor. Pipi carries away the ONE same ivory rounded-square fluffy goose-down cushion from the ONE exact same narrow-slat warm-brown wooden chair shown in shot21 and the anchor. Preserve the chair back: one broad solid rectangular horizontal panel between two square uprights, no vertical slats, no arms, no redesign. The chair stays at porch left, now bare. The cushion is in Pipi’s arms; no stool yet, no second cushion, no bench. Keep the porch layout and watercolor style, no text, vertical 9:16.",
+    "23": "Create a new vertical 9:16 watercolor storybook frame. Use the FIRST reference as the exact design for the old wooden chair and the character identities. Reproduce that same simple narrow-slat warm-brown chair exactly, unchanged, now empty and bare at the porch left. Pipi is the cream rabbit in grey-blue overalls and blue shoes, no hat, setting down exactly ONE new very low round backless solid-wood stool matching the SECOND reference. Lili is the brown-spined hedgehog in an olive vest and stands on the floor watching; she is not sitting. The same ivory cushion from the first reference has been carried away and is absent everywhere. Do not add cloth to the new stool. No other chairs, seats or cushions. Keep the porch layout and style. No text.",
+    "24": "Create a new frame continuing directly from shots07 and 23. Pipi is the cream rabbit wearing grey-blue overalls, blue shoes and yellow backpack, no hat; Lili is the brown-spined hedgehog in an olive vest. Pipi takes exactly ONE flat square piece of light-oatmeal coarse cotton cloth from ONE small woven basket under the same round bare wooden TABLE_01 shown in shots07 and 23. The same white oval ceramic dish of red berries remains on TABLE_01. No tablecloth, no pitcher, no teapot, no lantern, no extra table. The same low round stool remains bare; the high-back chair stays bare at porch left; the cushion remains absent. The cloth is plain, unpatterned, unquilted and unpadded. Keep the established porch layout, watercolor style, no text, vertical 9:16.",
+    "25": "Create a new frame continuing directly from approved shot24. Pipi, the same cream rabbit in grey-blue overalls and yellow backpack, spreads the same single light-oatmeal square coarse-cotton cloth flat on the SAME low round wooden stool (STOOL_01) shown in shots23-24. Keep all four corners visible; it is woven cotton, thin and flat, unpatterned, no quilting or stuffing. The white berry dish remains on the same round bare TABLE_01, unchanged, and the woven basket stays under it. The old high-back chair remains bare at the left; the goose-down cushion is absent. No tablecloth, teapot, pitcher, extra table or extra stool. Lili, the same brown hedgehog, watches. Match the same porch layout and watercolor style, no text, vertical 9:16.",
+    "26": "Create a new frame continuing directly from approved shot25. Pipi is the cream rabbit in grey-blue overalls and yellow backpack, no hat; Lili is the brown-spined hedgehog in olive vest. Pipi invites Lili to try the SAME low round backless wooden stool with the SAME single flat light-oatmeal square cotton cloth still spread on it. Lili is still standing on the porch floor in this shot and has not sat down yet. Keep the same round bare TABLE_01 and white oval berry dish, the basket under the table, and the empty bare chair at left. The old ivory goose cushion remains absent. No tablecloth, tea set, extra stool, blanket or cushion. Fixed porch style, no text, vertical 9:16.",
+    "27": "Create a new frame continuing from approved shot25. Pipi is the cream rabbit in grey-blue overalls and yellow backpack, no hat; Lili is the brown-spined hedgehog in olive vest. Lili slowly sits on the SAME low round backless wooden stool with the SAME single flat light-oatmeal square cotton cloth spread on its seat; the cloth compresses only slightly and remains thin, plain and unpadded. Pipi waits beside her. Keep the same round bare TABLE_01 and white oval berry dish, basket underneath, and bare chair at left. No tablecloth, tea set, extra seat or cushion. Fixed porch layout, watercolor, no text, vertical 9:16.",
+    "28": "Create a new frame continuing directly from approved shot27. Pipi is the cream rabbit in grey-blue overalls and yellow backpack, no hat; Lili is the brown-spined hedgehog in olive vest. Lili is now seated on the same stool, with both short feet planted firmly on the porch floor. The same flat oatmeal square cloth stays on the stool. Keep the same bare round TABLE_01 with the white berry dish, the basket under it, and the empty bare chair at porch left. Show stool short legs and no backrest. No other seat or cushion. Fixed porch layout, watercolor style, no text, vertical 9:16.",
+    "29": "Create a new frame continuing directly from approved shot27. Pipi is the cream rabbit in grey-blue overalls and yellow backpack, no hat; Lili is the brown-spined hedgehog in olive vest. Side-rear view: Lili remains comfortably seated on the same low round stool with the same flat square oatmeal cloth; her spines are free because the stool has no backrest. Keep her feet grounded and stool height unchanged. Keep the same bare round TABLE_01 with white berry dish, basket underneath, and empty bare chair at left. No other chair, changed cloth, tablecloth or cushion. Fixed porch layout, watercolor style, no text, vertical 9:16.",
+    "32": "Create a new frame continuing directly from approved shot31. Pipi is the cream rabbit in grey-blue overalls and yellow backpack; Lili is the brown-spined hedgehog. In the quiet evening, Lili remains seated on the SAME low round stool with the SAME single flat oatmeal square cloth. Pipi sits beside Lili on the wooden porch floor, no second seat. Both look calmly toward the sky. Keep the same bare round TABLE_01 with white berry dish, basket underneath and old bare chair at left; cushion remains absent. No added cushions, cloth or furniture. Fixed porch layout, watercolor, no text, vertical 9:16.",
+    "33": "Create a new frame continuing from approved shot32. Rear view of the same two friends beneath the porch roof as they watch pink evening clouds. Lili the brown-spined hedgehog stays seated on the same low round stool with the same oatmeal square cloth; Pipi the cream rabbit sits beside her on the wooden floor. Keep the same TABLE_01 and berry dish, basket, and bare old chair; no new furniture, no duplicate cloth or cushion. Same porch layout, watercolor, no text, vertical 9:16.",
+    "34": "Create a new frame continuing from approved shot33. At dusk Lili, the brown-spined hedgehog, has stood up and carefully folds the SAME single oatmeal square cloth from the SAME low round stool; Pipi, the cream rabbit in grey-blue overalls, stands beside her. Cloth is now held as one folded piece due to this action; preserve the same plain coarse weave, color and size. Stool stays in its exact place and is bare. Keep the same bare round TABLE_01, berry dish, basket and old chair; no extra cloth, tablecloth, cushion or seat. Same porch style, no text, watercolor vertical 9:16.",
+    "35": "Create a new frame continuing from approved shot34. Pipi the cream rabbit gently suggests Lili may leave her seat cloth here. Lili the brown-spined hedgehog pauses and listens while holding the SAME single folded oatmeal square cloth in both paws. The same low round stool stays nearby and is bare. Keep the same bare TABLE_01 with the white berry dish, basket underneath and old chair; no stacked cloth, duplicate pad, tablecloth or extra seat. Gentle farewell expressions, same porch layout, watercolor, no text, vertical 9:16.",
+    "36": "Edit the old frame using canonical stool-cloth anchor and previous scene. Lili smiles as she returns the same folded oatmeal cloth to the same stool and spreads it back into one flat square; Pipi smiles and gestures. The cloth lies flat on STOOL_01, no second cloth or pile. Same porch layout and lighting at dusk, no text, watercolor vertical 9:16.",
+    "37": "Edit the old frame using the fixed empty porch anchor and stool-cloth reference. Empty porch after Lili has left; no characters anywhere. The same single STOOL_01 remains by the right-side table with the same one flat oatmeal square cloth on top; bare CHAIR_01 is parked at the left, berry dish and table remain at right. The high cushion is absent. No extra chairs or fabric. Warm dusk, no text, vertical 9:16 watercolor.",
+    "17": "Create a new frame based on shot16 as the exact chair/cushion reference and shot07 as the exact berry-dish and character-role reference. Show the rabbit Pipi carrying the same white ceramic berry dish toward the hedgehog Lili, who remains awkwardly seated on the ONE same narrow-slat warm-brown wooden chair with the same single high ivory rounded-square fluffy goose-down cushion directly on its seat. Preserve the cushion outline, cream piping and seams. No stool, bench or alternate seat. TABLE_01 stays bare wood with no tablecloth or tea set; the same berry dish is in Pipi’s paws. Keep the porch layout, watercolor children’s book style, no text, vertical 9:16.",
+    "18": "Create a new frame based on shot16 as the exact chair/cushion reference and shot07 as the exact berry-dish and character-role reference. The rabbit Pipi crouches beside the hedgehog Lili, who remains seated on the ONE same narrow-slat warm-brown chair with the same high ivory rounded-square fluffy goose-down cushion directly on its seat. Preserve cushion outline, cream piping, seams and thickness. Exactly one chair and one cushion; no stool or bench. Keep TABLE_01 bare wood with no tablecloth or tea set; the same white ceramic berry dish rests on it when visible. Keep the porch layout and roles (Pipi rabbit, Lili hedgehog), watercolor style, no text, vertical 9:16.",
+    "19": "Create a new frame based on shot16 as the exact chair/cushion reference and shot07 as the exact berry-dish and character-role reference. Pipi the rabbit points gently to the seat being too high while Lili the hedgehog remains seated on the ONE same narrow-slat warm-brown chair, on the same single high ivory rounded-square fluffy goose-down cushion. Preserve its outline, cream piping and seams. No floral cushion, gingham cushion, stool, bench or second seat. TABLE_01 stays bare wood with no tablecloth or tea set; the same white ceramic berry dish rests on it when visible. Fixed porch layout, watercolor style, no text, vertical 9:16.",
+    "20": "Create a new frame based on shot16 as the exact chair/cushion reference and shot07 as the exact berry-dish and character-role reference. Pipi the rabbit kindly gestures to the backrest while Lili the hedgehog remains seated on the ONE same narrow-slat warm-brown chair with the same single high ivory rounded-square fluffy goose-down cushion directly on its seat; Lili’s quills visibly meet the backrest. Preserve cushion outline, cream piping and seams. Do not show Lili standing or another seat. TABLE_01 stays bare wood with no tablecloth or tea set; the same white ceramic berry dish rests on it when visible. Fixed porch layout, watercolor style, no text, vertical 9:16.",
+    "30": "Create a new frame continuing directly from shot29. Pipi is the cream rabbit in grey-blue overalls and yellow backpack; Lili is the brown-spined hedgehog. Lili remains comfortably seated on the SAME low round stool with the SAME thin light-oatmeal square cloth under her. She takes a happy relieved breath while Pipi smiles beside her. Keep the same bare round TABLE_01 and the same white oval ceramic berry dish with several berries, and the basket underneath. Keep the old chair bare at porch left. No tablecloth, tea set, extra furniture or cushion. Same porch layout and watercolor style, no text, vertical 9:16.",
+    "31": "Create a new frame continuing directly from shot29. Lili, the brown-spined hedgehog, remains seated on the SAME low round stool with the SAME thin light-oatmeal square cloth under her, feet grounded; she picks up exactly one red berry from the SAME white oval ceramic dish on the SAME bare round TABLE_01. Several berries remain. Pipi, the cream rabbit in grey-blue overalls and yellow backpack, stays beside her. Keep the basket underneath the table and bare old chair at porch left. No tablecloth, wicker berry basket, tea set, extra table, seat or cushion. Same porch layout and watercolor style, no text, vertical 9:16."
+  },
+  "reference_inputs_by_shot": {
+    "9": [
+      "episodes/ep011/v002/images/shot_09.png",
+      "episodes/ep011/v002/images/shot_12.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+    ],
+    "10": [
+      "episodes/ep011/v002/images/shot_12.png",
+      "episodes/ep011/v002/assets/chair_cushion_anchor.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+    ],
+    "11": [
+      "episodes/ep011/v002/images/shot_12.png",
+      "episodes/ep011/v002/assets/chair_cushion_anchor.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+    ],
+    "21": [
+      "episodes/ep011/v002/images/shot_20.png",
+      "episodes/ep011/v002/images/shot_07.png",
+      "episodes/ep011/v002/assets/chair_cushion_anchor.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+    ],
+    "22": [
+      "episodes/ep011/v002/images/shot_21.png",
+      "episodes/ep011/v002/images/shot_07.png",
+      "episodes/ep011/v002/assets/chair_cushion_anchor.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+    ],
+    "23": [
+      "episodes/ep011/v002/images/shot_22.png",
+      "episodes/ep011/v002/images/shot_07.png",
+      "episodes/ep011/v002/assets/stool_cloth_anchor.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+    ],
+    "24": [
+      "episodes/ep011/v002/images/shot_23.png",
+      "episodes/ep011/v002/images/shot_07.png",
+      "episodes/ep011/v002/assets/stool_cloth_anchor.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+    ],
+    "25": [
+      "episodes/ep011/v002/images/shot_24.png",
+      "episodes/ep011/v002/images/shot_23.png",
+      "episodes/ep011/v002/assets/stool_cloth_anchor.png",
+      "episodes/ep011/v002/images/shot_07.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png"
+    ],
+    "26": [
+      "episodes/ep011/v002/images/shot_25.png",
+      "episodes/ep011/v002/assets/stool_cloth_anchor.png",
+      "episodes/ep011/v002/images/shot_07.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+    ],
+    "27": [
+      "episodes/ep011/v002/images/shot_25.png",
+      "episodes/ep011/v002/assets/stool_cloth_anchor.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+    ],
+    "28": [
+      "episodes/ep011/v002/images/shot_27.png",
+      "episodes/ep011/v002/images/shot_25.png",
+      "episodes/ep011/v002/assets/stool_cloth_anchor.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+    ],
+    "29": [
+      "episodes/ep011/v002/images/shot_27.png",
+      "episodes/ep011/v002/images/shot_25.png",
+      "episodes/ep011/v002/assets/stool_cloth_anchor.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+    ],
+    "32": [
+      "episodes/ep011/v002/images/shot_31.png",
+      "episodes/ep011/v002/images/shot_29.png",
+      "episodes/ep011/v002/assets/stool_cloth_anchor.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+    ],
+    "33": [
+      "episodes/ep011/v002/images/shot_32.png",
+      "episodes/ep011/v002/images/shot_29.png",
+      "episodes/ep011/v002/assets/stool_cloth_anchor.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+    ],
+    "34": [
+      "episodes/ep011/v002/images/shot_33.png",
+      "episodes/ep011/v002/images/shot_29.png",
+      "episodes/ep011/v002/assets/stool_cloth_anchor.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+    ],
+    "35": [
+      "episodes/ep011/v002/images/shot_34.png",
+      "episodes/ep011/v002/images/shot_29.png",
+      "episodes/ep011/v002/assets/stool_cloth_anchor.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+    ],
+    "36": [
+      "episodes/ep011/v002/images/shot_35.png",
+      "episodes/ep011/v002/images/shot_34.png",
+      "episodes/ep011/v002/assets/stool_cloth_anchor.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+    ],
+    "37": [
+      "episodes/ep011/v002/images/shot_36.png",
+      "episodes/ep011/v002/images/shot_29.png",
+      "episodes/ep011/v002/assets/stool_cloth_anchor.png",
+      "episodes/ep011/v002/assets/porch_anchor.png"
+    ],
+    "17": [
+      "episodes/ep011/v002/images/shot_16.png",
+      "episodes/ep011/v002/images/shot_07.png",
+      "episodes/ep011/v002/assets/chair_cushion_anchor.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+    ],
+    "18": [
+      "episodes/ep011/v002/images/shot_17.png",
+      "episodes/ep011/v002/images/shot_07.png",
+      "episodes/ep011/v002/assets/chair_cushion_anchor.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+    ],
+    "19": [
+      "episodes/ep011/v002/images/shot_18.png",
+      "episodes/ep011/v002/images/shot_07.png",
+      "episodes/ep011/v002/assets/chair_cushion_anchor.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+    ],
+    "20": [
+      "episodes/ep011/v002/images/shot_19.png",
+      "episodes/ep011/v002/images/shot_07.png",
+      "episodes/ep011/v002/assets/chair_cushion_anchor.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+    ],
+    "30": [
+      "episodes/ep011/v002/images/shot_29.png",
+      "episodes/ep011/v002/images/shot_07.png",
+      "episodes/ep011/v002/assets/stool_cloth_anchor.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+    ],
+    "31": [
+      "episodes/ep011/v002/images/shot_29.png",
+      "episodes/ep011/v002/images/shot_07.png",
+      "episodes/ep011/v002/assets/stool_cloth_anchor.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+    ],
+    "1": [
+      "episodes/ep011/v002/images/shot_31.png",
+      "episodes/ep011/v002/assets/porch_anchor.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+    ],
+    "3": [
+      "episodes/ep011/v002/images/shot_31.png",
+      "episodes/ep011/v002/assets/porch_anchor.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+    ],
+    "6": [
+      "episodes/ep011/v002/images/shot_31.png",
+      "episodes/ep011/v002/assets/porch_anchor.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+    ],
+    "7": [
+      "episodes/ep011/v002/images/shot_31.png",
+      "episodes/ep011/v002/assets/porch_anchor.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+    ],
+    "8": [
+      "episodes/ep011/v002/images/shot_07.png",
+      "episodes/ep011/v002/assets/porch_anchor.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+    ],
+    "4": [
+      "episodes/ep011/v002/images/shot_01.png",
+      "episodes/ep011/v002/assets/porch_anchor.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png"
+    ],
+    "44": [
+      "episodes/ep011/v002/images/shot_37.png",
+      "episodes/ep011/v002/assets/porch_anchor.png"
+    ],
+    "2": [
+      "episodes/ep011/v002/images/shot_01.png",
+      "episodes/ep011/v002/images/shot_07.png",
+      "episodes/ep011/v002/assets/porch_anchor.png"
+    ],
+    "12": [
+      "episodes/ep011/v002/images/shot_11.png",
+      "episodes/ep011/v002/images/shot_07.png",
+      "episodes/ep011/v002/assets/chair_cushion_anchor.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+    ],
+    "13": [
+      "episodes/ep011/v002/images/shot_12.png",
+      "episodes/ep011/v002/images/shot_07.png",
+      "episodes/ep011/v002/assets/chair_cushion_anchor.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+    ],
+    "14": [
+      "episodes/ep011/v002/images/shot_13.png",
+      "episodes/ep011/v002/images/shot_07.png",
+      "episodes/ep011/v002/assets/chair_cushion_anchor.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+    ],
+    "15": [
+      "episodes/ep011/v002/images/shot_14.png",
+      "episodes/ep011/v002/images/shot_07.png",
+      "episodes/ep011/v002/assets/chair_cushion_anchor.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+    ],
+    "16": [
+      "episodes/ep011/v002/images/shot_15.png",
+      "episodes/ep011/v002/images/shot_07.png",
+      "episodes/ep011/v002/assets/chair_cushion_anchor.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+    ],
+    "5": [
+      "episodes/ep011/v002/images/shot_05.png",
+      "episodes/ep011/v002/images/shot_04.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+      "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+    ]
+  },
+  "batch_order": [
+    [
+      32
+    ],
+    [
+      33
+    ],
+    [
+      34
+    ],
+    [
+      35
+    ],
+    [
+      36
+    ],
+    [
+      37
+    ]
+  ],
+  "max_reference_paths_per_image": 5,
+  "image_generation_reset_at_utc": "2026-11-13T03:40:07Z"
+}

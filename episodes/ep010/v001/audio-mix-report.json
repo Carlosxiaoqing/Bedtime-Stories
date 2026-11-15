@@ -1,0 +1,12 @@
+{
+  "source": "original procedural synthesis; no third-party samples",
+  "seed": 1,
+  "music_rms_before_fade": 0.0045,
+  "ambience_rms_before_fade": 0.00065,
+  "voice_peak": 0.551849365234375,
+  "mix_peak": 0.5437864065170288,
+  "voice_sha256": "7f54276176ba5d26af625263e2d7546a802d6fd795a1d11942f3785206f0d5b2",
+  "duration_s": 274.04,
+  "sample_rate": 48000,
+  "voice_filter_reapplied": false
+}

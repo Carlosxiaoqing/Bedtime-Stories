@@ -1,0 +1,22 @@
+{
+  "episode": "ep011",
+  "version": "v002",
+  "stage": "before_image_generation",
+  "status": "passed",
+  "checks": {
+    "full_story_walkthrough": "passed",
+    "persistent_object_ids_and_appearance_locked": "passed",
+    "object_transitions_supported_by_narration": "passed",
+    "character_presence_and_exit_locations": "passed",
+    "no_unexplained_location_jump": "passed",
+    "every_shot_links_to_previous_state": "passed"
+  },
+  "key_decisions": [
+    "The high goose-down cushion and the coarse cotton cloth are separate assets with separate IDs.",
+    "The chair is moved left; the low round stool stays by the right-side table.",
+    "Lili leaves after the porch farewell and is absent from bedroom shots 38–43.",
+    "Pipi is alone in the bedroom after the location/time transition."
+  ],
+  "reviewer": "assistant textual walkthrough; user has not yet accepted video",
+  "evidence": "continuity.json and storyboard.json"
+}

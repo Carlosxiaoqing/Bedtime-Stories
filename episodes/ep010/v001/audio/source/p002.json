@@ -1,0 +1,251 @@
+{
+  "text": "今天，皮皮从大篷车上借到了一本他期待了好久的绘本，名字叫《月光下的秘密花园》。\n一回到家，吃过晚饭，皮皮就迫不及待地坐在床头的小灯下翻开了它。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "491b355f0f0c0609f07a2de2f772b3757af8a3a1fd3913c68b971bd262ee7ab2",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 8653750,
+      "text": "今天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15500000,
+      "duration": 6538330,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22230830,
+      "duration": 3077080,
+      "text": "从"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25692500,
+      "duration": 7692500,
+      "text": "大篷车"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33577080,
+      "duration": 5576660,
+      "text": "上"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 39153750,
+      "duration": 5192500,
+      "text": "借到"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 44346250,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 45692500,
+      "duration": 4422910,
+      "text": "一本"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 50115410,
+      "duration": 2692500,
+      "text": "他"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 53000000,
+      "duration": 5769160,
+      "text": "期待"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 58769160,
+      "duration": 1346250,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 60500000,
+      "duration": 5769160,
+      "text": "好久"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 66269160,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 67807500,
+      "duration": 6346250,
+      "text": "绘本"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 80115410,
+      "duration": 4807500,
+      "text": "名字"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 85115410,
+      "duration": 5000000,
+      "text": "叫"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 91461660,
+      "duration": 6153750,
+      "text": "月光"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 97615410,
+      "duration": 2884580,
+      "text": "下"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 100500000,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 102230830,
+      "duration": 13461660,
+      "text": "秘密花园"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 124807500,
+      "duration": 2500000,
+      "text": "一"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 127307500,
+      "duration": 4807500,
+      "text": "回到"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 132115410,
+      "duration": 4422910,
+      "text": "家"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 139807500,
+      "duration": 2884580,
+      "text": "吃"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 142692500,
+      "duration": 2115410,
+      "text": "过"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 145000000,
+      "duration": 7500000,
+      "text": "晚饭"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 157884580,
+      "duration": 5384580,
+      "text": "皮皮"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 163461660,
+      "duration": 1922910,
+      "text": "就"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 165577080,
+      "duration": 10769160,
+      "text": "迫不及待"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 176346250,
+      "duration": 3846250,
+      "text": "地"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 181730830,
+      "duration": 2500000,
+      "text": "坐"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 184230830,
+      "duration": 2115410,
+      "text": "在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 186538330,
+      "duration": 5961660,
+      "text": "床头"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 192500000,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 194038330,
+      "duration": 3077080,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 197115410,
+      "duration": 3077080,
+      "text": "灯"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 200192500,
+      "duration": 4230830,
+      "text": "下"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 205961660,
+      "duration": 6730830,
+      "text": "翻开"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 212692500,
+      "duration": 1538330,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 214230830,
+      "duration": 3846250,
+      "text": "它"
+    }
+  ]
+}

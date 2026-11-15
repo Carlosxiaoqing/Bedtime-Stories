@@ -1,0 +1,13 @@
+{
+  "shot_id": 22,
+  "source": "image_gen",
+  "image_path": "images/shot_22.png",
+  "sha256": "14f3461dc3ce2a4a81f95a83fa349afba46075b9e985f8fa0990b54b8b4cad08",
+  "reference_manifest": "references/shot_22.json",
+  "reference_inputs": [
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_wardrobe_v001.png",
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+  ],
+  "human_image_review": "pending"
+}

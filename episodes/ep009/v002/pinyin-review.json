@@ -1,0 +1,437 @@
+{
+  "hanzi": 698,
+  "cues": 127,
+  "pinyin_coverage": 1.0,
+  "context_review": "completed_against_episode_text",
+  "target_font_px": {
+    "hanzi": 76,
+    "pinyin": 48
+  },
+  "libass_fontsize_calibration": {
+    "hanzi": 114,
+    "pinyin": 66,
+    "reason": "match actual rasterized glyph scale to bundled-font 76px/48px reference; libass normalizes font metrics"
+  },
+  "audio_pronunciation_listen_review": "not_certified",
+  "overrides": [
+    {
+      "phrase": "拖鞋",
+      "pinyin": [
+        "tuō",
+        "xié"
+      ],
+      "context": "小朋友们，准备好听故事了吗？今天的故事叫《拖鞋排排坐》。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "朋友",
+      "pinyin": [
+        "péng",
+        "you"
+      ],
+      "context": "小朋友们，准备好听故事了吗？今天的故事叫《拖鞋排排坐》。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "朋友",
+      "pinyin": [
+        "péng",
+        "you"
+      ],
+      "context": "今天早上，阳光像金色的蜂蜜一样洒在森林里，山羊老师带着学堂的小朋友们，去小木桥那边远足。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "教大家",
+      "pinyin": [
+        "jiāo",
+        "dà",
+        "jiā"
+      ],
+      "context": "出门前，山羊老师教大家唱了一首《排排坐，慢慢走》的歌谣：“小脚丫，一对对，走起路来不掉队；左一步，右一步，累了就回小窝睡。”",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "小窝",
+      "pinyin": [
+        "xiǎo",
+        "wō"
+      ],
+      "context": "出门前，山羊老师教大家唱了一首《排排坐，慢慢走》的歌谣：“小脚丫，一对对，走起路来不掉队；左一步，右一步，累了就回小窝睡。”",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "掉队",
+      "pinyin": [
+        "diào",
+        "duì"
+      ],
+      "context": "出门前，山羊老师教大家唱了一首《排排坐，慢慢走》的歌谣：“小脚丫，一对对，走起路来不掉队；左一步，右一步，累了就回小窝睡。”",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮穿着他最喜欢的蓝色小布鞋，走在队伍的中间。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "尾巴",
+      "pinyin": [
+        "wěi",
+        "ba"
+      ],
+      "context": "前面是摇着大尾巴的小松鼠团团，后面是迈着小碎步的小刺猬栗栗。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "栗栗",
+      "pinyin": [
+        "lì",
+        "lì"
+      ],
+      "context": "前面是摇着大尾巴的小松鼠团团，后面是迈着小碎步的小刺猬栗栗。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "团团",
+      "pinyin": [
+        "tuán",
+        "tuán"
+      ],
+      "context": "前面是摇着大尾巴的小松鼠团团，后面是迈着小碎步的小刺猬栗栗。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "刺猬",
+      "pinyin": [
+        "cì",
+        "wei"
+      ],
+      "context": "前面是摇着大尾巴的小松鼠团团，后面是迈着小碎步的小刺猬栗栗。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "蒲公英",
+      "pinyin": [
+        "pú",
+        "gōng",
+        "yīng"
+      ],
+      "context": "他们走过了长满蒲公英的草地，走过了“咚咚”响的小木桥，还在大榕树下捡了许多好看的树叶。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "榕树",
+      "pinyin": [
+        "róng",
+        "shù"
+      ],
+      "context": "他们走过了长满蒲公英的草地，走过了“咚咚”响的小木桥，还在大榕树下捡了许多好看的树叶。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "长满",
+      "pinyin": [
+        "zhǎng",
+        "mǎn"
+      ],
+      "context": "他们走过了长满蒲公英的草地，走过了“咚咚”响的小木桥，还在大榕树下捡了许多好看的树叶。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮的小布鞋今天可真忙呀，带着他爬小坡、跨树根，走了好远好远的路。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "拖鞋",
+      "pinyin": [
+        "tuō",
+        "xié"
+      ],
+      "context": "等傍晚回到小木屋门口时，皮皮脱下外面的小布鞋，换上了屋里软绵绵的毛绒小拖鞋。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "等傍晚回到小木屋门口时，皮皮脱下外面的小布鞋，换上了屋里软绵绵的毛绒小拖鞋。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "拖鞋",
+      "pinyin": [
+        "tuō",
+        "xié"
+      ],
+      "context": "吃过晚饭，皮皮又穿着小拖鞋在屋里忙活了一阵子：他先走到小书架旁，把今天捡到的树叶夹进画册里；又走到有月光的窗边，给小花盆浇了一点点水。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "画册",
+      "pinyin": [
+        "huà",
+        "cè"
+      ],
+      "context": "吃过晚饭，皮皮又穿着小拖鞋在屋里忙活了一阵子：他先走到小书架旁，把今天捡到的树叶夹进画册里；又走到有月光的窗边，给小花盆浇了一点点水。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "吃过晚饭，皮皮又穿着小拖鞋在屋里忙活了一阵子：他先走到小书架旁，把今天捡到的树叶夹进画册里；又走到有月光的窗边，给小花盆浇了一点点水。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "拖鞋",
+      "pinyin": [
+        "tuō",
+        "xié"
+      ],
+      "context": "皮皮坐在床沿上，低头一看，发现脱下来的两只小拖鞋，一只鞋尖朝着窗户，一只鞋尖朝着房门，东倒西歪的，好像还想往外跑呢。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "鞋尖",
+      "pinyin": [
+        "xié",
+        "jiān"
+      ],
+      "context": "皮皮坐在床沿上，低头一看，发现脱下来的两只小拖鞋，一只鞋尖朝着窗户，一只鞋尖朝着房门，东倒西歪的，好像还想往外跑呢。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "鞋尖",
+      "pinyin": [
+        "xié",
+        "jiān"
+      ],
+      "context": "皮皮坐在床沿上，低头一看，发现脱下来的两只小拖鞋，一只鞋尖朝着窗户，一只鞋尖朝着房门，东倒西歪的，好像还想往外跑呢。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "东倒西歪",
+      "pinyin": [
+        "dōng",
+        "dǎo",
+        "xī",
+        "wāi"
+      ],
+      "context": "皮皮坐在床沿上，低头一看，发现脱下来的两只小拖鞋，一只鞋尖朝着窗户，一只鞋尖朝着房门，东倒西歪的，好像还想往外跑呢。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮坐在床沿上，低头一看，发现脱下来的两只小拖鞋，一只鞋尖朝着窗户，一只鞋尖朝着房门，东倒西歪的，好像还想往外跑呢。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮笑了，他想起白天远足时大家排队唱歌的样子。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "拖鞋",
+      "pinyin": [
+        "tuō",
+        "xié"
+      ],
+      "context": "他弯下腰，用小爪子把两只拖鞋轻轻挪过来，让它们并排坐在床边的小地毯上。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "并排",
+      "pinyin": [
+        "bìng",
+        "pái"
+      ],
+      "context": "他弯下腰，用小爪子把两只拖鞋轻轻挪过来，让它们并排坐在床边的小地毯上。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "爪子",
+      "pinyin": [
+        "zhuǎ",
+        "zi"
+      ],
+      "context": "他弯下腰，用小爪子把两只拖鞋轻轻挪过来，让它们并排坐在床边的小地毯上。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "鞋尖",
+      "pinyin": [
+        "xié",
+        "jiān"
+      ],
+      "context": "圆圆的鞋尖朝着同一个方向，紧紧挨着，就像白天远足时他和栗栗并肩坐在一起一样，变成了两个安静的好朋友。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "挨着",
+      "pinyin": [
+        "āi",
+        "zhe"
+      ],
+      "context": "圆圆的鞋尖朝着同一个方向，紧紧挨着，就像白天远足时他和栗栗并肩坐在一起一样，变成了两个安静的好朋友。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "朋友",
+      "pinyin": [
+        "péng",
+        "you"
+      ],
+      "context": "圆圆的鞋尖朝着同一个方向，紧紧挨着，就像白天远足时他和栗栗并肩坐在一起一样，变成了两个安静的好朋友。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "栗栗",
+      "pinyin": [
+        "lì",
+        "lì"
+      ],
+      "context": "圆圆的鞋尖朝着同一个方向，紧紧挨着，就像白天远足时他和栗栗并肩坐在一起一样，变成了两个安静的好朋友。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "个",
+      "pinyin": [
+        "ge"
+      ],
+      "context": "圆圆的鞋尖朝着同一个方向，紧紧挨着，就像白天远足时他和栗栗并肩坐在一起一样，变成了两个安静的好朋友。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "个",
+      "pinyin": [
+        "ge"
+      ],
+      "context": "圆圆的鞋尖朝着同一个方向，紧紧挨着，就像白天远足时他和栗栗并肩坐在一起一样，变成了两个安静的好朋友。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "腾出",
+      "pinyin": [
+        "téng",
+        "chū"
+      ],
+      "context": "皮皮把毛茸茸的小脚丫收进被窝里，暖暖的黄毛毯马上落下来，给小脚腾出了最舒服的位置。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "落下来",
+      "pinyin": [
+        "luò",
+        "xià",
+        "lái"
+      ],
+      "context": "皮皮把毛茸茸的小脚丫收进被窝里，暖暖的黄毛毯马上落下来，给小脚腾出了最舒服的位置。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "舒服",
+      "pinyin": [
+        "shū",
+        "fu"
+      ],
+      "context": "皮皮把毛茸茸的小脚丫收进被窝里，暖暖的黄毛毯马上落下来，给小脚腾出了最舒服的位置。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮把毛茸茸的小脚丫收进被窝里，暖暖的黄毛毯马上落下来，给小脚腾出了最舒服的位置。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "拖鞋",
+      "pinyin": [
+        "tuō",
+        "xié"
+      ],
+      "context": "小拖鞋今晚不用再出发了。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "脚步声",
+      "pinyin": [
+        "jiǎo",
+        "bù",
+        "shēng"
+      ],
+      "context": "皮皮靠好枕头，听见晚风在门外停了一停，屋里再也没有新的脚步声。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "皮皮",
+      "pinyin": [
+        "pí",
+        "pí"
+      ],
+      "context": "皮皮靠好枕头，听见晚风在门外停了一停，屋里再也没有新的脚步声。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "胡萝卜",
+      "pinyin": [
+        "hú",
+        "luó",
+        "bo"
+      ],
+      "context": "他抱着胡萝卜玩偶，慢慢闭上眼睛。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "拖鞋",
+      "pinyin": [
+        "tuō",
+        "xié"
+      ],
+      "context": "小拖鞋乖乖地坐在床下，陪着小木床一起歇息。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "朋友",
+      "pinyin": [
+        "péng",
+        "you"
+      ],
+      "context": "小朋友，你的小脚丫今天也走了很远的路吧。",
+      "review": "context_checked_not_audio_listen_certification"
+    },
+    {
+      "phrase": "鞋子",
+      "pinyin": [
+        "xié",
+        "zi"
+      ],
+      "context": "现在，把鞋子留在床边，让小脚在被窝里暖暖地休息。",
+      "review": "context_checked_not_audio_listen_certification"
+    }
+  ]
+}

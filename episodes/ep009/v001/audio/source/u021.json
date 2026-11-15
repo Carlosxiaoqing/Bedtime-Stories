@@ -1,0 +1,89 @@
+{
+  "text": "小朋友，你的小脚丫今天也走了很远的路吧。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "558b5a30a446eea8212b48ca9aeba6b80b226ddbc70c7d857ee11d9c64721aa1",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 11346250,
+      "text": "小朋友"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17038330,
+      "duration": 1153750,
+      "text": "你"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18192500,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19730830,
+      "duration": 10769160,
+      "text": "小脚丫"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32038330,
+      "duration": 5192500,
+      "text": "今天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 37422910,
+      "duration": 1922910,
+      "text": "也"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 39346250,
+      "duration": 2307500,
+      "text": "走"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 41653750,
+      "duration": 1153750,
+      "text": "了"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 43192500,
+      "duration": 2692080,
+      "text": "很"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 45884580,
+      "duration": 2884580,
+      "text": "远"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 48769160,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 50307500,
+      "duration": 2884580,
+      "text": "路"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 53192500,
+      "duration": 3653750,
+      "text": "吧"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "shot_id": 20,
+  "source": "OpenAI image_gen; continuity-directed scene redraw",
+  "image_path": "images/shot_20.png",
+  "sha256": "dc37074fc6c5f9e0d3835e2fb4cc561e8ae32243779ffcd524da749c46834de0",
+  "prompt": "prompts/shot_20.txt",
+  "reference_inputs": [
+    "episodes/ep011/v002/images/shot_19.png",
+    "episodes/ep011/v002/images/shot_07.png",
+    "episodes/ep011/v002/assets/chair_cushion_anchor.png",
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/pipi_identity_v001.png",
+    "03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+  ],
+  "image_status": "generated_continuity_reviewed",
+  "human_visual_review": "passed; same chair/cushion and porch; Lili seated, Pipi on floor points to backrest, no backpack"
+}

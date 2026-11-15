@@ -1,0 +1,11 @@
+{
+  "shot_id": 28,
+  "source": "image_gen",
+  "image_path": "images/shot_28.png",
+  "sha256": "a392d09cb0b811111b6b52fda35bf080ee8249c04d8e6e486a86050575991168",
+  "reference_manifest": "references/shot_28.json",
+  "reference_inputs": [
+    "/workspace/Bedtime-Stories/03_素材与参数/角色参考图库/v4/初始化与转场评估_v001/角色原图/lili_identity_v001.png"
+  ],
+  "human_image_review": "pending"
+}

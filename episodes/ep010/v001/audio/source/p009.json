@@ -1,0 +1,203 @@
+{
+  "text": "小朋友，今天还没玩够的游戏、还没听完的故事，都可以交给明天继续。现在，夹好你心里的晚安小书签，先把自己轻轻安顿好。晚安。",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-35%",
+  "pitch": "-2Hz",
+  "volume": "+0%",
+  "boundary": "WordBoundary",
+  "fingerprint": "622fdce67359177728e6cdf03786454fa22440ad3096376af45047e0f1195558",
+  "boundaries": [
+    {
+      "type": "WordBoundary",
+      "offset": 1269160,
+      "duration": 10769160,
+      "text": "小朋友"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16653750,
+      "duration": 5000000,
+      "text": "今天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21846250,
+      "duration": 2115410,
+      "text": "还"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24153750,
+      "duration": 2307500,
+      "text": "没"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26461660,
+      "duration": 5384580,
+      "text": "玩够"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31846250,
+      "duration": 1153750,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33192500,
+      "duration": 8077080,
+      "text": "游戏"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 43961660,
+      "duration": 1922910,
+      "text": "还"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 45884580,
+      "duration": 1730830,
+      "text": "没"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 47807500,
+      "duration": 5577080,
+      "text": "听完"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 53384580,
+      "duration": 1346250,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 54922910,
+      "duration": 7884580,
+      "text": "故事"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 67422910,
+      "duration": 2500000,
+      "text": "都"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 69922910,
+      "duration": 3653750,
+      "text": "可以"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 73769160,
+      "duration": 4615410,
+      "text": "交给"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 78769160,
+      "duration": 5384580,
+      "text": "明天"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 84346250,
+      "duration": 6922910,
+      "text": "继续"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 100192500,
+      "duration": 7884580,
+      "text": "现在"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 112884580,
+      "duration": 5961660,
+      "text": "夹好"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 118846250,
+      "duration": 1922910,
+      "text": "你"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 120961660,
+      "duration": 4807500,
+      "text": "心里"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 125769160,
+      "duration": 1538330,
+      "text": "的"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 127692500,
+      "duration": 4422910,
+      "text": "晚安"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 132307500,
+      "duration": 2884580,
+      "text": "小"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 135192500,
+      "duration": 7500000,
+      "text": "书签"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 146730830,
+      "duration": 2884580,
+      "text": "先"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 149615410,
+      "duration": 1922910,
+      "text": "把"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 151730830,
+      "duration": 5192500,
+      "text": "自己"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 157307500,
+      "duration": 5192500,
+      "text": "轻轻"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 162692500,
+      "duration": 5384580,
+      "text": "安顿"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 168077080,
+      "duration": 5192500,
+      "text": "好"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 181922910,
+      "duration": 7884580,
+      "text": "晚安"
+    }
+  ]
+}
